@@ -1,0 +1,41 @@
+name: Daily Data Sync
+
+on:
+  schedule:
+    # UTC 16:00 = 北京时间次日 00:00 (UTC+8)
+    - cron: '0 16 * * *'
+  # 允许在 GitHub Actions 页面手动触发
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 允许 push 到仓库
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch trending data
+        run: python scripts/fetch_data.py
+        env:
+          PH_API_TOKEN: ${{ secrets.PH_API_TOKEN }}
+          PH_API_SECRET: ${{ secrets.PH_API_SECRET }}
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # 只有数据有变化时才 commit（避免空提交）
+          git diff --staged --quiet || git commit -m "chore: daily data sync $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
+          git push

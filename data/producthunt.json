@@ -1,0 +1,238 @@
+{
+  "date": "2026-03-10",
+  "items": [
+    {
+      "name": "Rork Max",
+      "desc": "Best AI for iOS apps. Website that replaces Xcode",
+      "votes": 1439,
+      "url": "https://www.producthunt.com/products/rork-app-for-ios/launches/rork-max?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/0008c94e-6dff-4f16-9bc2-f6525d0c2b9e.png?auto=format",
+      "topics": [
+        "Augmented Reality",
+        "Games",
+        "Vibe coding"
+      ]
+    },
+    {
+      "name": "happycapy",
+      "desc": "The agent-native computer, for the rest of us",
+      "votes": 1347,
+      "url": "https://www.producthunt.com/products/happycapy/launches/happycapy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/b84c1f39-0930-457d-9c8a-cfeb7dd276b8.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Computers"
+      ]
+    },
+    {
+      "name": "KiloClaw",
+      "desc": "Hosted OpenClaw. No Mac mini required.",
+      "votes": 854,
+      "url": "https://www.producthunt.com/products/kiloclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/3b92bc7b-bec8-4d79-bc13-605c3732826a.png?auto=format",
+      "topics": [
+        "Open Source",
+        "Developer Tools"
+      ]
+    },
+    {
+      "name": "Lovon AI Therapy",
+      "desc": "Talk it out and feel better",
+      "votes": 794,
+      "url": "https://www.producthunt.com/products/lovon/launches/lovon-ai-therapy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/a305efcb-9472-45be-a0c8-67a3fa16b54b.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "Health"
+      ]
+    },
+    {
+      "name": "Sonnet 4.6",
+      "desc": "The most capable Sonnet model yet",
+      "votes": 712,
+      "url": "https://www.producthunt.com/products/claude/launches/sonnet-4-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d380c6b9-155e-44c8-9e1d-133b15003a0e.png?auto=format",
+      "topics": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Base44 Backend Platform",
+      "desc": "The Backend for the age of AI",
+      "votes": 679,
+      "url": "https://www.producthunt.com/products/base44/launches/base44-backend-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/08d3bb67-614f-4562-a46e-b84de507789a.png?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Claude Import Memory",
+      "desc": "Switch from ChatGPT to Claude with import memory feature",
+      "votes": 669,
+      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
+      "topics": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Stitch by Google",
+      "desc": "Turn napkin sketches into production-ready UI in seconds.",
+      "votes": 658,
+      "url": "https://www.producthunt.com/products/stitch-by-google/launches/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/2704ac79-abf6-42dc-a56f-b8ae1cb13896.jpeg?auto=format",
+      "topics": [
+        "Design Tools",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Claude in PowerPoint",
+      "desc": "Use Claude to build, edit & refine PowerPoint presentations.",
+      "votes": 601,
+      "url": "https://www.producthunt.com/products/claude/launches/claude-in-powerpoint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
+      "topics": [
+        "Marketing",
+        "Artificial Intelligence",
+        "Design resources"
+      ]
+    },
+    {
+      "name": "Anything API",
+      "desc": "Any website. We deliver the API.",
+      "votes": 598,
+      "url": "https://www.producthunt.com/products/notte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/a5d945d7-db55-4fd6-a412-0b332c5cc687.png?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Moda",
+      "desc": "Finally, AI designs you can edit",
+      "votes": 589,
+      "url": "https://www.producthunt.com/products/moda-2/launches/moda-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/7e17458a-c9b5-4970-8edb-2240b52ded3e.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Design",
+        "Graphic Design"
+      ]
+    },
+    {
+      "name": "Starnus",
+      "desc": "Find and reach your next customers on autopilot",
+      "votes": 575,
+      "url": "https://www.producthunt.com/products/starnus/launches/starnus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/2282e101-bca1-4dff-a333-9c01e2b6cd6c.jpeg?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Marketing automation"
+      ]
+    },
+    {
+      "name": "Superset",
+      "desc": "Run an army of Claude Code, Codex, etc. on your machine",
+      "votes": 575,
+      "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Gemini 3.1 Pro",
+      "desc": "A smarter model for your most complex tasks",
+      "votes": 574,
+      "url": "https://www.producthunt.com/products/gemini-6/launches/gemini-3-1-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/3ee04709-370b-4cca-9bcf-a704c5414908.png?auto=format",
+      "topics": [
+        "Software Engineering",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Meme Dealer",
+      "desc": "You are what you meme",
+      "votes": 568,
+      "url": "https://www.producthunt.com/products/meme-dealer-2/launches/meme-dealer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/206340af-89b6-41b3-8cd6-036b50125b79.svg?auto=format",
+      "topics": [
+        "Custom Keyboards",
+        "Messaging",
+        "Memes"
+      ]
+    },
+    {
+      "name": "Siteline",
+      "desc": "Growth analytics for the agentic web",
+      "votes": 564,
+      "url": "https://www.producthunt.com/products/siteline/launches/siteline?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/496b86f8-5655-42b7-acff-f5f9546ae420.png?auto=format",
+      "topics": [
+        "Analytics",
+        "SEO",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Claude Marketplace",
+      "desc": "Helping companies easily get the AI tools they need",
+      "votes": 557,
+      "url": "https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4d3aaebf-b1e9-4077-9fd4-a4f4e376c187.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Timelaps",
+      "desc": "Know if your marketing is working with real-time insights",
+      "votes": 532,
+      "url": "https://www.producthunt.com/products/timelaps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/95132434-10a5-4aea-9e86-c28817573f57.png?auto=format",
+      "topics": [
+        "Branding",
+        "Marketing",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Figr AI",
+      "desc": "Product-aware AI that thinks through UX",
+      "votes": 524,
+      "url": "https://www.producthunt.com/products/figr-design-research-simplified/launches/figr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/a925c43e-5b27-4ba9-87f3-9fa5ff345335.png?auto=format",
+      "topics": [
+        "User Experience",
+        "Artificial Intelligence",
+        "UX Design"
+      ]
+    },
+    {
+      "name": "Lunair",
+      "desc": "Generate studio-quality explainer videos. Instantly.",
+      "votes": 517,
+      "url": "https://www.producthunt.com/products/lunair/launches/lunair?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/776a7fad-5c53-4889-b214-bb4542a3e3a4.png?auto=format",
+      "topics": [
+        "Marketing",
+        "Artificial Intelligence",
+        "Video"
+      ]
+    }
+  ]
+}
