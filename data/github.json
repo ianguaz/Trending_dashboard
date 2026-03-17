@@ -1,101 +1,53 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "items": [
-    {
-      "name": "666ghj/MiroFish",
-      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": "31193",
-      "today": "3,260 stars today",
-      "language": "Python",
-      "url": "https://github.com/666ghj/MiroFish"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "stars": "37241",
-      "today": "1,045 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/thedotmack/claude-mem"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": "2042",
-      "today": "775 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
-    },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "89930",
-      "today": "3,152 stars today",
+      "stars": "91326",
+      "today": "3,050 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": "479401",
+      "today": "2,011 stars today",
+      "language": "Markdown",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
       "name": "abhigyanpatwari/GitNexus",
       "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "15972",
-      "today": "1,860 stars today",
+      "stars": "16466",
+      "today": "1,117 stars today",
       "language": "TypeScript",
       "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
-      "name": "lightpanda-io/browser",
-      "desc": "Lightpanda: the headless browser designed for AI and automation",
-      "stars": "20598",
-      "today": "2,086 stars today",
-      "language": "Zig",
-      "url": "https://github.com/lightpanda-io/browser"
-    },
-    {
-      "name": "volcengine/OpenViking",
-      "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "stars": "14630",
-      "today": "2,012 stars today",
-      "language": "Python",
-      "url": "https://github.com/volcengine/OpenViking"
-    },
-    {
-      "name": "shareAI-lab/learn-claude-code",
-      "desc": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-      "stars": "29812",
-      "today": "1,535 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/shareAI-lab/learn-claude-code"
-    },
-    {
-      "name": "p-e-w/heretic",
-      "desc": "Fully automatic censorship removal for language models",
-      "stars": "15456",
-      "today": "788 stars today",
-      "language": "Python",
-      "url": "https://github.com/p-e-w/heretic"
-    },
-    {
       "name": "langchain-ai/deepagents",
       "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
-      "stars": "13380",
-      "today": "1,026 stars today",
+      "stars": "13738",
+      "today": "1,418 stars today",
       "language": "Python",
       "url": "https://github.com/langchain-ai/deepagents"
     },
     {
-      "name": "YishenTu/claudian",
-      "desc": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": "4347",
-      "today": "111 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/YishenTu/claudian"
+      "name": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": "5350",
+      "today": "454 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/jarrodwatts/claude-hud"
     },
     {
-      "name": "voidzero-dev/vite-plus",
-      "desc": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
-      "stars": "2387",
-      "today": "621 stars today",
-      "language": "Rust",
-      "url": "https://github.com/voidzero-dev/vite-plus"
+      "name": "cloudflare/workerd",
+      "desc": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "stars": "7717",
+      "today": "21 stars today",
+      "language": "C++",
+      "url": "https://github.com/cloudflare/workerd"
     }
   ]
 }

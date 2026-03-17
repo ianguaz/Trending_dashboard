@@ -1,10 +1,10 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "items": [
     {
       "name": "Rork Max",
       "desc": "Best AI for iOS apps. Website that replaces Xcode",
-      "votes": 1467,
+      "votes": 1466,
       "url": "https://www.producthunt.com/products/rork-app-for-ios/launches/rork-max?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0008c94e-6dff-4f16-9bc2-f6525d0c2b9e.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "KiloClaw",
       "desc": "Hosted OpenClaw. No Mac mini required.",
-      "votes": 871,
+      "votes": 874,
       "url": "https://www.producthunt.com/products/kiloclaw/launches/kiloclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3b92bc7b-bec8-4d79-bc13-605c3732826a.png?auto=format",
       "topics": [
@@ -27,7 +27,7 @@
     {
       "name": "Visual Translate by Vozo",
       "desc": "Translate text in your videos without recreating visuals",
-      "votes": 735,
+      "votes": 733,
       "url": "https://www.producthunt.com/products/vozo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/beac91f0-5b0c-4702-a32d-8be887488c08.gif?auto=format",
       "topics": [
@@ -39,7 +39,7 @@
     {
       "name": "Sonnet 4.6",
       "desc": "The most capable Sonnet model yet",
-      "votes": 728,
+      "votes": 731,
       "url": "https://www.producthunt.com/products/claude/launches/sonnet-4-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d380c6b9-155e-44c8-9e1d-133b15003a0e.png?auto=format",
       "topics": [
@@ -49,7 +49,7 @@
     {
       "name": "Chronicle 2.0",
       "desc": "AI presentations without the AI slop",
-      "votes": 721,
+      "votes": 717,
       "url": "https://www.producthunt.com/products/chronicle-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/32f798e8-593b-4453-9806-6bbd9a04a244.png?auto=format",
       "topics": [
@@ -61,7 +61,7 @@
     {
       "name": "Claude Import Memory",
       "desc": "Switch from ChatGPT to Claude with import memory feature",
-      "votes": 694,
+      "votes": 696,
       "url": "https://www.producthunt.com/products/claude/launches/claude-import-memory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
       "topics": [
@@ -95,7 +95,7 @@
     {
       "name": "Anything API",
       "desc": "Any website. We deliver the API.",
-      "votes": 659,
+      "votes": 657,
       "url": "https://www.producthunt.com/products/notte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a5d945d7-db55-4fd6-a412-0b332c5cc687.png?auto=format",
       "topics": [
@@ -107,7 +107,7 @@
     {
       "name": "InsForge",
       "desc": "Give agents everything they need to ship fullstack apps",
-      "votes": 649,
+      "votes": 650,
       "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format",
       "topics": [
@@ -119,7 +119,7 @@
     {
       "name": "Claude Marketplace",
       "desc": "Helping companies easily get the AI tools they need",
-      "votes": 617,
+      "votes": 616,
       "url": "https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4d3aaebf-b1e9-4077-9fd4-a4f4e376c187.png?auto=format",
       "topics": [
@@ -155,7 +155,7 @@
     {
       "name": "Needle 2.0",
       "desc": "Vibe-automate workflows and earn passive income",
-      "votes": 582,
+      "votes": 584,
       "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/998eb53e-158a-4045-84a5-68c0f635e683.png?auto=format",
       "topics": [
@@ -167,7 +167,7 @@
     {
       "name": "Gemini 3.1 Pro",
       "desc": "A smarter model for your most complex tasks",
-      "votes": 577,
+      "votes": 579,
       "url": "https://www.producthunt.com/products/gemini-6/launches/gemini-3-1-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3ee04709-370b-4cca-9bcf-a704c5414908.png?auto=format",
       "topics": [
@@ -178,7 +178,7 @@
     {
       "name": "Superset",
       "desc": "Run an army of Claude Code, Codex, etc. on your machine",
-      "votes": 566,
+      "votes": 567,
       "url": "https://www.producthunt.com/products/superset-5/launches/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
       "topics": [
@@ -202,7 +202,7 @@
     {
       "name": "Timelaps",
       "desc": "Know if your marketing is working with real-time insights",
-      "votes": 548,
+      "votes": 550,
       "url": "https://www.producthunt.com/products/timelaps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/95132434-10a5-4aea-9e86-c28817573f57.png?auto=format",
       "topics": [
@@ -212,27 +212,27 @@
       ]
     },
     {
-      "name": "Claude Code Review",
-      "desc": "Multi-agent review catching bugs early in AI-generated code",
-      "votes": 538,
-      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence",
-        "Development"
-      ]
-    },
-    {
       "name": "MuleRun",
       "desc": "Raise an AI that actually learns how you work",
-      "votes": 531,
+      "votes": 544,
       "url": "https://www.producthunt.com/products/mulerun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/43c7869c-2c8f-48d6-98ad-0e1ac6f32304.png?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "E-Commerce"
+      ]
+    },
+    {
+      "name": "Claude Code Review",
+      "desc": "Multi-agent review catching bugs early in AI-generated code",
+      "votes": 542,
+      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "Development"
       ]
     }
   ]
