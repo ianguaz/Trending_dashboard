@@ -4,48 +4,48 @@
     {
       "name": "jarrodwatts/claude-hud",
       "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "stars": "6577",
-      "today": "1,040 stars today",
+      "stars": "7784",
+      "today": "1,038 stars today",
       "language": "JavaScript",
       "url": "https://github.com/jarrodwatts/claude-hud"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "95349",
-      "today": "4,091 stars today",
+      "stars": "97374",
+      "today": "4,089 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "unslothai/unsloth",
-      "desc": "Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.",
-      "stars": "55475",
-      "today": "975 stars today",
+      "desc": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "stars": "56200",
+      "today": "1,005 stars today",
       "language": "Python",
       "url": "https://github.com/unslothai/unsloth"
     },
     {
       "name": "newton-physics/newton",
       "desc": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "stars": "2818",
-      "today": "20 stars today",
+      "stars": "3044",
+      "today": "26 stars today",
       "language": "Python",
       "url": "https://github.com/newton-physics/newton"
     },
     {
       "name": "shadps4-emu/shadPS4",
       "desc": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
-      "stars": "29697",
-      "today": "292 stars today",
+      "stars": "30050",
+      "today": "237 stars today",
       "language": "C++",
       "url": "https://github.com/shadps4-emu/shadPS4"
     },
     {
       "name": "langchain-ai/open-swe",
       "desc": "An Open-Source Asynchronous Coding Agent",
-      "stars": "6063",
-      "today": "454 stars today",
+      "stars": "6654",
+      "today": "481 stars today",
       "language": "Python",
       "url": "https://github.com/langchain-ai/open-swe"
     }
