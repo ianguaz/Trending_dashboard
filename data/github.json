@@ -1,117 +1,101 @@
 {
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "items": [
     {
-      "name": "pascalorg/editor",
-      "desc": "Create and share 3D architectural projects.",
-      "stars": "6140",
-      "today": "1,449 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/pascalorg/editor"
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "6894",
+      "today": "1,342 stars today",
+      "language": "Python",
+      "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "bytedance/deer-flow",
       "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": "44770",
-      "today": "4,346 stars today",
+      "stars": "45810",
+      "today": "3,787 stars today",
       "language": "Python",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
+      "name": "BerriAI/litellm",
+      "desc": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "stars": "40541",
+      "today": "289 stars today",
+      "language": "Python",
+      "url": "https://github.com/BerriAI/litellm"
+    },
+    {
+      "name": "pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "stars": "6664",
+      "today": "2,353 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/pascalorg/editor"
+    },
+    {
+      "name": "letta-ai/claude-subconscious",
+      "desc": "Give Claude Code a subconscious",
+      "stars": "1298",
+      "today": "71 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/letta-ai/claude-subconscious"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": "25837",
+      "today": "1,173 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": "16265",
+      "today": "1,717 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": "41994",
+      "today": "1,083 stars today",
+      "language": "Rust",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
       "name": "supermemoryai/supermemory",
       "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": "18865",
-      "today": "344 stars today",
+      "stars": "19095",
+      "today": "809 stars today",
       "language": "TypeScript",
       "url": "https://github.com/supermemoryai/supermemory"
     },
     {
       "name": "FujiwaraChoki/MoneyPrinterV2",
       "desc": "Automate the process of making money online.",
-      "stars": "25142",
-      "today": "3,006 stars today",
+      "stars": "25432",
+      "today": "1,065 stars today",
       "language": "Python",
       "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
     },
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": "52950",
-      "today": "728 stars today",
+      "name": "usestrix/strix",
+      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "stars": "21563",
+      "today": "215 stars today",
       "language": "Python",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": "15763",
-      "today": "2,513 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "41347",
-      "today": "1,760 stars today",
-      "language": "Python",
-      "url": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "6009",
-      "today": "209 stars today",
-      "language": "Python",
-      "url": "https://github.com/mvanhorn/last30days-skill"
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": "25431",
-      "today": "1,397 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/ruvnet/ruflo"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "stars": "12838",
-      "today": "1,278 stars today",
-      "language": "Python",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "name": "hesreallyhim/awesome-claude-code",
-      "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-      "stars": "32158",
-      "today": "995 stars today",
-      "language": "Python",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code"
+      "url": "https://github.com/usestrix/strix"
     },
     {
       "name": "hsliuping/TradingAgents-CN",
       "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "stars": "21057",
-      "today": "557 stars today",
+      "stars": "21240",
+      "today": "449 stars today",
       "language": "Python",
       "url": "https://github.com/hsliuping/TradingAgents-CN"
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": "34069",
-      "today": "104 stars today",
-      "language": "Go",
-      "url": "https://github.com/aquasecurity/trivy"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "41645",
-      "today": "861 stars today",
-      "language": "Rust",
-      "url": "https://github.com/ruvnet/RuView"
     }
   ]
 }
