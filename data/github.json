@@ -1,109 +1,93 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "items": [
+    {
+      "name": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "29251",
+      "today": "2,509 stars today",
+      "language": "Python",
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
     {
       "name": "luongnv89/claude-howto",
       "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": "8478",
-      "today": "1,165 stars today",
+      "stars": "9428",
+      "today": "4,150 stars today",
       "language": "Python",
       "url": "https://github.com/luongnv89/claude-howto"
     },
     {
       "name": "Yeachan-Heo/oh-my-claudecode",
       "desc": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": "16733",
-      "today": "835 stars today",
+      "stars": "17323",
+      "today": "1,785 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
     },
     {
-      "name": "microsoft/VibeVoice",
-      "desc": "Open-Source Frontier Voice AI",
-      "stars": "28203",
-      "today": "1,056 stars today",
-      "language": "Python",
-      "url": "https://github.com/microsoft/VibeVoice"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "stars": "17427",
-      "today": "917 stars today",
-      "language": "Python",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "name": "OpenBB-finance/OpenBB",
-      "desc": "Financial data platform for analysts, quants and AI agents.",
-      "stars": "64214",
-      "today": "137 stars today",
-      "language": "Python",
-      "url": "https://github.com/OpenBB-finance/OpenBB"
-    },
-    {
-      "name": "obra/superpowers",
-      "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "124220",
-      "today": "2,230 stars today",
-      "language": "Shell",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "stars": "43102",
-      "today": "373 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/thedotmack/claude-mem"
+      "name": "shanraisshan/claude-code-best-practice",
+      "desc": "practice made claude perfect",
+      "stars": "25467",
+      "today": "1,342 stars today",
+      "language": "HTML",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     {
       "name": "hacksider/Deep-Live-Cam",
       "desc": "real time face swap and one-click video deepfake with only a single image",
-      "stars": "85751",
-      "today": "1,132 stars today",
+      "stars": "86122",
+      "today": "1,138 stars today",
       "language": "Python",
       "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "15982",
-      "today": "1,308 stars today",
+      "name": "OpenBB-finance/OpenBB",
+      "desc": "Financial data platform for analysts, quants and AI agents.",
+      "stars": "64390",
+      "today": "499 stars today",
       "language": "Python",
-      "url": "https://github.com/mvanhorn/last30days-skill"
+      "url": "https://github.com/OpenBB-finance/OpenBB"
     },
     {
-      "name": "shareAI-lab/learn-claude-code",
-      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": "43346",
-      "today": "919 stars today",
+      "name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": "439547",
+      "today": "376 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/shareAI-lab/learn-claude-code"
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars": "74470",
+      "today": "68 stars today",
+      "language": "Python",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "name": "apache/superset",
+      "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "stars": "71781",
+      "today": "63 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/apache/superset"
     },
     {
       "name": "fastfetch-cli/fastfetch",
       "desc": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "stars": "21256",
-      "today": "37 stars today",
+      "stars": "21345",
+      "today": "271 stars today",
       "language": "C",
       "url": "https://github.com/fastfetch-cli/fastfetch"
     },
     {
-      "name": "moeru-ai/airi",
-      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": "36530",
-      "today": "224 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/moeru-ai/airi"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "desc": "Building a modern alternative to Salesforce, powered by the community.",
-      "stars": "43129",
-      "today": "447 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/twentyhq/twenty"
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "18043",
+      "today": "1,859 stars today",
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
     }
   ]
 }
