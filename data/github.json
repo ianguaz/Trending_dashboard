@@ -1,117 +1,61 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "items": [
     {
-      "name": "luongnv89/claude-howto",
-      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": "14319",
-      "today": "2,390 stars today",
-      "language": "Python",
-      "url": "https://github.com/luongnv89/claude-howto"
+      "name": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "98614",
+      "today": "10,087 stars today",
+      "language": "Shell",
+      "url": "https://github.com/anthropics/claude-code"
     },
     {
       "name": "microsoft/VibeVoice",
       "desc": "Open-Source Frontier Voice AI",
-      "stars": "33739",
-      "today": "3,863 stars today",
+      "stars": "34181",
+      "today": "1,704 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/VibeVoice"
     },
     {
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "desc": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": "19996",
-      "today": "1,126 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+      "name": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": "11785",
+      "today": "358 stars today",
+      "language": "Python",
+      "url": "https://github.com/google-research/timesfm"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "desc": "practice made claude perfect",
-      "stars": "29587",
-      "today": "2,407 stars today",
+      "name": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": "15132",
+      "today": "3,336 stars today",
+      "language": "Python",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "name": "axios/axios",
+      "desc": "Promise based HTTP client for the browser and node.js",
+      "stars": "108809",
+      "today": "88 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/axios/axios"
+    },
+    {
+      "name": "openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "stars": "71394",
+      "today": "2,345 stars today",
+      "language": "Rust",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "name": "f/prompts.chat",
+      "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": "155773",
+      "today": "442 stars today",
       "language": "HTML",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "stars": "20901",
-      "today": "1,907 stars today",
-      "language": "Python",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "name": "obra/superpowers",
-      "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "129179",
-      "today": "2,620 stars today",
-      "language": "Shell",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "microsoft/agent-lightning",
-      "desc": "The absolute trainer to light up AI agents.",
-      "stars": "16354",
-      "today": "130 stars today",
-      "language": "Python",
-      "url": "https://github.com/microsoft/agent-lightning"
-    },
-    {
-      "name": "PaddlePaddle/PaddleOCR",
-      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": "74485",
-      "today": "439 stars today",
-      "language": "Python",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR"
-    },
-    {
-      "name": "Dimillian/Skills",
-      "desc": "My Codex Skills",
-      "stars": "3025",
-      "today": "115 stars today",
-      "language": "Shell",
-      "url": "https://github.com/Dimillian/Skills"
-    },
-    {
-      "name": "sherlock-project/sherlock",
-      "desc": "Hunt down social media accounts by username across social networks",
-      "stars": "75787",
-      "today": "865 stars today",
-      "language": "Python",
-      "url": "https://github.com/sherlock-project/sherlock"
-    },
-    {
-      "name": "neovim/neovim",
-      "desc": "Vim-fork focused on extensibility and usability",
-      "stars": "98035",
-      "today": "93 stars today",
-      "language": "Vim Script",
-      "url": "https://github.com/neovim/neovim"
-    },
-    {
-      "name": "vas3k/TaxHacker",
-      "desc": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "stars": "3920",
-      "today": "318 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/vas3k/TaxHacker"
-    },
-    {
-      "name": "OpenBMB/ChatDev",
-      "desc": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "stars": "32524",
-      "today": "84 stars today",
-      "language": "Python",
-      "url": "https://github.com/OpenBMB/ChatDev"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "desc": "A complete computer science study plan to become a software engineer.",
-      "stars": "339940",
-      "today": "873 stars today",
-      "language": "",
-      "url": "https://github.com/jwasham/coding-interview-university"
+      "url": "https://github.com/f/prompts.chat"
     }
   ]
 }
