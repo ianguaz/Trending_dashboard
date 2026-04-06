@@ -1,85 +1,117 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "items": [
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": "23167",
+      "today": "837 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/abhigyanpatwari/GitNexus"
+    },
     {
       "name": "google-ai-edge/gallery",
       "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": "17357",
-      "today": "389 stars today",
+      "stars": "17671",
+      "today": "1,109 stars today",
       "language": "Kotlin",
       "url": "https://github.com/google-ai-edge/gallery"
     },
     {
-      "name": "Blaizzy/mlx-vlm",
-      "desc": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "stars": "4048",
-      "today": "416 stars today",
-      "language": "Python",
-      "url": "https://github.com/Blaizzy/mlx-vlm"
-    },
-    {
-      "name": "siddharthvaddem/openscreen",
-      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "stars": "23106",
-      "today": "2,749 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/siddharthvaddem/openscreen"
-    },
-    {
       "name": "block/goose",
       "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "37433",
-      "today": "882 stars today",
+      "stars": "37840",
+      "today": "1,514 stars today",
       "language": "Rust",
       "url": "https://github.com/block/goose"
     },
     {
-      "name": "onyx-dot-app/onyx",
-      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": "25270",
-      "today": "998 stars today",
-      "language": "Python",
-      "url": "https://github.com/onyx-dot-app/onyx"
-    },
-    {
-      "name": "badlogic/pi-mono",
-      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "stars": "32105",
-      "today": "355 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/badlogic/pi-mono"
-    },
-    {
-      "name": "dmtrKovalenko/fff.nvim",
-      "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "stars": "3784",
-      "today": "76 stars today",
-      "language": "Rust",
-      "url": "https://github.com/dmtrKovalenko/fff.nvim"
-    },
-    {
       "name": "google-ai-edge/LiteRT-LM",
       "desc": "",
-      "stars": "1719",
-      "today": "124 stars today",
+      "stars": "1888",
+      "today": "487 stars today",
       "language": "C++",
       "url": "https://github.com/google-ai-edge/LiteRT-LM"
     },
     {
-      "name": "telegramdesktop/tdesktop",
-      "desc": "Telegram Desktop messaging app",
-      "stars": "31155",
-      "today": "287 stars today",
-      "language": "C++",
-      "url": "https://github.com/telegramdesktop/tdesktop"
+      "name": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "stars": "96690",
+      "today": "220 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/immich-app/immich"
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": "441778",
-      "today": "335 stars today",
+      "name": "KeygraphHQ/shannon",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "stars": "36250",
+      "today": "703 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+      "url": "https://github.com/KeygraphHQ/shannon"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "27585",
+      "today": "1,721 stars today",
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "tobi/qmd",
+      "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "stars": "18522",
+      "today": "526 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/tobi/qmd"
+    },
+    {
+      "name": "TelegramMessenger/Telegram-iOS",
+      "desc": "Telegram-iOS",
+      "stars": "8267",
+      "today": "54 stars today",
+      "language": "Swift",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS"
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "desc": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "stars": "20284",
+      "today": "281 stars today",
+      "language": "",
+      "url": "https://github.com/kepano/obsidian-skills"
+    },
+    {
+      "name": "ollama/ollama",
+      "desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "stars": "167537",
+      "today": "263 stars today",
+      "language": "Go",
+      "url": "https://github.com/ollama/ollama"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "desc": "LLM inference in C/C++",
+      "stars": "101877",
+      "today": "318 stars today",
+      "language": "C++",
+      "url": "https://github.com/ggml-org/llama.cpp"
+    },
+    {
+      "name": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "stars": "23619",
+      "today": "1,823 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/siddharthvaddem/openscreen"
+    },
+    {
+      "name": "NVIDIA/personaplex",
+      "desc": "PersonaPlex code.",
+      "stars": "7138",
+      "today": "295 stars today",
+      "language": "Python",
+      "url": "https://github.com/NVIDIA/personaplex"
     }
   ]
 }
