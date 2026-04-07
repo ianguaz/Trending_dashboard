@@ -4,111 +4,111 @@
     {
       "name": "abhigyanpatwari/GitNexus",
       "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "23167",
-      "today": "837 stars today",
+      "stars": "23920",
+      "today": "857 stars today",
       "language": "TypeScript",
       "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
       "name": "google-ai-edge/gallery",
       "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": "17671",
-      "today": "1,109 stars today",
+      "stars": "18255",
+      "today": "1,107 stars today",
       "language": "Kotlin",
       "url": "https://github.com/google-ai-edge/gallery"
     },
     {
-      "name": "block/goose",
+      "name": "aaif-goose/goose",
       "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "37840",
-      "today": "1,514 stars today",
+      "stars": "38505",
+      "today": "1,523 stars today",
       "language": "Rust",
-      "url": "https://github.com/block/goose"
+      "url": "https://github.com/aaif-goose/goose"
     },
     {
       "name": "google-ai-edge/LiteRT-LM",
       "desc": "",
-      "stars": "1888",
-      "today": "487 stars today",
+      "stars": "2235",
+      "today": "483 stars today",
       "language": "C++",
       "url": "https://github.com/google-ai-edge/LiteRT-LM"
     },
     {
       "name": "immich-app/immich",
       "desc": "High performance self-hosted photo and video management solution.",
-      "stars": "96690",
-      "today": "220 stars today",
+      "stars": "97101",
+      "today": "152 stars today",
       "language": "TypeScript",
       "url": "https://github.com/immich-app/immich"
     },
     {
       "name": "KeygraphHQ/shannon",
       "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "stars": "36250",
-      "today": "703 stars today",
+      "stars": "36925",
+      "today": "733 stars today",
       "language": "TypeScript",
       "url": "https://github.com/KeygraphHQ/shannon"
     },
     {
       "name": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
-      "stars": "27585",
-      "today": "1,721 stars today",
+      "stars": "29053",
+      "today": "1,574 stars today",
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "tobi/qmd",
       "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "stars": "18522",
-      "today": "526 stars today",
+      "stars": "19078",
+      "today": "394 stars today",
       "language": "TypeScript",
       "url": "https://github.com/tobi/qmd"
     },
     {
       "name": "TelegramMessenger/Telegram-iOS",
       "desc": "Telegram-iOS",
-      "stars": "8267",
-      "today": "54 stars today",
+      "stars": "8379",
+      "today": "25 stars today",
       "language": "Swift",
       "url": "https://github.com/TelegramMessenger/Telegram-iOS"
     },
     {
       "name": "kepano/obsidian-skills",
       "desc": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "stars": "20284",
-      "today": "281 stars today",
+      "stars": "21036",
+      "today": "429 stars today",
       "language": "",
       "url": "https://github.com/kepano/obsidian-skills"
     },
     {
       "name": "ollama/ollama",
       "desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "stars": "167537",
-      "today": "263 stars today",
+      "stars": "167923",
+      "today": "196 stars today",
       "language": "Go",
       "url": "https://github.com/ollama/ollama"
     },
     {
       "name": "ggml-org/llama.cpp",
       "desc": "LLM inference in C/C++",
-      "stars": "101877",
-      "today": "318 stars today",
+      "stars": "102226",
+      "today": "267 stars today",
       "language": "C++",
       "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
       "name": "siddharthvaddem/openscreen",
       "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "stars": "23619",
-      "today": "1,823 stars today",
+      "stars": "24652",
+      "today": "1,838 stars today",
       "language": "TypeScript",
       "url": "https://github.com/siddharthvaddem/openscreen"
     },
     {
       "name": "NVIDIA/personaplex",
       "desc": "PersonaPlex code.",
-      "stars": "7138",
+      "stars": "7568",
       "today": "295 stars today",
       "language": "Python",
       "url": "https://github.com/NVIDIA/personaplex"
