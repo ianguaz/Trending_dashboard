@@ -4,31 +4,31 @@
     {
       "name": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
-      "stars": "64862",
-      "today": "7,450 stars today",
+      "stars": "73096",
+      "today": "7,454 stars today",
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "shiyu-coder/Kronos",
       "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": "15444",
-      "today": "1,998 stars today",
+      "stars": "16451",
+      "today": "1,985 stars today",
       "language": "Python",
       "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "15259",
-      "today": "2,351 stars today",
+      "stars": "19384",
+      "today": "2,369 stars today",
       "language": "",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
       "name": "microsoft/markitdown",
       "desc": "Python tool for converting files and office documents to Markdown.",
-      "stars": "104079",
+      "stars": "106012",
       "today": "2,513 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/markitdown"
@@ -36,15 +36,15 @@
     {
       "name": "multica-ai/multica",
       "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "stars": "9009",
-      "today": "1,626 stars today",
+      "stars": "10160",
+      "today": "1,609 stars today",
       "language": "TypeScript",
       "url": "https://github.com/multica-ai/multica"
     },
     {
       "name": "coleam00/Archon",
       "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "stars": "16855",
+      "stars": "17337",
       "today": "612 stars today",
       "language": "TypeScript",
       "url": "https://github.com/coleam00/Archon"
@@ -52,64 +52,64 @@
     {
       "name": "shanraisshan/claude-code-best-practice",
       "desc": "practice made claude perfect",
-      "stars": "38504",
-      "today": "1,537 stars today",
+      "stars": "40122",
+      "today": "1,548 stars today",
       "language": "HTML",
       "url": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": "10963",
-      "today": "1,276 stars today",
+      "stars": "11762",
+      "today": "1,278 stars today",
       "language": "Python",
       "url": "https://github.com/OpenBMB/VoxCPM"
     },
     {
       "name": "thedotmack/claude-mem",
       "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "stars": "48918",
-      "today": "814 stars today",
+      "stars": "51290",
+      "today": "753 stars today",
       "language": "TypeScript",
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "name": "ahujasid/blender-mcp",
       "desc": "",
-      "stars": "19059",
-      "today": "228 stars today",
+      "stars": "19284",
+      "today": "215 stars today",
       "language": "Python",
       "url": "https://github.com/ahujasid/blender-mcp"
     },
     {
       "name": "rustfs/rustfs",
       "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "stars": "25035",
-      "today": "253 stars today",
+      "stars": "25498",
+      "today": "182 stars today",
       "language": "Rust",
       "url": "https://github.com/rustfs/rustfs"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "desc": "An AI Hedge Fund Team",
-      "stars": "52022",
-      "today": "696 stars today",
+      "stars": "52567",
+      "today": "663 stars today",
       "language": "Python",
       "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
       "name": "snarktank/ralph",
       "desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
-      "stars": "15778",
-      "today": "519 stars today",
+      "stars": "16246",
+      "today": "463 stars today",
       "language": "TypeScript",
       "url": "https://github.com/snarktank/ralph"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
       "desc": "所有小初高、大学PDF教材。",
-      "stars": "68156",
-      "today": "450 stars today",
+      "stars": "68656",
+      "today": "454 stars today",
       "language": "Roff",
       "url": "https://github.com/TapXWorld/ChinaTextbook"
     }
