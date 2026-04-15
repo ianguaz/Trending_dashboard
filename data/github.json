@@ -4,63 +4,63 @@
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "31441",
-      "today": "9,230 stars today",
+      "stars": "37716",
+      "today": "9,263 stars today",
       "language": "",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
       "name": "thedotmack/claude-mem",
       "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "stars": "55151",
-      "today": "2,979 stars today",
+      "stars": "56624",
+      "today": "2,997 stars today",
       "language": "TypeScript",
       "url": "https://github.com/thedotmack/claude-mem"
     },
     {
       "name": "jamiepine/voicebox",
       "desc": "The open-source voice synthesis studio",
-      "stars": "17050",
-      "today": "1,165 stars today",
+      "stars": "17750",
+      "today": "1,162 stars today",
       "language": "TypeScript",
       "url": "https://github.com/jamiepine/voicebox"
     },
     {
       "name": "pascalorg/editor",
       "desc": "Create and share 3D architectural projects.",
-      "stars": "11160",
-      "today": "769 stars today",
+      "stars": "12072",
+      "today": "820 stars today",
       "language": "TypeScript",
       "url": "https://github.com/pascalorg/editor"
     },
     {
       "name": "microsoft/markitdown",
       "desc": "Python tool for converting files and office documents to Markdown.",
-      "stars": "108160",
-      "today": "1,672 stars today",
+      "stars": "109013",
+      "today": "1,675 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "151892",
-      "today": "1,928 stars today",
+      "stars": "153179",
+      "today": "1,919 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "chrislgarry/Apollo-11",
       "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": "66184",
-      "today": "390 stars today",
+      "stars": "66549",
+      "today": "472 stars today",
       "language": "Assembly",
       "url": "https://github.com/chrislgarry/Apollo-11"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "desc": "An AI Hedge Fund Team",
-      "stars": "53908",
+      "stars": "54559",
       "today": "1,007 stars today",
       "language": "Python",
       "url": "https://github.com/virattt/ai-hedge-fund"
@@ -68,32 +68,32 @@
     {
       "name": "shiyu-coder/Kronos",
       "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": "17664",
-      "today": "965 stars today",
+      "stars": "18005",
+      "today": "963 stars today",
       "language": "Python",
       "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "name": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
-      "stars": "83492",
-      "today": "8,282 stars today",
+      "stars": "87186",
+      "today": "8,301 stars today",
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "anthropics/claude-cookbooks",
       "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": "40056",
-      "today": "922 stars today",
+      "stars": "40502",
+      "today": "931 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
       "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "stars": "43360",
-      "today": "2,569 stars today",
+      "stars": "44531",
+      "today": "2,583 stars today",
       "language": "HTML",
       "url": "https://github.com/shanraisshan/claude-code-best-practice"
     }
