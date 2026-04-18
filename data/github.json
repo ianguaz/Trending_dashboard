@@ -1,125 +1,85 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "items": [
     {
-      "name": "EvoMap/evolver",
-      "desc": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-      "stars": "4593",
-      "today": "737 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/EvoMap/evolver"
-    },
-    {
-      "name": "lsdefine/GenericAgent",
-      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": "3940",
-      "today": "845 stars today",
-      "language": "Python",
-      "url": "https://github.com/lsdefine/GenericAgent"
-    },
-    {
-      "name": "SimoneAvogadro/android-reverse-engineering-skill",
-      "desc": "Claude Code skill to support Android app's reverse engineering",
-      "stars": "2894",
-      "today": "538 stars today",
-      "language": "Shell",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+      "name": "thunderbird/thunderbolt",
+      "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "stars": "1370",
+      "today": "458 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/thunderbird/thunderbolt"
     },
     {
       "name": "BasedHardware/omi",
       "desc": "AI that sees your screen, listens to your conversations and tells you what to do",
-      "stars": "10019",
-      "today": "824 stars today",
+      "stars": "10247",
+      "today": "617 stars today",
       "language": "Dart",
       "url": "https://github.com/BasedHardware/omi"
     },
     {
-      "name": "Lordog/dive-into-llms",
-      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": "31735",
-      "today": "944 stars today",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/Lordog/dive-into-llms"
-    },
-    {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "stars": "12066",
-      "today": "311 stars today",
-      "language": "Shell",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "desc": "The open-source voice synthesis studio",
-      "stars": "20098",
-      "today": "797 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/jamiepine/voicebox"
-    },
-    {
-      "name": "lukilabs/craft-agents-oss",
-      "desc": "",
-      "stars": "4342",
-      "today": "110 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/lukilabs/craft-agents-oss"
-    },
-    {
-      "name": "Tracer-Cloud/opensre",
-      "desc": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
-      "stars": "1603",
-      "today": "184 stars today",
-      "language": "Python",
-      "url": "https://github.com/Tracer-Cloud/opensre"
-    },
-    {
-      "name": "obra/superpowers",
-      "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "158176",
-      "today": "1,713 stars today",
-      "language": "Shell",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "z-lab/dflash",
-      "desc": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "stars": "1838",
-      "today": "287 stars today",
-      "language": "Python",
-      "url": "https://github.com/z-lab/dflash"
-    },
-    {
       "name": "openai/openai-agents-python",
       "desc": "A lightweight, powerful framework for multi-agent workflows",
-      "stars": "21978",
-      "today": "625 stars today",
+      "stars": "22169",
+      "today": "473 stars today",
       "language": "Python",
       "url": "https://github.com/openai/openai-agents-python"
     },
     {
-      "name": "google/magika",
-      "desc": "Fast and accurate AI powered file content types detection",
-      "stars": "15651",
-      "today": "956 stars today",
-      "language": "Python",
-      "url": "https://github.com/google/magika"
+      "name": "EvoMap/evolver",
+      "desc": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "stars": "4870",
+      "today": "1,150 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/EvoMap/evolver"
     },
     {
-      "name": "pingdotgg/t3code",
-      "desc": "",
-      "stars": "9548",
-      "today": "227 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/pingdotgg/t3code"
+      "name": "deepseek-ai/DeepGEMM",
+      "desc": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "stars": "6466",
+      "today": "31 stars today",
+      "language": "Cuda",
+      "url": "https://github.com/deepseek-ai/DeepGEMM"
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "desc": "Chrome DevTools for coding agents",
-      "stars": "35984",
-      "today": "196 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      "name": "Lordog/dive-into-llms",
+      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars": "31938",
+      "today": "562 stars today",
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/Lordog/dive-into-llms"
+    },
+    {
+      "name": "aaddrick/claude-desktop-debian",
+      "desc": "Claude Desktop for Debian-based Linux distributions",
+      "stars": "3415",
+      "today": "39 stars today",
+      "language": "Shell",
+      "url": "https://github.com/aaddrick/claude-desktop-debian"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "stars": "111929",
+      "today": "351 stars today",
+      "language": "Rust",
+      "url": "https://github.com/rustdesk/rustdesk"
+    },
+    {
+      "name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "desc": "Claude Code skill to support Android app's reverse engineering",
+      "stars": "3017",
+      "today": "408 stars today",
+      "language": "Shell",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+    },
+    {
+      "name": "tractorjuice/arc-kit",
+      "desc": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "stars": "645",
+      "today": "143 stars today",
+      "language": "HTML",
+      "url": "https://github.com/tractorjuice/arc-kit"
     }
   ]
 }
