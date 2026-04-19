@@ -4,39 +4,39 @@
     {
       "name": "thunderbird/thunderbolt",
       "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "stars": "1370",
-      "today": "458 stars today",
+      "stars": "1794",
+      "today": "447 stars today",
       "language": "TypeScript",
       "url": "https://github.com/thunderbird/thunderbolt"
     },
     {
       "name": "BasedHardware/omi",
       "desc": "AI that sees your screen, listens to your conversations and tells you what to do",
-      "stars": "10247",
-      "today": "617 stars today",
+      "stars": "10662",
+      "today": "609 stars today",
       "language": "Dart",
       "url": "https://github.com/BasedHardware/omi"
     },
     {
       "name": "openai/openai-agents-python",
       "desc": "A lightweight, powerful framework for multi-agent workflows",
-      "stars": "22169",
-      "today": "473 stars today",
+      "stars": "22629",
+      "today": "470 stars today",
       "language": "Python",
       "url": "https://github.com/openai/openai-agents-python"
     },
     {
       "name": "EvoMap/evolver",
       "desc": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-      "stars": "4870",
-      "today": "1,150 stars today",
+      "stars": "5180",
+      "today": "1,131 stars today",
       "language": "JavaScript",
       "url": "https://github.com/EvoMap/evolver"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
       "desc": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "stars": "6466",
+      "stars": "6606",
       "today": "31 stars today",
       "language": "Cuda",
       "url": "https://github.com/deepseek-ai/DeepGEMM"
@@ -44,40 +44,40 @@
     {
       "name": "Lordog/dive-into-llms",
       "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": "31938",
-      "today": "562 stars today",
+      "stars": "32212",
+      "today": "547 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
       "desc": "Claude Desktop for Debian-based Linux distributions",
-      "stars": "3415",
-      "today": "39 stars today",
+      "stars": "3531",
+      "today": "44 stars today",
       "language": "Shell",
       "url": "https://github.com/aaddrick/claude-desktop-debian"
     },
     {
       "name": "rustdesk/rustdesk",
       "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "stars": "111929",
-      "today": "351 stars today",
+      "stars": "112228",
+      "today": "393 stars today",
       "language": "Rust",
       "url": "https://github.com/rustdesk/rustdesk"
     },
     {
       "name": "SimoneAvogadro/android-reverse-engineering-skill",
       "desc": "Claude Code skill to support Android app's reverse engineering",
-      "stars": "3017",
-      "today": "408 stars today",
+      "stars": "3317",
+      "today": "403 stars today",
       "language": "Shell",
       "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     },
     {
       "name": "tractorjuice/arc-kit",
       "desc": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-      "stars": "645",
-      "today": "143 stars today",
+      "stars": "815",
+      "today": "135 stars today",
       "language": "HTML",
       "url": "https://github.com/tractorjuice/arc-kit"
     }
