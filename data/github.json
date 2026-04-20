@@ -1,85 +1,85 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "items": [
     {
       "name": "Fincept-Corporation/FinceptTerminal",
       "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "stars": "7975",
-      "today": "1,254 stars today",
+      "stars": "8924",
+      "today": "3,129 stars today",
       "language": "Python",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
-      "name": "thunderbird/thunderbolt",
-      "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "stars": "2497",
-      "today": "695 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/thunderbird/thunderbolt"
-    },
-    {
-      "name": "tractorjuice/arc-kit",
-      "desc": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-      "stars": "1133",
-      "today": "263 stars today",
-      "language": "HTML",
-      "url": "https://github.com/tractorjuice/arc-kit"
-    },
-    {
-      "name": "openai/openai-agents-python",
-      "desc": "A lightweight, powerful framework for multi-agent workflows",
-      "stars": "23606",
-      "today": "752 stars today",
-      "language": "Python",
-      "url": "https://github.com/openai/openai-agents-python"
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "desc": "",
-      "stars": "10066",
-      "today": "109 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/pingdotgg/t3code"
-    },
-    {
-      "name": "paperless-ngx/paperless-ngx",
-      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "stars": "39123",
-      "today": "393 stars today",
-      "language": "Python",
-      "url": "https://github.com/paperless-ngx/paperless-ngx"
-    },
-    {
       "name": "ruvnet/RuView",
       "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "47778",
-      "today": "149 stars today",
+      "stars": "48010",
+      "today": "716 stars today",
       "language": "Rust",
       "url": "https://github.com/ruvnet/RuView"
     },
     {
-      "name": "EvoMap/evolver",
-      "desc": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-      "stars": "5828",
-      "today": "527 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/EvoMap/evolver"
+      "name": "thunderbird/thunderbolt",
+      "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "stars": "2678",
+      "today": "667 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/thunderbird/thunderbolt"
     },
     {
-      "name": "BasedHardware/omi",
-      "desc": "AI that sees your screen, listens to your conversations and tells you what to do",
-      "stars": "11482",
-      "today": "685 stars today",
-      "language": "Dart",
-      "url": "https://github.com/BasedHardware/omi"
+      "name": "paperless-ngx/paperless-ngx",
+      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": "39275",
+      "today": "611 stars today",
+      "language": "Python",
+      "url": "https://github.com/paperless-ngx/paperless-ngx"
     },
     {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "stars": "14103",
-      "today": "704 stars today",
+      "name": "tractorjuice/arc-kit",
+      "desc": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "stars": "1242",
+      "today": "334 stars today",
+      "language": "HTML",
+      "url": "https://github.com/tractorjuice/arc-kit"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": "49741",
+      "today": "477 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "desc": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": "23800",
+      "today": "909 stars today",
+      "language": "Python",
+      "url": "https://github.com/openai/openai-agents-python"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "desc": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "stars": "6780",
+      "today": "155 stars today",
+      "language": "Cuda",
+      "url": "https://github.com/deepseek-ai/DeepGEMM"
+    },
+    {
+      "name": "pi-hole/pi-hole",
+      "desc": "A black hole for Internet advertisements",
+      "stars": "56966",
+      "today": "154 stars today",
       "language": "Shell",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+      "url": "https://github.com/pi-hole/pi-hole"
+    },
+    {
+      "name": "XTLS/Xray-core",
+      "desc": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "stars": "37371",
+      "today": "124 stars today",
+      "language": "Go",
+      "url": "https://github.com/XTLS/Xray-core"
     }
   ]
 }
