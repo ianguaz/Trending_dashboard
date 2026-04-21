@@ -4,80 +4,80 @@
     {
       "name": "Fincept-Corporation/FinceptTerminal",
       "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "stars": "8924",
-      "today": "3,129 stars today",
+      "stars": "10568",
+      "today": "3,109 stars today",
       "language": "Python",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
       "name": "ruvnet/RuView",
       "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "48010",
-      "today": "716 stars today",
+      "stars": "48562",
+      "today": "713 stars today",
       "language": "Rust",
       "url": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "thunderbird/thunderbolt",
       "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "stars": "2678",
-      "today": "667 stars today",
+      "stars": "3046",
+      "today": "675 stars today",
       "language": "TypeScript",
       "url": "https://github.com/thunderbird/thunderbolt"
     },
     {
       "name": "paperless-ngx/paperless-ngx",
       "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "stars": "39275",
-      "today": "611 stars today",
+      "stars": "39615",
+      "today": "606 stars today",
       "language": "Python",
       "url": "https://github.com/paperless-ngx/paperless-ngx"
     },
     {
       "name": "tractorjuice/arc-kit",
       "desc": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-      "stars": "1242",
-      "today": "334 stars today",
+      "stars": "1458",
+      "today": "329 stars today",
       "language": "HTML",
       "url": "https://github.com/tractorjuice/arc-kit"
     },
     {
       "name": "koala73/worldmonitor",
       "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": "49741",
-      "today": "477 stars today",
+      "stars": "50628",
+      "today": "316 stars today",
       "language": "TypeScript",
       "url": "https://github.com/koala73/worldmonitor"
     },
     {
       "name": "openai/openai-agents-python",
       "desc": "A lightweight, powerful framework for multi-agent workflows",
-      "stars": "23800",
-      "today": "909 stars today",
+      "stars": "24215",
+      "today": "905 stars today",
       "language": "Python",
       "url": "https://github.com/openai/openai-agents-python"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
       "desc": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "stars": "6780",
-      "today": "155 stars today",
+      "stars": "6905",
+      "today": "109 stars today",
       "language": "Cuda",
       "url": "https://github.com/deepseek-ai/DeepGEMM"
     },
     {
       "name": "pi-hole/pi-hole",
       "desc": "A black hole for Internet advertisements",
-      "stars": "56966",
-      "today": "154 stars today",
+      "stars": "57488",
+      "today": "196 stars today",
       "language": "Shell",
       "url": "https://github.com/pi-hole/pi-hole"
     },
     {
       "name": "XTLS/Xray-core",
       "desc": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "stars": "37371",
-      "today": "124 stars today",
+      "stars": "37606",
+      "today": "78 stars today",
       "language": "Go",
       "url": "https://github.com/XTLS/Xray-core"
     }
