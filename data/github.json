@@ -4,39 +4,39 @@
     {
       "name": "Alishahryar1/free-claude-code",
       "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "stars": "7772",
-      "today": "2,640 stars today",
+      "stars": "10119",
+      "today": "2,638 stars today",
       "language": "Python",
       "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
       "name": "huggingface/ml-intern",
       "desc": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "stars": "4892",
-      "today": "2,981 stars today",
+      "stars": "5730",
+      "today": "2,985 stars today",
       "language": "Python",
       "url": "https://github.com/huggingface/ml-intern"
     },
     {
       "name": "google/osv-scanner",
       "desc": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
-      "stars": "9346",
-      "today": "147 stars today",
+      "stars": "9655",
+      "today": "141 stars today",
       "language": "Go",
       "url": "https://github.com/google/osv-scanner"
     },
     {
       "name": "Z4nzu/hackingtool",
       "desc": "ALL IN ONE Hacking Tool For Hackers",
-      "stars": "61982",
-      "today": "1,377 stars today",
+      "stars": "62736",
+      "today": "1,378 stars today",
       "language": "Python",
       "url": "https://github.com/Z4nzu/hackingtool"
     },
     {
       "name": "zilliztech/claude-context",
       "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "stars": "8871",
+      "stars": "9160",
       "today": "706 stars today",
       "language": "TypeScript",
       "url": "https://github.com/zilliztech/claude-context"
@@ -44,7 +44,7 @@
     {
       "name": "open-metadata/OpenMetadata",
       "desc": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-      "stars": "13240",
+      "stars": "13473",
       "today": "530 stars today",
       "language": "TypeScript",
       "url": "https://github.com/open-metadata/OpenMetadata"
@@ -52,48 +52,48 @@
     {
       "name": "PostHog/posthog",
       "desc": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-      "stars": "32977",
-      "today": "90 stars today",
+      "stars": "33243",
+      "today": "85 stars today",
       "language": "Python",
       "url": "https://github.com/PostHog/posthog"
     },
     {
       "name": "dani-garcia/vaultwarden",
       "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "stars": "59095",
-      "today": "252 stars today",
+      "stars": "59223",
+      "today": "268 stars today",
       "language": "Rust",
       "url": "https://github.com/dani-garcia/vaultwarden"
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
       "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "stars": "7466",
-      "today": "847 stars today",
+      "stars": "7889",
+      "today": "842 stars today",
       "language": "JavaScript",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": "494346",
-      "today": "817 stars today",
+      "stars": "495233",
+      "today": "991 stars today",
       "language": "Markdown",
       "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
       "name": "deepseek-ai/DeepEP",
       "desc": "DeepEP: an efficient expert-parallel communication library",
-      "stars": "9282",
-      "today": "29 stars today",
+      "stars": "9391",
+      "today": "52 stars today",
       "language": "Cuda",
       "url": "https://github.com/deepseek-ai/DeepEP"
     },
     {
       "name": "microsoft/typescript-go",
       "desc": "Staging repo for development of native port of TypeScript",
-      "stars": "24966",
-      "today": "22 stars today",
+      "stars": "25068",
+      "today": "38 stars today",
       "language": "Go",
       "url": "https://github.com/microsoft/typescript-go"
     }
