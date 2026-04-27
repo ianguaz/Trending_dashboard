@@ -1,109 +1,109 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "items": [
     {
       "name": "mattpocock/skills",
-      "desc": "Agent Skills for real engineers. Straight from my .claude directory.",
-      "stars": "26279",
-      "today": "2,519 stars today",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": "28382",
+      "today": "5,551 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "name": "Alishahryar1/free-claude-code",
-      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "stars": "14993",
-      "today": "1,701 stars today",
-      "language": "Python",
-      "url": "https://github.com/Alishahryar1/free-claude-code"
-    },
-    {
-      "name": "Z4nzu/hackingtool",
-      "desc": "ALL IN ONE Hacking Tool For Hackers",
-      "stars": "66273",
-      "today": "1,720 stars today",
-      "language": "Python",
-      "url": "https://github.com/Z4nzu/hackingtool"
-    },
-    {
       "name": "abhigyanpatwari/GitNexus",
       "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "30620",
-      "today": "700 stars today",
+      "stars": "31163",
+      "today": "1,074 stars today",
       "language": "TypeScript",
       "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
-      "name": "PostHog/posthog",
-      "desc": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-      "stars": "34042",
-      "today": "337 stars today",
+      "name": "ComposioHQ/awesome-codex-skills",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "stars": "2571",
+      "today": "637 stars today",
       "language": "Python",
-      "url": "https://github.com/PostHog/posthog"
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills"
     },
     {
-      "name": "microsoft/typescript-go",
-      "desc": "Staging repo for development of native port of TypeScript",
-      "stars": "25217",
-      "today": "23 stars today",
-      "language": "Go",
-      "url": "https://github.com/microsoft/typescript-go"
-    },
-    {
-      "name": "trycua/cua",
-      "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": "14615",
-      "today": "182 stars today",
-      "language": "HTML",
-      "url": "https://github.com/trycua/cua"
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars": "15641",
+      "today": "2,973 stars today",
+      "language": "Python",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
       "name": "gastownhall/beads",
       "desc": "Beads - A memory upgrade for your coding agent",
-      "stars": "21902",
-      "today": "152 stars today",
+      "stars": "22068",
+      "today": "485 stars today",
       "language": "Go",
       "url": "https://github.com/gastownhall/beads"
     },
     {
-      "name": "curl/curl",
-      "desc": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "stars": "41675",
-      "today": "30 stars today",
-      "language": "C",
-      "url": "https://github.com/curl/curl"
+      "name": "penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "stars": "46446",
+      "today": "283 stars today",
+      "language": "Clojure",
+      "url": "https://github.com/penpot/penpot"
     },
     {
-      "name": "home-assistant/core",
-      "desc": "🏡 Open source home automation that puts local control and privacy first.",
-      "stars": "86767",
-      "today": "73 stars today",
+      "name": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "stars": "25708",
+      "today": "181 stars today",
       "language": "Python",
-      "url": "https://github.com/home-assistant/core"
+      "url": "https://github.com/davila7/claude-code-templates"
     },
     {
-      "name": "codecrafters-io/build-your-own-x",
-      "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": "497213",
-      "today": "1,075 stars today",
-      "language": "Markdown",
-      "url": "https://github.com/codecrafters-io/build-your-own-x"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": "365071",
-      "today": "627 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/openclaw/openclaw"
-    },
-    {
-      "name": "ComposioHQ/awesome-codex-skills",
-      "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-      "stars": "2318",
-      "today": "517 stars today",
+      "name": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "42707",
+      "today": "771 stars today",
       "language": "Python",
-      "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "desc": "ALL IN ONE Hacking Tool For Hackers",
+      "stars": "66750",
+      "today": "1,839 stars today",
+      "language": "Python",
+      "url": "https://github.com/Z4nzu/hackingtool"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "53532",
+      "today": "183 stars today",
+      "language": "Python",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "name": "CJackHwang/ds2api",
+      "desc": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "stars": "1775",
+      "today": "144 stars today",
+      "language": "Go",
+      "url": "https://github.com/CJackHwang/ds2api"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "desc": "",
+      "stars": "103027",
+      "today": "60 stars today",
+      "language": "Python",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "stars": "345001",
+      "today": "396 stars today",
+      "language": "Python",
+      "url": "https://github.com/donnemartin/system-design-primer"
     }
   ]
 }
