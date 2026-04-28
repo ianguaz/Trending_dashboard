@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "items": [
     {
       "name": "Brila",
       "desc": "One-page websites from real Google Maps reviews",
-      "votes": 1288,
+      "votes": 1291,
       "url": "https://www.producthunt.com/products/brila-2/launches/brila-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6e8a39c7-ec23-46e5-9962-0ad93d097fc0.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Fathom 3.0",
       "desc": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "votes": 718,
+      "votes": 722,
       "url": "https://www.producthunt.com/products/fathom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png?auto=format",
       "topics": [
@@ -28,13 +28,24 @@
     {
       "name": "ProdShort",
       "desc": "Turn meetings into ready-to-post shorts and posts",
-      "votes": 708,
+      "votes": 709,
       "url": "https://www.producthunt.com/products/prodshort/launches/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif?auto=format",
       "topics": [
         "Social Media",
         "Meetings",
         "Alpha"
+      ]
+    },
+    {
+      "name": "Jupid",
+      "desc": "File your taxes with Claude Code",
+      "votes": 668,
+      "url": "https://www.producthunt.com/products/jupid/launches/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
+      "topics": [
+        "Fintech",
+        "Accounting"
       ]
     },
     {
@@ -47,17 +58,6 @@
         "Productivity",
         "Artificial Intelligence",
         "Video"
-      ]
-    },
-    {
-      "name": "Jupid",
-      "desc": "File your taxes with Claude Code",
-      "votes": 667,
-      "url": "https://www.producthunt.com/products/jupid/launches/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
-      "topics": [
-        "Fintech",
-        "Accounting"
       ]
     },
     {
@@ -111,7 +111,7 @@
     {
       "name": "Claude Code Routines",
       "desc": "Put Claude Code tasks on autopilot with smart routines",
-      "votes": 585,
+      "votes": 586,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a30335cf-101f-4d48-ab16-ba198026df3e.png?auto=format",
       "topics": [
@@ -123,7 +123,7 @@
     {
       "name": "Claude Opus 4.7",
       "desc": "Claude’s most capable model for reasoning and agentic coding",
-      "votes": 572,
+      "votes": 575,
       "url": "https://www.producthunt.com/products/claude-opus-4-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d142c81e-10f2-40c2-a5ab-8659ee6ad8d9.png?auto=format",
       "topics": [
@@ -133,27 +133,27 @@
       ]
     },
     {
-      "name": "Claude Code Desktop App Redesigned",
-      "desc": "Run parallel coding agents from one desktop workspace",
-      "votes": 572,
-      "url": "https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4faacf78-5fc5-4eda-b939-c037b6261b35.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Software Engineering",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "RankAI",
       "desc": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes": 572,
+      "votes": 575,
       "url": "https://www.producthunt.com/products/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
       "topics": [
         "Marketing",
         "SEO",
         "Search"
+      ]
+    },
+    {
+      "name": "Claude Code Desktop App Redesigned",
+      "desc": "Run parallel coding agents from one desktop workspace",
+      "votes": 571,
+      "url": "https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4faacf78-5fc5-4eda-b939-c037b6261b35.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Software Engineering",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -171,7 +171,7 @@
     {
       "name": "Claude Design by Anthropic Labs",
       "desc": "Make prototypes, slides & one-pagers by talking to Claude",
-      "votes": 536,
+      "votes": 535,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png?auto=format",
       "topics": [
@@ -195,24 +195,13 @@
     {
       "name": "Build Check",
       "desc": "Is your app idea actually worth building?",
-      "votes": 482,
+      "votes": 480,
       "url": "https://www.producthunt.com/products/build-check-for-outsiders?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/befdc559-f978-47c1-bc72-40d445779b24.png?auto=format",
       "topics": [
         "No-Code",
         "Vibe coding",
         "Vercel Day"
-      ]
-    },
-    {
-      "name": "Influcio",
-      "desc": "AI marketing Agent for result-driven influencer campaign",
-      "votes": 459,
-      "url": "https://www.producthunt.com/products/influcio-2/launches/influcio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/2f580d68-f843-46a9-acc4-effa56ac2b4a.png?auto=format",
-      "topics": [
-        "Marketing",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -224,6 +213,17 @@
       "topics": [
         "Artificial Intelligence",
         "Computers"
+      ]
+    },
+    {
+      "name": "Influcio",
+      "desc": "AI marketing Agent for result-driven influencer campaign",
+      "votes": 459,
+      "url": "https://www.producthunt.com/products/influcio-2/launches/influcio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/2f580d68-f843-46a9-acc4-effa56ac2b4a.png?auto=format",
+      "topics": [
+        "Marketing",
+        "Artificial Intelligence"
       ]
     },
     {
