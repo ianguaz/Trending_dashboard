@@ -4,104 +4,104 @@
     {
       "name": "warpdotdev/warp",
       "desc": "Warp is an agentic development environment, born out of the terminal.",
-      "stars": "48455",
-      "today": "8,262 stars today",
+      "stars": "50342",
+      "today": "8,399 stars today",
       "language": "Rust",
       "url": "https://github.com/warpdotdev/warp"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "57040",
-      "today": "2,203 stars today",
+      "stars": "58416",
+      "today": "2,023 stars today",
       "language": "Python",
       "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": "48463",
-      "today": "6,175 stars today",
+      "stars": "50648",
+      "today": "6,187 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "174323",
-      "today": "1,623 stars today",
+      "stars": "174987",
+      "today": "1,632 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "lukilabs/craft-agents-oss",
       "desc": "",
-      "stars": "5515",
-      "today": "314 stars today",
+      "stars": "5632",
+      "today": "319 stars today",
       "language": "TypeScript",
       "url": "https://github.com/lukilabs/craft-agents-oss"
     },
     {
       "name": "public-apis/public-apis",
       "desc": "A collective list of free APIs",
-      "stars": "429294",
-      "today": "307 stars today",
+      "stars": "429831",
+      "today": "322 stars today",
       "language": "Python",
       "url": "https://github.com/public-apis/public-apis"
     },
     {
       "name": "1jehuang/jcode",
       "desc": "Coding Agent Harness",
-      "stars": "1798",
-      "today": "670 stars today",
+      "stars": "2024",
+      "today": "675 stars today",
       "language": "Rust",
       "url": "https://github.com/1jehuang/jcode"
     },
     {
       "name": "soxoj/maigret",
       "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": "20689",
-      "today": "723 stars today",
+      "stars": "21020",
+      "today": "730 stars today",
       "language": "Python",
       "url": "https://github.com/soxoj/maigret"
     },
     {
       "name": "HunxByts/GhostTrack",
       "desc": "Useful tool to track location or mobile number",
-      "stars": "12049",
-      "today": "830 stars today",
+      "stars": "12327",
+      "today": "841 stars today",
       "language": "Python",
       "url": "https://github.com/HunxByts/GhostTrack"
     },
     {
       "name": "iamgio/quarkdown",
       "desc": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
-      "stars": "12885",
-      "today": "799 stars today",
+      "stars": "13292",
+      "today": "177 stars today",
       "language": "Kotlin",
       "url": "https://github.com/iamgio/quarkdown"
     },
     {
       "name": "ghostty-org/ghostty",
       "desc": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "stars": "52652",
-      "today": "379 stars today",
+      "stars": "53053",
+      "today": "341 stars today",
       "language": "Zig",
       "url": "https://github.com/ghostty-org/ghostty"
     },
     {
       "name": "ForrestKnight/open-source-cs",
       "desc": "Video discussing this curriculum:",
-      "stars": "22317",
-      "today": "133 stars today",
+      "stars": "22459",
+      "today": "140 stars today",
       "language": "",
       "url": "https://github.com/ForrestKnight/open-source-cs"
     },
     {
       "name": "browserbase/skills",
       "desc": "Claude Agent SDK with a web browsing tool",
-      "stars": "748",
-      "today": "54 stars today",
+      "stars": "951",
+      "today": "69 stars today",
       "language": "JavaScript",
       "url": "https://github.com/browserbase/skills"
     }

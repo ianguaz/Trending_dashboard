@@ -4,7 +4,7 @@
     {
       "name": "Brila",
       "desc": "One-page websites from real Google Maps reviews",
-      "votes": 1289,
+      "votes": 1291,
       "url": "https://www.producthunt.com/products/brila-2/launches/brila-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6e8a39c7-ec23-46e5-9962-0ad93d097fc0.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Fathom 3.0",
       "desc": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "votes": 758,
+      "votes": 757,
       "url": "https://www.producthunt.com/products/fathom/launches/fathom-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "ProdShort",
       "desc": "Turn meetings into ready-to-post shorts and posts",
-      "votes": 714,
+      "votes": 716,
       "url": "https://www.producthunt.com/products/prodshort/launches/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif?auto=format",
       "topics": [
@@ -40,24 +40,13 @@
     {
       "name": "Plurai",
       "desc": "Vibe-train evals and guardrails tailored to your use case",
-      "votes": 670,
+      "votes": 681,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
         "API",
         "Developer Tools",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Jupid",
-      "desc": "File your taxes with Claude Code",
-      "votes": 667,
-      "url": "https://www.producthunt.com/products/jupid/launches/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format",
-      "topics": [
-        "Fintech",
-        "Accounting"
       ]
     },
     {
@@ -73,21 +62,9 @@
       ]
     },
     {
-      "name": "Dune",
-      "desc": "Context-aware Mac keypad to automate workflows + meetings",
-      "votes": 614,
-      "url": "https://www.producthunt.com/products/dune-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/56eb5fd7-684a-4fe5-aa2a-5333fd5b579b.jpeg?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Development"
-      ]
-    },
-    {
       "name": "Clera",
       "desc": "An AI agent matching candidates to the right roles.",
-      "votes": 600,
+      "votes": 618,
       "url": "https://www.producthunt.com/products/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a2fa137-8e23-48c5-8d2e-15b3bd2c03df.png?auto=format",
       "topics": [
@@ -97,9 +74,21 @@
       ]
     },
     {
+      "name": "Dune",
+      "desc": "Context-aware Mac keypad to automate workflows + meetings",
+      "votes": 617,
+      "url": "https://www.producthunt.com/products/dune-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/56eb5fd7-684a-4fe5-aa2a-5333fd5b579b.jpeg?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Development"
+      ]
+    },
+    {
       "name": "NovaVoice",
       "desc": "Smart dictation, AI assistant, + app control via voice",
-      "votes": 593,
+      "votes": 602,
       "url": "https://www.producthunt.com/products/novavoice/launches/novavoice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b80faac0-f678-4432-b65f-7b9321d45065.png?auto=format",
       "topics": [
@@ -121,9 +110,21 @@
       ]
     },
     {
+      "name": "Open Wearables",
+      "desc": "Open infrastructure for wearable-powered health products.",
+      "votes": 591,
+      "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
+      "topics": [
+        "Open Source",
+        "Wearables",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "Claude Code Routines",
       "desc": "Put Claude Code tasks on autopilot with smart routines",
-      "votes": 588,
+      "votes": 586,
       "url": "https://www.producthunt.com/products/claude/launches/claude-code-routines?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a30335cf-101f-4d48-ab16-ba198026df3e.png?auto=format",
       "topics": [
@@ -135,7 +136,7 @@
     {
       "name": "Offsite",
       "desc": "Build teams of humans and agents, watch them work.",
-      "votes": 585,
+      "votes": 586,
       "url": "https://www.producthunt.com/products/offsite-2/launches/offsite-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36ecffd5-da17-41db-b124-84232c2c4cf3.png?auto=format",
       "topics": [
@@ -147,7 +148,7 @@
     {
       "name": "RankAI",
       "desc": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes": 582,
+      "votes": 584,
       "url": "https://www.producthunt.com/products/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
       "topics": [
@@ -157,22 +158,10 @@
       ]
     },
     {
-      "name": "Open Wearables",
-      "desc": "Open infrastructure for wearable-powered health products.",
-      "votes": 579,
-      "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
-      "topics": [
-        "Open Source",
-        "Wearables",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "Claude Opus 4.7",
       "desc": "Claude’s most capable model for reasoning and agentic coding",
-      "votes": 578,
-      "url": "https://www.producthunt.com/products/claude-opus-4-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 579,
+      "url": "https://www.producthunt.com/products/claude-opus-4-7/launches/claude-opus-4-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d142c81e-10f2-40c2-a5ab-8659ee6ad8d9.png?auto=format",
       "topics": [
         "API",
@@ -183,7 +172,7 @@
     {
       "name": "Claude Code Desktop App Redesigned",
       "desc": "Run parallel coding agents from one desktop workspace",
-      "votes": 570,
+      "votes": 571,
       "url": "https://www.producthunt.com/products/claude-redesigned/launches/claude-code-desktop-app-redesigned?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4faacf78-5fc5-4eda-b939-c037b6261b35.png?auto=format",
       "topics": [
@@ -195,7 +184,7 @@
     {
       "name": "Ask Product Hunt AI",
       "desc": "Find the right product, just ask",
-      "votes": 556,
+      "votes": 558,
       "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -207,7 +196,7 @@
     {
       "name": "Claude Design by Anthropic Labs",
       "desc": "Make prototypes, slides & one-pagers by talking to Claude",
-      "votes": 536,
+      "votes": 537,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png?auto=format",
       "topics": [
@@ -220,7 +209,7 @@
       "name": "Build Check",
       "desc": "Is your app idea actually worth building?",
       "votes": 486,
-      "url": "https://www.producthunt.com/products/build-check-for-outsiders?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "url": "https://www.producthunt.com/products/build-check-for-outsiders/launches/build-check?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/befdc559-f978-47c1-bc72-40d445779b24.png?auto=format",
       "topics": [
         "No-Code",
@@ -231,13 +220,25 @@
     {
       "name": "Orange Slice",
       "desc": "Automate any sales task with AI",
-      "votes": 471,
+      "votes": 473,
       "url": "https://www.producthunt.com/products/orange-slice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfcb3526-46fc-4484-ad17-c217e76efcc1.png?auto=format",
       "topics": [
         "Sales",
         "Marketing",
         "Growth Hacking"
+      ]
+    },
+    {
+      "name": "SpeakON",
+      "desc": "A MagSafe AI device for a post-keyboard world",
+      "votes": 468,
+      "url": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/f1214872-bea3-470c-9846-1f227e0cb14f.png?auto=format",
+      "topics": [
+        "Hardware",
+        "Accessories",
+        "Apple"
       ]
     }
   ]
