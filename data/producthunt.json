@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "items": [
     {
       "name": "Brila",
@@ -28,7 +28,7 @@
     {
       "name": "ProdShort",
       "desc": "Turn meetings into ready-to-post shorts and posts",
-      "votes": 714,
+      "votes": 715,
       "url": "https://www.producthunt.com/products/prodshort/launches/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Plurai",
       "desc": "Vibe-train evals and guardrails tailored to your use case",
-      "votes": 705,
+      "votes": 711,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Clera",
       "desc": "An AI agent matching candidates to the right roles.",
-      "votes": 667,
+      "votes": 674,
       "url": "https://www.producthunt.com/products/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a2fa137-8e23-48c5-8d2e-15b3bd2c03df.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Velo",
       "desc": "Share anything as video messages",
-      "votes": 665,
+      "votes": 662,
       "url": "https://www.producthunt.com/products/velo-4/launches/velo-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -86,6 +86,18 @@
       ]
     },
     {
+      "name": "Open Wearables",
+      "desc": "Open infrastructure for wearable-powered health products.",
+      "votes": 610,
+      "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
+      "topics": [
+        "Open Source",
+        "Wearables",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "NovaVoice",
       "desc": "Smart dictation, AI assistant, + app control via voice",
       "votes": 606,
@@ -98,21 +110,9 @@
       ]
     },
     {
-      "name": "Open Wearables",
-      "desc": "Open infrastructure for wearable-powered health products.",
-      "votes": 604,
-      "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
-      "topics": [
-        "Open Source",
-        "Wearables",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "RankAI",
       "desc": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes": 598,
+      "votes": 600,
       "url": "https://www.producthunt.com/products/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
       "topics": [
@@ -160,7 +160,7 @@
     {
       "name": "Claude Opus 4.7",
       "desc": "Claude’s most capable model for reasoning and agentic coding",
-      "votes": 580,
+      "votes": 581,
       "url": "https://www.producthunt.com/products/claude-opus-4-7/launches/claude-opus-4-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d142c81e-10f2-40c2-a5ab-8659ee6ad8d9.png?auto=format",
       "topics": [
@@ -184,7 +184,7 @@
     {
       "name": "Ask Product Hunt AI",
       "desc": "Find the right product, just ask",
-      "votes": 572,
+      "votes": 573,
       "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -208,13 +208,25 @@
     {
       "name": "Build Check",
       "desc": "Is your app idea actually worth building?",
-      "votes": 491,
+      "votes": 492,
       "url": "https://www.producthunt.com/products/build-check-for-outsiders/launches/build-check?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/befdc559-f978-47c1-bc72-40d445779b24.png?auto=format",
       "topics": [
         "No-Code",
         "Vibe coding",
         "Vercel Day"
+      ]
+    },
+    {
+      "name": "Postiz",
+      "desc": "Agentic social media scheduler for agents like OpenClaw",
+      "votes": 479,
+      "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/ca5dbb32-5827-4432-bbbd-6d539429940d.png?auto=format",
+      "topics": [
+        "Social Media",
+        "Marketing automation",
+        "Social media marketing"
       ]
     },
     {
@@ -227,18 +239,6 @@
         "Sales",
         "Marketing",
         "Growth Hacking"
-      ]
-    },
-    {
-      "name": "SpeakON",
-      "desc": "A MagSafe AI device for a post-keyboard world",
-      "votes": 469,
-      "url": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/f1214872-bea3-470c-9846-1f227e0cb14f.png?auto=format",
-      "topics": [
-        "Hardware",
-        "Accessories",
-        "Apple"
       ]
     }
   ]
