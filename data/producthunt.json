@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "items": [
     {
       "name": "Brila",
@@ -16,7 +16,7 @@
     {
       "name": "Fathom 3.0",
       "desc": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "votes": 765,
+      "votes": 766,
       "url": "https://www.producthunt.com/products/fathom/launches/fathom-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png?auto=format",
       "topics": [
@@ -26,21 +26,9 @@
       ]
     },
     {
-      "name": "ProdShort",
-      "desc": "Turn meetings into ready-to-post shorts and posts",
-      "votes": 716,
-      "url": "https://www.producthunt.com/products/prodshort/launches/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif?auto=format",
-      "topics": [
-        "Social Media",
-        "Meetings",
-        "Alpha"
-      ]
-    },
-    {
       "name": "Plurai",
       "desc": "Vibe-train evals and guardrails tailored to your use case",
-      "votes": 715,
+      "votes": 720,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -50,9 +38,21 @@
       ]
     },
     {
+      "name": "ProdShort",
+      "desc": "Turn meetings into ready-to-post shorts and posts",
+      "votes": 717,
+      "url": "https://www.producthunt.com/products/prodshort/launches/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif?auto=format",
+      "topics": [
+        "Social Media",
+        "Meetings",
+        "Alpha"
+      ]
+    },
+    {
       "name": "Clera",
       "desc": "An AI agent matching candidates to the right roles.",
-      "votes": 683,
+      "votes": 687,
       "url": "https://www.producthunt.com/products/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a2fa137-8e23-48c5-8d2e-15b3bd2c03df.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Velo",
       "desc": "Share anything as video messages",
-      "votes": 664,
+      "votes": 667,
       "url": "https://www.producthunt.com/products/velo-4/launches/velo-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Open Wearables",
       "desc": "Open infrastructure for wearable-powered health products.",
-      "votes": 615,
+      "votes": 618,
       "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
       "topics": [
@@ -112,7 +112,7 @@
     {
       "name": "RankAI",
       "desc": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes": 600,
+      "votes": 601,
       "url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
       "topics": [
@@ -206,6 +206,18 @@
       ]
     },
     {
+      "name": "Postiz",
+      "desc": "Agentic social media scheduler for agents like OpenClaw",
+      "votes": 498,
+      "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/ca5dbb32-5827-4432-bbbd-6d539429940d.png?auto=format",
+      "topics": [
+        "Social Media",
+        "Marketing automation",
+        "Social media marketing"
+      ]
+    },
+    {
       "name": "Build Check",
       "desc": "Is your app idea actually worth building?",
       "votes": 493,
@@ -218,21 +230,9 @@
       ]
     },
     {
-      "name": "Postiz",
-      "desc": "Agentic social media scheduler for agents like OpenClaw",
-      "votes": 493,
-      "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/ca5dbb32-5827-4432-bbbd-6d539429940d.png?auto=format",
-      "topics": [
-        "Social Media",
-        "Marketing automation",
-        "Social media marketing"
-      ]
-    },
-    {
       "name": "Orange Slice",
       "desc": "Automate any sales task with AI",
-      "votes": 478,
+      "votes": 479,
       "url": "https://www.producthunt.com/products/orange-slice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfcb3526-46fc-4484-ad17-c217e76efcc1.png?auto=format",
       "topics": [
