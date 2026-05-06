@@ -4,128 +4,128 @@
     {
       "name": "Hmbown/DeepSeek-TUI",
       "desc": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": "6587",
-      "today": "2,389 stars today",
+      "stars": "10995",
+      "today": "2,434 stars today",
       "language": "Rust",
       "url": "https://github.com/Hmbown/DeepSeek-TUI"
     },
     {
       "name": "ruvnet/ruflo",
       "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": "43083",
-      "today": "2,441 stars today",
+      "stars": "44565",
+      "today": "2,432 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ruvnet/ruflo"
     },
     {
       "name": "virattt/dexter",
       "desc": "An autonomous agent for deep financial research",
-      "stars": "23617",
-      "today": "660 stars today",
+      "stars": "24087",
+      "today": "659 stars today",
       "language": "TypeScript",
       "url": "https://github.com/virattt/dexter"
     },
     {
       "name": "docusealco/docuseal",
       "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "stars": "13805",
-      "today": "929 stars today",
+      "stars": "14312",
+      "today": "927 stars today",
       "language": "Ruby",
       "url": "https://github.com/docusealco/docuseal"
     },
     {
       "name": "bwya77/vscode-dark-islands",
       "desc": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": "7715",
-      "today": "665 stars today",
+      "stars": "8053",
+      "today": "321 stars today",
       "language": "PowerShell",
       "url": "https://github.com/bwya77/vscode-dark-islands"
     },
     {
       "name": "mksglu/context-mode",
       "desc": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-      "stars": "12861",
-      "today": "344 stars today",
+      "stars": "13430",
+      "today": "276 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mksglu/context-mode"
     },
     {
       "name": "cocoindex-io/cocoindex",
       "desc": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "stars": "8298",
-      "today": "434 stars today",
+      "stars": "8567",
+      "today": "438 stars today",
       "language": "Python",
       "url": "https://github.com/cocoindex-io/cocoindex"
     },
     {
       "name": "msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "93410",
-      "today": "1,228 stars today",
+      "stars": "94111",
+      "today": "1,218 stars today",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "jwasham/coding-interview-university",
       "desc": "A complete computer science study plan to become a software engineer.",
-      "stars": "345659",
-      "today": "497 stars today",
+      "stars": "346124",
+      "today": "366 stars today",
       "language": "",
       "url": "https://github.com/jwasham/coding-interview-university"
     },
     {
       "name": "D4Vinci/Scrapling",
       "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": "44891",
-      "today": "915 stars today",
+      "stars": "45614",
+      "today": "914 stars today",
       "language": "Python",
       "url": "https://github.com/D4Vinci/Scrapling"
     },
     {
       "name": "Arindam200/awesome-ai-apps",
       "desc": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
-      "stars": "11095",
-      "today": "170 stars today",
+      "stars": "11738",
+      "today": "211 stars today",
       "language": "Python",
       "url": "https://github.com/Arindam200/awesome-ai-apps"
     },
     {
       "name": "AIDC-AI/Pixelle-Video",
       "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "stars": "11513",
-      "today": "724 stars today",
+      "stars": "12485",
+      "today": "691 stars today",
       "language": "Python",
       "url": "https://github.com/AIDC-AI/Pixelle-Video"
     },
     {
       "name": "LearningCircuit/local-deep-research",
       "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-      "stars": "5021",
-      "today": "200 stars today",
+      "stars": "5387",
+      "today": "197 stars today",
       "language": "Python",
       "url": "https://github.com/LearningCircuit/local-deep-research"
     },
     {
       "name": "browserbase/skills",
       "desc": "Claude Agent SDK with a web browsing tool",
-      "stars": "2313",
-      "today": "313 stars today",
+      "stars": "2515",
+      "today": "311 stars today",
       "language": "JavaScript",
       "url": "https://github.com/browserbase/skills"
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "113417",
-      "today": "2,829 stars today",
+      "stars": "115453",
+      "today": "2,409 stars today",
       "language": "",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
       "name": "PriorLabs/TabPFN",
       "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-      "stars": "6318",
-      "today": "41 stars today",
+      "stars": "6459",
+      "today": "57 stars today",
       "language": "Python",
       "url": "https://github.com/PriorLabs/TabPFN"
     }
