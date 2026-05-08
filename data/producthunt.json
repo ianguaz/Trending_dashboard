@@ -4,7 +4,7 @@
     {
       "name": "Brila",
       "desc": "One-page websites from real Google Maps reviews",
-      "votes": 1317,
+      "votes": 1319,
       "url": "https://www.producthunt.com/products/brila-2/launches/brila-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6e8a39c7-ec23-46e5-9962-0ad93d097fc0.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Fathom 3.0",
       "desc": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "votes": 771,
+      "votes": 772,
       "url": "https://www.producthunt.com/products/fathom/launches/fathom-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "ProdShort",
       "desc": "Turn meetings into ready-to-post shorts and posts",
-      "votes": 719,
+      "votes": 722,
       "url": "https://www.producthunt.com/products/prodshort/launches/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Clera",
       "desc": "An AI agent matching candidates to the right roles.",
-      "votes": 701,
+      "votes": 702,
       "url": "https://www.producthunt.com/products/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a2fa137-8e23-48c5-8d2e-15b3bd2c03df.png?auto=format",
       "topics": [
@@ -62,21 +62,9 @@
       ]
     },
     {
-      "name": "Velo",
-      "desc": "Share anything as video messages",
-      "votes": 675,
-      "url": "https://www.producthunt.com/products/velo-4/launches/velo-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Video"
-      ]
-    },
-    {
       "name": "Dune",
       "desc": "Context-aware Mac keypad to automate workflows + meetings",
-      "votes": 629,
+      "votes": 628,
       "url": "https://www.producthunt.com/products/dune-4/launches/dune-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/56eb5fd7-684a-4fe5-aa2a-5333fd5b579b.jpeg?auto=format",
       "topics": [
@@ -88,12 +76,24 @@
     {
       "name": "Open Wearables",
       "desc": "Open infrastructure for wearable-powered health products.",
-      "votes": 621,
+      "votes": 623,
       "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
       "topics": [
         "Open Source",
         "Wearables",
+        "Developer Tools"
+      ]
+    },
+    {
+      "name": "Kilo Code v7 for VS Code",
+      "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
+      "votes": 614,
+      "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
+      "topics": [
+        "Open Source",
+        "Software Engineering",
         "Developer Tools"
       ]
     },
@@ -110,18 +110,6 @@
       ]
     },
     {
-      "name": "Kilo Code v7 for VS Code",
-      "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes": 605,
-      "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
-      "topics": [
-        "Open Source",
-        "Software Engineering",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "Claude Code Routines",
       "desc": "Put Claude Code tasks on autopilot with smart routines",
       "votes": 592,
@@ -134,18 +122,6 @@
       ]
     },
     {
-      "name": "Figma for Agents",
-      "desc": "Design with AI agents, connected to your design system",
-      "votes": 589,
-      "url": "https://www.producthunt.com/products/figma-for-agents/launches/figma-for-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/83173f69-96c2-42be-bc07-193504c2b761.png?auto=format",
-      "topics": [
-        "Design Tools",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Offsite",
       "desc": "Build teams of humans and agents, watch them work.",
       "votes": 589,
@@ -155,6 +131,18 @@
         "Web App",
         "Artificial Intelligence",
         "Alpha"
+      ]
+    },
+    {
+      "name": "Figma for Agents",
+      "desc": "Design with AI agents, connected to your design system",
+      "votes": 589,
+      "url": "https://www.producthunt.com/products/figma-for-agents/launches/figma-for-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/83173f69-96c2-42be-bc07-193504c2b761.png?auto=format",
+      "topics": [
+        "Design Tools",
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -173,7 +161,7 @@
       "name": "Ask Product Hunt AI",
       "desc": "Find the right product, just ask",
       "votes": 579,
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "url": "https://www.producthunt.com/products/producthunt/launches/ask-product-hunt-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
         "Productivity",
@@ -196,7 +184,7 @@
     {
       "name": "Velo 2.0",
       "desc": "Instantly turn your voice and screen into shareable videos",
-      "votes": 563,
+      "votes": 568,
       "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -208,7 +196,7 @@
     {
       "name": "Claude Design by Anthropic Labs",
       "desc": "Make prototypes, slides & one-pagers by talking to Claude",
-      "votes": 543,
+      "votes": 544,
       "url": "https://www.producthunt.com/products/claude/launches/claude-design-by-anthropic-labs-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png?auto=format",
       "topics": [
@@ -220,7 +208,7 @@
     {
       "name": "Postiz",
       "desc": "Agentic social media scheduler for agents like OpenClaw",
-      "votes": 531,
+      "votes": 533,
       "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ca5dbb32-5827-4432-bbbd-6d539429940d.png?auto=format",
       "topics": [
@@ -230,9 +218,21 @@
       ]
     },
     {
+      "name": "Shadow 2.0",
+      "desc": "The work your meetings create, done before they end",
+      "votes": 499,
+      "url": "https://www.producthunt.com/products/shadow-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Meetings",
+        "YC Application"
+      ]
+    },
+    {
       "name": "Build Check",
       "desc": "Is your app idea actually worth building?",
-      "votes": 494,
+      "votes": 493,
       "url": "https://www.producthunt.com/products/build-check-for-outsiders/launches/build-check?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/befdc559-f978-47c1-bc72-40d445779b24.png?auto=format",
       "topics": [
