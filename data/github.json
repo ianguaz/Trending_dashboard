@@ -1,101 +1,101 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "items": [
     {
       "name": "anthropics/financial-services",
       "desc": "",
-      "stars": "13046",
-      "today": "1,343 stars today",
+      "stars": "14292",
+      "today": "3,662 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services"
     },
     {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars": "34729",
+      "today": "1,794 stars today",
+      "language": "Shell",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
       "name": "Hmbown/DeepSeek-TUI",
       "desc": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": "20683",
-      "today": "5,799 stars today",
+      "stars": "21507",
+      "today": "3,827 stars today",
       "language": "Rust",
       "url": "https://github.com/Hmbown/DeepSeek-TUI"
     },
     {
       "name": "z-lab/dflash",
       "desc": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "stars": "3620",
-      "today": "671 stars today",
+      "stars": "3757",
+      "today": "388 stars today",
       "language": "Python",
       "url": "https://github.com/z-lab/dflash"
     },
     {
-      "name": "InsForge/InsForge",
-      "desc": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
-      "stars": "9015",
-      "today": "460 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/InsForge/InsForge"
-    },
-    {
-      "name": "LearningCircuit/local-deep-research",
-      "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-      "stars": "6485",
-      "today": "559 stars today",
-      "language": "Python",
-      "url": "https://github.com/LearningCircuit/local-deep-research"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "33657",
-      "today": "3,062 stars today",
-      "language": "Shell",
-      "url": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "name": "VectifyAI/PageIndex",
-      "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stars": "29886",
-      "today": "943 stars today",
-      "language": "Python",
-      "url": "https://github.com/VectifyAI/PageIndex"
-    },
-    {
-      "name": "vercel-labs/open-agents",
-      "desc": "An open source template for building cloud agents.",
-      "stars": "5172",
-      "today": "131 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/open-agents"
-    },
-    {
-      "name": "docusealco/docuseal",
-      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "stars": "15794",
-      "today": "900 stars today",
-      "language": "Ruby",
-      "url": "https://github.com/docusealco/docuseal"
-    },
-    {
       "name": "decolua/9router",
-      "desc": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": "4981",
-      "today": "149 stars today",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars": "5368",
+      "today": "1,028 stars today",
       "language": "JavaScript",
       "url": "https://github.com/decolua/9router"
     },
     {
-      "name": "PriorLabs/TabPFN",
-      "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-      "stars": "6860",
-      "today": "230 stars today",
+      "name": "CloakHQ/CloakBrowser",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars": "2713",
+      "today": "482 stars today",
       "language": "Python",
-      "url": "https://github.com/PriorLabs/TabPFN"
+      "url": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
-      "name": "aaif-goose/goose",
-      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "44658",
-      "today": "390 stars today",
-      "language": "Rust",
-      "url": "https://github.com/aaif-goose/goose"
+      "name": "awslabs/aidlc-workflows",
+      "desc": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "stars": "1675",
+      "today": "92 stars today",
+      "language": "Python",
+      "url": "https://github.com/awslabs/aidlc-workflows"
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "desc": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars": "14463",
+      "today": "189 stars today",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/AI-Trader"
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "stars": "6628",
+      "today": "572 stars today",
+      "language": "Python",
+      "url": "https://github.com/LearningCircuit/local-deep-research"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": "76370",
+      "today": "74 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/lobehub/lobehub"
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": "44447",
+      "today": "645 stars today",
+      "language": "Python",
+      "url": "https://github.com/datawhalechina/hello-agents"
+    },
+    {
+      "name": "flutter/skills",
+      "desc": "",
+      "stars": "1582",
+      "today": "68 stars today",
+      "language": "Dart",
+      "url": "https://github.com/flutter/skills"
     }
   ]
 }
