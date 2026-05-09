@@ -4,96 +4,96 @@
     {
       "name": "anthropics/financial-services",
       "desc": "",
-      "stars": "14292",
-      "today": "3,662 stars today",
+      "stars": "16348",
+      "today": "3,660 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services"
     },
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "34729",
-      "today": "1,794 stars today",
+      "stars": "36563",
+      "today": "1,893 stars today",
       "language": "Shell",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "Hmbown/DeepSeek-TUI",
       "desc": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": "21507",
-      "today": "3,827 stars today",
+      "stars": "22614",
+      "today": "3,731 stars today",
       "language": "Rust",
       "url": "https://github.com/Hmbown/DeepSeek-TUI"
     },
     {
       "name": "z-lab/dflash",
       "desc": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "stars": "3757",
-      "today": "388 stars today",
+      "stars": "3957",
+      "today": "379 stars today",
       "language": "Python",
       "url": "https://github.com/z-lab/dflash"
     },
     {
       "name": "decolua/9router",
       "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": "5368",
-      "today": "1,028 stars today",
+      "stars": "6020",
+      "today": "1,052 stars today",
       "language": "JavaScript",
       "url": "https://github.com/decolua/9router"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": "2713",
-      "today": "482 stars today",
+      "stars": "3567",
+      "today": "526 stars today",
       "language": "Python",
       "url": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
       "name": "awslabs/aidlc-workflows",
       "desc": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-      "stars": "1675",
-      "today": "92 stars today",
+      "stars": "1867",
+      "today": "58 stars today",
       "language": "Python",
       "url": "https://github.com/awslabs/aidlc-workflows"
     },
     {
       "name": "HKUDS/AI-Trader",
       "desc": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "stars": "14463",
-      "today": "189 stars today",
+      "stars": "14980",
+      "today": "202 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/AI-Trader"
     },
     {
       "name": "LearningCircuit/local-deep-research",
       "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-      "stars": "6628",
-      "today": "572 stars today",
+      "stars": "6876",
+      "today": "559 stars today",
       "language": "Python",
       "url": "https://github.com/LearningCircuit/local-deep-research"
     },
     {
       "name": "lobehub/lobehub",
       "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-      "stars": "76370",
-      "today": "74 stars today",
+      "stars": "76675",
+      "today": "125 stars today",
       "language": "TypeScript",
       "url": "https://github.com/lobehub/lobehub"
     },
     {
       "name": "datawhalechina/hello-agents",
       "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": "44447",
-      "today": "645 stars today",
+      "stars": "45225",
+      "today": "667 stars today",
       "language": "Python",
       "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
       "name": "flutter/skills",
       "desc": "",
-      "stars": "1582",
-      "today": "68 stars today",
+      "stars": "1807",
+      "today": "118 stars today",
       "language": "Dart",
       "url": "https://github.com/flutter/skills"
     }
