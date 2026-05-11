@@ -16,7 +16,7 @@
     {
       "name": "Plurai",
       "desc": "Vibe-train evals and guardrails tailored to your use case",
-      "votes": 745,
+      "votes": 747,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Clera",
       "desc": "An AI agent matching candidates to the right roles.",
-      "votes": 712,
+      "votes": 715,
       "url": "https://www.producthunt.com/products/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a2fa137-8e23-48c5-8d2e-15b3bd2c03df.png?auto=format",
       "topics": [
@@ -38,21 +38,9 @@
       ]
     },
     {
-      "name": "Dune",
-      "desc": "Context-aware Mac keypad to automate workflows + meetings",
-      "votes": 634,
-      "url": "https://www.producthunt.com/products/dune-4/launches/dune-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/56eb5fd7-684a-4fe5-aa2a-5333fd5b579b.jpeg?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Development"
-      ]
-    },
-    {
       "name": "Kilo Code v7 for VS Code",
       "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes": 632,
+      "votes": 642,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
       "topics": [
@@ -62,9 +50,21 @@
       ]
     },
     {
+      "name": "Dune",
+      "desc": "Context-aware Mac keypad to automate workflows + meetings",
+      "votes": 636,
+      "url": "https://www.producthunt.com/products/dune-4/launches/dune-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/56eb5fd7-684a-4fe5-aa2a-5333fd5b579b.jpeg?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Development"
+      ]
+    },
+    {
       "name": "Open Wearables",
       "desc": "Open infrastructure for wearable-powered health products.",
-      "votes": 628,
+      "votes": 631,
       "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
       "topics": [
@@ -86,6 +86,30 @@
       ]
     },
     {
+      "name": "RankSpot",
+      "desc": "AI SEO Blog driven by deep competitor intelligence",
+      "votes": 603,
+      "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/f216213c-b209-4651-ad21-a7a60d635c46.png?auto=format",
+      "topics": [
+        "Marketing",
+        "SEO",
+        "YC Application"
+      ]
+    },
+    {
+      "name": "Figma for Agents",
+      "desc": "Design with AI agents, connected to your design system",
+      "votes": 591,
+      "url": "https://www.producthunt.com/products/figma-for-agents/launches/figma-for-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/83173f69-96c2-42be-bc07-193504c2b761.png?auto=format",
+      "topics": [
+        "Design Tools",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Claude Code Routines",
       "desc": "Put Claude Code tasks on autopilot with smart routines",
       "votes": 589,
@@ -98,27 +122,15 @@
       ]
     },
     {
-      "name": "Figma for Agents",
-      "desc": "Design with AI agents, connected to your design system",
-      "votes": 589,
-      "url": "https://www.producthunt.com/products/figma-for-agents/launches/figma-for-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/83173f69-96c2-42be-bc07-193504c2b761.png?auto=format",
+      "name": "Velo 2.0",
+      "desc": "Instantly turn your voice and screen into shareable videos",
+      "votes": 585,
+      "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
-        "Design Tools",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "RankSpot",
-      "desc": "AI SEO Blog driven by deep competitor intelligence",
-      "votes": 588,
-      "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/f216213c-b209-4651-ad21-a7a60d635c46.png?auto=format",
-      "topics": [
-        "Marketing",
-        "SEO",
-        "YC Application"
+        "Productivity",
+        "Sales",
+        "Video"
       ]
     },
     {
@@ -131,18 +143,6 @@
         "Productivity",
         "Artificial Intelligence",
         "Product Hunt"
-      ]
-    },
-    {
-      "name": "Velo 2.0",
-      "desc": "Instantly turn your voice and screen into shareable videos",
-      "votes": 584,
-      "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Sales",
-        "Video"
       ]
     },
     {
@@ -172,7 +172,7 @@
     {
       "name": "Postiz",
       "desc": "Agentic social media scheduler for agents like OpenClaw",
-      "votes": 543,
+      "votes": 546,
       "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ca5dbb32-5827-4432-bbbd-6d539429940d.png?auto=format",
       "topics": [
@@ -184,7 +184,7 @@
     {
       "name": "Claude Design by Anthropic Labs",
       "desc": "Make prototypes, slides & one-pagers by talking to Claude",
-      "votes": 542,
+      "votes": 543,
       "url": "https://www.producthunt.com/products/claude/launches/claude-design-by-anthropic-labs-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png?auto=format",
       "topics": [
@@ -196,7 +196,7 @@
     {
       "name": "Shadow 2.0",
       "desc": "The work your meetings create, done before they end",
-      "votes": 522,
+      "votes": 523,
       "url": "https://www.producthunt.com/products/shadow-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png?auto=format",
       "topics": [
@@ -231,8 +231,8 @@
     {
       "name": "Orange Slice",
       "desc": "Automate any sales task with AI",
-      "votes": 489,
-      "url": "https://www.producthunt.com/products/orange-slice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 491,
+      "url": "https://www.producthunt.com/products/orange-slice/launches/orange-slice-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfcb3526-46fc-4484-ad17-c217e76efcc1.png?auto=format",
       "topics": [
         "Sales",
