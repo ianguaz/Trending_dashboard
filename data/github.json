@@ -4,7 +4,7 @@
     {
       "name": "bytedance/UI-TARS-desktop",
       "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "stars": "32873",
+      "stars": "33385",
       "today": "956 stars today",
       "language": "TypeScript",
       "url": "https://github.com/bytedance/UI-TARS-desktop"
@@ -12,96 +12,96 @@
     {
       "name": "CloakHQ/CloakBrowser",
       "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": "5852",
-      "today": "1,325 stars today",
+      "stars": "6961",
+      "today": "1,320 stars today",
       "language": "Python",
       "url": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
       "name": "yikart/AiToEarn",
       "desc": "Let's use AI to Earn!",
-      "stars": "10572",
-      "today": "595 stars today",
+      "stars": "11432",
+      "today": "427 stars today",
       "language": "TypeScript",
       "url": "https://github.com/yikart/AiToEarn"
     },
     {
       "name": "playcanvas/supersplat",
       "desc": "3D Gaussian Splat Editor",
-      "stars": "7215",
-      "today": "533 stars today",
+      "stars": "7594",
+      "today": "531 stars today",
       "language": "TypeScript",
       "url": "https://github.com/playcanvas/supersplat"
     },
     {
       "name": "datawhalechina/easy-vibe",
       "desc": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "stars": "9787",
-      "today": "808 stars today",
+      "stars": "10330",
+      "today": "812 stars today",
       "language": "JavaScript",
       "url": "https://github.com/datawhalechina/easy-vibe"
     },
     {
       "name": "decolua/9router",
       "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": "8111",
-      "today": "942 stars today",
+      "stars": "8888",
+      "today": "941 stars today",
       "language": "JavaScript",
       "url": "https://github.com/decolua/9router"
     },
     {
       "name": "tinyhumansai/openhuman",
       "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": "1221",
-      "today": "501 stars today",
+      "stars": "1915",
+      "today": "366 stars today",
       "language": "Rust",
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "millionco/react-doctor",
       "desc": "Your agent writes bad React. This catches it",
-      "stars": "7861",
-      "today": "340 stars today",
+      "stars": "8380",
+      "today": "212 stars today",
       "language": "TypeScript",
       "url": "https://github.com/millionco/react-doctor"
     },
     {
       "name": "Lordog/dive-into-llms",
       "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": "37250",
-      "today": "451 stars today",
+      "stars": "37570",
+      "today": "422 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
       "name": "AUTOMATIC1111/stable-diffusion-webui",
       "desc": "Stable Diffusion web UI",
-      "stars": "162871",
-      "today": "29 stars today",
+      "stars": "162987",
+      "today": "39 stars today",
       "language": "Python",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
       "name": "rasbt/LLMs-from-scratch",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "92806",
-      "today": "408 stars today",
+      "stars": "93333",
+      "today": "337 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "name": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
-      "stars": "144352",
-      "today": "2,229 stars today",
+      "stars": "145966",
+      "today": "2,065 stars today",
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "rohitg00/agentmemory",
       "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": "4515",
-      "today": "604 stars today",
+      "stars": "5169",
+      "today": "430 stars today",
       "language": "TypeScript",
       "url": "https://github.com/rohitg00/agentmemory"
     }
