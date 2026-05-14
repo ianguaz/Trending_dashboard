@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "items": [
     {
       "name": "Fathom 3.0",
       "desc": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "votes": 783,
+      "votes": 785,
       "url": "https://www.producthunt.com/products/fathom/launches/fathom-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Clera",
       "desc": "An AI agent matching candidates to the right roles.",
-      "votes": 720,
+      "votes": 722,
       "url": "https://www.producthunt.com/products/clera/launches/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a2fa137-8e23-48c5-8d2e-15b3bd2c03df.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Kilo Code v7 for VS Code",
       "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes": 675,
+      "votes": 678,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
       "topics": [
@@ -50,21 +50,9 @@
       ]
     },
     {
-      "name": "Open Wearables",
-      "desc": "Open infrastructure for wearable-powered health products.",
-      "votes": 637,
-      "url": "https://www.producthunt.com/products/open-wearables/launches/open-wearables-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
-      "topics": [
-        "Open Source",
-        "Wearables",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "RankSpot",
       "desc": "AI SEO Blog driven by deep competitor intelligence",
-      "votes": 636,
+      "votes": 639,
       "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f216213c-b209-4651-ad21-a7a60d635c46.png?auto=format",
       "topics": [
@@ -74,9 +62,21 @@
       ]
     },
     {
+      "name": "Open Wearables",
+      "desc": "Open infrastructure for wearable-powered health products.",
+      "votes": 636,
+      "url": "https://www.producthunt.com/products/open-wearables/launches/open-wearables-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
+      "topics": [
+        "Open Source",
+        "Wearables",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "Dune",
       "desc": "Context-aware Mac keypad to automate workflows + meetings",
-      "votes": 634,
+      "votes": 635,
       "url": "https://www.producthunt.com/products/dune-4/launches/dune-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/56eb5fd7-684a-4fe5-aa2a-5333fd5b579b.jpeg?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Velo 2.0",
       "desc": "Instantly turn your voice and screen into shareable videos",
-      "votes": 605,
+      "votes": 608,
       "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "RankAI",
       "desc": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes": 601,
+      "votes": 602,
       "url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
       "topics": [
@@ -112,7 +112,7 @@
     {
       "name": "Claude Code Routines",
       "desc": "Put Claude Code tasks on autopilot with smart routines",
-      "votes": 589,
+      "votes": 592,
       "url": "https://www.producthunt.com/products/claude/launches/claude-code-routines?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a30335cf-101f-4d48-ab16-ba198026df3e.png?auto=format",
       "topics": [
@@ -134,6 +134,18 @@
       ]
     },
     {
+      "name": "Claude Opus 4.7",
+      "desc": "Claude’s most capable model for reasoning and agentic coding",
+      "votes": 583,
+      "url": "https://www.producthunt.com/products/claude-opus-4-7/launches/claude-opus-4-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d142c81e-10f2-40c2-a5ab-8659ee6ad8d9.png?auto=format",
+      "topics": [
+        "API",
+        "Artificial Intelligence",
+        "Development"
+      ]
+    },
+    {
       "name": "Claude Code Desktop App Redesigned",
       "desc": "Run parallel coding agents from one desktop workspace",
       "votes": 583,
@@ -146,21 +158,9 @@
       ]
     },
     {
-      "name": "Claude Opus 4.7",
-      "desc": "Claude’s most capable model for reasoning and agentic coding",
-      "votes": 582,
-      "url": "https://www.producthunt.com/products/claude-opus-4-7/launches/claude-opus-4-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/d142c81e-10f2-40c2-a5ab-8659ee6ad8d9.png?auto=format",
-      "topics": [
-        "API",
-        "Artificial Intelligence",
-        "Development"
-      ]
-    },
-    {
       "name": "Postiz",
       "desc": "Agentic social media scheduler for agents like OpenClaw",
-      "votes": 557,
+      "votes": 558,
       "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ca5dbb32-5827-4432-bbbd-6d539429940d.png?auto=format",
       "topics": [
@@ -184,13 +184,25 @@
     {
       "name": "Shadow 2.0",
       "desc": "The work your meetings create, done before they end",
-      "votes": 532,
+      "votes": 535,
       "url": "https://www.producthunt.com/products/shadow-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png?auto=format",
       "topics": [
         "Productivity",
         "Meetings",
         "YC Application"
+      ]
+    },
+    {
+      "name": "FlowMarket",
+      "desc": "A social network of AI agents generating B2B deals",
+      "votes": 504,
+      "url": "https://www.producthunt.com/products/flowmarket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/a6f8e653-be2e-4aff-b85c-e79eff824864.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -205,15 +217,15 @@
       ]
     },
     {
-      "name": "FlowMarket",
-      "desc": "A social network of AI agents generating B2B deals",
-      "votes": 502,
-      "url": "https://www.producthunt.com/products/flowmarket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/a6f8e653-be2e-4aff-b85c-e79eff824864.png?auto=format",
+      "name": "Kelviq",
+      "desc": "Payments, tax, and billing for SaaS & AI companies",
+      "votes": 499,
+      "url": "https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
       "topics": [
-        "Sales",
-        "Marketing",
-        "Artificial Intelligence"
+        "Payments",
+        "SaaS",
+        "Developer Tools"
       ]
     },
     {
@@ -226,17 +238,6 @@
         "No-Code",
         "Vibe coding",
         "Vercel Day"
-      ]
-    },
-    {
-      "name": "Hera Launch",
-      "desc": "Create studio-quality launch videos with AI",
-      "votes": 492,
-      "url": "https://www.producthunt.com/products/hera-6/launches/hera-launch-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/3755c965-4852-47ba-8523-671f0b3c5057.png?auto=format",
-      "topics": [
-        "Design Tools",
-        "Artificial Intelligence"
       ]
     }
   ]
