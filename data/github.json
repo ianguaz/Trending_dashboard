@@ -4,63 +4,63 @@
     {
       "name": "tinyhumansai/openhuman",
       "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": "8738",
-      "today": "1,272 stars today",
+      "stars": "9670",
+      "today": "1,271 stars today",
       "language": "Rust",
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "192509",
-      "today": "1,646 stars today",
+      "stars": "193294",
+      "today": "1,648 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": "22286",
-      "today": "643 stars today",
+      "stars": "22699",
+      "today": "646 stars today",
       "language": "Python",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
       "name": "supertone-inc/supertonic",
       "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "stars": "5845",
-      "today": "712 stars today",
+      "stars": "6288",
+      "today": "719 stars today",
       "language": "Swift",
       "url": "https://github.com/supertone-inc/supertonic"
     },
     {
       "name": "ruvnet/RuView",
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "57196",
-      "today": "1,865 stars today",
+      "stars": "57781",
+      "today": "1,859 stars today",
       "language": "Rust",
       "url": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "influxdata/telegraf",
       "desc": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-      "stars": "17357",
-      "today": "213 stars today",
+      "stars": "17479",
+      "today": "212 stars today",
       "language": "Go",
       "url": "https://github.com/influxdata/telegraf"
     },
     {
       "name": "anthropics/skills",
       "desc": "Public repository for Agent Skills",
-      "stars": "134890",
-      "today": "625 stars today",
+      "stars": "135494",
+      "today": "689 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
     },
     {
       "name": "czlonkowski/n8n-mcp",
       "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "stars": "20809",
+      "stars": "20970",
       "today": "68 stars today",
       "language": "TypeScript",
       "url": "https://github.com/czlonkowski/n8n-mcp"
@@ -68,32 +68,32 @@
     {
       "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
       "desc": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-      "stars": "1073",
-      "today": "305 stars today",
+      "stars": "1259",
+      "today": "308 stars today",
       "language": "Python",
       "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
     },
     {
       "name": "oven-sh/bun",
       "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": "90541",
-      "today": "395 stars today",
+      "stars": "90704",
+      "today": "448 stars today",
       "language": "Rust",
       "url": "https://github.com/oven-sh/bun"
     },
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": "84504",
-      "today": "3,155 stars today",
+      "stars": "85712",
+      "today": "3,132 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "joeseesun/qiaomu-anything-to-notebooklm",
       "desc": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
-      "stars": "2566",
-      "today": "465 stars today",
+      "stars": "2907",
+      "today": "438 stars today",
       "language": "Python",
       "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm"
     }
