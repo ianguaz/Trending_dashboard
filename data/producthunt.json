@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "items": [
     {
       "name": "Plurai",
@@ -28,7 +28,7 @@
     {
       "name": "Kilo Code v7 for VS Code",
       "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes": 686,
+      "votes": 689,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "RankSpot",
       "desc": "AI SEO Blog driven by deep competitor intelligence",
-      "votes": 646,
+      "votes": 647,
       "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f216213c-b209-4651-ad21-a7a60d635c46.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Velo 2.0",
       "desc": "Instantly turn your voice and screen into shareable videos",
-      "votes": 613,
+      "votes": 614,
       "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -148,7 +148,7 @@
     {
       "name": "Shadow 2.0",
       "desc": "The work your meetings create, done before they end",
-      "votes": 539,
+      "votes": 540,
       "url": "https://www.producthunt.com/products/shadow-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png?auto=format",
       "topics": [
@@ -160,7 +160,7 @@
     {
       "name": "Spellar 3.0",
       "desc": "AI Meeting companion with cross-meeting memory",
-      "votes": 527,
+      "votes": 530,
       "url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif?auto=format",
       "topics": [
@@ -172,7 +172,7 @@
     {
       "name": "FlowMarket",
       "desc": "A social network of AI agents generating B2B deals",
-      "votes": 516,
+      "votes": 518,
       "url": "https://www.producthunt.com/products/flowmarket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a6f8e653-be2e-4aff-b85c-e79eff824864.png?auto=format",
       "topics": [
@@ -184,7 +184,7 @@
     {
       "name": "Kanwas",
       "desc": "An open-source brain for your team",
-      "votes": 505,
+      "votes": 506,
       "url": "https://www.producthunt.com/products/kanwas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e4a685d6-1b32-49fb-810f-ec28ddd4674c.png?auto=format",
       "topics": [
@@ -193,27 +193,27 @@
       ]
     },
     {
-      "name": "Kelviq",
-      "desc": "Payments, tax, and billing for SaaS & AI companies",
-      "votes": 504,
-      "url": "https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
-      "topics": [
-        "Payments",
-        "SaaS",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "Build Check",
       "desc": "Is your app idea actually worth building?",
-      "votes": 502,
+      "votes": 503,
       "url": "https://www.producthunt.com/products/build-check-for-outsiders/launches/build-check?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/befdc559-f978-47c1-bc72-40d445779b24.png?auto=format",
       "topics": [
         "No-Code",
         "Vibe coding",
         "Vercel Day"
+      ]
+    },
+    {
+      "name": "Kelviq",
+      "desc": "Payments, tax, and billing for SaaS & AI companies",
+      "votes": 503,
+      "url": "https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
+      "topics": [
+        "Payments",
+        "SaaS",
+        "Developer Tools"
       ]
     },
     {
@@ -231,7 +231,7 @@
     {
       "name": "Hera Launch",
       "desc": "Create studio-quality launch videos with AI",
-      "votes": 492,
+      "votes": 490,
       "url": "https://www.producthunt.com/products/hera-6/launches/hera-launch-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3755c965-4852-47ba-8523-671f0b3c5057.png?auto=format",
       "topics": [
