@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "items": [
     {
       "name": "Plurai",
       "desc": "Vibe-train evals and guardrails tailored to your use case",
-      "votes": 759,
+      "votes": 762,
       "url": "https://www.producthunt.com/products/plurai/launches/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Kilo Code v7 for VS Code",
       "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes": 692,
+      "votes": 694,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "RankSpot",
       "desc": "AI SEO Blog driven by deep competitor intelligence",
-      "votes": 651,
+      "votes": 655,
       "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f216213c-b209-4651-ad21-a7a60d635c46.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Open Wearables",
       "desc": "Open infrastructure for wearable-powered health products.",
-      "votes": 640,
+      "votes": 641,
       "url": "https://www.producthunt.com/products/open-wearables/launches/open-wearables-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Dune",
       "desc": "Context-aware Mac keypad to automate workflows + meetings",
-      "votes": 638,
+      "votes": 639,
       "url": "https://www.producthunt.com/products/dune-4/launches/dune-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/56eb5fd7-684a-4fe5-aa2a-5333fd5b579b.jpeg?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Velo 2.0",
       "desc": "Instantly turn your voice and screen into shareable videos",
-      "votes": 617,
+      "votes": 618,
       "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "RankAI",
       "desc": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes": 603,
+      "votes": 605,
       "url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "Ask Product Hunt AI",
       "desc": "Find the right product, just ask",
-      "votes": 592,
+      "votes": 593,
       "url": "https://www.producthunt.com/products/producthunt/launches/ask-product-hunt-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -134,33 +134,9 @@
       ]
     },
     {
-      "name": "Shadow 2.0",
-      "desc": "The work your meetings create, done before they end",
-      "votes": 541,
-      "url": "https://www.producthunt.com/products/shadow-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Meetings",
-        "YC Application"
-      ]
-    },
-    {
-      "name": "Spellar 3.0",
-      "desc": "AI Meeting companion with cross-meeting memory",
-      "votes": 540,
-      "url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif?auto=format",
-      "topics": [
-        "Productivity",
-        "Meetings",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "OpenHuman",
       "desc": "An open source AI harness built with the human in mind",
-      "votes": 521,
+      "votes": 543,
       "url": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/918b11cd-52e9-4f01-8f82-de1b756957cd.png?auto=format",
       "topics": [
@@ -170,9 +146,33 @@
       ]
     },
     {
+      "name": "Spellar 3.0",
+      "desc": "AI Meeting companion with cross-meeting memory",
+      "votes": 543,
+      "url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif?auto=format",
+      "topics": [
+        "Productivity",
+        "Meetings",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Shadow 2.0",
+      "desc": "The work your meetings create, done before they end",
+      "votes": 543,
+      "url": "https://www.producthunt.com/products/shadow-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Meetings",
+        "YC Application"
+      ]
+    },
+    {
       "name": "FlowMarket",
       "desc": "A social network of AI agents generating B2B deals",
-      "votes": 518,
+      "votes": 520,
       "url": "https://www.producthunt.com/products/flowmarket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a6f8e653-be2e-4aff-b85c-e79eff824864.png?auto=format",
       "topics": [
@@ -182,9 +182,21 @@
       ]
     },
     {
+      "name": "Kelviq",
+      "desc": "Payments, tax, and billing for SaaS & AI companies",
+      "votes": 508,
+      "url": "https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
+      "topics": [
+        "Payments",
+        "SaaS",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "Kanwas",
       "desc": "An open-source brain for your team",
-      "votes": 506,
+      "votes": 507,
       "url": "https://www.producthunt.com/products/kanwas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e4a685d6-1b32-49fb-810f-ec28ddd4674c.png?auto=format",
       "topics": [
@@ -193,15 +205,27 @@
       ]
     },
     {
-      "name": "Kelviq",
-      "desc": "Payments, tax, and billing for SaaS & AI companies",
-      "votes": 504,
-      "url": "https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
+      "name": "articuler.ai",
+      "desc": "Describe your goal. Meet the right professional.",
+      "votes": 505,
+      "url": "https://www.producthunt.com/products/articuler-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c9c49bb8-f788-45ee-893c-f91f5df05bb4.png?auto=format",
       "topics": [
-        "Payments",
-        "SaaS",
-        "Developer Tools"
+        "Social Network",
+        "Career",
+        "Community"
+      ]
+    },
+    {
+      "name": "Naptick AI",
+      "desc": "Al sleep companion that helps fall asleep without struggle",
+      "votes": 498,
+      "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/768542e3-e0be-44b7-8547-cde9ad144423.jpeg?auto=format",
+      "topics": [
+        "Health & Fitness",
+        "Hardware",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -214,29 +238,6 @@
         "Sales",
         "Marketing",
         "Growth Hacking"
-      ]
-    },
-    {
-      "name": "Hera Launch",
-      "desc": "Create studio-quality launch videos with AI",
-      "votes": 490,
-      "url": "https://www.producthunt.com/products/hera-6/launches/hera-launch-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/3755c965-4852-47ba-8523-671f0b3c5057.png?auto=format",
-      "topics": [
-        "Design Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Naptick AI",
-      "desc": "Al sleep companion that helps fall asleep without struggle",
-      "votes": 489,
-      "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/768542e3-e0be-44b7-8547-cde9ad144423.jpeg?auto=format",
-      "topics": [
-        "Health & Fitness",
-        "Hardware",
-        "Artificial Intelligence"
       ]
     }
   ]
