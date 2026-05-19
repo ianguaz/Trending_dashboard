@@ -4,122 +4,146 @@
     {
       "name": "tinyhumansai/openhuman",
       "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": "16516",
-      "today": "3,945 stars today",
+      "stars": "19250",
+      "today": "3,941 stars today",
       "language": "Rust",
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
-      "name": "Imbad0202/academic-research-skills",
-      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": "11200",
-      "today": "1,302 stars today",
-      "language": "Python",
-      "url": "https://github.com/Imbad0202/academic-research-skills"
-    },
-    {
       "name": "HKUDS/CLI-Anything",
       "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": "36471",
-      "today": "1,047 stars today",
+      "stars": "37240",
+      "today": "1,049 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": "24286",
-      "today": "610 stars today",
+      "name": "Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": "13362",
+      "today": "1,439 stars today",
       "language": "Python",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+      "url": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
-      "name": "supertone-inc/supertonic",
-      "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "stars": "8196",
-      "today": "755 stars today",
-      "language": "Swift",
-      "url": "https://github.com/supertone-inc/supertonic"
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": "197604",
+      "today": "1,620 stars today",
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
     },
     {
-      "name": "ggml-org/llama.cpp",
-      "desc": "LLM inference in C/C++",
-      "stars": "110905",
-      "today": "283 stars today",
-      "language": "C++",
-      "url": "https://github.com/ggml-org/llama.cpp"
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "19771",
+      "today": "127 stars today",
+      "language": "Python",
+      "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
-      "name": "ruvnet/RuView",
-      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "59721",
-      "today": "704 stars today",
-      "language": "Rust",
-      "url": "https://github.com/ruvnet/RuView"
+      "name": "rohitg00/agentmemory",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars": "13504",
+      "today": "1,244 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/rohitg00/agentmemory"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": "14918",
-      "today": "1,391 stars today",
+      "stars": "15919",
+      "today": "1,420 stars today",
       "language": "Python",
       "url": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
-      "name": "tech-leads-club/agent-skills",
-      "desc": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "stars": "3926",
-      "today": "1,244 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/tech-leads-club/agent-skills"
+      "name": "rtk-ai/rtk",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": "50310",
+      "today": "667 stars today",
+      "language": "Rust",
+      "url": "https://github.com/rtk-ai/rtk"
     },
     {
-      "name": "BigBodyCobain/Shadowbroker",
-      "desc": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "stars": "7607",
-      "today": "768 stars today",
-      "language": "Python",
-      "url": "https://github.com/BigBodyCobain/Shadowbroker"
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "100586",
+      "today": "983 stars today",
+      "language": "Shell",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "stars": "5634",
+      "today": "952 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "136981",
+      "today": "2,014 stars today",
+      "language": "",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
       "name": "humanlayer/12-factor-agents",
       "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "stars": "20410",
-      "today": "359 stars today",
+      "stars": "20923",
+      "today": "399 stars today",
       "language": "TypeScript",
       "url": "https://github.com/humanlayer/12-factor-agents"
     },
     {
-      "name": "NVlabs/Sana",
-      "desc": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
-      "stars": "6406",
-      "today": "376 stars today",
+      "name": "Diolinux/PhotoGIMP",
+      "desc": "A Patch for GIMP 3+ for Photoshop Users",
+      "stars": "10342",
+      "today": "930 stars today",
+      "language": "CSS",
+      "url": "https://github.com/Diolinux/PhotoGIMP"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "stars": "25918",
+      "today": "543 stars today",
       "language": "Python",
-      "url": "https://github.com/NVlabs/Sana"
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "name": "pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "stars": "15685",
+      "today": "88 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/pascalorg/editor"
+    },
+    {
+      "name": "frappe/erpnext",
+      "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "stars": "34024",
+      "today": "65 stars today",
+      "language": "Python",
+      "url": "https://github.com/frappe/erpnext"
     },
     {
       "name": "microsoft/ai-agents-for-beginners",
       "desc": "12 Lessons to Get Started Building AI Agents",
-      "stars": "63296",
-      "today": "1,013 stars today",
+      "stars": "63859",
+      "today": "1,012 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/microsoft/ai-agents-for-beginners"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "desc": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": "36963",
-      "today": "290 stars today",
+      "name": "HKUDS/ViMax",
+      "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "stars": "5055",
+      "today": "504 stars today",
       "language": "Python",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
-    },
-    {
-      "name": "plausible/analytics",
-      "desc": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "stars": "25834",
-      "today": "637 stars today",
-      "language": "Elixir",
-      "url": "https://github.com/plausible/analytics"
+      "url": "https://github.com/HKUDS/ViMax"
     }
   ]
 }
