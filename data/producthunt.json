@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "items": [
     {
       "name": "Plurai",
       "desc": "Vibe-train evals and guardrails tailored to your use case",
-      "votes": 763,
+      "votes": 762,
       "url": "https://www.producthunt.com/products/plurai/launches/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Kilo Code v7 for VS Code",
       "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes": 700,
+      "votes": 712,
       "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-v7-for-vs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "RankSpot",
       "desc": "AI SEO Blog driven by deep competitor intelligence",
-      "votes": 656,
+      "votes": 657,
       "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f216213c-b209-4651-ad21-a7a60d635c46.png?auto=format",
       "topics": [
@@ -76,25 +76,13 @@
     {
       "name": "Velo 2.0",
       "desc": "Instantly turn your voice and screen into shareable videos",
-      "votes": 622,
+      "votes": 620,
       "url": "https://www.producthunt.com/products/velo-4/launches/velo-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
         "Productivity",
         "Sales",
         "Video"
-      ]
-    },
-    {
-      "name": "RankAI",
-      "desc": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes": 605,
-      "url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
-      "topics": [
-        "Marketing",
-        "SEO",
-        "Search"
       ]
     },
     {
@@ -107,6 +95,18 @@
         "Productivity",
         "Open Source",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "RankAI",
+      "desc": "RankAI autonomously gets you buyers from Google & AI Search",
+      "votes": 605,
+      "url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
+      "topics": [
+        "Marketing",
+        "SEO",
+        "Search"
       ]
     },
     {
@@ -172,7 +172,7 @@
     {
       "name": "articuler.ai",
       "desc": "Describe your goal. Meet the right professional.",
-      "votes": 520,
+      "votes": 521,
       "url": "https://www.producthunt.com/products/articuler-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9c49bb8-f788-45ee-893c-f91f5df05bb4.png?auto=format",
       "topics": [
@@ -184,7 +184,7 @@
     {
       "name": "Kelviq",
       "desc": "Payments, tax, and billing for SaaS & AI companies",
-      "votes": 517,
+      "votes": 516,
       "url": "https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
       "topics": [
@@ -207,7 +207,7 @@
     {
       "name": "Fere AI",
       "desc": "AI agents that turn signals into crypto + Polymarket trades",
-      "votes": 501,
+      "votes": 500,
       "url": "https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5614d8c2-3faa-4639-9a6e-57e55f40dfb9.png?auto=format",
       "topics": [
@@ -219,7 +219,7 @@
     {
       "name": "Orange Slice",
       "desc": "Automate any sales task with AI",
-      "votes": 496,
+      "votes": 497,
       "url": "https://www.producthunt.com/products/orange-slice/launches/orange-slice-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfcb3526-46fc-4484-ad17-c217e76efcc1.png?auto=format",
       "topics": [
@@ -231,7 +231,7 @@
     {
       "name": "Vivago Video Agent",
       "desc": "Skip the prompting. Produce consistently compelling videos. ",
-      "votes": 495,
+      "votes": 496,
       "url": "https://www.producthunt.com/products/viva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0c55e594-45dc-4ccc-bfe4-c29b5b45e3b6.png?auto=format",
       "topics": [
