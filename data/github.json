@@ -1,42 +1,42 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "items": [
     {
       "name": "colbymchenry/codegraph",
       "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-      "stars": "7376",
-      "today": "1,850 stars today",
+      "stars": "8782",
+      "today": "1,910 stars today",
       "language": "TypeScript",
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
       "name": "Imbad0202/academic-research-skills",
       "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": "14927",
-      "today": "3,164 stars today",
+      "stars": "15776",
+      "today": "1,639 stars today",
       "language": "Python",
       "url": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
       "name": "tinyhumansai/openhuman",
       "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": "22908",
-      "today": "3,973 stars today",
+      "stars": "23396",
+      "today": "3,603 stars today",
       "language": "Rust",
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "139524",
-      "today": "1,955 stars today",
+      "stars": "140357",
+      "today": "2,620 stars today",
       "language": "",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "8892",
+      "stars": "9312",
       "today": "762 stars today",
       "language": "Python",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
@@ -44,15 +44,15 @@
     {
       "name": "HKUDS/CLI-Anything",
       "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": "38178",
-      "today": "1,038 stars today",
+      "stars": "38409",
+      "today": "930 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything"
     },
     {
       "name": "can1357/oh-my-pi",
       "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": "5155",
+      "stars": "5311",
       "today": "237 stars today",
       "language": "TypeScript",
       "url": "https://github.com/can1357/oh-my-pi"
@@ -60,47 +60,47 @@
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "199346",
-      "today": "1,623 stars today",
+      "stars": "199796",
+      "today": "1,776 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": "20482",
-      "today": "171 stars today",
+      "stars": "20651",
+      "today": "706 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "102265",
-      "today": "1,120 stars today",
+      "stars": "102659",
+      "today": "1,714 stars today",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "rmyndharis/OpenWA",
       "desc": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "stars": "4374",
-      "today": "1,870 stars today",
+      "stars": "4656",
+      "today": "726 stars today",
       "language": "TypeScript",
       "url": "https://github.com/rmyndharis/OpenWA"
     },
     {
       "name": "truelockmc/streambert",
       "desc": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-      "stars": "2370",
-      "today": "925 stars today",
+      "stars": "2756",
+      "today": "652 stars today",
       "language": "JavaScript",
       "url": "https://github.com/truelockmc/streambert"
     },
     {
       "name": "opentoonz/opentoonz",
       "desc": "OpenToonz - An open-source full-featured 2D animation creation software",
-      "stars": "6088",
+      "stars": "6246",
       "today": "206 stars today",
       "language": "C++",
       "url": "https://github.com/opentoonz/opentoonz"
@@ -108,7 +108,7 @@
     {
       "name": "zakirullin/files.md",
       "desc": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
-      "stars": "1940",
+      "stars": "2115",
       "today": "468 stars today",
       "language": "Go",
       "url": "https://github.com/zakirullin/files.md"
@@ -116,24 +116,24 @@
     {
       "name": "rohitg00/agentmemory",
       "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": "14650",
-      "today": "1,609 stars today",
+      "stars": "14937",
+      "today": "1,121 stars today",
       "language": "TypeScript",
       "url": "https://github.com/rohitg00/agentmemory"
     },
     {
       "name": "ggml-org/llama.cpp",
       "desc": "LLM inference in C/C++",
-      "stars": "111575",
-      "today": "549 stars today",
+      "stars": "111753",
+      "today": "343 stars today",
       "language": "C++",
       "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
       "name": "HKUDS/ViMax",
       "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "stars": "5759",
-      "today": "503 stars today",
+      "stars": "5927",
+      "today": "692 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/ViMax"
     }
