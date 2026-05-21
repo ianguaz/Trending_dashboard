@@ -4,7 +4,7 @@
     {
       "name": "Plurai",
       "desc": "Vibe-train evals and guardrails tailored to your use case",
-      "votes": 766,
+      "votes": 767,
       "url": "https://www.producthunt.com/products/plurai/launches/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Kilo Code v7 for VS Code",
       "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes": 720,
+      "votes": 725,
       "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-v7-for-vs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Open Wearables",
       "desc": "Open infrastructure for wearable-powered health products.",
-      "votes": 642,
+      "votes": 643,
       "url": "https://www.producthunt.com/products/open-wearables/launches/open-wearables-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Velo 2.0",
       "desc": "Instantly turn your voice and screen into shareable videos",
-      "votes": 624,
+      "votes": 623,
       "url": "https://www.producthunt.com/products/velo-4/launches/velo-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "OpenHuman",
       "desc": "An open source AI harness built with the human in mind",
-      "votes": 615,
+      "votes": 617,
       "url": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/918b11cd-52e9-4f01-8f82-de1b756957cd.png?auto=format",
       "topics": [
@@ -86,21 +86,21 @@
       ]
     },
     {
-      "name": "RankAI",
-      "desc": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes": 603,
-      "url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png?auto=format",
+      "name": "StoreClaw",
+      "desc": "Grow your store profits with agents that know how to sell",
+      "votes": 604,
+      "url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/407049a2-0be3-4b8d-a7c0-4fc5b9754db2.png?auto=format",
       "topics": [
-        "Marketing",
-        "SEO",
-        "Search"
+        "Artificial Intelligence",
+        "E-Commerce",
+        "Marketing automation"
       ]
     },
     {
       "name": "Ask Product Hunt AI",
       "desc": "Find the right product, just ask",
-      "votes": 593,
+      "votes": 591,
       "url": "https://www.producthunt.com/products/producthunt/launches/ask-product-hunt-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -112,7 +112,7 @@
     {
       "name": "Spellar 3.0",
       "desc": "AI Meeting companion with cross-meeting memory",
-      "votes": 561,
+      "votes": 563,
       "url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "Postiz",
       "desc": "Agentic social media scheduler for agents like OpenClaw",
-      "votes": 558,
+      "votes": 559,
       "url": "https://www.producthunt.com/products/postiz/launches/postiz-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ca5dbb32-5827-4432-bbbd-6d539429940d.png?auto=format",
       "topics": [
@@ -136,7 +136,7 @@
     {
       "name": "Shadow 2.0",
       "desc": "The work your meetings create, done before they end",
-      "votes": 545,
+      "votes": 544,
       "url": "https://www.producthunt.com/products/shadow-6/launches/shadow-2-0-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png?auto=format",
       "topics": [
@@ -146,21 +146,9 @@
       ]
     },
     {
-      "name": "Naptick AI",
-      "desc": "Al sleep companion that helps fall asleep without struggle",
-      "votes": 536,
-      "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/768542e3-e0be-44b7-8547-cde9ad144423.jpeg?auto=format",
-      "topics": [
-        "Health & Fitness",
-        "Hardware",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "PollyReach",
       "desc": "Give your agent a real number and voice to make calls.",
-      "votes": 527,
+      "votes": 541,
       "url": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a4ef6a7a-4563-402b-8578-1681fbdc19d8.png?auto=format",
       "topics": [
@@ -170,9 +158,21 @@
       ]
     },
     {
+      "name": "Naptick AI",
+      "desc": "Al sleep companion that helps fall asleep without struggle",
+      "votes": 538,
+      "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/768542e3-e0be-44b7-8547-cde9ad144423.jpeg?auto=format",
+      "topics": [
+        "Health & Fitness",
+        "Hardware",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "articuler.ai",
       "desc": "Describe your goal. Meet the right professional.",
-      "votes": 525,
+      "votes": 526,
       "url": "https://www.producthunt.com/products/articuler-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9c49bb8-f788-45ee-893c-f91f5df05bb4.png?auto=format",
       "topics": [
@@ -184,13 +184,25 @@
     {
       "name": "Kelviq",
       "desc": "Payments, tax, and billing for SaaS & AI companies",
-      "votes": 524,
+      "votes": 525,
       "url": "https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
       "topics": [
         "Payments",
         "SaaS",
         "Developer Tools"
+      ]
+    },
+    {
+      "name": "Fere AI",
+      "desc": "AI agents that turn signals into crypto + Polymarket trades",
+      "votes": 511,
+      "url": "https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5614d8c2-3faa-4639-9a6e-57e55f40dfb9.png?auto=format",
+      "topics": [
+        "Fintech",
+        "Artificial Intelligence",
+        "Web3"
       ]
     },
     {
@@ -202,18 +214,6 @@
       "topics": [
         "Productivity",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Fere AI",
-      "desc": "AI agents that turn signals into crypto + Polymarket trades",
-      "votes": 509,
-      "url": "https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/5614d8c2-3faa-4639-9a6e-57e55f40dfb9.png?auto=format",
-      "topics": [
-        "Fintech",
-        "Artificial Intelligence",
-        "Web3"
       ]
     },
     {
@@ -231,7 +231,7 @@
     {
       "name": "Orange Slice",
       "desc": "Automate any sales task with AI",
-      "votes": 497,
+      "votes": 496,
       "url": "https://www.producthunt.com/products/orange-slice/launches/orange-slice-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfcb3526-46fc-4484-ad17-c217e76efcc1.png?auto=format",
       "topics": [
