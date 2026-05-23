@@ -4,31 +4,31 @@
     {
       "name": "anthropics/claude-plugins-official",
       "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": "24368",
-      "today": "2,556 stars today",
+      "stars": "25700",
+      "today": "2,549 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "colbymchenry/codegraph",
-      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-      "stars": "16114",
-      "today": "3,688 stars today",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": "17653",
+      "today": "3,684 stars today",
       "language": "TypeScript",
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
       "name": "ruvnet/RuView",
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "63777",
-      "today": "992 stars today",
+      "stars": "64336",
+      "today": "978 stars today",
       "language": "Rust",
       "url": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "11543",
+      "stars": "12579",
       "today": "988 stars today",
       "language": "Python",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
@@ -36,80 +36,80 @@
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "desc": "Chrome DevTools for coding agents",
-      "stars": "40882",
-      "today": "499 stars today",
+      "stars": "41132",
+      "today": "501 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
       "name": "dotnet/skills",
       "desc": "Repository for skills to assist AI coding agents with .NET and C#",
-      "stars": "2458",
-      "today": "391 stars today",
+      "stars": "2636",
+      "today": "389 stars today",
       "language": "C#",
       "url": "https://github.com/dotnet/skills"
     },
     {
       "name": "Lum1104/Understand-Anything",
       "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "stars": "18097",
-      "today": "1,391 stars today",
+      "stars": "19394",
+      "today": "1,393 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Lum1104/Understand-Anything"
     },
     {
       "name": "odoo/odoo",
       "desc": "Odoo. Open Source Apps To Grow Your Business.",
-      "stars": "51027",
-      "today": "48 stars today",
+      "stars": "51261",
+      "today": "79 stars today",
       "language": "Python",
       "url": "https://github.com/odoo/odoo"
     },
     {
       "name": "byJoey/cfnew",
       "desc": "",
-      "stars": "13267",
-      "today": "85 stars today",
+      "stars": "13383",
+      "today": "87 stars today",
       "language": "",
       "url": "https://github.com/byJoey/cfnew"
     },
     {
       "name": "trimstray/the-book-of-secret-knowledge",
       "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "stars": "223054",
-      "today": "964 stars today",
+      "stars": "223440",
+      "today": "969 stars today",
       "language": "",
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
     },
     {
       "name": "Fincept-Corporation/FinceptTerminal",
       "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-      "stars": "22497",
-      "today": "337 stars today",
+      "stars": "22815",
+      "today": "367 stars today",
       "language": "Python",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
       "name": "can1357/oh-my-pi",
       "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": "6248",
-      "today": "455 stars today",
+      "stars": "6535",
+      "today": "457 stars today",
       "language": "TypeScript",
       "url": "https://github.com/can1357/oh-my-pi"
     },
     {
       "name": "yt-dlp/yt-dlp",
       "desc": "A feature-rich command-line audio/video downloader",
-      "stars": "164152",
-      "today": "335 stars today",
+      "stars": "164622",
+      "today": "444 stars today",
       "language": "Python",
       "url": "https://github.com/yt-dlp/yt-dlp"
     },
     {
       "name": "karpathy/nn-zero-to-hero",
       "desc": "Neural Networks: Zero to Hero",
-      "stars": "22224",
-      "today": "93 stars today",
+      "stars": "22554",
+      "today": "159 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/karpathy/nn-zero-to-hero"
     }
