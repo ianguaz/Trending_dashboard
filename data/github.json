@@ -1,58 +1,58 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "items": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": "68298",
-      "today": "4,698 stars today",
+      "stars": "69258",
+      "today": "3,563 stars today",
       "language": "Python",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "name": "microsoft/markitdown",
       "desc": "Python tool for converting files and office documents to Markdown.",
-      "stars": "128518",
-      "today": "1,410 stars today",
+      "stars": "129427",
+      "today": "1,876 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "stars": "17947",
-      "today": "184 stars today",
+      "stars": "18058",
+      "today": "354 stars today",
       "language": "TypeScript",
       "url": "https://github.com/EveryInc/compound-engineering-plugin"
     },
     {
       "name": "twentyhq/twenty",
       "desc": "The open alternative to Salesforce, designed for AI.",
-      "stars": "48123",
-      "today": "493 stars today",
+      "stars": "48295",
+      "today": "575 stars today",
       "language": "TypeScript",
       "url": "https://github.com/twentyhq/twenty"
     },
     {
       "name": "anthropics/claude-code",
       "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": "127580",
-      "today": "319 stars today",
+      "stars": "127770",
+      "today": "460 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-code"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": "27421",
-      "today": "2,234 stars today",
+      "stars": "27867",
+      "today": "2,066 stars today",
       "language": "Shell",
       "url": "https://github.com/Leonxlnx/taste-skill"
     },
     {
       "name": "cursor/plugins",
       "desc": "Cursor plugin specification and official plugins",
-      "stars": "1152",
+      "stars": "1236",
       "today": "129 stars today",
       "language": "TypeScript",
       "url": "https://github.com/cursor/plugins"
@@ -60,15 +60,15 @@
     {
       "name": "run-llama/liteparse",
       "desc": "A fast, helpful, and open-source document parser",
-      "stars": "6695",
-      "today": "932 stars today",
+      "stars": "7083",
+      "today": "680 stars today",
       "language": "Rust",
       "url": "https://github.com/run-llama/liteparse"
     },
     {
       "name": "galilai-group/stable-worldmodel",
       "desc": "A platform for reproducible world model research and evaluation",
-      "stars": "1033",
+      "stars": "1177",
       "today": "346 stars today",
       "language": "Python",
       "url": "https://github.com/galilai-group/stable-worldmodel"
@@ -76,23 +76,23 @@
     {
       "name": "byoungd/English-level-up-tips",
       "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": "49249",
-      "today": "2,019 stars today",
+      "stars": "49579",
+      "today": "1,564 stars today",
       "language": "",
       "url": "https://github.com/byoungd/English-level-up-tips"
     },
     {
       "name": "Biohub/esm",
       "desc": "",
-      "stars": "2499",
-      "today": "102 stars today",
+      "stars": "2541",
+      "today": "64 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/Biohub/esm"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": "26666",
+      "stars": "26832",
       "today": "294 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad"
@@ -100,40 +100,40 @@
     {
       "name": "DigitalPlatDev/FreeDomain",
       "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": "171291",
-      "today": "1,761 stars today",
+      "stars": "171595",
+      "today": "1,317 stars today",
       "language": "HTML",
       "url": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "198025",
-      "today": "1,385 stars today",
+      "stars": "198380",
+      "today": "1,413 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "hardikpandya/stop-slop",
       "desc": "A skill file for removing AI tells from prose",
-      "stars": "6693",
-      "today": "761 stars today",
+      "stars": "6864",
+      "today": "618 stars today",
       "language": "",
       "url": "https://github.com/hardikpandya/stop-slop"
     },
     {
       "name": "DataTalksClub/data-engineering-zoomcamp",
       "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
-      "stars": "41410",
-      "today": "161 stars today",
+      "stars": "41492",
+      "today": "180 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": "506928",
-      "today": "1,066 stars today",
+      "stars": "507190",
+      "today": "867 stars today",
       "language": "Markdown",
       "url": "https://github.com/codecrafters-io/build-your-own-x"
     }
