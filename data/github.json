@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "items": [
     {
       "name": "microsoft/markitdown",
       "desc": "Python tool for converting files and office documents to Markdown.",
-      "stars": "136966",
+      "stars": "137959",
       "today": "3,086 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/markitdown"
@@ -12,7 +12,7 @@
     {
       "name": "nesquena/hermes-webui",
       "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "stars": "10584",
+      "stars": "11046",
       "today": "984 stars today",
       "language": "Python",
       "url": "https://github.com/nesquena/hermes-webui"
@@ -20,7 +20,7 @@
     {
       "name": "supermemoryai/supermemory",
       "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": "23724",
+      "stars": "23876",
       "today": "660 stars today",
       "language": "TypeScript",
       "url": "https://github.com/supermemoryai/supermemory"
@@ -28,7 +28,7 @@
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": "76414",
+      "stars": "76703",
       "today": "3,325 stars today",
       "language": "Python",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
@@ -36,7 +36,7 @@
     {
       "name": "D4Vinci/Scrapling",
       "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": "57578",
+      "stars": "57870",
       "today": "1,475 stars today",
       "language": "Python",
       "url": "https://github.com/D4Vinci/Scrapling"
@@ -44,15 +44,15 @@
     {
       "name": "pbakaus/impeccable",
       "desc": "The design language that makes your AI harness better at design.",
-      "stars": "32310",
-      "today": "317 stars today",
+      "stars": "32576",
+      "today": "612 stars today",
       "language": "JavaScript",
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
       "name": "p-e-w/heretic",
       "desc": "Fully automatic censorship removal for language models",
-      "stars": "22903",
+      "stars": "22987",
       "today": "241 stars today",
       "language": "Python",
       "url": "https://github.com/p-e-w/heretic"
@@ -60,7 +60,7 @@
     {
       "name": "EveryInc/compound-engineering-plugin",
       "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "stars": "18970",
+      "stars": "19054",
       "today": "428 stars today",
       "language": "TypeScript",
       "url": "https://github.com/EveryInc/compound-engineering-plugin"
@@ -68,7 +68,7 @@
     {
       "name": "TauricResearch/TradingAgents",
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "81478",
+      "stars": "81666",
       "today": "284 stars today",
       "language": "Python",
       "url": "https://github.com/TauricResearch/TradingAgents"
@@ -76,7 +76,7 @@
     {
       "name": "revfactory/harness",
       "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": "4969",
+      "stars": "5082",
       "today": "527 stars today",
       "language": "HTML",
       "url": "https://github.com/revfactory/harness"
@@ -84,15 +84,15 @@
     {
       "name": "godotengine/godot",
       "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "stars": "111502",
-      "today": "56 stars today",
+      "stars": "111584",
+      "today": "121 stars today",
       "language": "C++",
       "url": "https://github.com/godotengine/godot"
     },
     {
       "name": "can1357/oh-my-pi",
       "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": "9303",
+      "stars": "9403",
       "today": "333 stars today",
       "language": "TypeScript",
       "url": "https://github.com/can1357/oh-my-pi"
@@ -100,7 +100,7 @@
     {
       "name": "OpenBMB/VoxCPM",
       "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": "24010",
+      "stars": "24154",
       "today": "880 stars today",
       "language": "Python",
       "url": "https://github.com/OpenBMB/VoxCPM"
@@ -108,7 +108,7 @@
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
       "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "stars": "3455",
+      "stars": "3631",
       "today": "860 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
@@ -116,7 +116,7 @@
     {
       "name": "stefan-jansen/machine-learning-for-trading",
       "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "stars": "17618",
+      "stars": "17762",
       "today": "82 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading"
@@ -124,7 +124,7 @@
     {
       "name": "dmtrKovalenko/fff",
       "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "stars": "7011",
+      "stars": "7119",
       "today": "121 stars today",
       "language": "Rust",
       "url": "https://github.com/dmtrKovalenko/fff"
@@ -132,7 +132,7 @@
     {
       "name": "codecrafters-io/build-your-own-x",
       "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": "509972",
+      "stars": "510269",
       "today": "1,194 stars today",
       "language": "Markdown",
       "url": "https://github.com/codecrafters-io/build-your-own-x"
