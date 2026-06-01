@@ -2,122 +2,138 @@
   "date": "2026-06-01",
   "items": [
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": "73652",
-      "today": "1,937 stars today",
-      "language": "Python",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-    },
-    {
       "name": "microsoft/markitdown",
       "desc": "Python tool for converting files and office documents to Markdown.",
-      "stars": "134303",
-      "today": "2,759 stars today",
+      "stars": "136966",
+      "today": "3,086 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/markitdown"
     },
     {
-      "name": "D4Vinci/Scrapling",
-      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": "56354",
-      "today": "639 stars today",
-      "language": "Python",
-      "url": "https://github.com/D4Vinci/Scrapling"
-    },
-    {
       "name": "nesquena/hermes-webui",
       "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "stars": "9754",
-      "today": "320 stars today",
+      "stars": "10584",
+      "today": "984 stars today",
       "language": "Python",
       "url": "https://github.com/nesquena/hermes-webui"
     },
     {
-      "name": "EveryInc/compound-engineering-plugin",
-      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "stars": "18617",
-      "today": "243 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin"
-    },
-    {
-      "name": "github/docs",
-      "desc": "The open-source repo for docs.github.com",
-      "stars": "19645",
-      "today": "20 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/github/docs"
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": "23289",
-      "today": "639 stars today",
-      "language": "Python",
-      "url": "https://github.com/OpenBMB/VoxCPM"
-    },
-    {
-      "name": "revfactory/harness",
-      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": "4499",
-      "today": "318 stars today",
-      "language": "HTML",
-      "url": "https://github.com/revfactory/harness"
-    },
-    {
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "stars": "2745",
-      "today": "627 stars today",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
-    },
-    {
       "name": "supermemoryai/supermemory",
       "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": "23170",
-      "today": "236 stars today",
+      "stars": "23724",
+      "today": "660 stars today",
       "language": "TypeScript",
       "url": "https://github.com/supermemoryai/supermemory"
     },
     {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": "27584",
-      "today": "372 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": "128753",
-      "today": "490 stars today",
+      "name": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars": "76414",
+      "today": "3,325 stars today",
       "language": "Python",
-      "url": "https://github.com/anthropics/claude-code"
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
-      "name": "nicobailon/pi-subagents",
-      "desc": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
-      "stars": "1781",
-      "today": "59 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/nicobailon/pi-subagents"
-    },
-    {
-      "name": "emmabostian/developer-portfolios",
-      "desc": "A list of developer portfolios for your inspiration",
-      "stars": "23239",
-      "today": "67 stars today",
+      "name": "D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars": "57578",
+      "today": "1,475 stars today",
       "language": "Python",
-      "url": "https://github.com/emmabostian/developer-portfolios"
+      "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars": "32310",
+      "today": "317 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "stars": "22903",
+      "today": "241 stars today",
+      "language": "Python",
+      "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "stars": "18970",
+      "today": "428 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "81478",
+      "today": "284 stars today",
+      "language": "Python",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "name": "revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": "4969",
+      "today": "527 stars today",
+      "language": "HTML",
+      "url": "https://github.com/revfactory/harness"
+    },
+    {
+      "name": "godotengine/godot",
+      "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "stars": "111502",
+      "today": "56 stars today",
+      "language": "C++",
+      "url": "https://github.com/godotengine/godot"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": "9303",
+      "today": "333 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/can1357/oh-my-pi"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": "24010",
+      "today": "880 stars today",
+      "language": "Python",
+      "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "stars": "3455",
+      "today": "860 stars today",
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "stars": "17618",
+      "today": "82 stars today",
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading"
+    },
+    {
+      "name": "dmtrKovalenko/fff",
+      "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "stars": "7011",
+      "today": "121 stars today",
+      "language": "Rust",
+      "url": "https://github.com/dmtrKovalenko/fff"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": "509108",
-      "today": "1,112 stars today",
+      "stars": "509972",
+      "today": "1,194 stars today",
       "language": "Markdown",
       "url": "https://github.com/codecrafters-io/build-your-own-x"
     }
