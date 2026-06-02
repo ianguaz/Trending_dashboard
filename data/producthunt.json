@@ -4,7 +4,7 @@
     {
       "name": "Kilo Code v7 for VS Code",
       "desc": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes": 904,
+      "votes": 910,
       "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-v7-for-vs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "StoreClaw",
       "desc": "Grow your store profits with agents that know how to sell",
-      "votes": 853,
+      "votes": 857,
       "url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/407049a2-0be3-4b8d-a7c0-4fc5b9754db2.png?auto=format",
       "topics": [
@@ -26,21 +26,9 @@
       ]
     },
     {
-      "name": "PollyReach",
-      "desc": "Give your agent a real number and voice to make calls.",
-      "votes": 843,
-      "url": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/a4ef6a7a-4563-402b-8578-1681fbdc19d8.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Virtual Assistants"
-      ]
-    },
-    {
       "name": "Brew ",
       "desc": "Like Claude design for email marketing",
-      "votes": 841,
+      "votes": 857,
       "url": "https://www.producthunt.com/products/brew-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a805620c-ee33-47e2-973d-5d6ea3f646a3.gif?auto=format",
       "topics": [
@@ -50,9 +38,21 @@
       ]
     },
     {
+      "name": "PollyReach",
+      "desc": "Give your agent a real number and voice to make calls.",
+      "votes": 848,
+      "url": "https://www.producthunt.com/products/pollyreach/launches/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/a4ef6a7a-4563-402b-8578-1681fbdc19d8.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Virtual Assistants"
+      ]
+    },
+    {
       "name": "Unabyss",
       "desc": "MCP-native self-updating context layer for your AI",
-      "votes": 744,
+      "votes": 748,
       "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "Velo 2.0",
       "desc": "Instantly turn your voice and screen into shareable videos",
-      "votes": 641,
+      "votes": 642,
       "url": "https://www.producthunt.com/products/velo-4/launches/velo-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png?auto=format",
       "topics": [
@@ -99,7 +99,7 @@
     {
       "name": "own.page",
       "desc": "Make your own personal website with bento tiles",
-      "votes": 634,
+      "votes": 638,
       "url": "https://www.producthunt.com/products/own-page?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/883004fc-b791-49de-9ae9-188f378b62bf.png?auto=format",
       "topics": [
@@ -109,21 +109,9 @@
       ]
     },
     {
-      "name": "Spellar 3.0",
-      "desc": "AI Meeting companion with cross-meeting memory",
-      "votes": 585,
-      "url": "https://www.producthunt.com/products/spellar/launches/spellar-3-0-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif?auto=format",
-      "topics": [
-        "Productivity",
-        "Meetings",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "mailX by mailwarm",
       "desc": "Email deliverability toolkit for humans and AI agents",
-      "votes": 583,
+      "votes": 584,
       "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9d9e986f-969d-4a67-9a15-e6733097da14.gif?auto=format",
       "topics": [
@@ -133,9 +121,21 @@
       ]
     },
     {
+      "name": "Spellar 3.0",
+      "desc": "AI Meeting companion with cross-meeting memory",
+      "votes": 584,
+      "url": "https://www.producthunt.com/products/spellar/launches/spellar-3-0-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif?auto=format",
+      "topics": [
+        "Productivity",
+        "Meetings",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "SocLeads 3.0",
       "desc": "Scrape emails from socials and maps by location",
-      "votes": 578,
+      "votes": 580,
       "url": "https://www.producthunt.com/products/socleads/launches/socleads-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9443342b-bf19-49c4-8423-5e1db1415f15.jpeg?auto=format",
       "topics": [
@@ -147,7 +147,7 @@
     {
       "name": "Naptick AI",
       "desc": "Al sleep companion that helps fall asleep without struggle",
-      "votes": 572,
+      "votes": 571,
       "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion/launches/naptick-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/768542e3-e0be-44b7-8547-cde9ad144423.jpeg?auto=format",
       "topics": [
@@ -159,7 +159,7 @@
     {
       "name": "Pancake",
       "desc": "OpenClaw in Slack that makes your company autonomous",
-      "votes": 569,
+      "votes": 570,
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -171,7 +171,7 @@
     {
       "name": "Shadow 2.0",
       "desc": "The work your meetings create, done before they end",
-      "votes": 557,
+      "votes": 558,
       "url": "https://www.producthunt.com/products/shadow-6/launches/shadow-2-0-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png?auto=format",
       "topics": [
@@ -195,7 +195,7 @@
     {
       "name": "articuler.ai",
       "desc": "Describe your goal. Meet the right professional.",
-      "votes": 553,
+      "votes": 551,
       "url": "https://www.producthunt.com/products/articuler-ai/launches/articuler-ai-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9c49bb8-f788-45ee-893c-f91f5df05bb4.png?auto=format",
       "topics": [
@@ -217,6 +217,18 @@
       ]
     },
     {
+      "name": "SpotsNow",
+      "desc": "Track who's advertising across podcasts w/ campaign insights",
+      "votes": 537,
+      "url": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/dd079df8-e8a8-428c-b263-4239b32c3ad8.jpeg?auto=format",
+      "topics": [
+        "Analytics",
+        "Advertising",
+        "Radio"
+      ]
+    },
+    {
       "name": "Fere AI",
       "desc": "AI agents that turn signals into crypto + Polymarket trades",
       "votes": 535,
@@ -226,18 +238,6 @@
         "Fintech",
         "Artificial Intelligence",
         "Web3"
-      ]
-    },
-    {
-      "name": "Stitch 3.0 by Google",
-      "desc": "Generate and iterate UI screens with AI on a live canvas",
-      "votes": 532,
-      "url": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/2704ac79-abf6-42dc-a56f-b8ae1cb13896.jpeg?auto=format",
-      "topics": [
-        "Design Tools",
-        "User Experience",
-        "Artificial Intelligence"
       ]
     }
   ]
