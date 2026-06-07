@@ -4,71 +4,71 @@
     {
       "name": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "28608",
-      "today": "441 stars today",
+      "stars": "29386",
+      "today": "439 stars today",
       "language": "Python",
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "CopilotKit/CopilotKit",
       "desc": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "stars": "33057",
-      "today": "613 stars today",
+      "stars": "33493",
+      "today": "631 stars today",
       "language": "TypeScript",
       "url": "https://github.com/CopilotKit/CopilotKit"
     },
     {
       "name": "MemPalace/mempalace",
       "desc": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": "54154",
-      "today": "441 stars today",
+      "stars": "54506",
+      "today": "446 stars today",
       "language": "Python",
       "url": "https://github.com/MemPalace/mempalace"
     },
     {
       "name": "danielmiessler/Personal_AI_Infrastructure",
       "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": "14853",
-      "today": "63 stars today",
+      "stars": "15132",
+      "today": "70 stars today",
       "language": "TypeScript",
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
       "name": "openai/plugins",
       "desc": "OpenAI Plugins",
-      "stars": "1692",
-      "today": "215 stars today",
+      "stars": "1880",
+      "today": "213 stars today",
       "language": "JavaScript",
       "url": "https://github.com/openai/plugins"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": "22145",
-      "today": "700 stars today",
+      "stars": "22828",
+      "today": "683 stars today",
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach"
     },
     {
       "name": "sveltejs/svelte",
       "desc": "web development for the rest of us",
-      "stars": "86913",
-      "today": "34 stars today",
+      "stars": "87087",
+      "today": "25 stars today",
       "language": "JavaScript",
       "url": "https://github.com/sveltejs/svelte"
     },
     {
       "name": "nginx/nginx",
       "desc": "The official NGINX Open Source repository.",
-      "stars": "30639",
-      "today": "37 stars today",
+      "stars": "30745",
+      "today": "20 stars today",
       "language": "C",
       "url": "https://github.com/nginx/nginx"
     },
     {
       "name": "aquasecurity/trivy",
       "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": "35952",
+      "stars": "36058",
       "today": "159 stars today",
       "language": "Go",
       "url": "https://github.com/aquasecurity/trivy"
@@ -76,72 +76,72 @@
     {
       "name": "golang/go",
       "desc": "The Go programming language",
-      "stars": "134467",
-      "today": "24 stars today",
+      "stars": "134571",
+      "today": "30 stars today",
       "language": "Go",
       "url": "https://github.com/golang/go"
     },
     {
       "name": "lfnovo/open-notebook",
       "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": "26469",
-      "today": "783 stars today",
+      "stars": "26836",
+      "today": "794 stars today",
       "language": "TypeScript",
       "url": "https://github.com/lfnovo/open-notebook"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "219480",
-      "today": "1,008 stars today",
+      "stars": "219998",
+      "today": "700 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "santifer/career-ops",
       "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": "49123",
-      "today": "203 stars today",
+      "stars": "49658",
+      "today": "193 stars today",
       "language": "JavaScript",
       "url": "https://github.com/santifer/career-ops"
     },
     {
       "name": "openai/whisper",
       "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "stars": "101765",
-      "today": "155 stars today",
+      "stars": "101984",
+      "today": "150 stars today",
       "language": "Python",
       "url": "https://github.com/openai/whisper"
     },
     {
       "name": "vitejs/vite",
       "desc": "Next generation frontend tooling. It's fast!",
-      "stars": "81119",
-      "today": "71 stars today",
+      "stars": "81263",
+      "today": "25 stars today",
       "language": "TypeScript",
       "url": "https://github.com/vitejs/vite"
     },
     {
       "name": "microsoft/mxc",
       "desc": "Policy-driven, layered isolation and containment",
-      "stars": "501",
-      "today": "57 stars today",
+      "stars": "661",
+      "today": "64 stars today",
       "language": "Rust",
       "url": "https://github.com/microsoft/mxc"
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
       "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": "80847",
-      "today": "449 stars today",
+      "stars": "81141",
+      "today": "433 stars today",
       "language": "Python",
       "url": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
       "name": "microsoft/VibeVoice",
       "desc": "Open-Source Frontier Voice AI",
-      "stars": "48384",
-      "today": "219 stars today",
+      "stars": "48598",
+      "today": "216 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/VibeVoice"
     }
