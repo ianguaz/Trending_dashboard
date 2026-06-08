@@ -4,122 +4,130 @@
     {
       "name": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "30181",
-      "today": "1,097 stars today",
+      "stars": "33042",
+      "today": "3,558 stars today",
       "language": "Python",
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
-      "name": "opencv/opencv",
-      "desc": "Open Source Computer Vision Library",
-      "stars": "87973",
-      "today": "89 stars today",
-      "language": "C++",
-      "url": "https://github.com/opencv/opencv"
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": "36231",
-      "today": "1,104 stars today",
-      "language": "Shell",
-      "url": "https://github.com/Leonxlnx/taste-skill"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "stars": "185605",
-      "today": "1,117 stars today",
-      "language": "Python",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "name": "lfnovo/open-notebook",
-      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": "27033",
-      "today": "555 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/lfnovo/open-notebook"
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "desc": "Let's use AI to Earn!",
-      "stars": "18653",
-      "today": "180 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/yikart/AiToEarn"
-    },
-    {
-      "name": "aaif-goose/goose",
-      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "47287",
-      "today": "338 stars today",
-      "language": "Rust",
-      "url": "https://github.com/aaif-goose/goose"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": "29556",
-      "today": "304 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "desc": "LLM inference in C/C++",
-      "stars": "115196",
-      "today": "197 stars today",
-      "language": "C++",
-      "url": "https://github.com/ggml-org/llama.cpp"
-    },
-    {
       "name": "RyanCodrai/turbovec",
       "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "stars": "6681",
-      "today": "1,533 stars today",
+      "stars": "7975",
+      "today": "1,730 stars today",
       "language": "Python",
       "url": "https://github.com/RyanCodrai/turbovec"
     },
     {
-      "name": "TapXWorld/ChinaTextbook",
-      "desc": "所有小初高、大学PDF教材。",
-      "stars": "72386",
-      "today": "355 stars today",
-      "language": "Roff",
-      "url": "https://github.com/TapXWorld/ChinaTextbook"
-    },
-    {
-      "name": "openai/plugins",
-      "desc": "OpenAI Plugins",
-      "stars": "1965",
-      "today": "262 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/openai/plugins"
+      "name": "google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "stars": "12096",
+      "today": "481 stars today",
+      "language": "Python",
+      "url": "https://github.com/google/skills"
     },
     {
       "name": "refactoringhq/tolaria",
       "desc": "Desktop app to manage markdown knowledge bases",
-      "stars": "12729",
-      "today": "242 stars today",
+      "stars": "13236",
+      "today": "649 stars today",
       "language": "TypeScript",
       "url": "https://github.com/refactoringhq/tolaria"
     },
     {
-      "name": "HunxByts/GhostTrack",
-      "desc": "Useful tool to track location or mobile number",
-      "stars": "13641",
-      "today": "21 stars today",
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "23592",
+      "today": "961 stars today",
       "language": "Python",
-      "url": "https://github.com/HunxByts/GhostTrack"
+      "url": "https://github.com/Panniantong/Agent-Reach"
     },
     {
-      "name": "microsoft/pg_durable",
-      "desc": "PostgreSQL in-database durable execution",
-      "stars": "1364",
-      "today": "314 stars today",
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": "15222",
+      "today": "337 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+      "name": "santifer/career-ops",
+      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": "50006",
+      "today": "665 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": "12368",
+      "today": "112 stars today",
+      "language": "",
+      "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+      "name": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "stars": "2195",
+      "today": "296 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/openai/plugins"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "desc": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "stars": "3178",
+      "today": "103 stars today",
+      "language": "Python",
+      "url": "https://github.com/Andyyyy64/whichllm"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+      "stars": "54695",
+      "today": "452 stars today",
+      "language": "Python",
+      "url": "https://github.com/MemPalace/mempalace"
+    },
+    {
+      "name": "roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "stars": "41960",
+      "today": "957 stars today",
+      "language": "Python",
+      "url": "https://github.com/roboflow/supervision"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "desc": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "stars": "33901",
+      "today": "578 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "stars": "72846",
+      "today": "593 stars today",
+      "language": "Roff",
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": "35492",
+      "today": "154 stars today",
+      "language": "Python",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": "47848",
+      "today": "699 stars today",
       "language": "Rust",
-      "url": "https://github.com/microsoft/pg_durable"
+      "url": "https://github.com/aaif-goose/goose"
     }
   ]
 }

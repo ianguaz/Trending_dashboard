@@ -4,7 +4,7 @@
     {
       "name": "Fundraisly",
       "desc": "AI fundraising agent that finds investors and books meetings",
-      "votes": 1118,
+      "votes": 1134,
       "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/50c29b3a-45e5-4eb3-82a6-247714b5e6d9.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Brew ",
       "desc": "Like Claude design for email marketing",
-      "votes": 894,
+      "votes": 897,
       "url": "https://www.producthunt.com/products/brew-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a805620c-ee33-47e2-973d-5d6ea3f646a3.gif?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "StoreClaw",
       "desc": "Grow your store profits with agents that know how to sell",
-      "votes": 876,
+      "votes": 880,
       "url": "https://www.producthunt.com/products/storeclaw/launches/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/407049a2-0be3-4b8d-a7c0-4fc5b9754db2.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "PollyReach",
       "desc": "Give your agent a real number and voice to make calls.",
-      "votes": 813,
+      "votes": 811,
       "url": "https://www.producthunt.com/products/pollyreach/launches/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a4ef6a7a-4563-402b-8578-1681fbdc19d8.png?auto=format",
       "topics": [
@@ -52,8 +52,8 @@
     {
       "name": "Unabyss",
       "desc": "MCP-native self-updating context layer for your AI",
-      "votes": 752,
-      "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 755,
+      "url": "https://www.producthunt.com/products/unabyss/launches/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
         "Productivity",
@@ -61,22 +61,10 @@
       ]
     },
     {
-      "name": "RankSpot",
-      "desc": "AI SEO Blog driven by deep competitor intelligence",
-      "votes": 668,
-      "url": "https://www.producthunt.com/products/rankspot/launches/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/f216213c-b209-4651-ad21-a7a60d635c46.png?auto=format",
-      "topics": [
-        "Marketing",
-        "SEO",
-        "YC Application"
-      ]
-    },
-    {
       "name": "own.page",
       "desc": "Make your own personal website with bento tiles",
       "votes": 665,
-      "url": "https://www.producthunt.com/products/own-page?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "url": "https://www.producthunt.com/products/own-page/launches/own-page?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/883004fc-b791-49de-9ae9-188f378b62bf.png?auto=format",
       "topics": [
         "Social Network",
@@ -87,7 +75,7 @@
     {
       "name": "OpenHuman",
       "desc": "An open source AI harness built with the human in mind",
-      "votes": 621,
+      "votes": 623,
       "url": "https://www.producthunt.com/products/openhuman/launches/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/918b11cd-52e9-4f01-8f82-de1b756957cd.png?auto=format",
       "topics": [
@@ -99,7 +87,7 @@
     {
       "name": "mailX by mailwarm",
       "desc": "Email deliverability toolkit for humans and AI agents",
-      "votes": 614,
+      "votes": 617,
       "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20/launches/mailx-by-mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9d9e986f-969d-4a67-9a15-e6733097da14.gif?auto=format",
       "topics": [
@@ -111,7 +99,7 @@
     {
       "name": "Pancake",
       "desc": "OpenClaw in Slack that makes your company autonomous",
-      "votes": 610,
+      "votes": 614,
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -123,7 +111,7 @@
     {
       "name": "Mailwarm 2.0",
       "desc": "The email warmup tool, upgraded for deliverability.",
-      "votes": 592,
+      "votes": 600,
       "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/888d6f15-746b-4604-bb33-290e1d26f460.gif?auto=format",
       "topics": [
@@ -134,7 +122,7 @@
     {
       "name": "Spellar 3.0",
       "desc": "AI Meeting companion with cross-meeting memory",
-      "votes": 587,
+      "votes": 585,
       "url": "https://www.producthunt.com/products/spellar/launches/spellar-3-0-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif?auto=format",
       "topics": [
@@ -146,7 +134,7 @@
     {
       "name": "SocLeads 3.0",
       "desc": "Scrape emails from socials and maps by location",
-      "votes": 581,
+      "votes": 582,
       "url": "https://www.producthunt.com/products/socleads/launches/socleads-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9443342b-bf19-49c4-8423-5e1db1415f15.jpeg?auto=format",
       "topics": [
@@ -156,9 +144,20 @@
       ]
     },
     {
+      "name": "Elentaria",
+      "desc": "Your GTM: from diagnosis to execution",
+      "votes": 570,
+      "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/48d14be3-c76f-470b-a30d-be79b45c0f5f.jpeg?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing"
+      ]
+    },
+    {
       "name": "Tycoon AI ",
       "desc": "Run one-person companies entirely with AI agents",
-      "votes": 563,
+      "votes": 567,
       "url": "https://www.producthunt.com/products/tycoon-us/launches/tycoon-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/8148cb1b-0da3-4574-9f71-08798b552316.svg?auto=format",
       "topics": [
@@ -168,20 +167,9 @@
       ]
     },
     {
-      "name": "Elentaria",
-      "desc": "Your GTM: from diagnosis to execution",
-      "votes": 560,
-      "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/48d14be3-c76f-470b-a30d-be79b45c0f5f.jpeg?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing"
-      ]
-    },
-    {
       "name": "articuler.ai",
       "desc": "Describe your goal. Meet the right professional.",
-      "votes": 553,
+      "votes": 554,
       "url": "https://www.producthunt.com/products/articuler-ai/launches/articuler-ai-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9c49bb8-f788-45ee-893c-f91f5df05bb4.png?auto=format",
       "topics": [
@@ -193,7 +181,7 @@
     {
       "name": "Naptick AI",
       "desc": "Al sleep companion that helps fall asleep without struggle",
-      "votes": 551,
+      "votes": 553,
       "url": "https://www.producthunt.com/products/naptick-ai-sleep-companion/launches/naptick-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/768542e3-e0be-44b7-8547-cde9ad144423.jpeg?auto=format",
       "topics": [
@@ -205,7 +193,7 @@
     {
       "name": "Kelviq",
       "desc": "Payments, tax, and billing for SaaS & AI companies",
-      "votes": 548,
+      "votes": 550,
       "url": "https://www.producthunt.com/products/kelviq/launches/kelviq-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon?auto=format",
       "topics": [
@@ -217,7 +205,7 @@
     {
       "name": "InsForge Backend Branching",
       "desc": "Git style branching for your backend",
-      "votes": 538,
+      "votes": 548,
       "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format",
       "topics": [
@@ -229,13 +217,24 @@
     {
       "name": "Stitch 3.0 by Google",
       "desc": "Generate and iterate UI screens with AI on a live canvas",
-      "votes": 537,
+      "votes": 541,
       "url": "https://www.producthunt.com/products/stitch-by-google/launches/stitch-3-0-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2704ac79-abf6-42dc-a56f-b8ae1cb13896.jpeg?auto=format",
       "topics": [
         "Design Tools",
         "User Experience",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "SellerClaw",
+      "desc": "A team of AI agents that runs your stores across channels",
+      "votes": 537,
+      "url": "https://www.producthunt.com/products/sellerclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/055a93ee-c4e1-4862-99e9-0984eff96f82.png?auto=format",
+      "topics": [
+        "SaaS",
+        "E-Commerce"
       ]
     }
   ]
