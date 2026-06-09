@@ -1,133 +1,133 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "items": [
     {
       "name": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "35986",
-      "today": "3,558 stars today",
+      "stars": "36830",
+      "today": "3,177 stars today",
       "language": "Python",
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "RyanCodrai/turbovec",
       "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "stars": "9665",
-      "today": "1,729 stars today",
+      "stars": "9985",
+      "today": "1,800 stars today",
       "language": "Python",
       "url": "https://github.com/RyanCodrai/turbovec"
     },
     {
-      "name": "google/skills",
-      "desc": "Agent Skills for Google products and technologies",
-      "stars": "12793",
-      "today": "461 stars today",
-      "language": "Python",
-      "url": "https://github.com/google/skills"
-    },
-    {
-      "name": "refactoringhq/tolaria",
-      "desc": "Desktop app to manage markdown knowledge bases",
-      "stars": "13991",
-      "today": "651 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/refactoringhq/tolaria"
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": "25078",
-      "today": "679 stars today",
-      "language": "Python",
-      "url": "https://github.com/Panniantong/Agent-Reach"
-    },
-    {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": "15632",
-      "today": "62 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
-    },
-    {
-      "name": "santifer/career-ops",
-      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": "51024",
-      "today": "308 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/santifer/career-ops"
-    },
-    {
-      "name": "phuryn/pm-skills",
-      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": "13115",
-      "today": "164 stars today",
-      "language": "",
-      "url": "https://github.com/phuryn/pm-skills"
-    },
-    {
-      "name": "openai/plugins",
-      "desc": "OpenAI Plugins",
-      "stars": "2449",
-      "today": "296 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/openai/plugins"
-    },
-    {
-      "name": "Andyyyy64/whichllm",
-      "desc": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-      "stars": "3758",
-      "today": "143 stars today",
-      "language": "Python",
-      "url": "https://github.com/Andyyyy64/whichllm"
-    },
-    {
-      "name": "MemPalace/mempalace",
-      "desc": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": "55141",
-      "today": "170 stars today",
-      "language": "Python",
-      "url": "https://github.com/MemPalace/mempalace"
-    },
-    {
       "name": "roboflow/supervision",
       "desc": "We write your reusable computer vision tools. 💜",
-      "stars": "42639",
-      "today": "1,288 stars today",
+      "stars": "42850",
+      "today": "735 stars today",
       "language": "Python",
       "url": "https://github.com/roboflow/supervision"
     },
     {
-      "name": "CopilotKit/CopilotKit",
-      "desc": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "stars": "34382",
-      "today": "378 stars today",
+      "name": "opencv/opencv",
+      "desc": "Open Source Computer Vision Library",
+      "stars": "88535",
+      "today": "169 stars today",
+      "language": "C++",
+      "url": "https://github.com/opencv/opencv"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "stars": "14200",
+      "today": "821 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/CopilotKit/CopilotKit"
-    },
-    {
-      "name": "TapXWorld/ChinaTextbook",
-      "desc": "所有小初高、大学PDF教材。",
-      "stars": "73320",
-      "today": "592 stars today",
-      "language": "Roff",
-      "url": "https://github.com/TapXWorld/ChinaTextbook"
-    },
-    {
-      "name": "luongnv89/claude-howto",
-      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": "36109",
-      "today": "312 stars today",
-      "language": "Python",
-      "url": "https://github.com/luongnv89/claude-howto"
+      "url": "https://github.com/refactoringhq/tolaria"
     },
     {
       "name": "aaif-goose/goose",
       "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "48289",
-      "today": "699 stars today",
+      "stars": "48408",
+      "today": "490 stars today",
       "language": "Rust",
       "url": "https://github.com/aaif-goose/goose"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "desc": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "stars": "3957",
+      "today": "631 stars today",
+      "language": "Python",
+      "url": "https://github.com/Andyyyy64/whichllm"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "stars": "73426",
+      "today": "517 stars today",
+      "language": "Roff",
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": "139083",
+      "today": "66 stars today",
+      "language": "",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "desc": "Let's use AI to Earn!",
+      "stars": "19816",
+      "today": "423 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/yikart/AiToEarn"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": "13308",
+      "today": "808 stars today",
+      "language": "",
+      "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+      "name": "santifer/career-ops",
+      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": "51374",
+      "today": "1,114 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "name": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "stars": "2537",
+      "today": "284 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/openai/plugins"
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "desc": "open-source healthcare ai",
+      "stars": "1716",
+      "today": "165 stars today",
+      "language": "Python",
+      "url": "https://github.com/maziyarpanahi/openmed"
+    },
+    {
+      "name": "francescopace/espectre",
+      "desc": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+      "stars": "8108",
+      "today": "112 stars today",
+      "language": "Python",
+      "url": "https://github.com/francescopace/espectre"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars": "49656",
+      "today": "348 stars today",
+      "language": "Shell",
+      "url": "https://github.com/addyosmani/agent-skills"
     }
   ]
 }
