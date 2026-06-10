@@ -2,132 +2,140 @@
   "date": "2026-06-10",
   "items": [
     {
-      "name": "mvanhorn/last30days-skill",
-      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "36830",
-      "today": "3,177 stars today",
-      "language": "Python",
-      "url": "https://github.com/mvanhorn/last30days-skill"
-    },
-    {
-      "name": "RyanCodrai/turbovec",
-      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "stars": "9985",
-      "today": "1,800 stars today",
-      "language": "Python",
-      "url": "https://github.com/RyanCodrai/turbovec"
-    },
-    {
-      "name": "roboflow/supervision",
-      "desc": "We write your reusable computer vision tools. 💜",
-      "stars": "42850",
-      "today": "735 stars today",
-      "language": "Python",
-      "url": "https://github.com/roboflow/supervision"
-    },
-    {
-      "name": "opencv/opencv",
-      "desc": "Open Source Computer Vision Library",
-      "stars": "88535",
-      "today": "169 stars today",
-      "language": "C++",
-      "url": "https://github.com/opencv/opencv"
-    },
-    {
-      "name": "refactoringhq/tolaria",
-      "desc": "Desktop app to manage markdown knowledge bases",
-      "stars": "14200",
-      "today": "821 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/refactoringhq/tolaria"
-    },
-    {
-      "name": "aaif-goose/goose",
-      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "48408",
-      "today": "490 stars today",
-      "language": "Rust",
-      "url": "https://github.com/aaif-goose/goose"
-    },
-    {
-      "name": "Andyyyy64/whichllm",
-      "desc": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-      "stars": "3957",
-      "today": "631 stars today",
-      "language": "Python",
-      "url": "https://github.com/Andyyyy64/whichllm"
-    },
-    {
-      "name": "TapXWorld/ChinaTextbook",
-      "desc": "所有小初高、大学PDF教材。",
-      "stars": "73426",
-      "today": "517 stars today",
-      "language": "Roff",
-      "url": "https://github.com/TapXWorld/ChinaTextbook"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": "139083",
-      "today": "66 stars today",
-      "language": "",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "desc": "Let's use AI to Earn!",
-      "stars": "19816",
-      "today": "423 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/yikart/AiToEarn"
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars": "50194",
+      "today": "443 stars today",
+      "language": "Shell",
+      "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "phuryn/pm-skills",
       "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": "13308",
-      "today": "808 stars today",
+      "stars": "13873",
+      "today": "806 stars today",
       "language": "",
       "url": "https://github.com/phuryn/pm-skills"
     },
     {
-      "name": "santifer/career-ops",
-      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": "51374",
-      "today": "1,114 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/santifer/career-ops"
+      "name": "refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "stars": "14619",
+      "today": "829 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/refactoringhq/tolaria"
     },
     {
-      "name": "openai/plugins",
-      "desc": "OpenAI Plugins",
-      "stars": "2537",
-      "today": "284 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/openai/plugins"
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "38607",
+      "today": "3,191 stars today",
+      "language": "Python",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "name": "soxoj/maigret",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars": "31668",
+      "today": "261 stars today",
+      "language": "Python",
+      "url": "https://github.com/soxoj/maigret"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "stars": "139376",
+      "today": "79 stars today",
+      "language": "",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": "223039",
+      "today": "1,011 stars today",
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "stars": "4963",
+      "today": "92 stars today",
+      "language": "Go",
+      "url": "https://github.com/masterking32/MasterDnsVPN"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars": "84370",
+      "today": "1,471 stars today",
+      "language": "Python",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "name": "maziyarpanahi/openmed",
       "desc": "open-source healthcare ai",
-      "stars": "1716",
-      "today": "165 stars today",
+      "stars": "2091",
+      "today": "191 stars today",
       "language": "Python",
       "url": "https://github.com/maziyarpanahi/openmed"
     },
     {
-      "name": "francescopace/espectre",
-      "desc": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
-      "stars": "8108",
-      "today": "112 stars today",
+      "name": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": "36312",
+      "today": "204 stars today",
       "language": "Python",
-      "url": "https://github.com/francescopace/espectre"
+      "url": "https://github.com/luongnv89/claude-howto"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "49656",
-      "today": "348 stars today",
-      "language": "Shell",
-      "url": "https://github.com/addyosmani/agent-skills"
+      "name": "activeloopai/hivemind",
+      "desc": "One brain for all your agents",
+      "stars": "619",
+      "today": "47 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/activeloopai/hivemind"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": "72627",
+      "today": "439 stars today",
+      "language": "Rust",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "name": "roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "stars": "43341",
+      "today": "733 stars today",
+      "language": "Python",
+      "url": "https://github.com/roboflow/supervision"
+    },
+    {
+      "name": "google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "stars": "13008",
+      "today": "680 stars today",
+      "language": "Python",
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "stars": "4952",
+      "today": "241 stars today",
+      "language": "Python",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+    },
+    {
+      "name": "apple/container",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": "28340",
+      "today": "1,358 stars today",
+      "language": "Swift",
+      "url": "https://github.com/apple/container"
     }
   ]
 }
