@@ -1,42 +1,42 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "items": [
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "50194",
-      "today": "443 stars today",
+      "stars": "51246",
+      "today": "781 stars today",
       "language": "Shell",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "phuryn/pm-skills",
       "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": "13873",
-      "today": "806 stars today",
+      "stars": "14557",
+      "today": "775 stars today",
       "language": "",
       "url": "https://github.com/phuryn/pm-skills"
     },
     {
       "name": "refactoringhq/tolaria",
       "desc": "Desktop app to manage markdown knowledge bases",
-      "stars": "14619",
-      "today": "829 stars today",
+      "stars": "14798",
+      "today": "618 stars today",
       "language": "TypeScript",
       "url": "https://github.com/refactoringhq/tolaria"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "38607",
-      "today": "3,191 stars today",
+      "stars": "38904",
+      "today": "2,561 stars today",
       "language": "Python",
       "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "soxoj/maigret",
       "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": "31668",
+      "stars": "31881",
       "today": "261 stars today",
       "language": "Python",
       "url": "https://github.com/soxoj/maigret"
@@ -44,15 +44,15 @@
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": "139376",
-      "today": "79 stars today",
+      "stars": "139459",
+      "today": "397 stars today",
       "language": "",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "223039",
+      "stars": "223424",
       "today": "1,011 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
@@ -60,15 +60,15 @@
     {
       "name": "masterking32/MasterDnsVPN",
       "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "stars": "4963",
-      "today": "92 stars today",
+      "stars": "5089",
+      "today": "351 stars today",
       "language": "Go",
       "url": "https://github.com/masterking32/MasterDnsVPN"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": "84370",
+      "stars": "84797",
       "today": "1,471 stars today",
       "language": "Python",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
@@ -76,15 +76,15 @@
     {
       "name": "maziyarpanahi/openmed",
       "desc": "open-source healthcare ai",
-      "stars": "2091",
-      "today": "191 stars today",
+      "stars": "2209",
+      "today": "535 stars today",
       "language": "Python",
       "url": "https://github.com/maziyarpanahi/openmed"
     },
     {
       "name": "luongnv89/claude-howto",
       "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": "36312",
+      "stars": "36452",
       "today": "204 stars today",
       "language": "Python",
       "url": "https://github.com/luongnv89/claude-howto"
@@ -92,7 +92,7 @@
     {
       "name": "activeloopai/hivemind",
       "desc": "One brain for all your agents",
-      "stars": "619",
+      "stars": "736",
       "today": "47 stars today",
       "language": "TypeScript",
       "url": "https://github.com/activeloopai/hivemind"
@@ -100,7 +100,7 @@
     {
       "name": "ruvnet/RuView",
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "72627",
+      "stars": "72775",
       "today": "439 stars today",
       "language": "Rust",
       "url": "https://github.com/ruvnet/RuView"
@@ -108,23 +108,23 @@
     {
       "name": "roboflow/supervision",
       "desc": "We write your reusable computer vision tools. 💜",
-      "stars": "43341",
-      "today": "733 stars today",
+      "stars": "43475",
+      "today": "699 stars today",
       "language": "Python",
       "url": "https://github.com/roboflow/supervision"
     },
     {
       "name": "google/skills",
       "desc": "Agent Skills for Google products and technologies",
-      "stars": "13008",
-      "today": "680 stars today",
+      "stars": "13168",
+      "today": "238 stars today",
       "language": "Python",
       "url": "https://github.com/google/skills"
     },
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
       "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "stars": "4952",
+      "stars": "5116",
       "today": "241 stars today",
       "language": "Python",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
@@ -132,7 +132,7 @@
     {
       "name": "apple/container",
       "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "stars": "28340",
+      "stars": "29255",
       "today": "1,358 stars today",
       "language": "Swift",
       "url": "https://github.com/apple/container"
