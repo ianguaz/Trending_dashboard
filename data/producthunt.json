@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "items": [
     {
       "name": "Fundraisly",
       "desc": "AI fundraising agent that finds investors and books meetings",
-      "votes": 1217,
+      "votes": 1251,
       "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/50c29b3a-45e5-4eb3-82a6-247714b5e6d9.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Brew ",
       "desc": "Like Claude design for email marketing",
-      "votes": 917,
+      "votes": 919,
       "url": "https://www.producthunt.com/products/brew-5/launches/brew-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a805620c-ee33-47e2-973d-5d6ea3f646a3.gif?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "StoreClaw",
       "desc": "Grow your store profits with agents that know how to sell",
-      "votes": 884,
+      "votes": 885,
       "url": "https://www.producthunt.com/products/storeclaw/launches/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/407049a2-0be3-4b8d-a7c0-4fc5b9754db2.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Unabyss",
       "desc": "MCP-native self-updating context layer for your AI",
-      "votes": 763,
+      "votes": 764,
       "url": "https://www.producthunt.com/products/unabyss/launches/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
@@ -63,7 +63,7 @@
     {
       "name": "own.page",
       "desc": "Make your own personal website with bento tiles",
-      "votes": 673,
+      "votes": 674,
       "url": "https://www.producthunt.com/products/own-page/launches/own-page?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/883004fc-b791-49de-9ae9-188f378b62bf.png?auto=format",
       "topics": [
@@ -75,7 +75,7 @@
     {
       "name": "Mailwarm 2.0",
       "desc": "The email warmup tool, upgraded for deliverability.",
-      "votes": 633,
+      "votes": 634,
       "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/888d6f15-746b-4604-bb33-290e1d26f460.gif?auto=format",
       "topics": [
@@ -110,7 +110,7 @@
     {
       "name": "Pancake",
       "desc": "OpenClaw in Slack that makes your company autonomous",
-      "votes": 616,
+      "votes": 615,
       "url": "https://www.producthunt.com/products/pancake-6/launches/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -122,11 +122,23 @@
     {
       "name": "Elentaria",
       "desc": "Your GTM: from diagnosis to execution",
-      "votes": 595,
+      "votes": 599,
       "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/48d14be3-c76f-470b-a30d-be79b45c0f5f.jpeg?auto=format",
       "topics": [
         "Sales",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "SocLeads 3.0",
+      "desc": "Scrape emails from socials and maps by location",
+      "votes": 590,
+      "url": "https://www.producthunt.com/products/socleads/launches/socleads-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/9443342b-bf19-49c4-8423-5e1db1415f15.jpeg?auto=format",
+      "topics": [
+        "Email",
+        "Social Media",
         "Marketing"
       ]
     },
@@ -143,15 +155,15 @@
       ]
     },
     {
-      "name": "SocLeads 3.0",
-      "desc": "Scrape emails from socials and maps by location",
-      "votes": 590,
-      "url": "https://www.producthunt.com/products/socleads/launches/socleads-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/9443342b-bf19-49c4-8423-5e1db1415f15.jpeg?auto=format",
+      "name": "Publora",
+      "desc": "A publishing API for agents to post on 10 social platforms",
+      "votes": 580,
+      "url": "https://www.producthunt.com/products/publora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/25c54a33-603b-463a-b97a-89ec5e830d34.png?auto=format",
       "topics": [
-        "Email",
+        "API",
         "Social Media",
-        "Marketing"
+        "Developer Tools"
       ]
     },
     {
@@ -168,7 +180,7 @@
     {
       "name": "Tycoon AI ",
       "desc": "Run one-person companies entirely with AI agents",
-      "votes": 571,
+      "votes": 573,
       "url": "https://www.producthunt.com/products/tycoon-us/launches/tycoon-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/8148cb1b-0da3-4574-9f71-08798b552316.svg?auto=format",
       "topics": [
@@ -180,7 +192,7 @@
     {
       "name": "InsForge Backend Branching",
       "desc": "Git style branching for your backend",
-      "votes": 563,
+      "votes": 566,
       "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format",
       "topics": [
@@ -210,18 +222,6 @@
       "topics": [
         "Payments",
         "SaaS",
-        "Developer Tools"
-      ]
-    },
-    {
-      "name": "Publora",
-      "desc": "A publishing API for agents to post on 10 social platforms",
-      "votes": 550,
-      "url": "https://www.producthunt.com/products/publora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/25c54a33-603b-463a-b97a-89ec5e830d34.png?auto=format",
-      "topics": [
-        "API",
-        "Social Media",
         "Developer Tools"
       ]
     },
