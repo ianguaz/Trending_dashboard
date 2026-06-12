@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "items": [
     {
       "name": "Fundraisly",
       "desc": "AI fundraising agent that finds investors and books meetings",
-      "votes": 1258,
+      "votes": 1268,
       "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/50c29b3a-45e5-4eb3-82a6-247714b5e6d9.png?auto=format",
       "topics": [
@@ -73,20 +73,9 @@
       ]
     },
     {
-      "name": "Mailwarm 2.0",
-      "desc": "The email warmup tool, upgraded for deliverability.",
-      "votes": 642,
-      "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/888d6f15-746b-4604-bb33-290e1d26f460.gif?auto=format",
-      "topics": [
-        "Email",
-        "Email Marketing"
-      ]
-    },
-    {
       "name": "Bond",
       "desc": "The AI to-do list that does itself",
-      "votes": 634,
+      "votes": 647,
       "url": "https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c2f45b4d-48ee-4f11-8c1b-8c873f032545.png?auto=format",
       "topics": [
@@ -96,9 +85,20 @@
       ]
     },
     {
+      "name": "Mailwarm 2.0",
+      "desc": "The email warmup tool, upgraded for deliverability.",
+      "votes": 641,
+      "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/888d6f15-746b-4604-bb33-290e1d26f460.gif?auto=format",
+      "topics": [
+        "Email",
+        "Email Marketing"
+      ]
+    },
+    {
       "name": "OpenHuman",
       "desc": "An open source AI harness built with the human in mind",
-      "votes": 628,
+      "votes": 629,
       "url": "https://www.producthunt.com/products/openhuman/launches/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/918b11cd-52e9-4f01-8f82-de1b756957cd.png?auto=format",
       "topics": [
@@ -134,7 +134,7 @@
     {
       "name": "Publora",
       "desc": "A publishing API for agents to post on 10 social platforms",
-      "votes": 607,
+      "votes": 612,
       "url": "https://www.producthunt.com/products/publora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25c54a33-603b-463a-b97a-89ec5e830d34.png?auto=format",
       "topics": [
@@ -146,7 +146,7 @@
     {
       "name": "Elentaria",
       "desc": "Your GTM: from diagnosis to execution",
-      "votes": 604,
+      "votes": 605,
       "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/48d14be3-c76f-470b-a30d-be79b45c0f5f.jpeg?auto=format",
       "topics": [
@@ -181,7 +181,7 @@
     {
       "name": "SellerClaw",
       "desc": "A team of AI agents that runs your stores across channels",
-      "votes": 585,
+      "votes": 587,
       "url": "https://www.producthunt.com/products/sellerclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/055a93ee-c4e1-4862-99e9-0984eff96f82.png?auto=format",
       "topics": [
