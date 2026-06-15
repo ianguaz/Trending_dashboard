@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "items": [
     {
       "name": "Fundraisly",
       "desc": "AI fundraising agent that finds investors and books meetings",
-      "votes": 1342,
+      "votes": 1346,
       "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/50c29b3a-45e5-4eb3-82a6-247714b5e6d9.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "StoreClaw",
       "desc": "Grow your store profits with agents that know how to sell",
-      "votes": 894,
+      "votes": 895,
       "url": "https://www.producthunt.com/products/storeclaw/launches/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/407049a2-0be3-4b8d-a7c0-4fc5b9754db2.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "PollyReach",
       "desc": "Give your agent a real number and voice to make calls.",
-      "votes": 834,
+      "votes": 833,
       "url": "https://www.producthunt.com/products/pollyreach/launches/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a4ef6a7a-4563-402b-8578-1681fbdc19d8.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Unabyss",
       "desc": "MCP-native self-updating context layer for your AI",
-      "votes": 774,
+      "votes": 775,
       "url": "https://www.producthunt.com/products/unabyss/launches/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
@@ -63,7 +63,7 @@
     {
       "name": "Bond",
       "desc": "The AI to-do list that does itself",
-      "votes": 687,
+      "votes": 689,
       "url": "https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c2f45b4d-48ee-4f11-8c1b-8c873f032545.png?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "Mailwarm 2.0",
       "desc": "The email warmup tool, upgraded for deliverability.",
-      "votes": 650,
+      "votes": 653,
       "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/888d6f15-746b-4604-bb33-290e1d26f460.gif?auto=format",
       "topics": [
@@ -98,7 +98,7 @@
     {
       "name": "Publora",
       "desc": "A publishing API for agents to post on 10 social platforms",
-      "votes": 635,
+      "votes": 634,
       "url": "https://www.producthunt.com/products/publora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25c54a33-603b-463a-b97a-89ec5e830d34.png?auto=format",
       "topics": [
@@ -120,26 +120,26 @@
       ]
     },
     {
+      "name": "Elentaria",
+      "desc": "Your GTM: from diagnosis to execution",
+      "votes": 620,
+      "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/48d14be3-c76f-470b-a30d-be79b45c0f5f.jpeg?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing"
+      ]
+    },
+    {
       "name": "Pancake",
       "desc": "OpenClaw in Slack that makes your company autonomous",
-      "votes": 619,
+      "votes": 618,
       "url": "https://www.producthunt.com/products/pancake-6/launches/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
         "Slack",
         "Artificial Intelligence",
         "Maker Tools"
-      ]
-    },
-    {
-      "name": "Elentaria",
-      "desc": "Your GTM: from diagnosis to execution",
-      "votes": 618,
-      "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/48d14be3-c76f-470b-a30d-be79b45c0f5f.jpeg?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing"
       ]
     },
     {
@@ -168,7 +168,7 @@
     {
       "name": "Tycoon AI ",
       "desc": "Run one-person companies entirely with AI agents",
-      "votes": 578,
+      "votes": 577,
       "url": "https://www.producthunt.com/products/tycoon-us/launches/tycoon-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/8148cb1b-0da3-4574-9f71-08798b552316.svg?auto=format",
       "topics": [
@@ -204,7 +204,7 @@
     {
       "name": "Honen",
       "desc": "Automated teaching + learning infrastructure for any company",
-      "votes": 543,
+      "votes": 544,
       "url": "https://www.producthunt.com/products/honen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/37707fd3-0060-4556-a541-3d78693a5d9d.jpeg?auto=format",
       "topics": [
@@ -216,7 +216,7 @@
     {
       "name": "Minimi",
       "desc": "Your ambient memory for Claude",
-      "votes": 540,
+      "votes": 542,
       "url": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/263c1485-e028-41c9-a635-559fbc18e830.png?auto=format",
       "topics": [
