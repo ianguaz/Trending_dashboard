@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "items": [
     {
       "name": "Fundraisly",
@@ -16,7 +16,7 @@
     {
       "name": "Brew ",
       "desc": "Like Claude design for email marketing",
-      "votes": 960,
+      "votes": 959,
       "url": "https://www.producthunt.com/products/brew-5/launches/brew-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a805620c-ee33-47e2-973d-5d6ea3f646a3.gif?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Upstream",
       "desc": "The inbox designed for humans and agents",
-      "votes": 853,
+      "votes": 860,
       "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b5e8c870-d74a-4b7a-9bd0-30ffb55d8895.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Goldfish",
       "desc": "Press Option. It knows your work and replies like you",
-      "votes": 847,
+      "votes": 854,
       "url": "https://www.producthunt.com/products/goldfish-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c42a4d06-2035-4c13-b95d-02f34f14ba7c.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Unabyss",
       "desc": "MCP-native self-updating context layer for your AI",
-      "votes": 787,
+      "votes": 786,
       "url": "https://www.producthunt.com/products/unabyss/launches/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "Mailwarm 2.0",
       "desc": "The email warmup tool, upgraded for deliverability.",
-      "votes": 682,
+      "votes": 686,
       "url": "https://www.producthunt.com/products/mailwarm/launches/mailwarm-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/888d6f15-746b-4604-bb33-290e1d26f460.gif?auto=format",
       "topics": [
@@ -142,21 +142,9 @@
       ]
     },
     {
-      "name": "Honen",
-      "desc": "Automated teaching + learning infrastructure for any company",
-      "votes": 582,
-      "url": "https://www.producthunt.com/products/honen/launches/honen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/37707fd3-0060-4556-a541-3d78693a5d9d.jpeg?auto=format",
-      "topics": [
-        "Productivity",
-        "Education",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "InsForge Backend Branching",
       "desc": "Git style branching for your backend",
-      "votes": 582,
+      "votes": 583,
       "url": "https://www.producthunt.com/products/insforge-alpha/launches/insforge-backend-branching?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format",
       "topics": [
@@ -166,9 +154,21 @@
       ]
     },
     {
+      "name": "Honen",
+      "desc": "Automated teaching + learning infrastructure for any company",
+      "votes": 583,
+      "url": "https://www.producthunt.com/products/honen/launches/honen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/37707fd3-0060-4556-a541-3d78693a5d9d.jpeg?auto=format",
+      "topics": [
+        "Productivity",
+        "Education",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Honestly",
       "desc": "See what Reddit and TikTok honestly think about your product",
-      "votes": 570,
+      "votes": 572,
       "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2704d5b4-f4b5-48a3-a47f-252a26fea769.png?auto=format",
       "topics": [
@@ -190,6 +190,30 @@
       ]
     },
     {
+      "name": "Framer 3.0",
+      "desc": "With Agents, Branching, Community, and an all-new design",
+      "votes": 551,
+      "url": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/f3557b68-8d59-4347-9646-d0a5eac2a333.png?auto=format",
+      "topics": [
+        "Design Tools",
+        "Website Builder",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "AgentX",
+      "desc": "Evaluate AI agent, pinpoint issues, and fix with one click.",
+      "votes": 549,
+      "url": "https://www.producthunt.com/products/agentx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/3569abf9-5c75-44f2-8b6e-d7af7caaad97.gif?auto=format",
+      "topics": [
+        "Analytics",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "minimi",
       "desc": "Your ambient memory for Claude",
       "votes": 548,
@@ -202,39 +226,15 @@
       ]
     },
     {
-      "name": "Framer 3.0",
-      "desc": "With Agents, Branching, Community, and an all-new design",
-      "votes": 547,
-      "url": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/f3557b68-8d59-4347-9646-d0a5eac2a333.png?auto=format",
-      "topics": [
-        "Design Tools",
-        "Website Builder",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "VC Boom",
       "desc": "Score your deck, meet investors who fit, and raise more",
-      "votes": 535,
+      "votes": 534,
       "url": "https://www.producthunt.com/products/vcboom/launches/vc-boom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d9f46354-ee07-4865-83c5-c68976073177.jpeg?auto=format",
       "topics": [
         "Venture Capital",
         "Artificial Intelligence",
         "Fundraising"
-      ]
-    },
-    {
-      "name": "AgentX",
-      "desc": "Evaluate AI agent, pinpoint issues, and fix with one click.",
-      "votes": 530,
-      "url": "https://www.producthunt.com/products/agentx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/3569abf9-5c75-44f2-8b6e-d7af7caaad97.gif?auto=format",
-      "topics": [
-        "Analytics",
-        "Developer Tools",
-        "Artificial Intelligence"
       ]
     }
   ]
