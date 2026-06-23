@@ -4,130 +4,130 @@
     {
       "name": "calesthio/OpenMontage",
       "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": "11516",
-      "today": "2,935 stars today",
+      "stars": "13885",
+      "today": "2,938 stars today",
       "language": "Python",
       "url": "https://github.com/calesthio/OpenMontage"
     },
     {
-      "name": "palmier-io/palmier-pro",
-      "desc": "macOS video editor built for AI",
-      "stars": "7087",
-      "today": "2,462 stars today",
-      "language": "Swift",
-      "url": "https://github.com/palmier-io/palmier-pro"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "desc": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": "32074",
-      "today": "508 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/jamiepine/voicebox"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "stars": "18500",
-      "today": "957 stars today",
-      "language": "Python",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
-    },
-    {
-      "name": "penpot/penpot",
-      "desc": "Penpot: The open-source design tool for design and code collaboration",
-      "stars": "52773",
-      "today": "730 stars today",
-      "language": "Clojure",
-      "url": "https://github.com/penpot/penpot"
-    },
-    {
-      "name": "Stirling-Tools/Stirling-PDF",
-      "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "stars": "82727",
-      "today": "691 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF"
-    },
-    {
-      "name": "garrytan/gstack",
-      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": "112966",
-      "today": "649 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/garrytan/gstack"
-    },
-    {
-      "name": "heygen-com/hyperframes",
-      "desc": "Write HTML. Render video. Built for agents.",
-      "stars": "29862",
-      "today": "369 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/heygen-com/hyperframes"
-    },
-    {
-      "name": "tursodatabase/turso",
-      "desc": "Turso is an in-process SQL database, compatible with SQLite.",
-      "stars": "21303",
-      "today": "538 stars today",
-      "language": "Rust",
-      "url": "https://github.com/tursodatabase/turso"
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": "73126",
-      "today": "736 stars today",
-      "language": "Python",
-      "url": "https://github.com/bytedance/deer-flow"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "stars": "11334",
-      "today": "1,186 stars today",
-      "language": "C",
-      "url": "https://github.com/DeusData/codebase-memory-mcp"
-    },
-    {
       "name": "ZhuLinsen/daily_stock_analysis",
       "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": "45700",
-      "today": "1,560 stars today",
+      "stars": "46449",
+      "today": "1,557 stars today",
       "language": "Python",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
     },
     {
-      "name": "firecrawl/firecrawl",
-      "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": "137034",
-      "today": "736 stars today",
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": "19174",
+      "today": "956 stars today",
+      "language": "Python",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "name": "garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": "113617",
+      "today": "573 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/firecrawl/firecrawl"
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": "73652",
+      "today": "738 stars today",
+      "language": "Python",
+      "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": "58740",
+      "today": "279 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "stars": "8136",
+      "today": "2,463 stars today",
+      "language": "Swift",
+      "url": "https://github.com/palmier-io/palmier-pro"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "30664",
+      "today": "66 stars today",
+      "language": "Python",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "stars": "59008",
+      "today": "329 stars today",
+      "language": "HTML",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice"
+    },
+    {
+      "name": "revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": "7298",
+      "today": "123 stars today",
+      "language": "HTML",
+      "url": "https://github.com/revfactory/harness"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": "32815",
+      "today": "529 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/jamiepine/voicebox"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
       "desc": "Clone any website with one command using AI coding agents",
-      "stars": "17608",
-      "today": "63 stars today",
+      "stars": "18181",
+      "today": "100 stars today",
       "language": "TypeScript",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template"
     },
     {
-      "name": "lyogavin/airllm",
-      "desc": "AirLLM 70B inference with single 4GB GPU",
-      "stars": "20978",
-      "today": "187 stars today",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/lyogavin/airllm"
+      "name": "byoungd/English-level-up-tips",
+      "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": "54382",
+      "today": "368 stars today",
+      "language": "",
+      "url": "https://github.com/byoungd/English-level-up-tips"
     },
     {
-      "name": "mattpocock/skills",
-      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": "141409",
-      "today": "2,051 stars today",
-      "language": "Shell",
-      "url": "https://github.com/mattpocock/skills"
+      "name": "DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": "12208",
+      "today": "1,185 stars today",
+      "language": "C",
+      "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "200378",
+      "today": "933 stars today",
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "220154",
+      "today": "582 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
     }
   ]
 }
