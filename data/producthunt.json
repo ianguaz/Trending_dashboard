@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "items": [
     {
       "name": "Fundraisly",
       "desc": "AI fundraising agent that finds investors and books meetings",
-      "votes": 1466,
+      "votes": 1465,
       "url": "https://www.producthunt.com/products/fundraisly/launches/fundraisly-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/50c29b3a-45e5-4eb3-82a6-247714b5e6d9.png?auto=format",
       "topics": [
@@ -14,21 +14,9 @@
       ]
     },
     {
-      "name": "Upstream",
-      "desc": "The inbox designed for humans and agents",
-      "votes": 886,
-      "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/b5e8c870-d74a-4b7a-9bd0-30ffb55d8895.png?auto=format",
-      "topics": [
-        "Email",
-        "Productivity",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Goldfish",
       "desc": "Press Option. It knows your work and replies like you",
-      "votes": 883,
+      "votes": 888,
       "url": "https://www.producthunt.com/products/goldfish-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c42a4d06-2035-4c13-b95d-02f34f14ba7c.png?auto=format",
       "topics": [
@@ -38,9 +26,21 @@
       ]
     },
     {
+      "name": "Upstream",
+      "desc": "The inbox designed for humans and agents",
+      "votes": 887,
+      "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/b5e8c870-d74a-4b7a-9bd0-30ffb55d8895.png?auto=format",
+      "topics": [
+        "Email",
+        "Productivity",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Bond",
       "desc": "The AI to-do list that does itself",
-      "votes": 760,
+      "votes": 761,
       "url": "https://www.producthunt.com/products/bond-12/launches/bond-717?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c2f45b4d-48ee-4f11-8c1b-8c873f032545.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Mailwarm 2.0",
       "desc": "The email warmup tool, upgraded for deliverability.",
-      "votes": 700,
+      "votes": 701,
       "url": "https://www.producthunt.com/products/mailwarm/launches/mailwarm-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/888d6f15-746b-4604-bb33-290e1d26f460.gif?auto=format",
       "topics": [
@@ -63,7 +63,7 @@
     {
       "name": "Publora",
       "desc": "A publishing API for agents to post on 10 social platforms",
-      "votes": 677,
+      "votes": 678,
       "url": "https://www.producthunt.com/products/publora/launches/publora-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25c54a33-603b-463a-b97a-89ec5e830d34.png?auto=format",
       "topics": [
@@ -73,27 +73,27 @@
       ]
     },
     {
-      "name": "Bluerails Discovery ",
-      "desc": "The rails AI agents use to find and pay you",
-      "votes": 650,
-      "url": "https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/8b88d8fa-e999-4fcf-8cf9-b650f350d9c9.png?auto=format",
-      "topics": [
-        "Fintech",
-        "SEO",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Tencent EdgeOne Makers",
       "desc": "Ship AI agents like web apps, in minutes.",
-      "votes": 633,
+      "votes": 653,
       "url": "https://www.producthunt.com/products/tencent-edgeone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c11fffc5-d44a-45f8-a3a3-67a0f5f6ef17.jpeg?auto=format",
       "topics": [
         "Website Builder",
         "Artificial Intelligence",
         "Development"
+      ]
+    },
+    {
+      "name": "Bluerails Discovery ",
+      "desc": "The rails AI agents use to find and pay you",
+      "votes": 651,
+      "url": "https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/8b88d8fa-e999-4fcf-8cf9-b650f350d9c9.png?auto=format",
+      "topics": [
+        "Fintech",
+        "SEO",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -122,12 +122,24 @@
     {
       "name": "SellerClaw",
       "desc": "A team of AI agents that runs your stores across channels",
-      "votes": 608,
+      "votes": 609,
       "url": "https://www.producthunt.com/products/sellerclaw/launches/sellerclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/055a93ee-c4e1-4862-99e9-0984eff96f82.png?auto=format",
       "topics": [
         "SaaS",
         "E-Commerce"
+      ]
+    },
+    {
+      "name": "Honestly",
+      "desc": "See what Reddit and TikTok honestly think about your product",
+      "votes": 595,
+      "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/2704d5b4-f4b5-48a3-a47f-252a26fea769.png?auto=format",
+      "topics": [
+        "Social Media",
+        "Marketing",
+        "Data & Analytics"
       ]
     },
     {
@@ -140,18 +152,6 @@
         "Productivity",
         "Education",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Honestly",
-      "desc": "See what Reddit and TikTok honestly think about your product",
-      "votes": 592,
-      "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/2704d5b4-f4b5-48a3-a47f-252a26fea769.png?auto=format",
-      "topics": [
-        "Social Media",
-        "Marketing",
-        "Data & Analytics"
       ]
     },
     {
@@ -169,7 +169,7 @@
     {
       "name": "AgentX",
       "desc": "Evaluate AI agent, pinpoint issues, and fix with one click.",
-      "votes": 580,
+      "votes": 578,
       "url": "https://www.producthunt.com/products/agentx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3569abf9-5c75-44f2-8b6e-d7af7caaad97.gif?auto=format",
       "topics": [
@@ -181,7 +181,7 @@
     {
       "name": "Framer 3.0",
       "desc": "With Agents, Branching, Community, and an all-new design",
-      "votes": 570,
+      "votes": 573,
       "url": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f3557b68-8d59-4347-9646-d0a5eac2a333.png?auto=format",
       "topics": [
@@ -203,27 +203,27 @@
       ]
     },
     {
-      "name": "minimi",
-      "desc": "Your ambient memory for Claude",
-      "votes": 553,
-      "url": "https://www.producthunt.com/products/shram/launches/minimi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/263c1485-e028-41c9-a635-559fbc18e830.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Tech"
-      ]
-    },
-    {
       "name": "BrowserAct",
       "desc": "Web browser automation for AI agents",
-      "votes": 550,
+      "votes": 553,
       "url": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e555c2-6581-437c-ae70-c96d62b3ee48.jpeg?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "GitHub"
+      ]
+    },
+    {
+      "name": "minimi",
+      "desc": "Your ambient memory for Claude",
+      "votes": 552,
+      "url": "https://www.producthunt.com/products/shram/launches/minimi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/263c1485-e028-41c9-a635-559fbc18e830.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Tech"
       ]
     },
     {
