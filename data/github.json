@@ -4,106 +4,114 @@
     {
       "name": "simplex-chat/simplex-chat",
       "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "stars": "14667",
-      "today": "1,183 stars today",
+      "stars": "15964",
+      "today": "1,611 stars today",
       "language": "Haskell",
       "url": "https://github.com/simplex-chat/simplex-chat"
     },
     {
-      "name": "ripienaar/free-for-dev",
-      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "stars": "124781",
-      "today": "472 stars today",
-      "language": "HTML",
-      "url": "https://github.com/ripienaar/free-for-dev"
-    },
-    {
-      "name": "commaai/openpilot",
-      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "stars": "62285",
-      "today": "265 stars today",
-      "language": "Python",
-      "url": "https://github.com/commaai/openpilot"
-    },
-    {
-      "name": "xbtlin/ai-berkshire",
-      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": "5151",
-      "today": "1,456 stars today",
-      "language": "Python",
-      "url": "https://github.com/xbtlin/ai-berkshire"
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": "8094",
-      "today": "372 stars today",
-      "language": "Python",
-      "url": "https://github.com/Robbyant/lingbot-map"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "stars": "19071",
-      "today": "2,162 stars today",
-      "language": "C",
-      "url": "https://github.com/DeusData/codebase-memory-mcp"
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "118270",
+      "today": "1,221 stars today",
+      "language": "Shell",
+      "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "cupy/cupy",
       "desc": "NumPy & SciPy for GPU",
-      "stars": "11418",
-      "today": "172 stars today",
+      "stars": "11693",
+      "today": "352 stars today",
       "language": "Python",
       "url": "https://github.com/cupy/cupy"
     },
     {
       "name": "altic-dev/FluidVoice",
       "desc": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
-      "stars": "3464",
-      "today": "264 stars today",
+      "stars": "4097",
+      "today": "836 stars today",
       "language": "Swift",
       "url": "https://github.com/altic-dev/FluidVoice"
     },
     {
-      "name": "opendatalab/MinerU",
-      "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "stars": "71384",
-      "today": "426 stars today",
+      "name": "soxoj/maigret",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars": "34113",
+      "today": "191 stars today",
       "language": "Python",
-      "url": "https://github.com/opendatalab/MinerU"
+      "url": "https://github.com/soxoj/maigret"
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": "14146",
-      "today": "490 stars today",
+      "name": "commaai/openpilot",
+      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "stars": "62653",
+      "today": "465 stars today",
       "language": "Python",
-      "url": "https://github.com/HKUDS/Vibe-Trading"
+      "url": "https://github.com/commaai/openpilot"
     },
     {
-      "name": "ByteByteGoHq/system-design-101",
-      "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-      "stars": "84249",
-      "today": "132 stars today",
-      "language": "",
-      "url": "https://github.com/ByteByteGoHq/system-design-101"
+      "name": "ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": "126377",
+      "today": "1,971 stars today",
+      "language": "HTML",
+      "url": "https://github.com/ripienaar/free-for-dev"
     },
     {
-      "name": "usestrix/strix",
-      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-      "stars": "26526",
-      "today": "88 stars today",
+      "name": "logto-io/logto",
+      "desc": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "stars": "12340",
+      "today": "77 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/logto-io/logto"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "stars": "6316",
+      "today": "1,397 stars today",
       "language": "Python",
-      "url": "https://github.com/usestrix/strix"
+      "url": "https://github.com/xbtlin/ai-berkshire"
     },
     {
       "name": "browser-use/video-use",
       "desc": "Edit videos with coding agents",
-      "stars": "10811",
-      "today": "324 stars today",
+      "stars": "11593",
+      "today": "976 stars today",
       "language": "Python",
       "url": "https://github.com/browser-use/video-use"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "desc": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "stars": "993",
+      "today": "105 stars today",
+      "language": "Python",
+      "url": "https://github.com/Unclecheng-li/VulnClaw"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": "14801",
+      "today": "840 stars today",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "stars": "17320",
+      "today": "249 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+      "name": "veracrypt/VeraCrypt",
+      "desc": "Disk encryption with strong security based on TrueCrypt",
+      "stars": "10327",
+      "today": "114 stars today",
+      "language": "C",
+      "url": "https://github.com/veracrypt/VeraCrypt"
     }
   ]
 }
