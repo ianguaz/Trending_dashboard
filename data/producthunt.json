@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "items": [
     {
       "name": "Fundraisly",
       "desc": "AI fundraising agent that finds investors and books meetings",
-      "votes": 1483,
+      "votes": 1484,
       "url": "https://www.producthunt.com/products/fundraisly/launches/fundraisly-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/50c29b3a-45e5-4eb3-82a6-247714b5e6d9.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Goldfish",
       "desc": "Press Option. It knows your work and replies like you",
-      "votes": 903,
+      "votes": 905,
       "url": "https://www.producthunt.com/products/goldfish-early-access/launches/goldfish?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c42a4d06-2035-4c13-b95d-02f34f14ba7c.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Upstream",
       "desc": "The inbox designed for humans and agents",
-      "votes": 899,
+      "votes": 898,
       "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b5e8c870-d74a-4b7a-9bd0-30ffb55d8895.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Bond",
       "desc": "The AI to-do list that does itself",
-      "votes": 765,
+      "votes": 767,
       "url": "https://www.producthunt.com/products/bond-12/launches/bond-717?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c2f45b4d-48ee-4f11-8c1b-8c873f032545.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Tencent EdgeOne Makers",
       "desc": "Ship AI agents like web apps, in minutes.",
-      "votes": 734,
+      "votes": 736,
       "url": "https://www.producthunt.com/products/tencent-edgeone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c11fffc5-d44a-45f8-a3a3-67a0f5f6ef17.jpeg?auto=format",
       "topics": [
@@ -75,7 +75,7 @@
     {
       "name": "Publora",
       "desc": "A publishing API for agents to post on 10 social platforms",
-      "votes": 680,
+      "votes": 679,
       "url": "https://www.producthunt.com/products/publora/launches/publora-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25c54a33-603b-463a-b97a-89ec5e830d34.png?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "Bluerails Discovery ",
       "desc": "The rails AI agents use to find and pay you",
-      "votes": 669,
+      "votes": 670,
       "url": "https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/8b88d8fa-e999-4fcf-8cf9-b650f350d9c9.png?auto=format",
       "topics": [
@@ -110,7 +110,7 @@
     {
       "name": "BrowserAct",
       "desc": "Web browser automation for AI agents",
-      "votes": 617,
+      "votes": 621,
       "url": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e555c2-6581-437c-ae70-c96d62b3ee48.jpeg?auto=format",
       "topics": [
@@ -143,18 +143,6 @@
       ]
     },
     {
-      "name": "InsForge Backend Branching",
-      "desc": "Git style branching for your backend",
-      "votes": 597,
-      "url": "https://www.producthunt.com/products/insforge-alpha/launches/insforge-backend-branching?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format",
-      "topics": [
-        "Open Source",
-        "Developer Tools",
-        "GitHub"
-      ]
-    },
-    {
       "name": "Honen",
       "desc": "Automated teaching + learning infrastructure for any company",
       "votes": 597,
@@ -167,9 +155,21 @@
       ]
     },
     {
+      "name": "InsForge Backend Branching",
+      "desc": "Git style branching for your backend",
+      "votes": 597,
+      "url": "https://www.producthunt.com/products/insforge-alpha/launches/insforge-backend-branching?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format",
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "GitHub"
+      ]
+    },
+    {
       "name": "Framer 3.0",
       "desc": "With Agents, Branching, Community, and an all-new design",
-      "votes": 593,
+      "votes": 594,
       "url": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f3557b68-8d59-4347-9646-d0a5eac2a333.png?auto=format",
       "topics": [
@@ -193,7 +193,7 @@
     {
       "name": "Skybridge",
       "desc": "The full-stack open source React framework for MCP Apps",
-      "votes": 576,
+      "votes": 578,
       "url": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6b3e2d43-65bb-4aca-acac-bcd622430f4b.gif?auto=format",
       "topics": [
@@ -215,18 +215,6 @@
       ]
     },
     {
-      "name": "VC Boom",
-      "desc": "Score your deck, meet investors who fit, and raise more",
-      "votes": 541,
-      "url": "https://www.producthunt.com/products/vcboom/launches/vc-boom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/d9f46354-ee07-4865-83c5-c68976073177.jpeg?auto=format",
-      "topics": [
-        "Venture Capital",
-        "Artificial Intelligence",
-        "Fundraising"
-      ]
-    },
-    {
       "name": "Propane ",
       "desc": "Automatic customer context for product teams and agents",
       "votes": 540,
@@ -236,6 +224,18 @@
         "Productivity",
         "SaaS",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "VC Boom",
+      "desc": "Score your deck, meet investors who fit, and raise more",
+      "votes": 539,
+      "url": "https://www.producthunt.com/products/vcboom/launches/vc-boom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d9f46354-ee07-4865-83c5-c68976073177.jpeg?auto=format",
+      "topics": [
+        "Venture Capital",
+        "Artificial Intelligence",
+        "Fundraising"
       ]
     }
   ]
