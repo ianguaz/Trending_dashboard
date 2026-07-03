@@ -4,136 +4,136 @@
     {
       "name": "usestrix/strix",
       "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": "31568",
-      "today": "2,167 stars today",
+      "stars": "33430",
+      "today": "2,137 stars today",
       "language": "Python",
       "url": "https://github.com/usestrix/strix"
     },
     {
       "name": "JuliusBrussee/caveman",
       "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": "80293",
-      "today": "866 stars today",
+      "stars": "82249",
+      "today": "926 stars today",
       "language": "JavaScript",
       "url": "https://github.com/JuliusBrussee/caveman"
     },
     {
       "name": "msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "125275",
-      "today": "2,925 stars today",
+      "stars": "126073",
+      "today": "3,032 stars today",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
       "desc": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "stars": "9113",
-      "today": "942 stars today",
+      "stars": "9674",
+      "today": "938 stars today",
       "language": "HTML",
       "url": "https://github.com/hasaneyldrm/exercises-dataset"
     },
     {
       "name": "santifer/career-ops",
       "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": "57600",
-      "today": "322 stars today",
+      "stars": "58289",
+      "today": "372 stars today",
       "language": "JavaScript",
       "url": "https://github.com/santifer/career-ops"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "244215",
-      "today": "1,047 stars today",
+      "stars": "245057",
+      "today": "897 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "desc": "Chrome DevTools for coding agents",
-      "stars": "45026",
-      "today": "141 stars today",
+      "stars": "45302",
+      "today": "104 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
       "name": "browser-use/video-use",
       "desc": "Edit videos with coding agents",
-      "stars": "13674",
-      "today": "550 stars today",
+      "stars": "14181",
+      "today": "554 stars today",
       "language": "Python",
       "url": "https://github.com/browser-use/video-use"
     },
     {
       "name": "actions/checkout",
       "desc": "Action for checking out a repo",
-      "stars": "8120",
-      "today": "5 stars today",
+      "stars": "8212",
+      "today": "26 stars today",
       "language": "TypeScript",
       "url": "https://github.com/actions/checkout"
     },
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "225033",
-      "today": "508 stars today",
+      "stars": "225454",
+      "today": "486 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": "17237",
-      "today": "918 stars today",
+      "stars": "17622",
+      "today": "939 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/Vibe-Trading"
     },
     {
       "name": "agentskills/agentskills",
       "desc": "Specification and documentation for Agent Skills",
-      "stars": "21512",
-      "today": "47 stars today",
+      "stars": "21793",
+      "today": "86 stars today",
       "language": "Python",
       "url": "https://github.com/agentskills/agentskills"
     },
     {
       "name": "openai/codex-plugin-cc",
       "desc": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": "22463",
-      "today": "448 stars today",
+      "stars": "22889",
+      "today": "352 stars today",
       "language": "JavaScript",
       "url": "https://github.com/openai/codex-plugin-cc"
     },
     {
       "name": "langflow-ai/langflow",
       "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "stars": "150575",
-      "today": "74 stars today",
+      "stars": "151025",
+      "today": "117 stars today",
       "language": "Python",
       "url": "https://github.com/langflow-ai/langflow"
     },
     {
       "name": "pytorch/pytorch",
       "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": "101164",
-      "today": "45 stars today",
+      "stars": "101338",
+      "today": "65 stars today",
       "language": "Python",
       "url": "https://github.com/pytorch/pytorch"
     },
     {
       "name": "harvard-edge/cs249r_book",
       "desc": "Machine Learning Systems",
-      "stars": "25413",
-      "today": "33 stars today",
+      "stars": "25912",
+      "today": "68 stars today",
       "language": "Python",
       "url": "https://github.com/harvard-edge/cs249r_book"
     },
     {
       "name": "ryanmcdermott/clean-code-javascript",
       "desc": "Clean Code concepts adapted for JavaScript",
-      "stars": "94522",
-      "today": "11 stars today",
+      "stars": "94664",
+      "today": "27 stars today",
       "language": "JavaScript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript"
     }
