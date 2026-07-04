@@ -1,157 +1,149 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "items": [
-    {
-      "name": "usestrix/strix",
-      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": "35337",
-      "today": "2,803 stars today",
-      "language": "Python",
-      "url": "https://github.com/usestrix/strix"
-    },
     {
       "name": "openai/codex-plugin-cc",
       "desc": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": "23499",
-      "today": "634 stars today",
+      "stars": "23982",
+      "today": "716 stars today",
       "language": "JavaScript",
       "url": "https://github.com/openai/codex-plugin-cc"
     },
     {
       "name": "JuliusBrussee/caveman",
       "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": "83338",
-      "today": "2,863 stars today",
+      "stars": "83674",
+      "today": "1,089 stars today",
       "language": "JavaScript",
       "url": "https://github.com/JuliusBrussee/caveman"
     },
     {
-      "name": "elastic/elasticsearch",
-      "desc": "Free and Open Source, Distributed, RESTful Search Engine",
-      "stars": "77414",
-      "today": "91 stars today",
-      "language": "Java",
-      "url": "https://github.com/elastic/elasticsearch"
+      "name": "alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": "22895",
+      "today": "726 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/alibaba/page-agent"
     },
     {
-      "name": "actions/checkout",
-      "desc": "Action for checking out a repo",
-      "stars": "8295",
-      "today": "129 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/actions/checkout"
+      "name": "usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": "35745",
+      "today": "1,910 stars today",
+      "language": "Python",
+      "url": "https://github.com/usestrix/strix"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "desc": "Chrome DevTools for coding agents",
-      "stars": "45599",
-      "today": "405 stars today",
+      "stars": "45710",
+      "today": "303 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
-      "name": "ansible/ansible",
-      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
-      "stars": "69273",
-      "today": "65 stars today",
-      "language": "Python",
-      "url": "https://github.com/ansible/ansible"
+      "name": "Zackriya-Solutions/meetily",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "stars": "14822",
+      "today": "865 stars today",
+      "language": "Rust",
+      "url": "https://github.com/Zackriya-Solutions/meetily"
     },
     {
-      "name": "facebook/astryx",
-      "desc": "An open source design system that's fully customizable and agent ready",
-      "stars": "5025",
-      "today": "885 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/facebook/astryx"
-    },
-    {
-      "name": "rommapp/romm",
-      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
-      "stars": "9939",
-      "today": "239 stars today",
-      "language": "Python",
-      "url": "https://github.com/rommapp/romm"
+      "name": "asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": "48610",
+      "today": "432 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
       "name": "harvard-edge/cs249r_book",
       "desc": "Machine Learning Systems",
-      "stars": "26350",
-      "today": "793 stars today",
+      "stars": "26463",
+      "today": "446 stars today",
       "language": "Python",
       "url": "https://github.com/harvard-edge/cs249r_book"
     },
     {
-      "name": "pytorch/pytorch",
-      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": "101479",
-      "today": "293 stars today",
+      "name": "rommapp/romm",
+      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+      "stars": "10063",
+      "today": "400 stars today",
       "language": "Python",
-      "url": "https://github.com/pytorch/pytorch"
-    },
-    {
-      "name": "apache/maven",
-      "desc": "Apache Maven core",
-      "stars": "5263",
-      "today": "58 stars today",
-      "language": "Java",
-      "url": "https://github.com/apache/maven"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": "135992",
-      "today": "221 stars today",
-      "language": "Python",
-      "url": "https://github.com/anthropics/claude-code"
+      "url": "https://github.com/rommapp/romm"
     },
     {
       "name": "ogulcancelik/herdr",
       "desc": "agent multiplexer that lives in your terminal.",
-      "stars": "11039",
-      "today": "478 stars today",
+      "stars": "11237",
+      "today": "706 stars today",
       "language": "Rust",
       "url": "https://github.com/ogulcancelik/herdr"
     },
     {
-      "name": "obra/superpowers",
-      "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "245804",
-      "today": "1,209 stars today",
-      "language": "Shell",
-      "url": "https://github.com/obra/superpowers"
+      "name": "dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "stars": "3735",
+      "today": "57 stars today",
+      "language": "C#",
+      "url": "https://github.com/dotnet/skills"
     },
     {
       "name": "agentskills/agentskills",
       "desc": "Specification and documentation for Agent Skills",
-      "stars": "22136",
-      "today": "406 stars today",
+      "stars": "22223",
+      "today": "351 stars today",
       "language": "Python",
       "url": "https://github.com/agentskills/agentskills"
     },
     {
-      "name": "supabase/supabase",
-      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "stars": "105640",
-      "today": "169 stars today",
+      "name": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "stars": "105489",
+      "today": "198 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/supabase/supabase"
+      "url": "https://github.com/immich-app/immich"
     },
     {
-      "name": "TencentCloud/CubeSandbox",
-      "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "stars": "7259",
-      "today": "60 stars today",
-      "language": "Rust",
-      "url": "https://github.com/TencentCloud/CubeSandbox"
+      "name": "chthollyphile/folia-major",
+      "desc": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "stars": "951",
+      "today": "319 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/chthollyphile/folia-major"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "126763",
-      "today": "1,208 stars today",
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": "156343",
+      "today": "1,013 stars today",
       "language": "Shell",
-      "url": "https://github.com/msitarzewski/agency-agents"
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "stars": "11466",
+      "today": "68 stars today",
+      "language": "C#",
+      "url": "https://github.com/CoplayDev/unity-mcp"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "desc": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "stars": "20032",
+      "today": "197 stars today",
+      "language": "Python",
+      "url": "https://github.com/alirezarezvani/claude-skills"
+    },
+    {
+      "name": "crynta/terax-ai",
+      "desc": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "stars": "7981",
+      "today": "44 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/crynta/terax-ai"
     }
   ]
 }

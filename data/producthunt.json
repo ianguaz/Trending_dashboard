@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "items": [
     {
       "name": "Upstream",
@@ -16,7 +16,7 @@
     {
       "name": "Goldfish",
       "desc": "Press Option. It knows your work and replies like you",
-      "votes": 922,
+      "votes": 923,
       "url": "https://www.producthunt.com/products/goldfish-early-access/launches/goldfish?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c42a4d06-2035-4c13-b95d-02f34f14ba7c.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Tencent EdgeOne Makers",
       "desc": "Ship AI agents like web apps, in minutes.",
-      "votes": 898,
+      "votes": 916,
       "url": "https://www.producthunt.com/products/tencent-edgeone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c11fffc5-d44a-45f8-a3a3-67a0f5f6ef17.jpeg?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Context.dev",
       "desc": "One API to scrape, enrich, and extract the internet",
-      "votes": 843,
+      "votes": 845,
       "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e4e57b87-7bf9-4662-93d2-30c9f778eb68.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Acti",
       "desc": "Agentic keyboard for mobile commands and search",
-      "votes": 810,
+      "votes": 822,
       "url": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5ccc5e0b-77d9-45f8-bafe-ec081a905348.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Bond",
       "desc": "The AI to-do list that does itself",
-      "votes": 775,
+      "votes": 776,
       "url": "https://www.producthunt.com/products/bond-12/launches/bond-717?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c2f45b4d-48ee-4f11-8c1b-8c873f032545.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Fypro",
       "desc": "Convert your TikTok followers into paying customers",
-      "votes": 711,
+      "votes": 708,
       "url": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cf32ce10-fb31-4842-9925-1d8bab906626.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "Bluerails Discovery ",
       "desc": "The rails AI agents use to find and pay you",
-      "votes": 679,
+      "votes": 680,
       "url": "https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/8b88d8fa-e999-4fcf-8cf9-b650f350d9c9.png?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "AgentX",
       "desc": "Evaluate AI agent, pinpoint issues, and fix with one click.",
-      "votes": 618,
+      "votes": 616,
       "url": "https://www.producthunt.com/products/agentx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/3569abf9-5c75-44f2-8b6e-d7af7caaad97.gif?auto=format",
       "topics": [
@@ -148,7 +148,7 @@
     {
       "name": "Honestly",
       "desc": "See what Reddit and TikTok honestly think about your product",
-      "votes": 607,
+      "votes": 606,
       "url": "https://www.producthunt.com/products/honestly/launches/honestly-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2704d5b4-f4b5-48a3-a47f-252a26fea769.png?auto=format",
       "topics": [
@@ -183,7 +183,7 @@
     {
       "name": "Skybridge",
       "desc": "The full-stack open source React framework for MCP Apps",
-      "votes": 593,
+      "votes": 592,
       "url": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6b3e2d43-65bb-4aca-acac-bcd622430f4b.gif?auto=format",
       "topics": [
@@ -195,7 +195,7 @@
     {
       "name": "Cursor for iOS",
       "desc": "Build with coding agents from anywhere",
-      "votes": 579,
+      "votes": 580,
       "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cac4f4a7-fb00-42d1-b741-9dfc26e0a56f.png?auto=format",
       "topics": [
@@ -205,9 +205,21 @@
       ]
     },
     {
+      "name": "Glaze by Raycast",
+      "desc": "Create your own Mac apps by chatting with AI",
+      "votes": 564,
+      "url": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/85150caf-3a40-490f-ad86-32e3e5a88afa.png?auto=format",
+      "topics": [
+        "Mac",
+        "Productivity",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Propane ",
       "desc": "Automatic customer context for product teams and agents",
-      "votes": 552,
+      "votes": 551,
       "url": "https://www.producthunt.com/products/propane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6197681c-fcfb-464f-a351-37d55f77320f.png?auto=format",
       "topics": [
@@ -219,25 +231,13 @@
     {
       "name": "minimi",
       "desc": "Your ambient memory for Claude",
-      "votes": 550,
+      "votes": 549,
       "url": "https://www.producthunt.com/products/shram/launches/minimi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/263c1485-e028-41c9-a635-559fbc18e830.png?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Tech"
-      ]
-    },
-    {
-      "name": "Glaze by Raycast",
-      "desc": "Create your own Mac apps by chatting with AI",
-      "votes": 547,
-      "url": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/85150caf-3a40-490f-ad86-32e3e5a88afa.png?auto=format",
-      "topics": [
-        "Mac",
-        "Productivity",
-        "Artificial Intelligence"
       ]
     }
   ]
