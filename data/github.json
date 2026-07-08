@@ -2,98 +2,106 @@
   "date": "2026-07-08",
   "items": [
     {
+      "name": "MadsLorentzen/ai-job-search",
+      "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "stars": "12990",
+      "today": "2,514 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
       "name": "Zackriya-Solutions/meetily",
       "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-      "stars": "20402",
-      "today": "1,781 stars today",
+      "stars": "21297",
+      "today": "1,777 stars today",
       "language": "Rust",
       "url": "https://github.com/Zackriya-Solutions/meetily"
     },
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "71866",
-      "today": "1,311 stars today",
+      "stars": "72684",
+      "today": "1,317 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "ruvnet/RuView",
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "78335",
-      "today": "1,122 stars today",
+      "stars": "78804",
+      "today": "1,129 stars today",
       "language": "Rust",
       "url": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": "52711",
-      "today": "1,704 stars today",
+      "stars": "53519",
+      "today": "1,691 stars today",
       "language": "JavaScript",
       "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
       "name": "TencentCloud/CubeSandbox",
       "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "stars": "8335",
-      "today": "665 stars today",
+      "stars": "8677",
+      "today": "664 stars today",
       "language": "Rust",
       "url": "https://github.com/TencentCloud/CubeSandbox"
     },
     {
       "name": "AhmadIbrahiim/Website-downloader",
       "desc": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
-      "stars": "3817",
-      "today": "173 stars today",
+      "stars": "4379",
+      "today": "140 stars today",
       "language": "HTML",
       "url": "https://github.com/AhmadIbrahiim/Website-downloader"
     },
     {
       "name": "steipete/CodexBar",
       "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "stars": "16984",
-      "today": "377 stars today",
+      "stars": "17185",
+      "today": "376 stars today",
       "language": "Swift",
       "url": "https://github.com/steipete/CodexBar"
     },
     {
       "name": "dotnet/skills",
       "desc": "Repository for skills to assist AI coding agents with .NET and C#",
-      "stars": "4252",
-      "today": "82 stars today",
+      "stars": "4392",
+      "today": "64 stars today",
       "language": "C#",
       "url": "https://github.com/dotnet/skills"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
       "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "stars": "9655",
-      "today": "802 stars today",
+      "stars": "10829",
+      "today": "893 stars today",
       "language": "C#",
       "url": "https://github.com/iOfficeAI/OfficeCLI"
     },
     {
       "name": "bradautomates/claude-video",
       "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": "4982",
-      "today": "953 stars today",
+      "stars": "5604",
+      "today": "965 stars today",
       "language": "Python",
       "url": "https://github.com/bradautomates/claude-video"
     },
     {
       "name": "kyutai-labs/pocket-tts",
       "desc": "A TTS that fits in your CPU (and pocket)",
-      "stars": "5963",
-      "today": "510 stars today",
+      "stars": "6463",
+      "today": "531 stars today",
       "language": "Python",
       "url": "https://github.com/kyutai-labs/pocket-tts"
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
       "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-      "stars": "48963",
-      "today": "227 stars today",
+      "stars": "49458",
+      "today": "144 stars today",
       "language": "Python",
       "url": "https://github.com/hesreallyhim/awesome-claude-code"
     }
