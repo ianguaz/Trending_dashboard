@@ -2,49 +2,41 @@
   "date": "2026-07-10",
   "items": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "stars": "18134",
-      "today": "3,728 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/MadsLorentzen/ai-job-search"
-    },
-    {
       "name": "SmartlyDressedGames/U3-SDK",
       "desc": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-      "stars": "1909",
-      "today": "541 stars today",
+      "stars": "2270",
+      "today": "524 stars today",
       "language": "C#",
       "url": "https://github.com/SmartlyDressedGames/U3-SDK"
     },
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "75668",
-      "today": "2,582 stars today",
+      "stars": "76420",
+      "today": "2,554 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "VoltAgent/awesome-design-md",
       "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "stars": "99384",
-      "today": "1,569 stars today",
+      "stars": "100427",
+      "today": "1,391 stars today",
       "language": "",
       "url": "https://github.com/VoltAgent/awesome-design-md"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
       "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "stars": "13203",
-      "today": "1,923 stars today",
+      "stars": "14019",
+      "today": "1,929 stars today",
       "language": "C#",
       "url": "https://github.com/iOfficeAI/OfficeCLI"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": "6532",
+      "stars": "6735",
       "today": "185 stars today",
       "language": "TypeScript",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -52,7 +44,7 @@
     {
       "name": "anthropics/claude-cookbooks",
       "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": "47023",
+      "stars": "47415",
       "today": "194 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/anthropics/claude-cookbooks"
@@ -60,64 +52,64 @@
     {
       "name": "vxcontrol/pentagi",
       "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": "19247",
-      "today": "543 stars today",
+      "stars": "19725",
+      "today": "535 stars today",
       "language": "Go",
       "url": "https://github.com/vxcontrol/pentagi"
     },
     {
       "name": "unclecode/crawl4ai",
       "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "stars": "71730",
-      "today": "195 stars today",
+      "stars": "72126",
+      "today": "215 stars today",
       "language": "Python",
       "url": "https://github.com/unclecode/crawl4ai"
     },
     {
       "name": "imthenachoman/How-To-Secure-A-Linux-Server",
       "desc": "An evolving how-to guide for securing a Linux server.",
-      "stars": "28962",
-      "today": "399 stars today",
+      "stars": "29327",
+      "today": "243 stars today",
       "language": "",
       "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
     },
     {
       "name": "huxingyi/autoremesher",
       "desc": "Automatic quad remeshing tool",
-      "stars": "2278",
-      "today": "405 stars today",
+      "stars": "2498",
+      "today": "403 stars today",
       "language": "C++",
       "url": "https://github.com/huxingyi/autoremesher"
     },
     {
       "name": "bradautomates/claude-video",
       "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": "6544",
-      "today": "727 stars today",
+      "stars": "6969",
+      "today": "718 stars today",
       "language": "Python",
       "url": "https://github.com/bradautomates/claude-video"
     },
     {
       "name": "prisma/prisma",
       "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "stars": "46832",
-      "today": "373 stars today",
+      "stars": "47079",
+      "today": "376 stars today",
       "language": "TypeScript",
       "url": "https://github.com/prisma/prisma"
     },
     {
       "name": "kyutai-labs/pocket-tts",
       "desc": "A TTS that fits in your CPU (and pocket)",
-      "stars": "6865",
-      "today": "273 stars today",
+      "stars": "7184",
+      "today": "235 stars today",
       "language": "Python",
       "url": "https://github.com/kyutai-labs/pocket-tts"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": "54951",
-      "today": "1,135 stars today",
+      "stars": "55581",
+      "today": "1,125 stars today",
       "language": "JavaScript",
       "url": "https://github.com/asgeirtj/system_prompts_leaks"
     }
