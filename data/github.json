@@ -1,117 +1,157 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "items": [
-    {
-      "name": "SmartlyDressedGames/U3-SDK",
-      "desc": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-      "stars": "2270",
-      "today": "524 stars today",
-      "language": "C#",
-      "url": "https://github.com/SmartlyDressedGames/U3-SDK"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "76420",
-      "today": "2,554 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "name": "VoltAgent/awesome-design-md",
-      "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "stars": "100427",
-      "today": "1,391 stars today",
-      "language": "",
-      "url": "https://github.com/VoltAgent/awesome-design-md"
-    },
-    {
-      "name": "iOfficeAI/OfficeCLI",
-      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "stars": "14019",
-      "today": "1,929 stars today",
-      "language": "C#",
-      "url": "https://github.com/iOfficeAI/OfficeCLI"
-    },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": "6735",
-      "today": "185 stars today",
+      "stars": "7068",
+      "today": "349 stars today",
       "language": "TypeScript",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": "47415",
-      "today": "194 stars today",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/anthropics/claude-cookbooks"
+      "name": "oven-sh/bun",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars": "94081",
+      "today": "307 stars today",
+      "language": "Rust",
+      "url": "https://github.com/oven-sh/bun"
     },
     {
-      "name": "vxcontrol/pentagi",
-      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": "19725",
-      "today": "535 stars today",
-      "language": "Go",
-      "url": "https://github.com/vxcontrol/pentagi"
-    },
-    {
-      "name": "unclecode/crawl4ai",
-      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "stars": "72126",
-      "today": "215 stars today",
-      "language": "Python",
-      "url": "https://github.com/unclecode/crawl4ai"
-    },
-    {
-      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "desc": "An evolving how-to guide for securing a Linux server.",
-      "stars": "29327",
-      "today": "243 stars today",
-      "language": "",
-      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
-    },
-    {
-      "name": "huxingyi/autoremesher",
-      "desc": "Automatic quad remeshing tool",
-      "stars": "2498",
-      "today": "403 stars today",
+      "name": "abseil/abseil-cpp",
+      "desc": "Abseil Common Libraries (C++)",
+      "stars": "17491",
+      "today": "106 stars today",
       "language": "C++",
-      "url": "https://github.com/huxingyi/autoremesher"
+      "url": "https://github.com/abseil/abseil-cpp"
     },
     {
-      "name": "bradautomates/claude-video",
-      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": "6969",
-      "today": "718 stars today",
-      "language": "Python",
-      "url": "https://github.com/bradautomates/claude-video"
-    },
-    {
-      "name": "prisma/prisma",
-      "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "stars": "47079",
-      "today": "376 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/prisma/prisma"
-    },
-    {
-      "name": "kyutai-labs/pocket-tts",
-      "desc": "A TTS that fits in your CPU (and pocket)",
-      "stars": "7184",
-      "today": "235 stars today",
-      "language": "Python",
-      "url": "https://github.com/kyutai-labs/pocket-tts"
-    },
-    {
-      "name": "asgeirtj/system_prompts_leaks",
-      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": "55581",
-      "today": "1,125 stars today",
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars": "76645",
+      "today": "1,114 stars today",
       "language": "JavaScript",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "desc": "A YAML parser and emitter in C++",
+      "stars": "6063",
+      "today": "65 stars today",
+      "language": "C++",
+      "url": "https://github.com/jbeder/yaml-cpp"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": "164359",
+      "today": "1,728 stars today",
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": "251637",
+      "today": "1,096 stars today",
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "stars": "109725",
+      "today": "166 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/microsoft/TypeScript"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "stars": "20586",
+      "today": "69 stars today",
+      "language": "C++",
+      "url": "https://github.com/catchorg/Catch2"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "desc": "Asio C++ Library",
+      "stars": "6050",
+      "today": "87 stars today",
+      "language": "C++",
+      "url": "https://github.com/chriskohlhoff/asio"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "stars": "8150",
+      "today": "134 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "stars": "28709",
+      "today": "104 stars today",
+      "language": "Python",
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "desc": "Mesh optimization library that makes meshes smaller and faster to render",
+      "stars": "7992",
+      "today": "86 stars today",
+      "language": "C++",
+      "url": "https://github.com/zeux/meshoptimizer"
+    },
+    {
+      "name": "tailscale/tailscale",
+      "desc": "The easiest, most secure way to use WireGuard and 2FA.",
+      "stars": "33545",
+      "today": "183 stars today",
+      "language": "Go",
+      "url": "https://github.com/tailscale/tailscale"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": "6639",
+      "today": "101 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "stars": "14278",
+      "today": "1,210 stars today",
+      "language": "C#",
+      "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "stars": "49103",
+      "today": "168 stars today",
+      "language": "Go",
+      "url": "https://github.com/hashicorp/terraform"
+    },
+    {
+      "name": "grpc/grpc",
+      "desc": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "stars": "45102",
+      "today": "68 stars today",
+      "language": "C++",
+      "url": "https://github.com/grpc/grpc"
+    },
+    {
+      "name": "vercel/next.js",
+      "desc": "The React Framework",
+      "stars": "140613",
+      "today": "176 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/vercel/next.js"
     }
   ]
 }
