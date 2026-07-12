@@ -4,39 +4,39 @@
     {
       "name": "catchorg/Catch2",
       "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "stars": "20868",
-      "today": "117 stars today",
+      "stars": "21215",
+      "today": "113 stars today",
       "language": "C++",
       "url": "https://github.com/catchorg/Catch2"
     },
     {
       "name": "abseil/abseil-cpp",
       "desc": "Abseil Common Libraries (C++)",
-      "stars": "17687",
-      "today": "120 stars today",
+      "stars": "17907",
+      "today": "118 stars today",
       "language": "C++",
       "url": "https://github.com/abseil/abseil-cpp"
     },
     {
       "name": "davila7/claude-code-templates",
       "desc": "CLI tool for configuring and monitoring Claude Code",
-      "stars": "28940",
-      "today": "230 stars today",
+      "stars": "29119",
+      "today": "232 stars today",
       "language": "Python",
       "url": "https://github.com/davila7/claude-code-templates"
     },
     {
       "name": "google-labs-code/stitch-skills",
       "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "stars": "6967",
-      "today": "338 stars today",
+      "stars": "7189",
+      "today": "340 stars today",
       "language": "TypeScript",
       "url": "https://github.com/google-labs-code/stitch-skills"
     },
     {
       "name": "hashicorp/terraform",
       "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "stars": "49310",
+      "stars": "49425",
       "today": "229 stars today",
       "language": "Go",
       "url": "https://github.com/hashicorp/terraform"
@@ -44,47 +44,47 @@
     {
       "name": "zeux/meshoptimizer",
       "desc": "Mesh optimization library that makes meshes smaller and faster to render",
-      "stars": "8100",
-      "today": "111 stars today",
+      "stars": "8169",
+      "today": "110 stars today",
       "language": "C++",
       "url": "https://github.com/zeux/meshoptimizer"
     },
     {
       "name": "openai/plugins",
       "desc": "OpenAI Plugins",
-      "stars": "4346",
-      "today": "112 stars today",
+      "stars": "4478",
+      "today": "29 stars today",
       "language": "JavaScript",
       "url": "https://github.com/openai/plugins"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": "7709",
-      "today": "900 stars today",
+      "stars": "7847",
+      "today": "909 stars today",
       "language": "TypeScript",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
     {
       "name": "chriskohlhoff/asio",
       "desc": "Asio C++ Library",
-      "stars": "6117",
-      "today": "75 stars today",
+      "stars": "6156",
+      "today": "76 stars today",
       "language": "C++",
       "url": "https://github.com/chriskohlhoff/asio"
     },
     {
       "name": "oven-sh/bun",
       "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": "94519",
-      "today": "654 stars today",
+      "stars": "94614",
+      "today": "658 stars today",
       "language": "Rust",
       "url": "https://github.com/oven-sh/bun"
     },
     {
       "name": "actions/checkout",
       "desc": "Action for checking out a repo",
-      "stars": "8438",
+      "stars": "8483",
       "today": "8 stars today",
       "language": "TypeScript",
       "url": "https://github.com/actions/checkout"
@@ -92,72 +92,72 @@
     {
       "name": "home-assistant/core",
       "desc": "🏡 Open source home automation that puts local control and privacy first.",
-      "stars": "88564",
-      "today": "169 stars today",
+      "stars": "88807",
+      "today": "80 stars today",
       "language": "Python",
       "url": "https://github.com/home-assistant/core"
     },
     {
       "name": "microsoft/PowerToys",
       "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "stars": "136372",
-      "today": "65 stars today",
+      "stars": "136509",
+      "today": "39 stars today",
       "language": "C",
       "url": "https://github.com/microsoft/PowerToys"
     },
     {
       "name": "cypress-io/cypress",
       "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "stars": "50566",
-      "today": "43 stars today",
+      "stars": "50667",
+      "today": "19 stars today",
       "language": "TypeScript",
       "url": "https://github.com/cypress-io/cypress"
     },
     {
       "name": "vercel/next.js",
       "desc": "The React Framework",
-      "stars": "140875",
-      "today": "331 stars today",
+      "stars": "141009",
+      "today": "334 stars today",
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     },
     {
       "name": "DayuanJiang/next-ai-draw-io",
       "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "stars": "33231",
-      "today": "74 stars today",
+      "stars": "33401",
+      "today": "81 stars today",
       "language": "TypeScript",
       "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
       "name": "malisper/pgrust",
       "desc": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "stars": "1892",
-      "today": "789 stars today",
+      "stars": "2217",
+      "today": "774 stars today",
       "language": "Rust",
       "url": "https://github.com/malisper/pgrust"
     },
     {
       "name": "dotnet/aspnetcore",
       "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "stars": "38288",
-      "today": "69 stars today",
+      "stars": "38331",
+      "today": "4 stars today",
       "language": "C#",
       "url": "https://github.com/dotnet/aspnetcore"
     },
     {
       "name": "prisma/prisma",
       "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "stars": "47169",
-      "today": "85 stars today",
+      "stars": "47319",
+      "today": "37 stars today",
       "language": "TypeScript",
       "url": "https://github.com/prisma/prisma"
     },
     {
       "name": "anthropics/claude-cookbooks",
       "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": "47802",
-      "today": "476 stars today",
+      "stars": "48095",
+      "today": "219 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/anthropics/claude-cookbooks"
     }
