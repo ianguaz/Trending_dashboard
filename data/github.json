@@ -1,93 +1,125 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "items": [
-    {
-      "name": "OpenCut-app/OpenCut",
-      "desc": "The open-source CapCut alternative",
-      "stars": "68309",
-      "today": "1,229 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/OpenCut-app/OpenCut"
-    },
-    {
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "stars": "4017",
-      "today": "1,295 stars today",
-      "language": "Rust",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
-    },
-    {
-      "name": "HKUDS/Vibe-Trading",
-      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": "22342",
-      "today": "1,153 stars today",
-      "language": "Python",
-      "url": "https://github.com/HKUDS/Vibe-Trading"
-    },
-    {
-      "name": "moeru-ai/airi",
-      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": "42214",
-      "today": "78 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/moeru-ai/airi"
-    },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": "120174",
-      "today": "996 stars today",
+      "stars": "120538",
+      "today": "1,104 stars today",
       "language": "Python",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": "169845",
+      "today": "1,559 stars today",
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars": "4237",
+      "today": "481 stars today",
+      "language": "Rust",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars": "68885",
+      "today": "4,349 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "desc": "An AI Hedge Fund Team",
+      "stars": "61765",
+      "today": "156 stars today",
+      "language": "Python",
+      "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
       "name": "Nutlope/hallmark",
       "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": "5604",
-      "today": "794 stars today",
+      "stars": "5935",
+      "today": "1,010 stars today",
       "language": "CSS",
       "url": "https://github.com/Nutlope/hallmark"
     },
     {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": "22657",
+      "today": "1,265 stars today",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
       "name": "Raphire/Win11Debloat",
       "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "stars": "51198",
-      "today": "118 stars today",
+      "stars": "51425",
+      "today": "779 stars today",
       "language": "PowerShell",
       "url": "https://github.com/Raphire/Win11Debloat"
     },
     {
-      "name": "Graphify-Labs/graphify",
-      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "stars": "85451",
-      "today": "1,095 stars today",
-      "language": "Python",
-      "url": "https://github.com/Graphify-Labs/graphify"
-    },
-    {
       "name": "hasaneyldrm/exercises-dataset",
       "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "stars": "13007",
-      "today": "451 stars today",
+      "stars": "13224",
+      "today": "864 stars today",
       "language": "HTML",
       "url": "https://github.com/hasaneyldrm/exercises-dataset"
     },
     {
-      "name": "github/spec-kit",
-      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": "120943",
-      "today": "543 stars today",
-      "language": "Python",
-      "url": "https://github.com/github/spec-kit"
+      "name": "penpot/penpot",
+      "desc": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "stars": "56022",
+      "today": "264 stars today",
+      "language": "Clojure",
+      "url": "https://github.com/penpot/penpot"
     },
     {
-      "name": "coreyhaines31/marketingskills",
-      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "stars": "39024",
-      "today": "299 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/coreyhaines31/marketingskills"
+      "name": "AIEraDev/Clypra",
+      "desc": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "stars": "2529",
+      "today": "66 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/AIEraDev/Clypra"
+    },
+    {
+      "name": "par274/sharpemu",
+      "desc": "An experimental PlayStation 5 emulator project.",
+      "stars": "1944",
+      "today": "428 stars today",
+      "language": "C#",
+      "url": "https://github.com/par274/sharpemu"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "desc": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "stars": "5810",
+      "today": "179 stars today",
+      "language": "Go",
+      "url": "https://github.com/chenyme/grok2api"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "stars": "85942",
+      "today": "1,858 stars today",
+      "language": "Python",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "stars": "5054",
+      "today": "69 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
     }
   ]
 }
