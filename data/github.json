@@ -1,117 +1,109 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "items": [
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": "121442",
-      "today": "1,106 stars today",
-      "language": "Python",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-    },
-    {
-      "name": "mattpocock/skills",
-      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": "171307",
-      "today": "1,679 stars today",
-      "language": "Shell",
-      "url": "https://github.com/mattpocock/skills"
-    },
     {
       "name": "OpenCut-app/OpenCut",
       "desc": "The open-source CapCut alternative",
-      "stars": "69774",
-      "today": "4,276 stars today",
+      "stars": "70896",
+      "today": "1,505 stars today",
       "language": "TypeScript",
       "url": "https://github.com/OpenCut-app/OpenCut"
     },
     {
-      "name": "virattt/ai-hedge-fund",
-      "desc": "An AI Hedge Fund Team",
-      "stars": "62066",
-      "today": "109 stars today",
-      "language": "Python",
-      "url": "https://github.com/virattt/ai-hedge-fund"
-    },
-    {
       "name": "Nutlope/hallmark",
       "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": "6537",
-      "today": "1,015 stars today",
+      "stars": "7644",
+      "today": "1,119 stars today",
       "language": "CSS",
       "url": "https://github.com/Nutlope/hallmark"
     },
     {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": "171925",
+      "today": "2,160 stars today",
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "stars": "42403",
+      "today": "144 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars": "4655",
+      "today": "497 stars today",
+      "language": "Rust",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+    },
+    {
       "name": "HKUDS/Vibe-Trading",
       "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": "23257",
-      "today": "1,256 stars today",
+      "stars": "23522",
+      "today": "924 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/Vibe-Trading"
     },
     {
-      "name": "Raphire/Win11Debloat",
-      "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "stars": "52075",
-      "today": "783 stars today",
-      "language": "PowerShell",
-      "url": "https://github.com/Raphire/Win11Debloat"
+      "name": "openinterpreter/openinterpreter",
+      "desc": "A coding agent for low-cost models",
+      "stars": "65286",
+      "today": "607 stars today",
+      "language": "Rust",
+      "url": "https://github.com/openinterpreter/openinterpreter"
     },
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "stars": "13945",
-      "today": "851 stars today",
-      "language": "HTML",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset"
-    },
-    {
-      "name": "penpot/penpot",
-      "desc": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
-      "stars": "56380",
-      "today": "395 stars today",
-      "language": "Clojure",
-      "url": "https://github.com/penpot/penpot"
-    },
-    {
-      "name": "AIEraDev/Clypra",
-      "desc": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
-      "stars": "2797",
-      "today": "85 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/AIEraDev/Clypra"
-    },
-    {
-      "name": "par274/sharpemu",
-      "desc": "An experimental PlayStation 5 emulator project.",
-      "stars": "2346",
-      "today": "332 stars today",
-      "language": "C#",
-      "url": "https://github.com/par274/sharpemu"
-    },
-    {
-      "name": "chenyme/grok2api",
-      "desc": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
-      "stars": "5986",
-      "today": "186 stars today",
-      "language": "Go",
-      "url": "https://github.com/chenyme/grok2api"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "stars": "87084",
-      "today": "1,851 stars today",
+      "name": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": "26134",
+      "today": "128 stars today",
       "language": "Python",
-      "url": "https://github.com/Graphify-Labs/graphify"
+      "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
       "desc": "Become a cracked AI/ML Research Engineer",
-      "stars": "5573",
-      "today": "112 stars today",
+      "stars": "5761",
+      "today": "729 stars today",
       "language": "TypeScript",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": "121714",
+      "today": "1,278 stars today",
+      "language": "Python",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "39555",
+      "today": "390 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/coreyhaines31/marketingskills"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "desc": "Experimental menu for GTA 5: Enhanced",
+      "stars": "1384",
+      "today": "21 stars today",
+      "language": "C++",
+      "url": "https://github.com/YimMenu/YimMenuV2"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars": "14185",
+      "today": "951 stars today",
+      "language": "HTML",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset"
     }
   ]
 }
