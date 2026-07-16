@@ -4,104 +4,104 @@
     {
       "name": "OpenCut-app/OpenCut",
       "desc": "The open-source CapCut alternative",
-      "stars": "70896",
-      "today": "1,505 stars today",
+      "stars": "73273",
+      "today": "1,664 stars today",
       "language": "TypeScript",
       "url": "https://github.com/OpenCut-app/OpenCut"
     },
     {
       "name": "Nutlope/hallmark",
       "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": "7644",
-      "today": "1,119 stars today",
+      "stars": "9933",
+      "today": "1,277 stars today",
       "language": "CSS",
       "url": "https://github.com/Nutlope/hallmark"
     },
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": "171925",
-      "today": "2,160 stars today",
+      "stars": "173307",
+      "today": "2,130 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "moeru-ai/airi",
       "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": "42403",
-      "today": "144 stars today",
+      "stars": "42720",
+      "today": "110 stars today",
       "language": "TypeScript",
       "url": "https://github.com/moeru-ai/airi"
     },
     {
       "name": "Dicklesworthstone/destructive_command_guard",
       "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "stars": "4655",
-      "today": "497 stars today",
+      "stars": "4946",
+      "today": "471 stars today",
       "language": "Rust",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": "23522",
-      "today": "924 stars today",
+      "stars": "24080",
+      "today": "915 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/Vibe-Trading"
     },
     {
       "name": "openinterpreter/openinterpreter",
       "desc": "A coding agent for low-cost models",
-      "stars": "65286",
-      "today": "607 stars today",
+      "stars": "65736",
+      "today": "299 stars today",
       "language": "Rust",
       "url": "https://github.com/openinterpreter/openinterpreter"
     },
     {
       "name": "HKUDS/DeepTutor",
       "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "stars": "26134",
-      "today": "128 stars today",
+      "stars": "26598",
+      "today": "172 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
       "name": "HenryNdubuaku/maths-cs-ai-compendium",
       "desc": "Become a cracked AI/ML Research Engineer",
-      "stars": "5761",
-      "today": "729 stars today",
+      "stars": "6159",
+      "today": "725 stars today",
       "language": "TypeScript",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": "121714",
-      "today": "1,278 stars today",
+      "stars": "122331",
+      "today": "1,236 stars today",
       "language": "Python",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
       "name": "coreyhaines31/marketingskills",
       "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "stars": "39555",
-      "today": "390 stars today",
+      "stars": "40058",
+      "today": "340 stars today",
       "language": "JavaScript",
       "url": "https://github.com/coreyhaines31/marketingskills"
     },
     {
       "name": "YimMenu/YimMenuV2",
       "desc": "Experimental menu for GTA 5: Enhanced",
-      "stars": "1384",
-      "today": "21 stars today",
+      "stars": "1474",
+      "today": "38 stars today",
       "language": "C++",
       "url": "https://github.com/YimMenu/YimMenuV2"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
       "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "stars": "14185",
-      "today": "951 stars today",
+      "stars": "14662",
+      "today": "949 stars today",
       "language": "HTML",
       "url": "https://github.com/hasaneyldrm/exercises-dataset"
     }
