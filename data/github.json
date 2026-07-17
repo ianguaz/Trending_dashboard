@@ -1,141 +1,117 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "items": [
-    {
-      "name": "apache/ossie",
-      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "stars": "1100",
-      "today": "60 stars today",
-      "language": "Python",
-      "url": "https://github.com/apache/ossie"
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "stars": "11516",
-      "today": "3,372 stars today",
-      "language": "CSS",
-      "url": "https://github.com/Nutlope/hallmark"
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "desc": "The open-source CapCut alternative",
-      "stars": "74487",
-      "today": "3,537 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/OpenCut-app/OpenCut"
-    },
-    {
-      "name": "PostHog/posthog",
-      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "stars": "36010",
-      "today": "77 stars today",
-      "language": "Python",
-      "url": "https://github.com/PostHog/posthog"
-    },
-    {
-      "name": "openinterpreter/openinterpreter",
-      "desc": "A coding agent for open models like Kimi K3",
-      "stars": "66177",
-      "today": "661 stars today",
-      "language": "Rust",
-      "url": "https://github.com/openinterpreter/openinterpreter"
-    },
-    {
-      "name": "PrismML-Eng/Bonsai-demo",
-      "desc": "Bonsai Demo",
-      "stars": "1632",
-      "today": "196 stars today",
-      "language": "Shell",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo"
-    },
-    {
-      "name": "hasaneyldrm/exercises-dataset",
-      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "stars": "15284",
-      "today": "710 stars today",
-      "language": "HTML",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "stars": "123323",
-      "today": "923 stars today",
-      "language": "Python",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-    },
-    {
-      "name": "lobehub/lobehub",
-      "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-      "stars": "80377",
-      "today": "71 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/lobehub/lobehub"
-    },
-    {
-      "name": "YimMenu/YimMenuV2",
-      "desc": "Experimental menu for GTA 5: Enhanced",
-      "stars": "1537",
-      "today": "128 stars today",
-      "language": "C++",
-      "url": "https://github.com/YimMenu/YimMenuV2"
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "stars": "27136",
-      "today": "656 stars today",
-      "language": "Python",
-      "url": "https://github.com/HKUDS/DeepTutor"
-    },
-    {
-      "name": "mattpocock/skills",
-      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": "175017",
-      "today": "2,060 stars today",
-      "language": "Shell",
-      "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "name": "github/copilot-sdk",
-      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "stars": "9737",
-      "today": "13 stars today",
-      "language": "Java",
-      "url": "https://github.com/github/copilot-sdk"
-    },
-    {
-      "name": "ibelick/ui-skills",
-      "desc": "Skills for Design Engineers",
-      "stars": "4552",
-      "today": "178 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/ibelick/ui-skills"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "stars": "89633",
-      "today": "1,107 stars today",
-      "language": "Python",
-      "url": "https://github.com/Graphify-Labs/graphify"
-    },
     {
       "name": "codecrafters-io/build-your-own-x",
       "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": "526734",
-      "today": "435 stars today",
+      "stars": "527090",
+      "today": "1,070 stars today",
       "language": "Markdown",
       "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
-      "name": "ossu/computer-science",
-      "desc": "🎓 Path to a free self-taught education in Computer Science!",
-      "stars": "206785",
-      "today": "107 stars today",
-      "language": "HTML",
-      "url": "https://github.com/ossu/computer-science"
+      "name": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": "36100",
+      "today": "437 stars today",
+      "language": "Python",
+      "url": "https://github.com/PostHog/posthog"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "stars": "6486",
+      "today": "248 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": "11779",
+      "today": "1,486 stars today",
+      "language": "CSS",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": "9761",
+      "today": "234 stars today",
+      "language": "Java",
+      "url": "https://github.com/github/copilot-sdk"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "desc": "",
+      "stars": "1529",
+      "today": "37 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/anthropics/cwc-workshops"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "desc": "Bonsai Demo",
+      "stars": "1677",
+      "today": "279 stars today",
+      "language": "Shell",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "desc": "Protocol Buffers - Google's data interchange format",
+      "stars": "71521",
+      "today": "18 stars today",
+      "language": "C++",
+      "url": "https://github.com/protocolbuffers/protobuf"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": "19668",
+      "today": "57 stars today",
+      "language": "Python",
+      "url": "https://github.com/tirth8205/code-review-graph"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars": "17750",
+      "today": "152 stars today",
+      "language": "Ruby",
+      "url": "https://github.com/docusealco/docuseal"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "desc": "A coding agent for open models like Kimi K3",
+      "stars": "66255",
+      "today": "431 stars today",
+      "language": "Rust",
+      "url": "https://github.com/openinterpreter/openinterpreter"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars": "13219",
+      "today": "280 stars today",
+      "language": "Python",
+      "url": "https://github.com/RyanCodrai/turbovec"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": "27250",
+      "today": "528 stars today",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars": "74664",
+      "today": "1,077 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/OpenCut-app/OpenCut"
     }
   ]
 }
