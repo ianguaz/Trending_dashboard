@@ -4,88 +4,88 @@
     {
       "name": "Robbyant/lingbot-map",
       "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "stars": "12645",
-      "today": "827 stars today",
+      "stars": "13279",
+      "today": "831 stars today",
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map"
     },
     {
       "name": "apache/ossie",
       "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "stars": "1214",
-      "today": "48 stars today",
+      "stars": "1349",
+      "today": "47 stars today",
       "language": "Python",
       "url": "https://github.com/apache/ossie"
     },
     {
       "name": "PostHog/posthog",
       "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "stars": "36463",
-      "today": "337 stars today",
+      "stars": "36738",
+      "today": "338 stars today",
       "language": "Python",
       "url": "https://github.com/PostHog/posthog"
     },
     {
       "name": "ibelick/ui-skills",
       "desc": "Skills for Design Engineers",
-      "stars": "4842",
-      "today": "242 stars today",
+      "stars": "5256",
+      "today": "123 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ibelick/ui-skills"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "38978",
-      "today": "240 stars today",
+      "stars": "39297",
+      "today": "191 stars today",
       "language": "Python",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "name": "tirth8205/code-review-graph",
       "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": "20048",
-      "today": "356 stars today",
+      "stars": "20385",
+      "today": "355 stars today",
       "language": "Python",
       "url": "https://github.com/tirth8205/code-review-graph"
     },
     {
       "name": "elder-plinius/G0DM0D3",
       "desc": "LIBERATED AI CHAT",
-      "stars": "9424",
-      "today": "63 stars today",
+      "stars": "9611",
+      "today": "69 stars today",
       "language": "TypeScript",
       "url": "https://github.com/elder-plinius/G0DM0D3"
     },
     {
       "name": "lyogavin/airllm",
       "desc": "AirLLM 70B inference with single 4GB GPU",
-      "stars": "23226",
-      "today": "242 stars today",
+      "stars": "23475",
+      "today": "161 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/lyogavin/airllm"
     },
     {
       "name": "KnockOutEZ/wigolo",
       "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "stars": "1076",
-      "today": "192 stars today",
+      "stars": "1461",
+      "today": "203 stars today",
       "language": "TypeScript",
       "url": "https://github.com/KnockOutEZ/wigolo"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": "528055",
-      "today": "1,131 stars today",
+      "stars": "528534",
+      "today": "1,126 stars today",
       "language": "Markdown",
       "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
       "name": "MoonshotAI/kimi-cli",
       "desc": "Kimi Code CLI is your next CLI agent.",
-      "stars": "9354",
-      "today": "48 stars today",
+      "stars": "9642",
+      "today": "65 stars today",
       "language": "Python",
       "url": "https://github.com/MoonshotAI/kimi-cli"
     }
