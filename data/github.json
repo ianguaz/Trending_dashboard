@@ -4,63 +4,63 @@
     {
       "name": "koala73/worldmonitor",
       "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": "64423",
-      "today": "1,167 stars today",
+      "stars": "67177",
+      "today": "1,295 stars today",
       "language": "TypeScript",
       "url": "https://github.com/koala73/worldmonitor"
     },
     {
       "name": "bojieli/ai-agent-book",
       "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": "14058",
-      "today": "4,434 stars today",
+      "stars": "16795",
+      "today": "4,624 stars today",
       "language": "Python",
       "url": "https://github.com/bojieli/ai-agent-book"
     },
     {
       "name": "tirth8205/code-review-graph",
       "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": "24368",
-      "today": "1,921 stars today",
+      "stars": "24999",
+      "today": "1,925 stars today",
       "language": "Python",
       "url": "https://github.com/tirth8205/code-review-graph"
     },
     {
       "name": "ayghri/i-have-adhd",
       "desc": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "stars": "6422",
-      "today": "1,846 stars today",
-      "language": "",
+      "stars": "7518",
+      "today": "1,866 stars today",
+      "language": "Python",
       "url": "https://github.com/ayghri/i-have-adhd"
     },
     {
       "name": "earthtojake/text-to-cad",
       "desc": "A collection of agent skills for CAD, robotics and hardware design",
-      "stars": "8942",
-      "today": "297 stars today",
+      "stars": "9470",
+      "today": "291 stars today",
       "language": "JavaScript",
       "url": "https://github.com/earthtojake/text-to-cad"
     },
     {
       "name": "1jehuang/jcode",
       "desc": "The most intelligent agent harness for code",
-      "stars": "10180",
-      "today": "835 stars today",
+      "stars": "10570",
+      "today": "843 stars today",
       "language": "Rust",
       "url": "https://github.com/1jehuang/jcode"
     },
     {
       "name": "oblien/openship",
       "desc": "Self-hosted deployment platform",
-      "stars": "5833",
-      "today": "1,556 stars today",
+      "stars": "6692",
+      "today": "1,562 stars today",
       "language": "TypeScript",
       "url": "https://github.com/oblien/openship"
     },
     {
       "name": "AstrBotDevs/AstrBot",
       "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": "37391",
+      "stars": "37682",
       "today": "416 stars today",
       "language": "Python",
       "url": "https://github.com/AstrBotDevs/AstrBot"
@@ -68,79 +68,87 @@
     {
       "name": "every-app/open-seo",
       "desc": "Open source alternative to Semrush and Ahrefs",
-      "stars": "6424",
-      "today": "850 stars today",
+      "stars": "6802",
+      "today": "849 stars today",
       "language": "TypeScript",
       "url": "https://github.com/every-app/open-seo"
     },
     {
       "name": "tradesdontlie/tradingview-mcp",
       "desc": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "stars": "4714",
-      "today": "28 stars today",
+      "stars": "5010",
+      "today": "114 stars today",
       "language": "JavaScript",
       "url": "https://github.com/tradesdontlie/tradingview-mcp"
     },
     {
       "name": "AlexsJones/llmfit",
       "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "stars": "30069",
-      "today": "194 stars today",
+      "stars": "30382",
+      "today": "129 stars today",
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit"
     },
     {
       "name": "hyprwm/Hyprland",
       "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "stars": "36925",
-      "today": "88 stars today",
+      "stars": "37160",
+      "today": "58 stars today",
       "language": "C++",
       "url": "https://github.com/hyprwm/Hyprland"
     },
     {
       "name": "chrislgarry/Apollo-11",
       "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": "69762",
-      "today": "1,195 stars today",
+      "stars": "70219",
+      "today": "1,235 stars today",
       "language": "Assembly",
       "url": "https://github.com/chrislgarry/Apollo-11"
     },
     {
       "name": "DioxusLabs/dioxus",
       "desc": "Fullstack app framework for web, desktop, and mobile.",
-      "stars": "37542",
-      "today": "261 stars today",
+      "stars": "37831",
+      "today": "271 stars today",
       "language": "Rust",
       "url": "https://github.com/DioxusLabs/dioxus"
     },
     {
       "name": "langchain-ai/open_deep_research",
       "desc": "",
-      "stars": "12149",
-      "today": "14 stars today",
+      "stars": "12366",
+      "today": "23 stars today",
       "language": "Python",
       "url": "https://github.com/langchain-ai/open_deep_research"
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "stars": "23102",
-      "today": "2,040 stars today",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "stars": "24232",
+      "today": "2,034 stars today",
       "language": "TypeScript",
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
+      "name": "agegr/pi-web",
+      "desc": "Web UI for the pi coding agent",
+      "stars": "1888",
+      "today": "298 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/agegr/pi-web"
+    },
+    {
       "name": "schollz/croc",
       "desc": "Easily and securely send things from one computer to another 🐊 📦",
-      "stars": "36597",
-      "today": "396 stars today",
+      "stars": "37096",
+      "today": "361 stars today",
       "language": "Go",
       "url": "https://github.com/schollz/croc"
     },
     {
       "name": "microsoft/Ontology-Playground",
       "desc": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
-      "stars": "1937",
+      "stars": "2108",
       "today": "355 stars today",
       "language": "TypeScript",
       "url": "https://github.com/microsoft/Ontology-Playground"
@@ -148,18 +156,10 @@
     {
       "name": "dottxt-ai/outlines",
       "desc": "Structured Outputs",
-      "stars": "14725",
-      "today": "49 stars today",
+      "stars": "14961",
+      "today": "65 stars today",
       "language": "Python",
       "url": "https://github.com/dottxt-ai/outlines"
-    },
-    {
-      "name": "KnockOutEZ/wigolo",
-      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "stars": "2998",
-      "today": "641 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/KnockOutEZ/wigolo"
     }
   ]
 }
