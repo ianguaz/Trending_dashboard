@@ -4,95 +4,95 @@
     {
       "name": "block/buzz",
       "desc": "A hive mind communication platform",
-      "stars": "9231",
-      "today": "3,274 stars today",
+      "stars": "10701",
+      "today": "3,270 stars today",
       "language": "Rust",
       "url": "https://github.com/block/buzz"
     },
     {
       "name": "koala73/worldmonitor",
       "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": "73010",
-      "today": "2,194 stars today",
+      "stars": "73732",
+      "today": "2,184 stars today",
       "language": "TypeScript",
       "url": "https://github.com/koala73/worldmonitor"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": "69911",
-      "today": "662 stars today",
+      "stars": "70291",
+      "today": "663 stars today",
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
       "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "stars": "9250",
-      "today": "472 stars today",
+      "stars": "9468",
+      "today": "473 stars today",
       "language": "Rust",
       "url": "https://github.com/Pumpkin-MC/Pumpkin"
     },
     {
       "name": "shiyu-coder/Kronos",
       "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": "33405",
-      "today": "506 stars today",
+      "stars": "33621",
+      "today": "499 stars today",
       "language": "Python",
       "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "name": "Automattic/harper",
       "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "stars": "12875",
-      "today": "877 stars today",
+      "stars": "13178",
+      "today": "876 stars today",
       "language": "Rust",
       "url": "https://github.com/Automattic/harper"
     },
     {
       "name": "likec4/likec4",
       "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "stars": "4944",
-      "today": "339 stars today",
+      "stars": "5118",
+      "today": "337 stars today",
       "language": "TypeScript",
       "url": "https://github.com/likec4/likec4"
     },
     {
       "name": "citrolabs/ego-lite",
       "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "stars": "2333",
-      "today": "884 stars today",
+      "stars": "3021",
+      "today": "880 stars today",
       "language": "JavaScript",
       "url": "https://github.com/citrolabs/ego-lite"
     },
     {
       "name": "yorukot/superfile",
       "desc": "Pretty fancy and modern terminal file manager",
-      "stars": "19357",
-      "today": "312 stars today",
+      "stars": "19783",
+      "today": "338 stars today",
       "language": "Go",
       "url": "https://github.com/yorukot/superfile"
     },
     {
       "name": "ruvnet/RuView",
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "85770",
-      "today": "1,021 stars today",
+      "stars": "86143",
+      "today": "1,022 stars today",
       "language": "Rust",
       "url": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "CoreBunch/Instatic",
       "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "stars": "4146",
-      "today": "250 stars today",
+      "stars": "4426",
+      "today": "201 stars today",
       "language": "TypeScript",
       "url": "https://github.com/CoreBunch/Instatic"
     },
     {
       "name": "chrislgarry/Apollo-11",
       "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": "71331",
+      "stars": "71463",
       "today": "409 stars today",
       "language": "Assembly",
       "url": "https://github.com/chrislgarry/Apollo-11"
@@ -100,32 +100,32 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "186361",
-      "today": "2,224 stars today",
+      "stars": "187431",
+      "today": "2,251 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "Lordog/dive-into-llms",
       "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": "44940",
-      "today": "654 stars today",
+      "stars": "45195",
+      "today": "328 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "stars": "28449",
-      "today": "1,843 stars today",
+      "stars": "29378",
+      "today": "1,841 stars today",
       "language": "TypeScript",
       "url": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
       "name": "OtterMind/Chat2DB",
       "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "stars": "26234",
-      "today": "129 stars today",
+      "stars": "26468",
+      "today": "82 stars today",
       "language": "Java",
       "url": "https://github.com/OtterMind/Chat2DB"
     }
