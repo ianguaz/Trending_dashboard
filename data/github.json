@@ -4,23 +4,23 @@
     {
       "name": "block/buzz",
       "desc": "A hive mind communication platform",
-      "stars": "11395",
-      "today": "2,506 stars today",
+      "stars": "12489",
+      "today": "2,491 stars today",
       "language": "Rust",
       "url": "https://github.com/block/buzz"
     },
     {
       "name": "alibaba/open-code-review",
       "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": "12750",
-      "today": "439 stars today",
+      "stars": "13310",
+      "today": "431 stars today",
       "language": "Go",
       "url": "https://github.com/alibaba/open-code-review"
     },
     {
       "name": "citrolabs/ego-lite",
       "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "stars": "3313",
+      "stars": "3903",
       "today": "986 stars today",
       "language": "JavaScript",
       "url": "https://github.com/citrolabs/ego-lite"
@@ -28,23 +28,23 @@
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": "70440",
-      "today": "574 stars today",
+      "stars": "70789",
+      "today": "577 stars today",
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "name": "anthropics/claude-cookbooks",
       "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": "49773",
-      "today": "144 stars today",
+      "stars": "50021",
+      "today": "132 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
       "name": "Automattic/harper",
       "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "stars": "13292",
+      "stars": "13554",
       "today": "503 stars today",
       "language": "Rust",
       "url": "https://github.com/Automattic/harper"
@@ -52,7 +52,7 @@
     {
       "name": "shiyu-coder/Kronos",
       "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": "33705",
+      "stars": "33926",
       "today": "319 stars today",
       "language": "Python",
       "url": "https://github.com/shiyu-coder/Kronos"
@@ -60,88 +60,88 @@
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "260948",
-      "today": "600 stars today",
+      "stars": "261318",
+      "today": "479 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "Pumpkin-MC/Pumpkin",
       "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "stars": "9594",
-      "today": "357 stars today",
+      "stars": "9808",
+      "today": "358 stars today",
       "language": "Rust",
       "url": "https://github.com/Pumpkin-MC/Pumpkin"
     },
     {
       "name": "permissionlesstech/bitchat",
       "desc": "bluetooth mesh chat, IRC vibes",
-      "stars": "28381",
-      "today": "1,695 stars today",
+      "stars": "29037",
+      "today": "1,720 stars today",
       "language": "Swift",
       "url": "https://github.com/permissionlesstech/bitchat"
     },
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "187928",
-      "today": "1,743 stars today",
+      "stars": "188839",
+      "today": "1,740 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "palmier-io/palmier-pro",
       "desc": "macOS video editor built for AI",
-      "stars": "12100",
-      "today": "346 stars today",
+      "stars": "12366",
+      "today": "412 stars today",
       "language": "Swift",
       "url": "https://github.com/palmier-io/palmier-pro"
     },
     {
       "name": "CoreBunch/Instatic",
       "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "stars": "4810",
-      "today": "424 stars today",
+      "stars": "5281",
+      "today": "426 stars today",
       "language": "TypeScript",
       "url": "https://github.com/CoreBunch/Instatic"
     },
     {
       "name": "Lordog/dive-into-llms",
       "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": "45298",
-      "today": "405 stars today",
+      "stars": "45491",
+      "today": "408 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
       "name": "RyanCodrai/turbovec",
       "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "stars": "14202",
-      "today": "89 stars today",
+      "stars": "14363",
+      "today": "86 stars today",
       "language": "Python",
       "url": "https://github.com/RyanCodrai/turbovec"
     },
     {
       "name": "OtterMind/Chat2DB",
       "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "stars": "26553",
-      "today": "364 stars today",
+      "stars": "26851",
+      "today": "360 stars today",
       "language": "Java",
       "url": "https://github.com/OtterMind/Chat2DB"
     },
     {
       "name": "andrewyng/aisuite",
       "desc": "Simple, unified interface to multiple Generative AI providers",
-      "stars": "15164",
-      "today": "75 stars today",
+      "stars": "15298",
+      "today": "77 stars today",
       "language": "Python",
       "url": "https://github.com/andrewyng/aisuite"
     },
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "233164",
-      "today": "364 stars today",
+      "stars": "233456",
+      "today": "377 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     }
