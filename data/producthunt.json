@@ -4,7 +4,7 @@
     {
       "name": "Acti",
       "desc": "Agentic keyboard for mobile commands and search",
-      "votes": 1254,
+      "votes": 1264,
       "url": "https://www.producthunt.com/products/acti-2/launches/acti-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5ccc5e0b-77d9-45f8-bafe-ec081a905348.png?auto=format",
       "topics": [
@@ -26,9 +26,21 @@
       ]
     },
     {
+      "name": "Pazi",
+      "desc": "Vibe code business operations",
+      "votes": 898,
+      "url": "https://www.producthunt.com/products/pazi/launches/pazi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/0cc238aa-08c3-4d44-a509-0289f8806019.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Vibe coding"
+      ]
+    },
+    {
       "name": "OpenSEO",
       "desc": "The open source Ahrefs alternative",
-      "votes": 894,
+      "votes": 896,
       "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bddfb6ed-475f-4cc7-adbc-c28b77be18d8.png?auto=format",
       "topics": [
@@ -38,21 +50,9 @@
       ]
     },
     {
-      "name": "Pazi",
-      "desc": "Vibe code business operations",
-      "votes": 893,
-      "url": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/0cc238aa-08c3-4d44-a509-0289f8806019.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Vibe coding"
-      ]
-    },
-    {
       "name": "AnySearch",
       "desc": "Real-time structured search trusted by agents and developers",
-      "votes": 825,
+      "votes": 822,
       "url": "https://www.producthunt.com/products/anysearch/launches/anysearch-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d7e5bffe-bacb-4118-a8e4-1bfbdf7c531e.x-icon?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "ExploreYC",
       "desc": "Open-source API for Y Combinator & a16z company data",
-      "votes": 795,
+      "votes": 794,
       "url": "https://www.producthunt.com/products/yc-company-explorer/launches/exploreyc-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0affb3fc-9a19-4185-9db7-b6ff3aa445ed.png?auto=format",
       "topics": [
@@ -76,8 +76,8 @@
     {
       "name": "ClawTeams",
       "desc": "The first goal-driven, proactive AI team for e-commerce",
-      "votes": 721,
-      "url": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 723,
+      "url": "https://www.producthunt.com/products/clawteams/launches/clawteams-a263d5d3-d341-45d9-9e9f-7154e7066e4a?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/8cf8434d-e4fd-48c3-8654-af7f9e5bc2d5.png?auto=format",
       "topics": [
         "Productivity",
@@ -88,7 +88,7 @@
     {
       "name": "Paradigm",
       "desc": "Turn any goal into a personalized, adaptive learning path.",
-      "votes": 719,
+      "votes": 717,
       "url": "https://www.producthunt.com/products/paradigm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7c1bc3e9-098d-4b10-9e5b-704460691d83.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "Fuzzy AI",
       "desc": "We warm your prospects before reaching out",
-      "votes": 711,
+      "votes": 716,
       "url": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2ee5bc35-54be-4e1c-ac23-b791bb72f837.png?auto=format",
       "topics": [
@@ -112,7 +112,7 @@
     {
       "name": "Fypro",
       "desc": "Convert your TikTok followers into paying customers",
-      "votes": 694,
+      "votes": 691,
       "url": "https://www.producthunt.com/products/fypro/launches/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cf32ce10-fb31-4842-9925-1d8bab906626.png?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "Glaze by Raycast",
       "desc": "Create your own Mac apps by chatting with AI",
-      "votes": 678,
+      "votes": 681,
       "url": "https://www.producthunt.com/products/glaze-4/launches/glaze-by-raycast-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/85150caf-3a40-490f-ad86-32e3e5a88afa.png?auto=format",
       "topics": [
@@ -136,7 +136,7 @@
     {
       "name": "Sim",
       "desc": "Open-source workspace for AI agents and workflows",
-      "votes": 672,
+      "votes": 674,
       "url": "https://www.producthunt.com/products/sim-studio/launches/sim-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5029d16f-7b85-4364-aae4-f770cfab1fc1.png?auto=format",
       "topics": [
@@ -148,7 +148,7 @@
     {
       "name": "Unabyss for Claude",
       "desc": "Shared memory across all apps and LLMs. In Claude",
-      "votes": 666,
+      "votes": 669,
       "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
@@ -159,7 +159,7 @@
     {
       "name": "Cursor for iOS",
       "desc": "Build with coding agents from anywhere",
-      "votes": 658,
+      "votes": 660,
       "url": "https://www.producthunt.com/products/cursor/launches/cursor-for-ios-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cac4f4a7-fb00-42d1-b741-9dfc26e0a56f.png?auto=format",
       "topics": [
@@ -171,7 +171,7 @@
     {
       "name": "Lev8",
       "desc": "Find, research, and reach the right people",
-      "votes": 656,
+      "votes": 657,
       "url": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0cd8bb27-735c-48f9-9105-4c7d73fbd348.png?auto=format",
       "topics": [
@@ -183,7 +183,7 @@
     {
       "name": "Velo 3.0",
       "desc": "AI video infrastructure to explain, train, and sell faster.",
-      "votes": 654,
+      "votes": 649,
       "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5a395b78-27ac-4662-9eac-cb5ce89d165c.png?auto=format",
       "topics": [
@@ -195,7 +195,7 @@
     {
       "name": "ChatCut",
       "desc": "Your AI video editor in ChatGPT, desktop, and web",
-      "votes": 648,
+      "votes": 647,
       "url": "https://www.producthunt.com/products/chatcut-ai-video-editor/launches/chatcut-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1d15a575-7af7-4a02-8a77-6ef871232720.png?auto=format",
       "topics": [
@@ -205,21 +205,9 @@
       ]
     },
     {
-      "name": "V2Fun",
-      "desc": "Generate 3D character with 8K textures and AI motion capture",
-      "votes": 646,
-      "url": "https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/1ae953dd-1691-4d3d-8eed-f970b24c8131.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "3D Modeling",
-        "Animation"
-      ]
-    },
-    {
       "name": "Osaurus",
       "desc": "Open source agents that run 100% locally on your Mac",
-      "votes": 645,
+      "votes": 646,
       "url": "https://www.producthunt.com/products/osaurus/launches/osaurus-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c784cd19-34af-4e58-bca7-584c59e1a47b.png?auto=format",
       "topics": [
@@ -229,9 +217,21 @@
       ]
     },
     {
+      "name": "V2Fun",
+      "desc": "Generate 3D character with 8K textures and AI motion capture",
+      "votes": 645,
+      "url": "https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/1ae953dd-1691-4d3d-8eed-f970b24c8131.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "3D Modeling",
+        "Animation"
+      ]
+    },
+    {
       "name": "Auriko ",
       "desc": "Trading desk for LLM calls",
-      "votes": 621,
+      "votes": 618,
       "url": "https://www.producthunt.com/products/auriko/launches/auriko-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/38ee31cc-b90f-4e48-b1bf-1f7c4194672a.png?auto=format",
       "topics": [
