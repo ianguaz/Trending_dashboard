@@ -4,15 +4,15 @@
     {
       "name": "pascalorg/editor",
       "desc": "Create and share 3D architectural projects.",
-      "stars": "18471",
-      "today": "415 stars today",
+      "stars": "19222",
+      "today": "341 stars today",
       "language": "TypeScript",
       "url": "https://github.com/pascalorg/editor"
     },
     {
       "name": "jenkinsci/jenkins",
       "desc": "Jenkins automation server",
-      "stars": "26024",
+      "stars": "26186",
       "today": "180 stars today",
       "language": "Java",
       "url": "https://github.com/jenkinsci/jenkins"
@@ -20,80 +20,80 @@
     {
       "name": "moeru-ai/airi",
       "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": "44626",
-      "today": "796 stars today",
+      "stars": "45102",
+      "today": "797 stars today",
       "language": "TypeScript",
       "url": "https://github.com/moeru-ai/airi"
     },
     {
       "name": "andrewyng/aisuite",
       "desc": "Simple, unified interface to multiple Generative AI providers",
-      "stars": "15625",
-      "today": "92 stars today",
+      "stars": "15790",
+      "today": "62 stars today",
       "language": "Python",
       "url": "https://github.com/andrewyng/aisuite"
     },
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "234611",
-      "today": "692 stars today",
+      "stars": "235199",
+      "today": "636 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "huggingface/speech-to-speech",
       "desc": "Build local voice agents with open-source models",
-      "stars": "7004",
-      "today": "177 stars today",
+      "stars": "7558",
+      "today": "227 stars today",
       "language": "Python",
       "url": "https://github.com/huggingface/speech-to-speech"
     },
     {
       "name": "virgiliojr94/book-to-skill",
       "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "stars": "11033",
-      "today": "366 stars today",
+      "stars": "12082",
+      "today": "423 stars today",
       "language": "Python",
       "url": "https://github.com/virgiliojr94/book-to-skill"
     },
     {
       "name": "opengeos/GeoLibre",
       "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "stars": "3216",
-      "today": "420 stars today",
+      "stars": "3671",
+      "today": "607 stars today",
       "language": "TypeScript",
       "url": "https://github.com/opengeos/GeoLibre"
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
       "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": "9406",
-      "today": "402 stars today",
+      "stars": "10065",
+      "today": "309 stars today",
       "language": "Python",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
     },
     {
       "name": "microsoft/agent-governance-toolkit",
       "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "stars": "5081",
-      "today": "17 stars today",
+      "stars": "5402",
+      "today": "46 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/agent-governance-toolkit"
     },
     {
       "name": "yorukot/superfile",
       "desc": "Pretty fancy and modern terminal file manager",
-      "stars": "21321",
-      "today": "660 stars today",
+      "stars": "21755",
+      "today": "662 stars today",
       "language": "Go",
       "url": "https://github.com/yorukot/superfile"
     },
     {
       "name": "bradautomates/claude-video",
       "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": "11858",
-      "today": "989 stars today",
+      "stars": "12470",
+      "today": "988 stars today",
       "language": "Python",
       "url": "https://github.com/bradautomates/claude-video"
     }
