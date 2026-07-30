@@ -4,136 +4,136 @@
     {
       "name": "opengeos/GeoLibre",
       "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "stars": "3885",
-      "today": "667 stars today",
+      "stars": "4381",
+      "today": "671 stars today",
       "language": "TypeScript",
       "url": "https://github.com/opengeos/GeoLibre"
     },
     {
       "name": "moeru-ai/airi",
       "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": "45281",
-      "today": "676 stars today",
+      "stars": "45693",
+      "today": "682 stars today",
       "language": "TypeScript",
       "url": "https://github.com/moeru-ai/airi"
     },
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "235398",
-      "today": "860 stars today",
+      "stars": "235928",
+      "today": "857 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "huggingface/speech-to-speech",
       "desc": "Build local voice agents with open-source models",
-      "stars": "7739",
-      "today": "837 stars today",
+      "stars": "8172",
+      "today": "827 stars today",
       "language": "Python",
       "url": "https://github.com/huggingface/speech-to-speech"
     },
     {
       "name": "1jehuang/jcode",
-      "desc": "The most RAM effiecent harness",
-      "stars": "13254",
-      "today": "652 stars today",
+      "desc": "The most RAM efficient harness",
+      "stars": "13802",
+      "today": "640 stars today",
       "language": "Rust",
       "url": "https://github.com/1jehuang/jcode"
     },
     {
       "name": "grokability/snipe-it",
       "desc": "A free open source IT asset/license management system",
-      "stars": "14353",
-      "today": "197 stars today",
+      "stars": "14594",
+      "today": "164 stars today",
       "language": "PHP",
       "url": "https://github.com/grokability/snipe-it"
     },
     {
       "name": "deepfakes/faceswap",
       "desc": "Deepfakes Software For All",
-      "stars": "56130",
-      "today": "135 stars today",
+      "stars": "56633",
+      "today": "166 stars today",
       "language": "Python",
       "url": "https://github.com/deepfakes/faceswap"
     },
     {
       "name": "microsoft/VibeVoice",
       "desc": "Open-Source Frontier Voice AI",
-      "stars": "51164",
-      "today": "332 stars today",
+      "stars": "51557",
+      "today": "336 stars today",
       "language": "Python",
       "url": "https://github.com/microsoft/VibeVoice"
     },
     {
       "name": "different-ai/openwork",
       "desc": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "stars": "17672",
-      "today": "58 stars today",
+      "stars": "18277",
+      "today": "97 stars today",
       "language": "TypeScript",
       "url": "https://github.com/different-ai/openwork"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "263124",
-      "today": "634 stars today",
+      "stars": "263650",
+      "today": "616 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "MoonshotAI/FlashKDA",
       "desc": "FlashKDA: high-performance Kimi Delta Attention kernels",
-      "stars": "940",
-      "today": "216 stars today",
+      "stars": "1077",
+      "today": "91 stars today",
       "language": "Cuda",
       "url": "https://github.com/MoonshotAI/FlashKDA"
     },
     {
       "name": "NanmiCoder/MediaCrawler",
       "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "stars": "59015",
-      "today": "187 stars today",
+      "stars": "59391",
+      "today": "154 stars today",
       "language": "Python",
       "url": "https://github.com/NanmiCoder/MediaCrawler"
     },
     {
       "name": "alibaba/open-code-review",
       "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": "15838",
-      "today": "386 stars today",
+      "stars": "16343",
+      "today": "359 stars today",
       "language": "Go",
       "url": "https://github.com/alibaba/open-code-review"
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
       "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": "10243",
-      "today": "950 stars today",
+      "stars": "10668",
+      "today": "945 stars today",
       "language": "Python",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
     },
     {
       "name": "maderix/ANE",
       "desc": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": "7107",
-      "today": "13 stars today",
+      "stars": "7207",
+      "today": "22 stars today",
       "language": "Objective-C",
       "url": "https://github.com/maderix/ANE"
     },
     {
       "name": "pascalorg/editor",
       "desc": "Create and share 3D architectural projects.",
-      "stars": "19416",
-      "today": "1,026 stars today",
+      "stars": "19837",
+      "today": "1,022 stars today",
       "language": "TypeScript",
       "url": "https://github.com/pascalorg/editor"
     },
     {
       "name": "virgiliojr94/book-to-skill",
       "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "stars": "12435",
-      "today": "1,428 stars today",
+      "stars": "13365",
+      "today": "1,421 stars today",
       "language": "Python",
       "url": "https://github.com/virgiliojr94/book-to-skill"
     }
