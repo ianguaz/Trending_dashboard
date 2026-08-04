@@ -4,47 +4,47 @@
     {
       "name": "lyogavin/airllm",
       "desc": "AirLLM 70B inference with single 4GB GPU",
-      "stars": "26725",
-      "today": "1,081 stars today",
+      "stars": "27871",
+      "today": "1,085 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/lyogavin/airllm"
     },
     {
       "name": "zhaoxuya520/reverse-skill",
       "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": "15316",
-      "today": "2,442 stars today",
+      "stars": "16919",
+      "today": "2,446 stars today",
       "language": "PowerShell",
       "url": "https://github.com/zhaoxuya520/reverse-skill"
     },
     {
       "name": "firecrawl/pdf-inspector",
       "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "stars": "7580",
-      "today": "1,769 stars today",
+      "stars": "9125",
+      "today": "1,699 stars today",
       "language": "Rust",
       "url": "https://github.com/firecrawl/pdf-inspector"
     },
     {
       "name": "esengine/DeepSeek-Reasonix",
       "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": "29772",
-      "today": "877 stars today",
+      "stars": "30413",
+      "today": "883 stars today",
       "language": "Go",
       "url": "https://github.com/esengine/DeepSeek-Reasonix"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "stars": "11882",
-      "today": "1,091 stars today",
+      "stars": "12643",
+      "today": "1,090 stars today",
       "language": "TypeScript",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
     },
     {
       "name": "microsoft/AI-For-Beginners",
       "desc": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": "60535",
+      "stars": "61413",
       "today": "1,902 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/microsoft/AI-For-Beginners"
@@ -52,80 +52,80 @@
     {
       "name": "microsoft/generative-ai-for-beginners",
       "desc": "21 Lessons, Get Started Building with Generative AI",
-      "stars": "115400",
-      "today": "776 stars today",
+      "stars": "115964",
+      "today": "775 stars today",
       "language": "Jupyter Notebook",
       "url": "https://github.com/microsoft/generative-ai-for-beginners"
     },
     {
       "name": "donnemartin/system-design-primer",
       "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "stars": "360400",
-      "today": "138 stars today",
+      "stars": "360848",
+      "today": "237 stars today",
       "language": "Python",
       "url": "https://github.com/donnemartin/system-design-primer"
     },
     {
       "name": "antirez/ds4",
       "desc": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "stars": "20288",
-      "today": "385 stars today",
+      "stars": "20494",
+      "today": "384 stars today",
       "language": "C",
       "url": "https://github.com/antirez/ds4"
     },
     {
       "name": "shiyu-coder/Kronos",
       "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": "35771",
-      "today": "217 stars today",
+      "stars": "35939",
+      "today": "200 stars today",
       "language": "Python",
       "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": "65552",
-      "today": "1,052 stars today",
+      "stars": "66215",
+      "today": "1,057 stars today",
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "desc": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
-      "stars": "43944",
-      "today": "291 stars today",
+      "stars": "44231",
+      "today": "278 stars today",
       "language": "Python",
       "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
       "name": "iv-org/invidious",
       "desc": "Invidious is an alternative front-end to YouTube",
-      "stars": "22192",
-      "today": "403 stars today",
+      "stars": "22348",
+      "today": "402 stars today",
       "language": "Crystal",
       "url": "https://github.com/iv-org/invidious"
     },
     {
       "name": "livekit/agents",
       "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "stars": "11870",
-      "today": "129 stars today",
+      "stars": "12207",
+      "today": "148 stars today",
       "language": "Python",
       "url": "https://github.com/livekit/agents"
     },
     {
       "name": "usekaneo/kaneo",
       "desc": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "stars": "6708",
-      "today": "663 stars today",
+      "stars": "7076",
+      "today": "665 stars today",
       "language": "TypeScript",
       "url": "https://github.com/usekaneo/kaneo"
     },
     {
       "name": "jamiepine/voicebox",
       "desc": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": "48534",
-      "today": "443 stars today",
+      "stars": "49005",
+      "today": "412 stars today",
       "language": "TypeScript",
       "url": "https://github.com/jamiepine/voicebox"
     }
