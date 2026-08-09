@@ -4,7 +4,7 @@
     {
       "name": "PrimeIntellect-ai/prime-agent",
       "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": "8153",
+      "stars": "9567",
       "today": "2,483 stars today",
       "language": "TypeScript",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent"
@@ -12,23 +12,23 @@
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "84324",
-      "today": "778 stars today",
+      "stars": "84768",
+      "today": "779 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
       "desc": "所有小初高、大学PDF教材。",
-      "stars": "77779",
-      "today": "591 stars today",
+      "stars": "78087",
+      "today": "118 stars today",
       "language": "Roff",
       "url": "https://github.com/TapXWorld/ChinaTextbook"
     },
     {
       "name": "google/skills",
       "desc": "Agent Skills for Google products and technologies",
-      "stars": "16557",
+      "stars": "16907",
       "today": "481 stars today",
       "language": "Python",
       "url": "https://github.com/google/skills"
@@ -36,15 +36,15 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "209696",
-      "today": "1,354 stars today",
+      "stars": "210413",
+      "today": "1,359 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "goauthentik/authentik",
       "desc": "The authentication glue you need.",
-      "stars": "23877",
+      "stars": "24078",
       "today": "467 stars today",
       "language": "Python",
       "url": "https://github.com/goauthentik/authentik"
@@ -52,15 +52,15 @@
     {
       "name": "TauricResearch/TradingAgents",
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "96264",
-      "today": "126 stars today",
+      "stars": "96711",
+      "today": "153 stars today",
       "language": "Python",
       "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "name": "google/guava",
       "desc": "Google core libraries for Java",
-      "stars": "51822",
+      "stars": "51880",
       "today": "93 stars today",
       "language": "Java",
       "url": "https://github.com/google/guava"
@@ -68,15 +68,15 @@
     {
       "name": "LadybirdBrowser/ladybird",
       "desc": "Truly independent web browser",
-      "stars": "64902",
-      "today": "79 stars today",
+      "stars": "65075",
+      "today": "48 stars today",
       "language": "C++",
       "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
       "name": "denoland/celld",
       "desc": "self-hosted, distributed Durable Objects",
-      "stars": "2452",
+      "stars": "2717",
       "today": "432 stars today",
       "language": "Rust",
       "url": "https://github.com/denoland/celld"
@@ -84,16 +84,16 @@
     {
       "name": "litu54/DevOps-Interview-Guide",
       "desc": "DevOps Interview Guide",
-      "stars": "637",
-      "today": "59 stars today",
+      "stars": "771",
+      "today": "68 stars today",
       "language": "",
       "url": "https://github.com/litu54/DevOps-Interview-Guide"
     },
     {
       "name": "bannedbook/fanqiang",
       "desc": "翻墙-科学上网",
-      "stars": "49801",
-      "today": "161 stars today",
+      "stars": "50082",
+      "today": "101 stars today",
       "language": "Kotlin",
       "url": "https://github.com/bannedbook/fanqiang"
     }
