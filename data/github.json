@@ -4,96 +4,96 @@
     {
       "name": "PrimeIntellect-ai/prime-agent",
       "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": "10398",
-      "today": "2,319 stars today",
+      "stars": "12228",
+      "today": "2,356 stars today",
       "language": "TypeScript",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent"
     },
     {
       "name": "vitali87/code-graph-rag",
       "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "stars": "2803",
-      "today": "59 stars today",
+      "stars": "3288",
+      "today": "96 stars today",
       "language": "Python",
       "url": "https://github.com/vitali87/code-graph-rag"
     },
     {
       "name": "msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "140353",
-      "today": "446 stars today",
+      "stars": "141248",
+      "today": "858 stars today",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "pranshuparmar/witr",
       "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "stars": "20403",
-      "today": "556 stars today",
+      "stars": "21084",
+      "today": "210 stars today",
       "language": "Go",
       "url": "https://github.com/pranshuparmar/witr"
     },
     {
       "name": "google-deepmind/weathernext",
       "desc": "",
-      "stars": "6965",
-      "today": "105 stars today",
+      "stars": "7206",
+      "today": "86 stars today",
       "language": "Python",
       "url": "https://github.com/google-deepmind/weathernext"
     },
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "84955",
-      "today": "670 stars today",
+      "stars": "85399",
+      "today": "680 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": "61027",
-      "today": "287 stars today",
+      "stars": "61585",
+      "today": "306 stars today",
       "language": "Python",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
     },
     {
       "name": "goauthentik/authentik",
       "desc": "The authentication glue you need.",
-      "stars": "24175",
-      "today": "312 stars today",
+      "stars": "24422",
+      "today": "310 stars today",
       "language": "Python",
       "url": "https://github.com/goauthentik/authentik"
     },
     {
       "name": "google/skills",
       "desc": "Agent Skills for Google products and technologies",
-      "stars": "17082",
-      "today": "532 stars today",
+      "stars": "17458",
+      "today": "528 stars today",
       "language": "Python",
       "url": "https://github.com/google/skills"
     },
     {
       "name": "Comfy-Org/ComfyUI",
       "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": "125287",
-      "today": "333 stars today",
+      "stars": "125906",
+      "today": "365 stars today",
       "language": "Python",
       "url": "https://github.com/Comfy-Org/ComfyUI"
     },
     {
       "name": "harveyai/harvey-labs",
       "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-      "stars": "745",
-      "today": "87 stars today",
+      "stars": "934",
+      "today": "47 stars today",
       "language": "Python",
       "url": "https://github.com/harveyai/harvey-labs"
     },
     {
       "name": "pingdotgg/t3code",
       "desc": "",
-      "stars": "17551",
-      "today": "208 stars today",
+      "stars": "17805",
+      "today": "163 stars today",
       "language": "TypeScript",
       "url": "https://github.com/pingdotgg/t3code"
     }
