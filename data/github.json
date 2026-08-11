@@ -4,31 +4,31 @@
     {
       "name": "semantica-agi/semantica",
       "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": "3901",
-      "today": "967 stars today",
+      "stars": "4459",
+      "today": "970 stars today",
       "language": "Python",
       "url": "https://github.com/semantica-agi/semantica"
     },
     {
       "name": "msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "141595",
-      "today": "1,352 stars today",
+      "stars": "142135",
+      "today": "1,349 stars today",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "NanmiCoder/MediaCrawler",
       "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "stars": "60897",
-      "today": "215 stars today",
+      "stars": "61515",
+      "today": "259 stars today",
       "language": "Python",
       "url": "https://github.com/NanmiCoder/MediaCrawler"
     },
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "85622",
+      "stars": "85962",
       "today": "659 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
@@ -36,71 +36,71 @@
     {
       "name": "paperclipai/paperclip",
       "desc": "The open-source app everyone uses to manage agents at work",
-      "stars": "76309",
-      "today": "167 stars today",
+      "stars": "76809",
+      "today": "198 stars today",
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip"
     },
     {
       "name": "PrimeIntellect-ai/prime-agent",
       "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": "12773",
-      "today": "2,655 stars today",
+      "stars": "13471",
+      "today": "2,642 stars today",
       "language": "TypeScript",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent"
     },
     {
       "name": "LadybirdBrowser/ladybird",
       "desc": "Truly independent web browser",
-      "stars": "65193",
-      "today": "190 stars today",
+      "stars": "65337",
+      "today": "56 stars today",
       "language": "C++",
       "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
       "name": "ruvnet/RuView",
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "89255",
-      "today": "186 stars today",
+      "stars": "89505",
+      "today": "154 stars today",
       "language": "Rust",
       "url": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "danielmiessler/LifeOS",
       "desc": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-      "stars": "17763",
-      "today": "357 stars today",
+      "stars": "18153",
+      "today": "315 stars today",
       "language": "TypeScript",
       "url": "https://github.com/danielmiessler/LifeOS"
     },
     {
       "name": "firecrawl/firecrawl",
       "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": "164819",
-      "today": "815 stars today",
+      "stars": "165436",
+      "today": "835 stars today",
       "language": "TypeScript",
       "url": "https://github.com/firecrawl/firecrawl"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "97074",
-      "today": "234 stars today",
+      "stars": "97451",
+      "today": "177 stars today",
       "language": "Python",
       "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "name": "google-deepmind/weathernext",
       "desc": "",
-      "stars": "7283",
-      "today": "327 stars today",
+      "stars": "7428",
+      "today": "325 stars today",
       "language": "Python",
       "url": "https://github.com/google-deepmind/weathernext"
     },
     {
       "name": "vitali87/code-graph-rag",
       "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "stars": "3432",
+      "stars": "3647",
       "today": "682 stars today",
       "language": "Python",
       "url": "https://github.com/vitali87/code-graph-rag"
@@ -108,24 +108,24 @@
     {
       "name": "pingdotgg/t3code",
       "desc": "",
-      "stars": "17917",
-      "today": "388 stars today",
+      "stars": "18129",
+      "today": "389 stars today",
       "language": "TypeScript",
       "url": "https://github.com/pingdotgg/t3code"
     },
     {
       "name": "Comfy-Org/ComfyUI",
       "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": "126145",
-      "today": "921 stars today",
+      "stars": "126589",
+      "today": "922 stars today",
       "language": "Python",
       "url": "https://github.com/Comfy-Org/ComfyUI"
     },
     {
       "name": "opa334/Dopamine",
       "desc": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-      "stars": "5956",
-      "today": "95 stars today",
+      "stars": "6134",
+      "today": "111 stars today",
       "language": "C",
       "url": "https://github.com/opa334/Dopamine"
     }
