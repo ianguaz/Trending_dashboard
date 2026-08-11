@@ -1,133 +1,149 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "items": [
     {
-      "name": "semantica-agi/semantica",
-      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": "4459",
-      "today": "970 stars today",
-      "language": "Python",
-      "url": "https://github.com/semantica-agi/semantica"
+      "name": "cathrynlavery/diagram-design",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": "6120",
+      "today": "1,612 stars today",
+      "language": "HTML",
+      "url": "https://github.com/cathrynlavery/diagram-design"
     },
     {
       "name": "msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "142135",
-      "today": "1,349 stars today",
+      "stars": "142723",
+      "today": "971 stars today",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
-      "name": "NanmiCoder/MediaCrawler",
-      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "stars": "61515",
-      "today": "259 stars today",
+      "name": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": "4706",
+      "today": "884 stars today",
       "language": "Python",
-      "url": "https://github.com/NanmiCoder/MediaCrawler"
+      "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "stars": "94443",
+      "today": "18 stars today",
+      "language": "Shell",
+      "url": "https://github.com/nvm-sh/nvm"
     },
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "85962",
-      "today": "659 stars today",
+      "stars": "86116",
+      "today": "571 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
-      "name": "paperclipai/paperclip",
-      "desc": "The open-source app everyone uses to manage agents at work",
-      "stars": "76809",
-      "today": "198 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/paperclipai/paperclip"
-    },
-    {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": "13471",
-      "today": "2,642 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent"
-    },
-    {
-      "name": "LadybirdBrowser/ladybird",
-      "desc": "Truly independent web browser",
-      "stars": "65337",
-      "today": "56 stars today",
-      "language": "C++",
-      "url": "https://github.com/LadybirdBrowser/ladybird"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "89505",
-      "today": "154 stars today",
-      "language": "Rust",
-      "url": "https://github.com/ruvnet/RuView"
-    },
-    {
-      "name": "danielmiessler/LifeOS",
-      "desc": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-      "stars": "18153",
-      "today": "315 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/danielmiessler/LifeOS"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": "165436",
-      "today": "835 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/firecrawl/firecrawl"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "97451",
-      "today": "177 stars today",
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": "62030",
+      "today": "317 stars today",
       "language": "Python",
-      "url": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
-      "name": "google-deepmind/weathernext",
-      "desc": "",
-      "stars": "7428",
-      "today": "325 stars today",
-      "language": "Python",
-      "url": "https://github.com/google-deepmind/weathernext"
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
     },
     {
       "name": "vitali87/code-graph-rag",
       "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "stars": "3647",
-      "today": "682 stars today",
+      "stars": "3749",
+      "today": "339 stars today",
       "language": "Python",
       "url": "https://github.com/vitali87/code-graph-rag"
     },
     {
-      "name": "pingdotgg/t3code",
-      "desc": "",
-      "stars": "18129",
-      "today": "389 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/pingdotgg/t3code"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": "126589",
-      "today": "922 stars today",
+      "name": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "stars": "167959",
+      "today": "468 stars today",
       "language": "Python",
-      "url": "https://github.com/Comfy-Org/ComfyUI"
+      "url": "https://github.com/anthropics/skills"
     },
     {
-      "name": "opa334/Dopamine",
-      "desc": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-      "stars": "6134",
-      "today": "111 stars today",
-      "language": "C",
-      "url": "https://github.com/opa334/Dopamine"
+      "name": "3b1b/manim",
+      "desc": "Animation engine for explanatory math videos",
+      "stars": "90054",
+      "today": "246 stars today",
+      "language": "Python",
+      "url": "https://github.com/3b1b/manim"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars": "34553",
+      "today": "829 stars today",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "name": "stablyai/orca",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "stars": "42448",
+      "today": "881 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "stars": "77021",
+      "today": "743 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "name": "huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": "163690",
+      "today": "69 stars today",
+      "language": "Python",
+      "url": "https://github.com/huggingface/transformers"
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "stars": "1026",
+      "today": "24 stars today",
+      "language": "Python",
+      "url": "https://github.com/harveyai/harvey-labs"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "stars": "110333",
+      "today": "334 stars today",
+      "language": "Swift",
+      "url": "https://github.com/jaywcjlove/awesome-mac"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": "47151",
+      "today": "436 stars today",
+      "language": "Python",
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "desc": "Curated list of project-based tutorials",
+      "stars": "278288",
+      "today": "394 stars today",
+      "language": "Python",
+      "url": "https://github.com/practical-tutorials/project-based-learning"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": "13856",
+      "today": "1,148 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent"
     }
   ]
 }
