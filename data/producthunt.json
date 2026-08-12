@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "items": [
     {
       "name": "Pazi",
       "desc": "Vibe code business operations",
-      "votes": 995,
+      "votes": 990,
       "url": "https://www.producthunt.com/products/pazi/launches/pazi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0cc238aa-08c3-4d44-a509-0289f8806019.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "OpenSEO",
       "desc": "The open source Ahrefs alternative",
-      "votes": 947,
+      "votes": 946,
       "url": "https://www.producthunt.com/products/openseo/launches/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bddfb6ed-475f-4cc7-adbc-c28b77be18d8.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Prelint",
       "desc": "Prevent product drift in AI-written code",
-      "votes": 659,
+      "votes": 654,
       "url": "https://www.producthunt.com/products/prelint/launches/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2e85ae4d-5d7d-4547-9839-4c8fb5e5e29a.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Unabyss for Claude",
       "desc": "Shared memory across all apps and LLMs. In Claude",
-      "votes": 657,
+      "votes": 654,
       "url": "https://www.producthunt.com/products/unabyss/launches/unabyss-for-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
@@ -63,7 +63,7 @@
     {
       "name": "SKI",
       "desc": "Free voice coding for Claude Code, Codex and more",
-      "votes": 633,
+      "votes": 632,
       "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4936ae7e-f021-4b98-860e-a5bc9ade7829.png?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "Prefactor",
       "desc": "Evaluate your AI Agents in real-time",
-      "votes": 630,
+      "votes": 627,
       "url": "https://www.producthunt.com/products/prefactor/launches/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4ffa8a62-0b8a-4920-813e-e2f34bb5b68d.png?auto=format",
       "topics": [
@@ -111,7 +111,7 @@
     {
       "name": "Hey Noah",
       "desc": "A proactive AI executive assistant for founders",
-      "votes": 611,
+      "votes": 610,
       "url": "https://www.producthunt.com/products/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/683a6add-051e-41db-bdd2-b7f76c07c261.png?auto=format",
       "topics": [
@@ -135,7 +135,7 @@
     {
       "name": "Wispr Flow Notetaker",
       "desc": "Meeting notes that get the details right.",
-      "votes": 585,
+      "votes": 586,
       "url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4754f10b-0e91-4d5f-9d45-877ef6a06ca2.gif?auto=format",
       "topics": [
@@ -147,7 +147,7 @@
     {
       "name": "Osaurus",
       "desc": "Open source agents that run 100% locally on your Mac",
-      "votes": 582,
+      "votes": 580,
       "url": "https://www.producthunt.com/products/osaurus/launches/osaurus-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c784cd19-34af-4e58-bca7-584c59e1a47b.png?auto=format",
       "topics": [
@@ -159,7 +159,7 @@
     {
       "name": "Memmy Agent",
       "desc": "Let every AI remember the same you.",
-      "votes": 578,
+      "votes": 575,
       "url": "https://www.producthunt.com/products/memmy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/aef42c0d-8c1e-4887-bdaf-e0d6c7041c3b.png?auto=format",
       "topics": [
@@ -183,7 +183,7 @@
     {
       "name": "AI Search Console",
       "desc": "Prompt analytics and citation mapping for AI search",
-      "votes": 523,
+      "votes": 521,
       "url": "https://www.producthunt.com/products/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6a9b0c41-9e59-4718-afaf-4245f5ea0561.png?auto=format",
       "topics": [
@@ -195,7 +195,7 @@
     {
       "name": "Coldtea.ai",
       "desc": "Make your software self-driving",
-      "votes": 517,
+      "votes": 519,
       "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8fc0d-0320-49be-888d-788b36d46c10.png?auto=format",
       "topics": [
@@ -231,7 +231,7 @@
     {
       "name": "Humalike x Hermes",
       "desc": "Social intelligence plugin for Hermes Agent",
-      "votes": 506,
+      "votes": 505,
       "url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f99fe9c9-c6a2-497a-b662-fc757f179a17.gif?auto=format",
       "topics": [
