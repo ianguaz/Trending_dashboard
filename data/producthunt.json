@@ -2,21 +2,9 @@
   "date": "2026-08-14",
   "items": [
     {
-      "name": "Pazi",
-      "desc": "Vibe code business operations",
-      "votes": 990,
-      "url": "https://www.producthunt.com/products/pazi/launches/pazi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/0cc238aa-08c3-4d44-a509-0289f8806019.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Vibe coding"
-      ]
-    },
-    {
       "name": "OpenSEO",
       "desc": "The open source Ahrefs alternative",
-      "votes": 944,
+      "votes": 943,
       "url": "https://www.producthunt.com/products/openseo/launches/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bddfb6ed-475f-4cc7-adbc-c28b77be18d8.png?auto=format",
       "topics": [
@@ -28,7 +16,7 @@
     {
       "name": "Fuzzy AI",
       "desc": "We warm your prospects before reaching out",
-      "votes": 672,
+      "votes": 669,
       "url": "https://www.producthunt.com/products/fuzzy-ai-2/launches/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2ee5bc35-54be-4e1c-ac23-b791bb72f837.png?auto=format",
       "topics": [
@@ -40,7 +28,7 @@
     {
       "name": "Unabyss for Claude",
       "desc": "Shared memory across all apps and LLMs. In Claude",
-      "votes": 652,
+      "votes": 651,
       "url": "https://www.producthunt.com/products/unabyss/launches/unabyss-for-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
@@ -51,7 +39,7 @@
     {
       "name": "Prelint",
       "desc": "Prevent product drift in AI-written code",
-      "votes": 646,
+      "votes": 643,
       "url": "https://www.producthunt.com/products/prelint/launches/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2e85ae4d-5d7d-4547-9839-4c8fb5e5e29a.png?auto=format",
       "topics": [
@@ -63,7 +51,7 @@
     {
       "name": "Velo 3.0",
       "desc": "AI video infrastructure to explain, train, and sell faster.",
-      "votes": 630,
+      "votes": 628,
       "url": "https://www.producthunt.com/products/velo-4/launches/velo-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5a395b78-27ac-4662-9eac-cb5ce89d165c.png?auto=format",
       "topics": [
@@ -87,7 +75,7 @@
     {
       "name": "Prefactor",
       "desc": "Evaluate your AI Agents in real-time",
-      "votes": 624,
+      "votes": 621,
       "url": "https://www.producthunt.com/products/prefactor/launches/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4ffa8a62-0b8a-4920-813e-e2f34bb5b68d.png?auto=format",
       "topics": [
@@ -99,7 +87,7 @@
     {
       "name": "AdAnt AI",
       "desc": "Claude for viral, high-converting social ads",
-      "votes": 614,
+      "votes": 611,
       "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6206777f-775d-4ab0-a9c5-72d06df2ee77.png?auto=format",
       "topics": [
@@ -123,7 +111,7 @@
     {
       "name": "Lev8",
       "desc": "Find, research, and reach the right people",
-      "votes": 589,
+      "votes": 587,
       "url": "https://www.producthunt.com/products/lev8/launches/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0cd8bb27-735c-48f9-9105-4c7d73fbd348.png?auto=format",
       "topics": [
@@ -135,7 +123,7 @@
     {
       "name": "Wispr Flow Notetaker",
       "desc": "Meeting notes that get the details right.",
-      "votes": 588,
+      "votes": 586,
       "url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4754f10b-0e91-4d5f-9d45-877ef6a06ca2.gif?auto=format",
       "topics": [
@@ -147,7 +135,7 @@
     {
       "name": "Memmy Agent",
       "desc": "Let every AI remember the same you.",
-      "votes": 571,
+      "votes": 563,
       "url": "https://www.producthunt.com/products/memmy/launches/memmy-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/aef42c0d-8c1e-4887-bdaf-e0d6c7041c3b.png?auto=format",
       "topics": [
@@ -159,7 +147,7 @@
     {
       "name": "Adomate",
       "desc": "Turn data into winning ads. At scale.",
-      "votes": 560,
+      "votes": 558,
       "url": "https://www.producthunt.com/products/adomate/launches/adomate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0b1dc26d-34c2-4318-b041-3b690a4f5a48.png?auto=format",
       "topics": [
@@ -171,7 +159,7 @@
     {
       "name": "Dograh",
       "desc": "The open source VAPI alternative",
-      "votes": 537,
+      "votes": 542,
       "url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/eab1a163-fbfe-4b8b-9356-f94e45feca98.png?auto=format",
       "topics": [
@@ -207,7 +195,7 @@
     {
       "name": "Paradigm",
       "desc": "Turn any goal into a personalized, adaptive learning path.",
-      "votes": 512,
+      "votes": 509,
       "url": "https://www.producthunt.com/products/paradigm-3/launches/paradigm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7c1bc3e9-098d-4b10-9e5b-704460691d83.png?auto=format",
       "topics": [
@@ -217,27 +205,39 @@
       ]
     },
     {
-      "name": "V2Fun",
-      "desc": "Generate 3D character with 8K textures and AI motion capture",
-      "votes": 502,
-      "url": "https://www.producthunt.com/products/v2fun/launches/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/1ae953dd-1691-4d3d-8eed-f970b24c8131.png?auto=format",
+      "name": "Grok Bot",
+      "desc": "AI teammates that you can give real work to",
+      "votes": 503,
+      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
       "topics": [
-        "Artificial Intelligence",
-        "3D Modeling",
-        "Animation"
+        "Productivity",
+        "Task Management",
+        "Artificial Intelligence"
       ]
     },
     {
       "name": "Humalike x Hermes",
       "desc": "Social intelligence plugin for Hermes Agent",
-      "votes": 500,
+      "votes": 499,
       "url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f99fe9c9-c6a2-497a-b662-fc757f179a17.gif?auto=format",
       "topics": [
         "API",
         "Developer Tools",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "V2Fun",
+      "desc": "Generate 3D character with 8K textures and AI motion capture",
+      "votes": 499,
+      "url": "https://www.producthunt.com/products/v2fun/launches/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/1ae953dd-1691-4d3d-8eed-f970b24c8131.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "3D Modeling",
+        "Animation"
       ]
     }
   ]
