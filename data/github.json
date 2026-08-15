@@ -1,141 +1,109 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "items": [
+    {
+      "name": "cordiverse/cordis",
+      "desc": "Meta-Framework of Spatiotemporal Composability",
+      "stars": "3879",
+      "today": "616 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/cordiverse/cordis"
+    },
     {
       "name": "cathrynlavery/diagram-design",
       "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "stars": "17717",
-      "today": "3,646 stars today",
+      "stars": "18270",
+      "today": "1,619 stars today",
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design"
     },
     {
-      "name": "cactus-compute/needle",
-      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "stars": "5749",
-      "today": "662 stars today",
-      "language": "Python",
-      "url": "https://github.com/cactus-compute/needle"
-    },
-    {
-      "name": "megadose/holehe",
-      "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "stars": "12937",
-      "today": "427 stars today",
-      "language": "Python",
-      "url": "https://github.com/megadose/holehe"
-    },
-    {
-      "name": "macro-inc/macro",
-      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "stars": "3130",
-      "today": "436 stars today",
-      "language": "Rust",
-      "url": "https://github.com/macro-inc/macro"
-    },
-    {
-      "name": "smicallef/spiderfoot",
-      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "stars": "21020",
-      "today": "293 stars today",
-      "language": "Python",
-      "url": "https://github.com/smicallef/spiderfoot"
-    },
-    {
-      "name": "citrolabs/ego-lite",
-      "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "stars": "10519",
-      "today": "165 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/citrolabs/ego-lite"
-    },
-    {
-      "name": "holaboss-ai/holaOS",
-      "desc": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-      "stars": "7440",
-      "today": "769 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/holaboss-ai/holaOS"
-    },
-    {
-      "name": "github/spec-kit",
-      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": "128692",
-      "today": "1,160 stars today",
-      "language": "Python",
-      "url": "https://github.com/github/spec-kit"
-    },
-    {
-      "name": "lightningpixel/modly",
-      "desc": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-      "stars": "6049",
-      "today": "579 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/lightningpixel/modly"
-    },
-    {
-      "name": "infiniflow/ragflow",
-      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "stars": "88480",
-      "today": "473 stars today",
-      "language": "Go",
-      "url": "https://github.com/infiniflow/ragflow"
-    },
-    {
       "name": "cursor/plugins",
       "desc": "Cursor plugin specification and official plugins",
-      "stars": "2852",
-      "today": "41 stars today",
+      "stars": "2898",
+      "today": "152 stars today",
       "language": "TypeScript",
       "url": "https://github.com/cursor/plugins"
     },
     {
-      "name": "deepseek-ai/awesome-deepseek-agent",
-      "desc": "",
-      "stars": "5813",
-      "today": "222 stars today",
-      "language": "",
-      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent"
-    },
-    {
-      "name": "semantica-agi/semantica",
-      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "stars": "7668",
-      "today": "1,181 stars today",
+      "name": "cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": "5927",
+      "today": "551 stars today",
       "language": "Python",
-      "url": "https://github.com/semantica-agi/semantica"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "stars": "120743",
-      "today": "143 stars today",
-      "language": "Rust",
-      "url": "https://github.com/rustdesk/rustdesk"
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "desc": "The open-source CapCut alternative",
-      "stars": "83321",
-      "today": "255 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/OpenCut-app/OpenCut"
+      "url": "https://github.com/cactus-compute/needle"
     },
     {
       "name": "unslothai/unsloth",
       "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "stars": "71624",
-      "today": "501 stars today",
+      "stars": "71844",
+      "today": "435 stars today",
       "language": "Python",
       "url": "https://github.com/unslothai/unsloth"
     },
     {
+      "name": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "stars": "459684",
+      "today": "2,476 stars today",
+      "language": "Python",
+      "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "name": "MakazhanAlpamys/Soup",
+      "desc": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "stars": "1515",
+      "today": "303 stars today",
+      "language": "Python",
+      "url": "https://github.com/MakazhanAlpamys/Soup"
+    },
+    {
+      "name": "github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": "128987",
+      "today": "901 stars today",
+      "language": "Python",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "name": "megadose/holehe",
+      "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "stars": "13023",
+      "today": "389 stars today",
+      "language": "Python",
+      "url": "https://github.com/megadose/holehe"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "stars": "10219",
+      "today": "311 stars today",
+      "language": "Swift",
+      "url": "https://github.com/altic-dev/FluidVoice"
+    },
+    {
       "name": "ToolJet/ToolJet",
       "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "stars": "39217",
-      "today": "132 stars today",
+      "stars": "39379",
+      "today": "553 stars today",
       "language": "JavaScript",
       "url": "https://github.com/ToolJet/ToolJet"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": "47225",
+      "today": "100 stars today",
+      "language": "Python",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": "10736",
+      "today": "546 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/citrolabs/ego-lite"
     }
   ]
 }
