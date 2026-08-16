@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "items": [
     {
       "name": "OpenSEO",
       "desc": "The open source Ahrefs alternative",
-      "votes": 936,
+      "votes": 939,
       "url": "https://www.producthunt.com/products/openseo/launches/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bddfb6ed-475f-4cc7-adbc-c28b77be18d8.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Fuzzy AI",
       "desc": "We warm your prospects before reaching out",
-      "votes": 663,
+      "votes": 660,
       "url": "https://www.producthunt.com/products/fuzzy-ai-2/launches/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2ee5bc35-54be-4e1c-ac23-b791bb72f837.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Unabyss for Claude",
       "desc": "Shared memory across all apps and LLMs. In Claude",
-      "votes": 644,
+      "votes": 641,
       "url": "https://www.producthunt.com/products/unabyss/launches/unabyss-for-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c35d380b-1508-44ae-a273-b0bea7db4969.gif?auto=format",
       "topics": [
@@ -39,7 +39,7 @@
     {
       "name": "Prelint",
       "desc": "Prevent product drift in AI-written code",
-      "votes": 633,
+      "votes": 631,
       "url": "https://www.producthunt.com/products/prelint/launches/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2e85ae4d-5d7d-4547-9839-4c8fb5e5e29a.png?auto=format",
       "topics": [
@@ -51,7 +51,7 @@
     {
       "name": "SKI",
       "desc": "Free voice coding for Claude Code, Codex and more",
-      "votes": 621,
+      "votes": 618,
       "url": "https://www.producthunt.com/products/ski/launches/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4936ae7e-f021-4b98-860e-a5bc9ade7829.png?auto=format",
       "topics": [
@@ -63,7 +63,7 @@
     {
       "name": "Prefactor",
       "desc": "Evaluate your AI Agents in real-time",
-      "votes": 614,
+      "votes": 613,
       "url": "https://www.producthunt.com/products/prefactor/launches/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4ffa8a62-0b8a-4920-813e-e2f34bb5b68d.png?auto=format",
       "topics": [
@@ -75,7 +75,7 @@
     {
       "name": "AdAnt AI",
       "desc": "Claude for viral, high-converting social ads",
-      "votes": 610,
+      "votes": 609,
       "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6206777f-775d-4ab0-a9c5-72d06df2ee77.png?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "Hey Noah",
       "desc": "A proactive AI executive assistant for founders",
-      "votes": 606,
+      "votes": 607,
       "url": "https://www.producthunt.com/products/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/683a6add-051e-41db-bdd2-b7f76c07c261.png?auto=format",
       "topics": [
@@ -99,7 +99,7 @@
     {
       "name": "Wispr Flow Notetaker",
       "desc": "Meeting notes that get the details right.",
-      "votes": 586,
+      "votes": 587,
       "url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4754f10b-0e91-4d5f-9d45-877ef6a06ca2.gif?auto=format",
       "topics": [
@@ -123,7 +123,7 @@
     {
       "name": "Memmy Agent",
       "desc": "Let every AI remember the same you.",
-      "votes": 557,
+      "votes": 555,
       "url": "https://www.producthunt.com/products/memmy/launches/memmy-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/aef42c0d-8c1e-4887-bdaf-e0d6c7041c3b.png?auto=format",
       "topics": [
@@ -135,7 +135,7 @@
     {
       "name": "Adomate",
       "desc": "Turn data into winning ads. At scale.",
-      "votes": 550,
+      "votes": 548,
       "url": "https://www.producthunt.com/products/adomate/launches/adomate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0b1dc26d-34c2-4318-b041-3b690a4f5a48.png?auto=format",
       "topics": [
@@ -147,7 +147,7 @@
     {
       "name": "Dograh",
       "desc": "The open source VAPI alternative",
-      "votes": 544,
+      "votes": 545,
       "url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/eab1a163-fbfe-4b8b-9356-f94e45feca98.png?auto=format",
       "topics": [
@@ -159,7 +159,7 @@
     {
       "name": "Coldtea.ai",
       "desc": "Make your software self-driving",
-      "votes": 518,
+      "votes": 521,
       "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8fc0d-0320-49be-888d-788b36d46c10.png?auto=format",
       "topics": [
@@ -171,7 +171,7 @@
     {
       "name": "AI Search Console",
       "desc": "Prompt analytics and citation mapping for AI search",
-      "votes": 516,
+      "votes": 515,
       "url": "https://www.producthunt.com/products/ai-search-console/launches/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6a9b0c41-9e59-4718-afaf-4245f5ea0561.png?auto=format",
       "topics": [
@@ -183,7 +183,7 @@
     {
       "name": "Grok Bot",
       "desc": "AI teammates that you can give real work to",
-      "votes": 495,
+      "votes": 497,
       "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
       "topics": [
@@ -195,25 +195,13 @@
     {
       "name": "Humalike x Hermes",
       "desc": "Social intelligence plugin for Hermes Agent",
-      "votes": 492,
+      "votes": 490,
       "url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f99fe9c9-c6a2-497a-b662-fc757f179a17.gif?auto=format",
       "topics": [
         "API",
         "Developer Tools",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Migma AI",
-      "desc": "AI runs your email marketing. Better with every send.",
-      "votes": 485,
-      "url": "https://www.producthunt.com/products/migma-ai/launches/migma-ai-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c71558bf-fae0-40f5-8796-e5126d69f59b.gif?auto=format",
-      "topics": [
-        "Email",
-        "Analytics",
-        "Marketing"
       ]
     },
     {
@@ -229,9 +217,21 @@
       ]
     },
     {
+      "name": "Migma AI",
+      "desc": "AI runs your email marketing. Better with every send.",
+      "votes": 482,
+      "url": "https://www.producthunt.com/products/migma-ai/launches/migma-ai-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c71558bf-fae0-40f5-8796-e5126d69f59b.gif?auto=format",
+      "topics": [
+        "Email",
+        "Analytics",
+        "Marketing"
+      ]
+    },
+    {
       "name": "Kimi K3",
       "desc": "The world's first open 3T-class model",
-      "votes": 477,
+      "votes": 474,
       "url": "https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k3-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be76baa0-d4e9-4f86-ae51-cb94d9b86787.png?auto=format",
       "topics": [
