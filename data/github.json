@@ -4,64 +4,56 @@
     {
       "name": "cordiverse/cordis",
       "desc": "Meta-Framework of Spatiotemporal Composability",
-      "stars": "4566",
-      "today": "719 stars today",
+      "stars": "5231",
+      "today": "720 stars today",
       "language": "TypeScript",
       "url": "https://github.com/cordiverse/cordis"
     },
     {
       "name": "basecamp/omarchy",
       "desc": "Beautiful, Modern & Opinionated Linux",
-      "stars": "25202",
-      "today": "225 stars today",
+      "stars": "25698",
+      "today": "270 stars today",
       "language": "Shell",
       "url": "https://github.com/basecamp/omarchy"
     },
     {
       "name": "unslothai/unsloth",
       "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "stars": "72371",
-      "today": "580 stars today",
+      "stars": "72910",
+      "today": "572 stars today",
       "language": "Python",
       "url": "https://github.com/unslothai/unsloth"
     },
     {
       "name": "OpenCut-app/OpenCut",
       "desc": "The open-source CapCut alternative",
-      "stars": "83658",
-      "today": "134 stars today",
+      "stars": "84215",
+      "today": "150 stars today",
       "language": "TypeScript",
       "url": "https://github.com/OpenCut-app/OpenCut"
     },
     {
-      "name": "akitaonrails/ai-memory",
-      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": "1659",
-      "today": "41 stars today",
-      "language": "Rust",
-      "url": "https://github.com/akitaonrails/ai-memory"
-    },
-    {
       "name": "public-apis/public-apis",
       "desc": "A collective list of free APIs",
-      "stars": "461180",
-      "today": "1,583 stars today",
+      "stars": "462492",
+      "today": "1,588 stars today",
       "language": "Python",
       "url": "https://github.com/public-apis/public-apis"
     },
     {
       "name": "ToolJet/ToolJet",
       "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "stars": "39836",
-      "today": "446 stars today",
+      "stars": "40291",
+      "today": "452 stars today",
       "language": "JavaScript",
       "url": "https://github.com/ToolJet/ToolJet"
     },
     {
       "name": "cactus-compute/needle",
       "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "stars": "6395",
-      "today": "447 stars today",
+      "stars": "6877",
+      "today": "443 stars today",
       "language": "Python",
       "url": "https://github.com/cactus-compute/needle"
     }
