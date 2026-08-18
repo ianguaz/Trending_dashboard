@@ -4,7 +4,7 @@
     {
       "name": "OpenSEO",
       "desc": "The open source Ahrefs alternative",
-      "votes": 939,
+      "votes": 941,
       "url": "https://www.producthunt.com/products/openseo/launches/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bddfb6ed-475f-4cc7-adbc-c28b77be18d8.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Fuzzy AI",
       "desc": "We warm your prospects before reaching out",
-      "votes": 656,
+      "votes": 652,
       "url": "https://www.producthunt.com/products/fuzzy-ai-2/launches/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2ee5bc35-54be-4e1c-ac23-b791bb72f837.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Prelint",
       "desc": "Prevent product drift in AI-written code",
-      "votes": 632,
+      "votes": 628,
       "url": "https://www.producthunt.com/products/prelint/launches/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2e85ae4d-5d7d-4547-9839-4c8fb5e5e29a.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "SKI",
       "desc": "Free voice coding for Claude Code, Codex and more",
-      "votes": 613,
+      "votes": 609,
       "url": "https://www.producthunt.com/products/ski/launches/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4936ae7e-f021-4b98-860e-a5bc9ade7829.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Prefactor",
       "desc": "Evaluate your AI Agents in real-time",
-      "votes": 611,
+      "votes": 609,
       "url": "https://www.producthunt.com/products/prefactor/launches/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4ffa8a62-0b8a-4920-813e-e2f34bb5b68d.png?auto=format",
       "topics": [
@@ -62,21 +62,9 @@
       ]
     },
     {
-      "name": "Hey Noah",
-      "desc": "A proactive AI executive assistant for founders",
-      "votes": 608,
-      "url": "https://www.producthunt.com/products/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/683a6add-051e-41db-bdd2-b7f76c07c261.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Calendar",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "AdAnt AI",
       "desc": "Claude for viral, high-converting social ads",
-      "votes": 607,
+      "votes": 608,
       "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6206777f-775d-4ab0-a9c5-72d06df2ee77.png?auto=format",
       "topics": [
@@ -86,9 +74,21 @@
       ]
     },
     {
+      "name": "Hey Noah",
+      "desc": "A proactive AI executive assistant for founders",
+      "votes": 607,
+      "url": "https://www.producthunt.com/products/hey-noah/launches/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/683a6add-051e-41db-bdd2-b7f76c07c261.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Calendar",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Wispr Flow Notetaker",
       "desc": "Meeting notes that get the details right.",
-      "votes": 588,
+      "votes": 584,
       "url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4754f10b-0e91-4d5f-9d45-877ef6a06ca2.gif?auto=format",
       "topics": [
@@ -100,25 +100,13 @@
     {
       "name": "Lev8",
       "desc": "Find, research, and reach the right people",
-      "votes": 579,
+      "votes": 578,
       "url": "https://www.producthunt.com/products/lev8/launches/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0cd8bb27-735c-48f9-9105-4c7d73fbd348.png?auto=format",
       "topics": [
         "Sales",
         "Artificial Intelligence",
         "Marketing automation"
-      ]
-    },
-    {
-      "name": "Memmy Agent",
-      "desc": "Let every AI remember the same you.",
-      "votes": 554,
-      "url": "https://www.producthunt.com/products/memmy/launches/memmy-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/aef42c0d-8c1e-4887-bdaf-e0d6c7041c3b.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Open Source",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -134,9 +122,21 @@
       ]
     },
     {
+      "name": "Memmy Agent",
+      "desc": "Let every AI remember the same you.",
+      "votes": 549,
+      "url": "https://www.producthunt.com/products/memmy/launches/memmy-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/aef42c0d-8c1e-4887-bdaf-e0d6c7041c3b.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Open Source",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Adomate",
       "desc": "Turn data into winning ads. At scale.",
-      "votes": 547,
+      "votes": 542,
       "url": "https://www.producthunt.com/products/adomate/launches/adomate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0b1dc26d-34c2-4318-b041-3b690a4f5a48.png?auto=format",
       "topics": [
@@ -148,7 +148,7 @@
     {
       "name": "Coldtea.ai",
       "desc": "Make your software self-driving",
-      "votes": 522,
+      "votes": 519,
       "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8fc0d-0320-49be-888d-788b36d46c10.png?auto=format",
       "topics": [
@@ -160,7 +160,7 @@
     {
       "name": "AI Search Console",
       "desc": "Prompt analytics and citation mapping for AI search",
-      "votes": 515,
+      "votes": 513,
       "url": "https://www.producthunt.com/products/ai-search-console/launches/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6a9b0c41-9e59-4718-afaf-4245f5ea0561.png?auto=format",
       "topics": [
@@ -172,7 +172,7 @@
     {
       "name": "Grok Bot",
       "desc": "AI teammates that you can give real work to",
-      "votes": 499,
+      "votes": 505,
       "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
       "topics": [
@@ -184,7 +184,7 @@
     {
       "name": "Humalike x Hermes",
       "desc": "Social intelligence plugin for Hermes Agent",
-      "votes": 487,
+      "votes": 485,
       "url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f99fe9c9-c6a2-497a-b662-fc757f179a17.gif?auto=format",
       "topics": [
@@ -208,7 +208,7 @@
     {
       "name": "Soloop",
       "desc": "Approval-first Agent OS for solo founders",
-      "votes": 480,
+      "votes": 479,
       "url": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/206a6062-9874-4dfc-9dbb-87366bd3d63b.svg?auto=format",
       "topics": [
@@ -220,7 +220,7 @@
     {
       "name": "Cloudflare OS",
       "desc": "Build the AI operating system for your company",
-      "votes": 471,
+      "votes": 468,
       "url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/edcb3719-f3b7-49e8-9676-27631af01cb9.png?auto=format",
       "topics": [
@@ -230,15 +230,15 @@
       ]
     },
     {
-      "name": "Kane CLI",
-      "desc": "Natural language browser & mobile app tests from terminal",
-      "votes": 461,
-      "url": "https://www.producthunt.com/products/lambdatest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/be6747a8-c252-4bd1-9c60-a7986d164f71.gif?auto=format",
+      "name": "NextDoor.Company",
+      "desc": "Discover startups hiring near you, on a map",
+      "votes": 462,
+      "url": "https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/a13767d4-9635-476d-8220-5c0394971562.png?auto=format",
       "topics": [
-        "SaaS",
-        "Developer Tools",
-        "Artificial Intelligence"
+        "Hiring",
+        "Maps",
+        "Career"
       ]
     }
   ]

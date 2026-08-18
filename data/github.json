@@ -4,31 +4,31 @@
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": "105565",
-      "today": "1,275 stars today",
+      "stars": "107033",
+      "today": "1,189 stars today",
       "language": "Python",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "name": "usestrix/strix",
       "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": "53815",
-      "today": "656 stars today",
+      "stars": "54655",
+      "today": "598 stars today",
       "language": "Python",
       "url": "https://github.com/usestrix/strix"
     },
     {
       "name": "nautechsystems/nautilus_trader",
       "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "stars": "25743",
-      "today": "115 stars today",
+      "stars": "26138",
+      "today": "120 stars today",
       "language": "Rust",
       "url": "https://github.com/nautechsystems/nautilus_trader"
     },
     {
       "name": "akitaonrails/ai-memory",
       "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": "1856",
+      "stars": "2346",
       "today": "207 stars today",
       "language": "Rust",
       "url": "https://github.com/akitaonrails/ai-memory"
@@ -36,56 +36,56 @@
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "stars": "28189",
-      "today": "156 stars today",
+      "stars": "28685",
+      "today": "198 stars today",
       "language": "Python",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
       "name": "AlexsJones/llmfit",
       "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "stars": "32095",
-      "today": "239 stars today",
+      "stars": "32527",
+      "today": "198 stars today",
       "language": "Rust",
       "url": "https://github.com/AlexsJones/llmfit"
     },
     {
       "name": "santifer/career-ops",
       "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": "64349",
-      "today": "147 stars today",
+      "stars": "65121",
+      "today": "218 stars today",
       "language": "JavaScript",
       "url": "https://github.com/santifer/career-ops"
     },
     {
       "name": "jundot/omlx",
       "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "stars": "18886",
-      "today": "96 stars today",
+      "stars": "19131",
+      "today": "78 stars today",
       "language": "Python",
       "url": "https://github.com/jundot/omlx"
     },
     {
       "name": "immich-app/immich",
       "desc": "High performance self-hosted photo and video management solution.",
-      "stars": "110931",
-      "today": "140 stars today",
+      "stars": "111400",
+      "today": "175 stars today",
       "language": "TypeScript",
       "url": "https://github.com/immich-app/immich"
     },
     {
       "name": "cordiverse/cordis",
       "desc": "Meta-Framework of Spatiotemporal Composability",
-      "stars": "5454",
-      "today": "959 stars today",
+      "stars": "5877",
+      "today": "957 stars today",
       "language": "TypeScript",
       "url": "https://github.com/cordiverse/cordis"
     },
     {
       "name": "agalwood/Motrix",
       "desc": "A full-featured download manager.",
-      "stars": "52908",
-      "today": "295 stars today",
+      "stars": "53320",
+      "today": "344 stars today",
       "language": "TypeScript",
       "url": "https://github.com/agalwood/Motrix"
     }
