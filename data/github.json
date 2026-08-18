@@ -1,93 +1,109 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "items": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": "107033",
-      "today": "1,189 stars today",
+      "stars": "108083",
+      "today": "2,306 stars today",
       "language": "Python",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
-      "name": "usestrix/strix",
-      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": "54655",
-      "today": "598 stars today",
-      "language": "Python",
-      "url": "https://github.com/usestrix/strix"
-    },
-    {
-      "name": "nautechsystems/nautilus_trader",
-      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "stars": "26138",
-      "today": "120 stars today",
-      "language": "Rust",
-      "url": "https://github.com/nautechsystems/nautilus_trader"
+      "name": "chaitanyagiri/munder-difflin",
+      "desc": "local multi-agent harness",
+      "stars": "1816",
+      "today": "256 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/chaitanyagiri/munder-difflin"
     },
     {
       "name": "akitaonrails/ai-memory",
       "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": "2346",
-      "today": "207 stars today",
+      "stars": "2574",
+      "today": "730 stars today",
       "language": "Rust",
       "url": "https://github.com/akitaonrails/ai-memory"
     },
     {
+      "name": "volcengine/OpenViking",
+      "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": "29181",
+      "today": "298 stars today",
+      "language": "Python",
+      "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "stars": "28685",
-      "today": "198 stars today",
+      "stars": "28947",
+      "today": "726 stars today",
       "language": "Python",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
-      "name": "AlexsJones/llmfit",
-      "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "stars": "32527",
-      "today": "198 stars today",
-      "language": "Rust",
-      "url": "https://github.com/AlexsJones/llmfit"
-    },
-    {
-      "name": "santifer/career-ops",
-      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": "65121",
-      "today": "218 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/santifer/career-ops"
-    },
-    {
-      "name": "jundot/omlx",
-      "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "stars": "19131",
-      "today": "78 stars today",
+      "name": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "stars": "464070",
+      "today": "1,139 stars today",
       "language": "Python",
-      "url": "https://github.com/jundot/omlx"
+      "url": "https://github.com/public-apis/public-apis"
     },
     {
-      "name": "immich-app/immich",
-      "desc": "High performance self-hosted photo and video management solution.",
-      "stars": "111400",
-      "today": "175 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/immich-app/immich"
-    },
-    {
-      "name": "cordiverse/cordis",
-      "desc": "Meta-Framework of Spatiotemporal Composability",
-      "stars": "5877",
-      "today": "957 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/cordiverse/cordis"
+      "name": "basecamp/omarchy",
+      "desc": "Beautiful, Modern & Opinionated Linux",
+      "stars": "26273",
+      "today": "710 stars today",
+      "language": "Shell",
+      "url": "https://github.com/basecamp/omarchy"
     },
     {
       "name": "agalwood/Motrix",
       "desc": "A full-featured download manager.",
-      "stars": "53320",
-      "today": "344 stars today",
+      "stars": "53521",
+      "today": "607 stars today",
       "language": "TypeScript",
       "url": "https://github.com/agalwood/Motrix"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "stars": "24218",
+      "today": "204 stars today",
+      "language": "PLSQL",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+    },
+    {
+      "name": "jundot/omlx",
+      "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": "19289",
+      "today": "366 stars today",
+      "language": "Python",
+      "url": "https://github.com/jundot/omlx"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": "38974",
+      "today": "556 stars today",
+      "language": "Python",
+      "url": "https://github.com/bojieli/ai-agent-book"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "desc": "",
+      "stars": "15861",
+      "today": "543 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars": "84599",
+      "today": "682 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/OpenCut-app/OpenCut"
     }
   ]
 }
