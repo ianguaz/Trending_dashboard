@@ -1,139 +1,139 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "items": [
     {
       "name": "modular/modular",
       "desc": "The Modular Platform (includes MAX & Mojo)",
-      "stars": "28252",
-      "today": "268 stars today",
+      "stars": "28524",
+      "today": "905 stars today",
       "language": "Mojo",
       "url": "https://github.com/modular/modular"
     },
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "227664",
-      "today": "2,192 stars today",
+      "stars": "228730",
+      "today": "3,368 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "AprilNEA/OpenLogi",
       "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "stars": "12289",
-      "today": "1,545 stars today",
+      "stars": "12631",
+      "today": "1,372 stars today",
       "language": "Rust",
       "url": "https://github.com/AprilNEA/OpenLogi"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "275242",
-      "today": "727 stars today",
+      "stars": "275479",
+      "today": "789 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "cursor/plugins",
       "desc": "Cursor plugin specification and official plugins",
-      "stars": "4209",
-      "today": "449 stars today",
+      "stars": "4305",
+      "today": "391 stars today",
       "language": "TypeScript",
       "url": "https://github.com/cursor/plugins"
     },
     {
       "name": "santifer/career-ops",
       "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": "67023",
-      "today": "816 stars today",
+      "stars": "67264",
+      "today": "918 stars today",
       "language": "JavaScript",
       "url": "https://github.com/santifer/career-ops"
     },
     {
       "name": "akitaonrails/ai-memory",
       "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": "3780",
-      "today": "332 stars today",
+      "stars": "3887",
+      "today": "468 stars today",
       "language": "Rust",
       "url": "https://github.com/akitaonrails/ai-memory"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": "113356",
-      "today": "2,761 stars today",
+      "stars": "113658",
+      "today": "1,187 stars today",
       "language": "Python",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "name": "agent-substrate/substrate",
       "desc": "Agent Substrate: the core system",
-      "stars": "1492",
-      "today": "22 stars today",
+      "stars": "1555",
+      "today": "245 stars today",
       "language": "Go",
       "url": "https://github.com/agent-substrate/substrate"
     },
     {
       "name": "chaitanyagiri/munder-difflin",
       "desc": "local multi-agent harness",
-      "stars": "3240",
-      "today": "507 stars today",
+      "stars": "3330",
+      "today": "344 stars today",
       "language": "TypeScript",
       "url": "https://github.com/chaitanyagiri/munder-difflin"
     },
     {
       "name": "PostHog/posthog",
       "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "stars": "38112",
-      "today": "60 stars today",
+      "stars": "38195",
+      "today": "334 stars today",
       "language": "Python",
       "url": "https://github.com/PostHog/posthog"
     },
     {
       "name": "mahlernim/google-timeline-visualizer",
       "desc": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "stars": "1906",
-      "today": "657 stars today",
+      "stars": "2112",
+      "today": "1,040 stars today",
       "language": "Kotlin",
       "url": "https://github.com/mahlernim/google-timeline-visualizer"
     },
     {
       "name": "volcengine/OpenViking",
       "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "stars": "31291",
-      "today": "950 stars today",
+      "stars": "31511",
+      "today": "659 stars today",
       "language": "Python",
       "url": "https://github.com/volcengine/OpenViking"
     },
     {
       "name": "JuliusBrussee/caveman",
       "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": "99838",
-      "today": "258 stars today",
+      "stars": "100015",
+      "today": "594 stars today",
       "language": "Go",
       "url": "https://github.com/JuliusBrussee/caveman"
     },
     {
       "name": "makeplane/plane",
       "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "stars": "56689",
-      "today": "98 stars today",
+      "stars": "56855",
+      "today": "577 stars today",
       "language": "TypeScript",
       "url": "https://github.com/makeplane/plane"
     },
     {
       "name": "Tencent/AI-Infra-Guard",
       "desc": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "stars": "5140",
-      "today": "50 stars today",
+      "stars": "5262",
+      "today": "435 stars today",
       "language": "Python",
       "url": "https://github.com/Tencent/AI-Infra-Guard"
     },
     {
       "name": "RyanCodrai/turbovec",
       "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "stars": "16060",
-      "today": "230 stars today",
+      "stars": "16148",
+      "today": "348 stars today",
       "language": "Rust",
       "url": "https://github.com/RyanCodrai/turbovec"
     }
