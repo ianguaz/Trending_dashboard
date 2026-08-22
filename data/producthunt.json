@@ -4,7 +4,7 @@
     {
       "name": "Prelint",
       "desc": "Prevent product drift in AI-written code",
-      "votes": 620,
+      "votes": 619,
       "url": "https://www.producthunt.com/products/prelint/launches/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2e85ae4d-5d7d-4547-9839-4c8fb5e5e29a.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Wispr Flow Notetaker",
       "desc": "Meeting notes that get the details right.",
-      "votes": 583,
+      "votes": 582,
       "url": "https://www.producthunt.com/products/wisprflow/launches/wispr-flow-notetaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4754f10b-0e91-4d5f-9d45-877ef6a06ca2.gif?auto=format",
       "topics": [
@@ -110,26 +110,26 @@
       ]
     },
     {
-      "name": "Grok Bot",
-      "desc": "AI teammates that you can give real work to",
-      "votes": 532,
-      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Task Management",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Astute",
       "desc": "Automate your B2B brand going viral, with new media creators",
-      "votes": 530,
+      "votes": 532,
       "url": "https://www.producthunt.com/products/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format",
       "topics": [
         "Social Media",
         "Marketing",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Grok Bot",
+      "desc": "AI teammates that you can give real work to",
+      "votes": 530,
+      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Task Management",
         "Artificial Intelligence"
       ]
     },
@@ -160,7 +160,7 @@
     {
       "name": "Soloop",
       "desc": "Approval-first Agent OS for solo founders",
-      "votes": 481,
+      "votes": 482,
       "url": "https://www.producthunt.com/products/soloop/launches/soloop-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/206a6062-9874-4dfc-9dbb-87366bd3d63b.svg?auto=format",
       "topics": [
@@ -170,33 +170,9 @@
       ]
     },
     {
-      "name": "Humalike x Hermes",
-      "desc": "Social intelligence plugin for Hermes Agent",
-      "votes": 481,
-      "url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/f99fe9c9-c6a2-497a-b662-fc757f179a17.gif?auto=format",
-      "topics": [
-        "API",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Migma AI",
-      "desc": "AI runs your email marketing. Better with every send.",
-      "votes": 470,
-      "url": "https://www.producthunt.com/products/migma-ai/launches/migma-ai-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c71558bf-fae0-40f5-8796-e5126d69f59b.gif?auto=format",
-      "topics": [
-        "Email",
-        "Analytics",
-        "Marketing"
-      ]
-    },
-    {
       "name": "Clipto MCP",
       "desc": "Let agents source clips from terabytes of your local video",
-      "votes": 466,
+      "votes": 473,
       "url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png?auto=format",
       "topics": [
@@ -220,7 +196,7 @@
     {
       "name": "Kane CLI",
       "desc": "Natural language browser & mobile app tests from terminal",
-      "votes": 464,
+      "votes": 463,
       "url": "https://www.producthunt.com/products/lambdatest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be6747a8-c252-4bd1-9c60-a7986d164f71.gif?auto=format",
       "topics": [
@@ -232,13 +208,36 @@
     {
       "name": "NextDoor.Company",
       "desc": "Discover startups hiring near you, on a map",
-      "votes": 461,
+      "votes": 462,
       "url": "https://www.producthunt.com/products/nextdoor-company/launches/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a13767d4-9635-476d-8220-5c0394971562.png?auto=format",
       "topics": [
         "Hiring",
         "Maps",
         "Career"
+      ]
+    },
+    {
+      "name": "Meridian",
+      "desc": "Don't let your work go unnoticed. Get promoted!",
+      "votes": 459,
+      "url": "https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Open Source",
+        "Developer Tools"
+      ]
+    },
+    {
+      "name": "Clara AI SDR",
+      "desc": "Turn website visitors into qualified pipeline",
+      "votes": 453,
+      "url": "https://www.producthunt.com/products/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     }
   ]
