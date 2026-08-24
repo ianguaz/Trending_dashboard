@@ -4,79 +4,79 @@
     {
       "name": "openai/codex",
       "desc": "Lightweight coding agent that runs in your terminal",
-      "stars": "114922",
-      "today": "2,729 stars today",
+      "stars": "116370",
+      "today": "2,715 stars today",
       "language": "Rust",
       "url": "https://github.com/openai/codex"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": "12564",
-      "today": "628 stars today",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "14325",
+      "today": "401 stars today",
       "language": "JavaScript",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "233447",
-      "today": "2,448 stars today",
+      "stars": "234515",
+      "today": "2,447 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "basecamp/omarchy",
       "desc": "Beautiful, Modern & Opinionated Linux",
-      "stars": "28803",
-      "today": "803 stars today",
+      "stars": "29520",
+      "today": "750 stars today",
       "language": "Shell",
       "url": "https://github.com/basecamp/omarchy"
     },
     {
       "name": "AprilNEA/OpenLogi",
       "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "stars": "14604",
-      "today": "1,008 stars today",
+      "stars": "15310",
+      "today": "1,009 stars today",
       "language": "Rust",
       "url": "https://github.com/AprilNEA/OpenLogi"
     },
     {
       "name": "block/buzz",
       "desc": "A hive mind communication platform",
-      "stars": "29974",
-      "today": "349 stars today",
+      "stars": "30301",
+      "today": "410 stars today",
       "language": "Rust",
       "url": "https://github.com/block/buzz"
     },
     {
       "name": "apache/maka",
       "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": "2238",
-      "today": "49 stars today",
+      "stars": "2489",
+      "today": "51 stars today",
       "language": "TypeScript",
       "url": "https://github.com/apache/maka"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "stars": "47726",
-      "today": "1,040 stars today",
+      "stars": "48288",
+      "today": "1,081 stars today",
       "language": "Python",
       "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
       "name": "tinyhumansai/openhuman",
       "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "stars": "36590",
-      "today": "106 stars today",
+      "stars": "36946",
+      "today": "39 stars today",
       "language": "Rust",
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "242424",
+      "stars": "242709",
       "today": "427 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
@@ -84,64 +84,64 @@
     {
       "name": "ruvnet/ruflo",
       "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": "68977",
-      "today": "134 stars today",
+      "stars": "69197",
+      "today": "131 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ruvnet/ruflo"
     },
     {
       "name": "VoltAgent/awesome-agent-skills",
       "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "stars": "31113",
-      "today": "237 stars today",
+      "stars": "31514",
+      "today": "156 stars today",
       "language": "",
       "url": "https://github.com/VoltAgent/awesome-agent-skills"
     },
     {
       "name": "virgiliojr94/book-to-skill",
       "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "stars": "24444",
-      "today": "423 stars today",
+      "stars": "24955",
+      "today": "417 stars today",
       "language": "Python",
       "url": "https://github.com/virgiliojr94/book-to-skill"
     },
     {
       "name": "dani-garcia/vaultwarden",
       "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "stars": "65905",
-      "today": "95 stars today",
+      "stars": "66008",
+      "today": "78 stars today",
       "language": "Rust",
       "url": "https://github.com/dani-garcia/vaultwarden"
     },
     {
       "name": "anthropics/claude-plugins-community",
       "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "stars": "804",
-      "today": "190 stars today",
+      "stars": "1129",
+      "today": "225 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-community"
     },
     {
       "name": "ripienaar/free-for-dev",
       "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "stars": "134263",
-      "today": "593 stars today",
+      "stars": "134725",
+      "today": "615 stars today",
       "language": "HTML",
       "url": "https://github.com/ripienaar/free-for-dev"
     },
     {
       "name": "Comfy-Org/ComfyUI",
       "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": "129231",
-      "today": "179 stars today",
+      "stars": "129626",
+      "today": "201 stars today",
       "language": "Python",
       "url": "https://github.com/Comfy-Org/ComfyUI"
     },
     {
       "name": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
-      "stars": "234760",
-      "today": "443 stars today",
+      "stars": "235304",
+      "today": "454 stars today",
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     }
