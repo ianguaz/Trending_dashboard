@@ -1,157 +1,133 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "items": [
     {
-      "name": "Alishahryar1/free-claude-code",
-      "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "stars": "49404",
-      "today": "891 stars today",
-      "language": "Python",
-      "url": "https://github.com/Alishahryar1/free-claude-code"
-    },
-    {
-      "name": "openai/codex",
-      "desc": "Lightweight coding agent that runs in your terminal",
-      "stars": "117612",
-      "today": "1,994 stars today",
-      "language": "Rust",
-      "url": "https://github.com/openai/codex"
-    },
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": "34494",
-      "today": "434 stars today",
-      "language": "Python",
-      "url": "https://github.com/MadsLorentzen/ai-job-search"
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "206801",
-      "today": "588 stars today",
-      "language": "",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "name": "makeplane/plane",
-      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "stars": "58137",
-      "today": "243 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/makeplane/plane"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "desc": "The agent that grows with you",
-      "stars": "236073",
-      "today": "896 stars today",
-      "language": "Python",
-      "url": "https://github.com/NousResearch/hermes-agent"
+      "name": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "17178",
+      "today": "1,698 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
     {
       "name": "anthropics/claude-plugins-community",
       "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "stars": "1490",
-      "today": "489 stars today",
+      "stars": "1620",
+      "today": "350 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-community"
     },
     {
-      "name": "AprilNEA/OpenLogi",
-      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "stars": "16117",
-      "today": "1,097 stars today",
-      "language": "Rust",
-      "url": "https://github.com/AprilNEA/OpenLogi"
+      "name": "MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": "35014",
+      "today": "1,266 stars today",
+      "language": "Python",
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
     },
     {
       "name": "apache/maka",
       "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": "3061",
-      "today": "411 stars today",
+      "stars": "3210",
+      "today": "538 stars today",
       "language": "TypeScript",
       "url": "https://github.com/apache/maka"
     },
     {
-      "name": "PostHog/posthog",
-      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "stars": "39094",
-      "today": "83 stars today",
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "100002",
+      "today": "191 stars today",
       "language": "Python",
-      "url": "https://github.com/PostHog/posthog"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": "387521",
-      "today": "173 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/openclaw/openclaw"
+      "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
       "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "stars": "12182",
-      "today": "310 stars today",
+      "stars": "12471",
+      "today": "810 stars today",
       "language": "Python",
       "url": "https://github.com/AgriciDaniel/claude-obsidian"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "48500",
-      "today": "349 stars today",
+      "stars": "48765",
+      "today": "572 stars today",
       "language": "Python",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
+      "name": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": "37622",
+      "today": "541 stars today",
+      "language": "Rust",
+      "url": "https://github.com/tinyhumansai/openhuman"
+    },
+    {
       "name": "basecamp/omarchy",
       "desc": "Beautiful, Modern & Opinionated Linux",
-      "stars": "30528",
-      "today": "1,056 stars today",
+      "stars": "30955",
+      "today": "1,080 stars today",
       "language": "Shell",
       "url": "https://github.com/basecamp/omarchy"
     },
     {
-      "name": "tashfeenahmed/freellmapi",
-      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": "20001",
-      "today": "174 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/tashfeenahmed/freellmapi"
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": "134085",
+      "today": "161 stars today",
+      "language": "Python",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
-      "name": "dani-garcia/vaultwarden",
-      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "stars": "66178",
-      "today": "175 stars today",
-      "language": "Rust",
-      "url": "https://github.com/dani-garcia/vaultwarden"
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": "16224",
-      "today": "2,449 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-    },
-    {
-      "name": "VoltAgent/awesome-agent-skills",
-      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "stars": "32089",
-      "today": "602 stars today",
+      "name": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "207026",
+      "today": "828 stars today",
       "language": "",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills"
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
-      "name": "tinyhumansai/openhuman",
-      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "stars": "37458",
-      "today": "515 stars today",
+      "name": "openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "stars": "117944",
+      "today": "1,183 stars today",
       "language": "Rust",
-      "url": "https://github.com/tinyhumansai/openhuman"
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "name": "marin-community/marin",
+      "desc": "Open-source framework for the research and development of foundation models.",
+      "stars": "2015",
+      "today": "277 stars today",
+      "language": "Python",
+      "url": "https://github.com/marin-community/marin"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "110599",
+      "today": "944 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "33995",
+      "today": "47 stars today",
+      "language": "Python",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "name": "asciimoo/hister",
+      "desc": "Your own search engine",
+      "stars": "2656",
+      "today": "166 stars today",
+      "language": "Go",
+      "url": "https://github.com/asciimoo/hister"
     }
   ]
 }
