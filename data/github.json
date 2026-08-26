@@ -4,7 +4,7 @@
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": "17178",
+      "stars": "19809",
       "today": "1,698 stars today",
       "language": "JavaScript",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
@@ -12,71 +12,71 @@
     {
       "name": "anthropics/claude-plugins-community",
       "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "stars": "1620",
-      "today": "350 stars today",
+      "stars": "1944",
+      "today": "351 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-community"
     },
     {
       "name": "MadsLorentzen/ai-job-search",
       "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": "35014",
-      "today": "1,266 stars today",
+      "stars": "35746",
+      "today": "1,265 stars today",
       "language": "Python",
       "url": "https://github.com/MadsLorentzen/ai-job-search"
     },
     {
       "name": "apache/maka",
       "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": "3210",
-      "today": "538 stars today",
+      "stars": "3497",
+      "today": "543 stars today",
       "language": "TypeScript",
       "url": "https://github.com/apache/maka"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "100002",
-      "today": "191 stars today",
+      "stars": "100546",
+      "today": "218 stars today",
       "language": "Python",
       "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "name": "AgriciDaniel/claude-obsidian",
       "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "stars": "12471",
-      "today": "810 stars today",
+      "stars": "12997",
+      "today": "813 stars today",
       "language": "Python",
       "url": "https://github.com/AgriciDaniel/claude-obsidian"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "48765",
-      "today": "572 stars today",
+      "stars": "49307",
+      "today": "569 stars today",
       "language": "Python",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "name": "tinyhumansai/openhuman",
       "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "stars": "37622",
-      "today": "541 stars today",
+      "stars": "37949",
+      "today": "542 stars today",
       "language": "Rust",
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "basecamp/omarchy",
       "desc": "Beautiful, Modern & Opinionated Linux",
-      "stars": "30955",
-      "today": "1,080 stars today",
+      "stars": "31569",
+      "today": "1,083 stars today",
       "language": "Shell",
       "url": "https://github.com/basecamp/omarchy"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "stars": "134085",
+      "stars": "134428",
       "today": "161 stars today",
       "language": "Python",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
@@ -84,48 +84,48 @@
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "207026",
-      "today": "828 stars today",
+      "stars": "207430",
+      "today": "830 stars today",
       "language": "",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
       "name": "openai/codex",
       "desc": "Lightweight coding agent that runs in your terminal",
-      "stars": "117944",
-      "today": "1,183 stars today",
+      "stars": "118502",
+      "today": "1,181 stars today",
       "language": "Rust",
       "url": "https://github.com/openai/codex"
     },
     {
       "name": "marin-community/marin",
       "desc": "Open-source framework for the research and development of foundation models.",
-      "stars": "2015",
-      "today": "277 stars today",
+      "stars": "2292",
+      "today": "231 stars today",
       "language": "Python",
       "url": "https://github.com/marin-community/marin"
     },
     {
       "name": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "110599",
-      "today": "944 stars today",
+      "stars": "111613",
+      "today": "982 stars today",
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": "33995",
-      "today": "47 stars today",
+      "stars": "34192",
+      "today": "55 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "asciimoo/hister",
       "desc": "Your own search engine",
-      "stars": "2656",
-      "today": "166 stars today",
+      "stars": "2960",
+      "today": "98 stars today",
       "language": "Go",
       "url": "https://github.com/asciimoo/hister"
     }
