@@ -1,133 +1,133 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "items": [
+    {
+      "name": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "17314",
+      "today": "1,002 stars today",
+      "language": "HTML",
+      "url": "https://github.com/tt-a1i/archify"
+    },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": "19809",
-      "today": "1,698 stars today",
+      "stars": "21004",
+      "today": "4,044 stars today",
       "language": "JavaScript",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
     {
-      "name": "anthropics/claude-plugins-community",
-      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "stars": "1944",
-      "today": "351 stars today",
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "34290",
+      "today": "307 stars today",
       "language": "Python",
-      "url": "https://github.com/anthropics/claude-plugins-community"
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars": "50200",
+      "today": "566 stars today",
+      "language": "Python",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
       "name": "MadsLorentzen/ai-job-search",
       "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": "35746",
-      "today": "1,265 stars today",
+      "stars": "36195",
+      "today": "1,299 stars today",
       "language": "Python",
       "url": "https://github.com/MadsLorentzen/ai-job-search"
     },
     {
-      "name": "apache/maka",
-      "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": "3497",
-      "today": "543 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/apache/maka"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "100546",
-      "today": "218 stars today",
-      "language": "Python",
-      "url": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
       "name": "AgriciDaniel/claude-obsidian",
       "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "stars": "12997",
-      "today": "813 stars today",
+      "stars": "13239",
+      "today": "812 stars today",
       "language": "Python",
       "url": "https://github.com/AgriciDaniel/claude-obsidian"
     },
     {
+      "name": "basecamp/omarchy",
+      "desc": "Beautiful, Modern & Opinionated Linux",
+      "stars": "31825",
+      "today": "1,021 stars today",
+      "language": "Shell",
+      "url": "https://github.com/basecamp/omarchy"
+    },
+    {
       "name": "rohitg00/ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "49307",
-      "today": "569 stars today",
+      "stars": "49481",
+      "today": "837 stars today",
       "language": "Python",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "name": "tinyhumansai/openhuman",
       "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "stars": "37949",
-      "today": "542 stars today",
+      "stars": "38113",
+      "today": "522 stars today",
       "language": "Rust",
       "url": "https://github.com/tinyhumansai/openhuman"
     },
     {
-      "name": "basecamp/omarchy",
-      "desc": "Beautiful, Modern & Opinionated Linux",
-      "stars": "31569",
-      "today": "1,083 stars today",
-      "language": "Shell",
-      "url": "https://github.com/basecamp/omarchy"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "stars": "134428",
-      "today": "161 stars today",
-      "language": "Python",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": "207430",
-      "today": "830 stars today",
-      "language": "",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "name": "openai/codex",
-      "desc": "Lightweight coding agent that runs in your terminal",
-      "stars": "118502",
-      "today": "1,181 stars today",
-      "language": "Rust",
-      "url": "https://github.com/openai/codex"
-    },
-    {
-      "name": "marin-community/marin",
-      "desc": "Open-source framework for the research and development of foundation models.",
-      "stars": "2292",
-      "today": "231 stars today",
-      "language": "Python",
-      "url": "https://github.com/marin-community/marin"
-    },
-    {
       "name": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "111613",
-      "today": "982 stars today",
+      "stars": "112162",
+      "today": "1,598 stars today",
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": "34192",
-      "today": "55 stars today",
+      "name": "anthropics/claude-plugins-community",
+      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": "2103",
+      "today": "537 stars today",
       "language": "Python",
-      "url": "https://github.com/anthropics/claude-plugins-official"
+      "url": "https://github.com/anthropics/claude-plugins-community"
     },
     {
-      "name": "asciimoo/hister",
-      "desc": "Your own search engine",
-      "stars": "2960",
-      "today": "98 stars today",
-      "language": "Go",
-      "url": "https://github.com/asciimoo/hister"
+      "name": "ConardLi/garden-skills",
+      "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars": "10832",
+      "today": "136 stars today",
+      "language": "CSS",
+      "url": "https://github.com/ConardLi/garden-skills"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": "110757",
+      "today": "135 stars today",
+      "language": "Python",
+      "url": "https://github.com/browser-use/browser-use"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "34624",
+      "today": "130 stars today",
+      "language": "Python",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "name": "marin-community/marin",
+      "desc": "Open-source framework for the research and development of foundation models.",
+      "stars": "2391",
+      "today": "443 stars today",
+      "language": "Python",
+      "url": "https://github.com/marin-community/marin"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars": "32504",
+      "today": "305 stars today",
+      "language": "",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills"
     }
   ]
 }
