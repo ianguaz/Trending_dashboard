@@ -2,164 +2,156 @@
   "date": "2026-08-30",
   "items": [
     {
-      "name": "tt-a1i/archify",
-      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "stars": "30534",
-      "today": "3,927 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/tt-a1i/archify"
+      "name": "THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": "23075",
+      "today": "907 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/THU-MAIC/OpenMAIC"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": "37783",
-      "today": "1,604 stars today",
+      "stars": "38496",
+      "today": "1,113 stars today",
       "language": "Python",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": "35318",
-      "today": "356 stars today",
-      "language": "Python",
-      "url": "https://github.com/anthropics/claude-plugins-official"
+      "name": "Lakr233/vphone-cli",
+      "desc": "",
+      "stars": "9394",
+      "today": "633 stars today",
+      "language": "Swift",
+      "url": "https://github.com/Lakr233/vphone-cli"
     },
     {
-      "name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": "12343",
-      "today": "1,870 stars today",
+      "name": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "33131",
+      "today": "3,730 stars today",
       "language": "JavaScript",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      "url": "https://github.com/tt-a1i/archify"
     },
     {
-      "name": "abhigyanpatwari/GitNexus",
-      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "46368",
-      "today": "273 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/abhigyanpatwari/GitNexus"
-    },
-    {
-      "name": "JetBrains/go-modern-guidelines",
-      "desc": "Help AI coding agents write modern Go",
-      "stars": "2827",
-      "today": "294 stars today",
-      "language": "Go",
-      "url": "https://github.com/JetBrains/go-modern-guidelines"
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": "53933",
-      "today": "809 stars today",
+      "name": "p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "stars": "28930",
+      "today": "150 stars today",
       "language": "Python",
-      "url": "https://github.com/calesthio/OpenMontage"
+      "url": "https://github.com/p-e-w/heretic"
     },
     {
-      "name": "abi/screenshot-to-code",
-      "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "stars": "75958",
-      "today": "558 stars today",
+      "name": "unclecode/crawl4ai",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stars": "80026",
+      "today": "229 stars today",
       "language": "Python",
-      "url": "https://github.com/abi/screenshot-to-code"
+      "url": "https://github.com/unclecode/crawl4ai"
     },
     {
-      "name": "cursor/plugins",
-      "desc": "Cursor plugin specification and official plugins",
-      "stars": "6132",
-      "today": "257 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/cursor/plugins"
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "60328",
+      "today": "272 stars today",
+      "language": "Python",
+      "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": "25005",
-      "today": "767 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-    },
-    {
-      "name": "tailscale/tailcat",
-      "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "stars": "3372",
-      "today": "790 stars today",
+      "name": "majd/ipatool",
+      "desc": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "stars": "10050",
+      "today": "56 stars today",
       "language": "Go",
-      "url": "https://github.com/tailscale/tailcat"
+      "url": "https://github.com/majd/ipatool"
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "desc": "A collection of MCP servers.",
+      "stars": "93128",
+      "today": "65 stars today",
+      "language": "",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers"
+    },
+    {
+      "name": "checkstyle/checkstyle",
+      "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "stars": "9118",
+      "today": "78 stars today",
+      "language": "Java",
+      "url": "https://github.com/checkstyle/checkstyle"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
       "desc": "Ghidra is a software reverse engineering (SRE) framework",
-      "stars": "73604",
-      "today": "375 stars today",
+      "stars": "73693",
+      "today": "196 stars today",
       "language": "Java",
       "url": "https://github.com/NationalSecurityAgency/ghidra"
     },
     {
-      "name": "swoole/typephp",
-      "desc": "Compile PHP to Native Binaries",
-      "stars": "935",
-      "today": "166 stars today",
-      "language": "PHP",
-      "url": "https://github.com/swoole/typephp"
+      "name": "pollen-robotics/microduck_rl",
+      "desc": "RL training environments for Microduck (mjlab)",
+      "stars": "662",
+      "today": "147 stars today",
+      "language": "Python",
+      "url": "https://github.com/pollen-robotics/microduck_rl"
     },
     {
-      "name": "marin-community/marin",
-      "desc": "Open-source framework for the research and development of foundation models.",
-      "stars": "3010",
-      "today": "163 stars today",
+      "name": "handsomestWei/patent-disclosure-skill",
+      "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "stars": "5540",
+      "today": "38 stars today",
       "language": "Python",
-      "url": "https://github.com/marin-community/marin"
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill"
+    },
+    {
+      "name": "corsairdev/corsair",
+      "desc": "Connect your users to their apps",
+      "stars": "10787",
+      "today": "99 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/corsairdev/corsair"
+    },
+    {
+      "name": "every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "stars": "14906",
+      "today": "517 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/every-app/open-seo"
+    },
+    {
+      "name": "colinhacks/zod",
+      "desc": "TypeScript-first schema validation with static type inference",
+      "stars": "43589",
+      "today": "17 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/colinhacks/zod"
     },
     {
       "name": "tashfeenahmed/freellmapi",
       "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "stars": "22157",
-      "today": "612 stars today",
+      "stars": "22449",
+      "today": "505 stars today",
       "language": "TypeScript",
       "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "desc": "Chrome DevTools for coding agents",
-      "stars": "50145",
-      "today": "215 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "50930",
-      "today": "359 stars today",
-      "language": "Python",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "116298",
-      "today": "1,171 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    },
-    {
-      "name": "google/googletest",
-      "desc": "GoogleTest - Google Testing and Mocking Framework",
-      "stars": "39287",
-      "today": "125 stars today",
-      "language": "C++",
-      "url": "https://github.com/google/googletest"
-    },
-    {
       "name": "livekit/agents",
       "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "stars": "13546",
-      "today": "256 stars today",
+      "stars": "13605",
+      "today": "131 stars today",
       "language": "Python",
       "url": "https://github.com/livekit/agents"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": "46452",
+      "today": "181 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/abhigyanpatwari/GitNexus"
     }
   ]
 }
