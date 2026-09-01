@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "items": [
     {
       "name": "Hey Noah",
       "desc": "A proactive AI executive assistant for founders",
-      "votes": 637,
+      "votes": 638,
       "url": "https://www.producthunt.com/products/hey-noah/launches/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/683a6add-051e-41db-bdd2-b7f76c07c261.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Clipto MCP",
       "desc": "Let agents source clips from terabytes of your local video",
-      "votes": 637,
+      "votes": 638,
       "url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "AdAnt AI",
       "desc": "Claude for viral, high-converting social ads",
-      "votes": 601,
+      "votes": 603,
       "url": "https://www.producthunt.com/products/adant-ai/launches/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6206777f-775d-4ab0-a9c5-72d06df2ee77.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "x1",
       "desc": "Lovable for iPhone apps go from idea to App Store",
-      "votes": 513,
+      "votes": 512,
       "url": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format",
       "topics": [
@@ -136,24 +136,13 @@
     {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 463,
+      "votes": 464,
       "url": "https://www.producthunt.com/products/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
         "Fintech",
         "SaaS",
         "E-Commerce"
-      ]
-    },
-    {
-      "name": "Clara AI SDR",
-      "desc": "Turn website visitors into qualified pipeline",
-      "votes": 458,
-      "url": "https://www.producthunt.com/products/clara-ai-sdr/launches/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -166,6 +155,17 @@
         "Open Source",
         "Artificial Intelligence",
         "GitHub"
+      ]
+    },
+    {
+      "name": "Clara AI SDR",
+      "desc": "Turn website visitors into qualified pipeline",
+      "votes": 458,
+      "url": "https://www.producthunt.com/products/clara-ai-sdr/launches/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -207,7 +207,7 @@
     {
       "name": "Skydive",
       "desc": "Build cloud agents that work across your tools",
-      "votes": 433,
+      "votes": 434,
       "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c20d7d46-fdf8-4764-9105-ef07d8e034ef.png?auto=format",
       "topics": [
@@ -217,7 +217,7 @@
     {
       "name": "AgentSky",
       "desc": "Any harness, any LLM — cloud-hosted agents on demand.",
-      "votes": 429,
+      "votes": 430,
       "url": "https://www.producthunt.com/products/agentsky/launches/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a50c630a-ee2b-422e-93ef-44116a39bd2c.png?auto=format",
       "topics": [

@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "items": [
     {
       "name": "Gitlawb/openclaude",
       "desc": "runs anywhere. uses anything",
-      "stars": "31004",
+      "stars": "31183",
       "today": "37 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Gitlawb/openclaude"
@@ -12,7 +12,7 @@
     {
       "name": "Imbad0202/academic-research-skills",
       "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": "44594",
+      "stars": "44776",
       "today": "161 stars today",
       "language": "Python",
       "url": "https://github.com/Imbad0202/academic-research-skills"
@@ -20,7 +20,7 @@
     {
       "name": "THU-MAIC/OpenMAIC",
       "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "stars": "28866",
+      "stars": "29283",
       "today": "3,122 stars today",
       "language": "TypeScript",
       "url": "https://github.com/THU-MAIC/OpenMAIC"
@@ -28,7 +28,7 @@
     {
       "name": "iv-org/invidious",
       "desc": "Invidious is an alternative front-end to YouTube",
-      "stars": "23639",
+      "stars": "23709",
       "today": "583 stars today",
       "language": "Crystal",
       "url": "https://github.com/iv-org/invidious"
@@ -36,7 +36,7 @@
     {
       "name": "jingyaogong/minimind",
       "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "stars": "56770",
+      "stars": "56938",
       "today": "1,005 stars today",
       "language": "Python",
       "url": "https://github.com/jingyaogong/minimind"
@@ -44,15 +44,15 @@
     {
       "name": "debpalash/VoiceStudio",
       "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": "13110",
-      "today": "509 stars today",
+      "stars": "13598",
+      "today": "745 stars today",
       "language": "Python",
       "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
       "name": "3b1b/manim",
       "desc": "Animation engine for explanatory math videos",
-      "stars": "92393",
+      "stars": "92495",
       "today": "74 stars today",
       "language": "Python",
       "url": "https://github.com/3b1b/manim"
@@ -60,7 +60,7 @@
     {
       "name": "firecrawl/pdf-inspector",
       "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "stars": "17694",
+      "stars": "17824",
       "today": "545 stars today",
       "language": "Rust",
       "url": "https://github.com/firecrawl/pdf-inspector"
@@ -68,15 +68,15 @@
     {
       "name": "browser-use/video-use",
       "desc": "Edit videos with coding agents",
-      "stars": "22599",
-      "today": "591 stars today",
+      "stars": "22783",
+      "today": "509 stars today",
       "language": "Python",
       "url": "https://github.com/browser-use/video-use"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": "41268",
+      "stars": "41431",
       "today": "914 stars today",
       "language": "Python",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
@@ -84,7 +84,7 @@
     {
       "name": "handsomestWei/patent-disclosure-skill",
       "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "stars": "6596",
+      "stars": "6663",
       "today": "502 stars today",
       "language": "Python",
       "url": "https://github.com/handsomestWei/patent-disclosure-skill"
@@ -92,7 +92,7 @@
     {
       "name": "VoltAgent/awesome-design-md",
       "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "stars": "112285",
+      "stars": "112550",
       "today": "487 stars today",
       "language": "",
       "url": "https://github.com/VoltAgent/awesome-design-md"
@@ -100,7 +100,7 @@
     {
       "name": "averygan/reclip",
       "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "stars": "7388",
+      "stars": "7542",
       "today": "21 stars today",
       "language": "HTML",
       "url": "https://github.com/averygan/reclip"
@@ -108,7 +108,7 @@
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "245529",
+      "stars": "245663",
       "today": "621 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
@@ -116,8 +116,8 @@
     {
       "name": "unclecode/crawl4ai",
       "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "stars": "80672",
-      "today": "516 stars today",
+      "stars": "80786",
+      "today": "179 stars today",
       "language": "Python",
       "url": "https://github.com/unclecode/crawl4ai"
     }
