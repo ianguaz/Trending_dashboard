@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "items": [
     {
       "name": "Hey Noah",
       "desc": "A proactive AI executive assistant for founders",
-      "votes": 643,
+      "votes": 641,
       "url": "https://www.producthunt.com/products/hey-noah/launches/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/683a6add-051e-41db-bdd2-b7f76c07c261.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Clipto MCP",
       "desc": "Let agents source clips from terabytes of your local video",
-      "votes": 640,
+      "votes": 638,
       "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Astute",
       "desc": "Automate your B2B brand going viral, with new media creators",
-      "votes": 580,
+      "votes": 581,
       "url": "https://www.producthunt.com/products/astute-2/launches/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Wispr Flow Notetaker",
       "desc": "Meeting notes that get the details right.",
-      "votes": 575,
+      "votes": 574,
       "url": "https://www.producthunt.com/products/wisprflow/launches/wispr-flow-notetaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4754f10b-0e91-4d5f-9d45-877ef6a06ca2.gif?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Meridian",
       "desc": "Don't let your work go unnoticed. Get promoted!",
-      "votes": 529,
+      "votes": 530,
       "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "Kilo Code for JetBrains",
       "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 493,
+      "votes": 498,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
       "topics": [
@@ -148,13 +148,24 @@
     {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 467,
+      "votes": 464,
       "url": "https://www.producthunt.com/products/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
         "Fintech",
         "SaaS",
         "E-Commerce"
+      ]
+    },
+    {
+      "name": "Clara AI SDR",
+      "desc": "Turn website visitors into qualified pipeline",
+      "votes": 459,
+      "url": "https://www.producthunt.com/products/clara-ai-sdr/launches/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -167,17 +178,6 @@
         "Open Source",
         "Artificial Intelligence",
         "GitHub"
-      ]
-    },
-    {
-      "name": "Clara AI SDR",
-      "desc": "Turn website visitors into qualified pipeline",
-      "votes": 458,
-      "url": "https://www.producthunt.com/products/clara-ai-sdr/launches/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -195,7 +195,7 @@
     {
       "name": "Kane CLI",
       "desc": "Natural language browser & mobile app tests from terminal",
-      "votes": 450,
+      "votes": 449,
       "url": "https://www.producthunt.com/products/lambdatest/launches/kane-cli-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be6747a8-c252-4bd1-9c60-a7986d164f71.gif?auto=format",
       "topics": [
@@ -219,7 +219,7 @@
     {
       "name": "Skydive",
       "desc": "Build cloud agents that work across your tools",
-      "votes": 435,
+      "votes": 434,
       "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c20d7d46-fdf8-4764-9105-ef07d8e034ef.png?auto=format",
       "topics": [
