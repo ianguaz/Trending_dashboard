@@ -4,7 +4,7 @@
     {
       "name": "Hey Noah",
       "desc": "A proactive AI executive assistant for founders",
-      "votes": 638,
+      "votes": 643,
       "url": "https://www.producthunt.com/products/hey-noah/launches/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/683a6add-051e-41db-bdd2-b7f76c07c261.png?auto=format",
       "topics": [
@@ -16,8 +16,8 @@
     {
       "name": "Clipto MCP",
       "desc": "Let agents source clips from terabytes of your local video",
-      "votes": 638,
-      "url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 640,
+      "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png?auto=format",
       "topics": [
         "Productivity",
@@ -28,7 +28,7 @@
     {
       "name": "AdAnt AI",
       "desc": "Claude for viral, high-converting social ads",
-      "votes": 603,
+      "votes": 605,
       "url": "https://www.producthunt.com/products/adant-ai/launches/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6206777f-775d-4ab0-a9c5-72d06df2ee77.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Dograh",
       "desc": "The open source VAPI alternative",
-      "votes": 589,
+      "votes": 591,
       "url": "https://www.producthunt.com/products/dograh/launches/dograh-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/eab1a163-fbfe-4b8b-9356-f94e45feca98.png?auto=format",
       "topics": [
@@ -52,8 +52,8 @@
     {
       "name": "Astute",
       "desc": "Automate your B2B brand going viral, with new media creators",
-      "votes": 581,
-      "url": "https://www.producthunt.com/products/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 580,
+      "url": "https://www.producthunt.com/products/astute-2/launches/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format",
       "topics": [
         "Social Media",
@@ -64,7 +64,7 @@
     {
       "name": "Wispr Flow Notetaker",
       "desc": "Meeting notes that get the details right.",
-      "votes": 573,
+      "votes": 575,
       "url": "https://www.producthunt.com/products/wisprflow/launches/wispr-flow-notetaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4754f10b-0e91-4d5f-9d45-877ef6a06ca2.gif?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Grok Bot",
       "desc": "AI teammates that you can give real work to",
-      "votes": 546,
+      "votes": 548,
       "url": "https://www.producthunt.com/products/grok/launches/grok-bot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Meridian",
       "desc": "Don't let your work go unnoticed. Get promoted!",
-      "votes": 530,
+      "votes": 529,
       "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "x1",
       "desc": "Lovable for iPhone apps go from idea to App Store",
-      "votes": 512,
+      "votes": 514,
       "url": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format",
       "topics": [
@@ -122,6 +122,18 @@
       ]
     },
     {
+      "name": "Kilo Code for JetBrains",
+      "desc": "Fully native, open-source coding agent built for JetBrains",
+      "votes": 493,
+      "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
+      "topics": [
+        "Open Source",
+        "Software Engineering",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "Soloop",
       "desc": "Approval-first Agent OS for solo founders",
       "votes": 473,
@@ -136,7 +148,7 @@
     {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 464,
+      "votes": 467,
       "url": "https://www.producthunt.com/products/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
@@ -171,7 +183,7 @@
     {
       "name": "NextDoor.Company",
       "desc": "Discover startups hiring near you, on a map",
-      "votes": 454,
+      "votes": 455,
       "url": "https://www.producthunt.com/products/nextdoor-company/launches/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a13767d4-9635-476d-8220-5c0394971562.png?auto=format",
       "topics": [
@@ -195,7 +207,7 @@
     {
       "name": "Ito",
       "desc": "AI code review that runs your code",
-      "votes": 442,
+      "votes": 440,
       "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code/launches/ito-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/477fa9cf-bd31-4c46-8944-3888ffac3925.svg?auto=format",
       "topics": [
@@ -207,7 +219,7 @@
     {
       "name": "Skydive",
       "desc": "Build cloud agents that work across your tools",
-      "votes": 434,
+      "votes": 435,
       "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c20d7d46-fdf8-4764-9105-ef07d8e034ef.png?auto=format",
       "topics": [
@@ -222,18 +234,6 @@
       "thumbnail": "https://ph-files.imgix.net/a50c630a-ee2b-422e-93ef-44116a39bd2c.png?auto=format",
       "topics": [
         "SaaS",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "akta.pro",
-      "desc": "Private company data and signals API for the agent economy",
-      "votes": 429,
-      "url": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/d096a90c-a4f0-414d-992a-d1803381c3f8.x-icon?auto=format",
-      "topics": [
-        "API",
         "Developer Tools",
         "Artificial Intelligence"
       ]
