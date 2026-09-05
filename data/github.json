@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "items": [
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "251387",
-      "today": "2,758 stars today",
+      "stars": "252074",
+      "today": "2,666 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "249014",
-      "today": "1,135 stars today",
+      "stars": "249512",
+      "today": "1,325 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "127100",
-      "today": "1,679 stars today",
+      "stars": "127598",
+      "today": "2,813 stars today",
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
-      "stars": "241725",
-      "today": "720 stars today",
+      "stars": "241884",
+      "today": "573 stars today",
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "fmtlib/fmt",
       "desc": "A modern formatting library",
-      "stars": "25523",
-      "today": "688 stars today",
+      "stars": "25554",
+      "today": "133 stars today",
       "language": "C++",
       "url": "https://github.com/fmtlib/fmt"
     },
     {
       "name": "anthropics/skills",
       "desc": "Public repository for Agent Skills",
-      "stars": "174341",
-      "today": "511 stars today",
+      "stars": "174469",
+      "today": "472 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
     },
     {
       "name": "cathrynlavery/diagram-design",
       "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": "31331",
-      "today": "437 stars today",
+      "stars": "31551",
+      "today": "852 stars today",
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design"
     },
     {
       "name": "anomalyco/opencode",
       "desc": "The open source coding agent.",
-      "stars": "204397",
-      "today": "345 stars today",
+      "stars": "204559",
+      "today": "725 stars today",
       "language": "TypeScript",
       "url": "https://github.com/anomalyco/opencode"
     },
     {
       "name": "ruvnet/ruflo",
       "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": "70546",
+      "stars": "70626",
       "today": "127 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ruvnet/ruflo"
@@ -76,23 +76,23 @@
     {
       "name": "humanlayer/skills",
       "desc": "",
-      "stars": "2452",
-      "today": "1,141 stars today",
+      "stars": "2610",
+      "today": "408 stars today",
       "language": "TypeScript",
       "url": "https://github.com/humanlayer/skills"
     },
     {
       "name": "blader/humanizer",
       "desc": "Agent skill that removes signs of AI-generated writing from text",
-      "stars": "43088",
-      "today": "1,130 stars today",
+      "stars": "43316",
+      "today": "988 stars today",
       "language": "Python",
       "url": "https://github.com/blader/humanizer"
     },
     {
       "name": "BraveOPotato/FckSignups",
       "desc": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "stars": "2643",
+      "stars": "2770",
       "today": "50 stars today",
       "language": "TypeScript",
       "url": "https://github.com/BraveOPotato/FckSignups"
@@ -100,31 +100,31 @@
     {
       "name": "WorldFlowAI/everything-claude-code",
       "desc": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
-      "stars": "2153",
-      "today": "87 stars today",
+      "stars": "2256",
+      "today": "139 stars today",
       "language": "JavaScript",
       "url": "https://github.com/WorldFlowAI/everything-claude-code"
     },
     {
       "name": "magnitudedev/magnitude",
       "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "stars": "2809",
-      "today": "391 stars today",
+      "stars": "3041",
+      "today": "686 stars today",
       "language": "TypeScript",
       "url": "https://github.com/magnitudedev/magnitude"
     },
     {
       "name": "bikini/exploitarium",
       "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-      "stars": "4604",
-      "today": "74 stars today",
+      "stars": "4655",
+      "today": "232 stars today",
       "language": "Python",
       "url": "https://github.com/bikini/exploitarium"
     },
     {
       "name": "nvm-sh/nvm",
       "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
-      "stars": "94840",
+      "stars": "94877",
       "today": "17 stars today",
       "language": "Shell",
       "url": "https://github.com/nvm-sh/nvm"
