@@ -4,138 +4,130 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "249877",
-      "today": "2,757 stars today",
+      "stars": "251387",
+      "today": "2,758 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
-      "name": "DietrichGebert/ponytail",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "125220",
-      "today": "1,683 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    },
-    {
-      "name": "fmtlib/fmt",
-      "desc": "A modern formatting library",
-      "stars": "25437",
-      "today": "681 stars today",
-      "language": "C++",
-      "url": "https://github.com/fmtlib/fmt"
-    },
-    {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "248223",
-      "today": "1,139 stars today",
+      "stars": "249014",
+      "today": "1,135 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
-      "name": "anthropics/skills",
-      "desc": "Public repository for Agent Skills",
-      "stars": "174036",
-      "today": "512 stars today",
-      "language": "Python",
-      "url": "https://github.com/anthropics/skills"
-    },
-    {
-      "name": "blader/humanizer",
-      "desc": "Agent skill that removes signs of AI-generated writing from text",
-      "stars": "42507",
-      "today": "1,132 stars today",
-      "language": "Python",
-      "url": "https://github.com/blader/humanizer"
+      "name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "127100",
+      "today": "1,679 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
-      "stars": "241373",
-      "today": "721 stars today",
+      "stars": "241725",
+      "today": "720 stars today",
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": "103488",
-      "today": "503 stars today",
-      "language": "Go",
-      "url": "https://github.com/JuliusBrussee/caveman"
+      "name": "fmtlib/fmt",
+      "desc": "A modern formatting library",
+      "stars": "25523",
+      "today": "688 stars today",
+      "language": "C++",
+      "url": "https://github.com/fmtlib/fmt"
+    },
+    {
+      "name": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "stars": "174341",
+      "today": "511 stars today",
+      "language": "Python",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "31331",
+      "today": "437 stars today",
+      "language": "HTML",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "stars": "204397",
+      "today": "345 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "70546",
+      "today": "127 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "name": "humanlayer/skills",
+      "desc": "",
+      "stars": "2452",
+      "today": "1,141 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/humanlayer/skills"
+    },
+    {
+      "name": "blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": "43088",
+      "today": "1,130 stars today",
+      "language": "Python",
+      "url": "https://github.com/blader/humanizer"
+    },
+    {
+      "name": "BraveOPotato/FckSignups",
+      "desc": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": "2643",
+      "today": "50 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/BraveOPotato/FckSignups"
+    },
+    {
+      "name": "WorldFlowAI/everything-claude-code",
+      "desc": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "stars": "2153",
+      "today": "87 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code"
     },
     {
       "name": "magnitudedev/magnitude",
       "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "stars": "2300",
-      "today": "395 stars today",
+      "stars": "2809",
+      "today": "391 stars today",
       "language": "TypeScript",
       "url": "https://github.com/magnitudedev/magnitude"
     },
     {
       "name": "bikini/exploitarium",
       "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-      "stars": "4464",
-      "today": "68 stars today",
+      "stars": "4604",
+      "today": "74 stars today",
       "language": "Python",
       "url": "https://github.com/bikini/exploitarium"
     },
     {
-      "name": "bannedbook/fanqiang",
-      "desc": "翻墙-科学上网",
-      "stars": "52730",
-      "today": "735 stars today",
-      "language": "Kotlin",
-      "url": "https://github.com/bannedbook/fanqiang"
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": "17556",
-      "today": "1,345 stars today",
-      "language": "Python",
-      "url": "https://github.com/debpalash/VoiceStudio"
-    },
-    {
-      "name": "google-research/timesfm",
-      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": "30981",
-      "today": "340 stars today",
-      "language": "Python",
-      "url": "https://github.com/google-research/timesfm"
-    },
-    {
-      "name": "radixark/miles",
-      "desc": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
-      "stars": "2517",
-      "today": "55 stars today",
-      "language": "Python",
-      "url": "https://github.com/radixark/miles"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "desc": "The open source coding agent.",
-      "stars": "203956",
-      "today": "314 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/anomalyco/opencode"
-    },
-    {
-      "name": "clshortfuse/renodx",
-      "desc": "Renovation Engine for DirectX Games",
-      "stars": "3485",
-      "today": "759 stars today",
-      "language": "HLSL",
-      "url": "https://github.com/clshortfuse/renodx"
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": "30788",
-      "today": "426 stars today",
-      "language": "HTML",
-      "url": "https://github.com/cathrynlavery/diagram-design"
+      "name": "nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "stars": "94840",
+      "today": "17 stars today",
+      "language": "Shell",
+      "url": "https://github.com/nvm-sh/nvm"
     }
   ]
 }
