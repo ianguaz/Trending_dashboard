@@ -4,7 +4,7 @@
     {
       "name": "Clipto MCP",
       "desc": "Let agents source clips from terabytes of your local video",
-      "votes": 646,
+      "votes": 647,
       "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png?auto=format",
       "topics": [
@@ -14,21 +14,9 @@
       ]
     },
     {
-      "name": "Dograh",
-      "desc": "The open source VAPI alternative",
-      "votes": 595,
-      "url": "https://www.producthunt.com/products/dograh/launches/dograh-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/eab1a163-fbfe-4b8b-9356-f94e45feca98.png?auto=format",
-      "topics": [
-        "Open Source",
-        "Developer Tools",
-        "GitHub"
-      ]
-    },
-    {
       "name": "Astute",
       "desc": "Automate your B2B brand going viral, with new media creators",
-      "votes": 592,
+      "votes": 597,
       "url": "https://www.producthunt.com/products/astute-2/launches/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format",
       "topics": [
@@ -38,9 +26,21 @@
       ]
     },
     {
+      "name": "Dograh",
+      "desc": "The open source VAPI alternative",
+      "votes": 596,
+      "url": "https://www.producthunt.com/products/dograh/launches/dograh-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/eab1a163-fbfe-4b8b-9356-f94e45feca98.png?auto=format",
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "GitHub"
+      ]
+    },
+    {
       "name": "Grok Bot",
       "desc": "AI teammates that you can give real work to",
-      "votes": 549,
+      "votes": 550,
       "url": "https://www.producthunt.com/products/grok/launches/grok-bot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Meridian",
       "desc": "Don't let your work go unnoticed. Get promoted!",
-      "votes": 531,
+      "votes": 536,
       "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "x1",
       "desc": "Lovable for iPhone apps go from idea to App Store",
-      "votes": 518,
+      "votes": 527,
       "url": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format",
       "topics": [
@@ -74,21 +74,9 @@
       ]
     },
     {
-      "name": "Coldtea.ai",
-      "desc": "Make your software self-driving",
-      "votes": 513,
-      "url": "https://www.producthunt.com/products/coldtea/launches/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/a2d8fc0d-0320-49be-888d-788b36d46c10.png?auto=format",
-      "topics": [
-        "Software Engineering",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Kilo Code for JetBrains",
       "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 511,
+      "votes": 516,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
       "topics": [
@@ -100,7 +88,7 @@
     {
       "name": "Monid",
       "desc": "OpenRouter for agent tools",
-      "votes": 474,
+      "votes": 477,
       "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
       "topics": [
@@ -110,22 +98,10 @@
       ]
     },
     {
-      "name": "Soloop",
-      "desc": "Approval-first Agent OS for solo founders",
-      "votes": 473,
-      "url": "https://www.producthunt.com/products/soloop/launches/soloop-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/206a6062-9874-4dfc-9dbb-87366bd3d63b.svg?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Maker Tools"
-      ]
-    },
-    {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 467,
-      "url": "https://www.producthunt.com/products/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 468,
+      "url": "https://www.producthunt.com/products/paymentkit/launches/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
         "Fintech",
@@ -136,7 +112,7 @@
     {
       "name": "Clara AI SDR",
       "desc": "Turn website visitors into qualified pipeline",
-      "votes": 461,
+      "votes": 460,
       "url": "https://www.producthunt.com/products/clara-ai-sdr/launches/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format",
       "topics": [
@@ -145,9 +121,21 @@
       ]
     },
     {
+      "name": "GPT-6 Astra",
+      "desc": "OpenAI's most capable model for end-to-end work",
+      "votes": 454,
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Kane CLI",
       "desc": "Natural language browser & mobile app tests from terminal",
-      "votes": 445,
+      "votes": 446,
       "url": "https://www.producthunt.com/products/lambdatest/launches/kane-cli-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be6747a8-c252-4bd1-9c60-a7986d164f71.gif?auto=format",
       "topics": [
@@ -157,19 +145,9 @@
       ]
     },
     {
-      "name": "Skydive",
-      "desc": "Build cloud agents that work across your tools",
-      "votes": 442,
-      "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c20d7d46-fdf8-4764-9105-ef07d8e034ef.png?auto=format",
-      "topics": [
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Ito",
       "desc": "AI code review that runs your code",
-      "votes": 440,
+      "votes": 444,
       "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code/launches/ito-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/477fa9cf-bd31-4c46-8944-3888ffac3925.svg?auto=format",
       "topics": [
@@ -179,14 +157,12 @@
       ]
     },
     {
-      "name": "GPT-6 Astra",
-      "desc": "OpenAI's most capable model for end-to-end work",
-      "votes": 438,
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
+      "name": "Skydive",
+      "desc": "Build cloud agents that work across your tools",
+      "votes": 440,
+      "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c20d7d46-fdf8-4764-9105-ef07d8e034ef.png?auto=format",
       "topics": [
-        "Productivity",
-        "Developer Tools",
         "Artificial Intelligence"
       ]
     },
@@ -205,7 +181,7 @@
     {
       "name": "Diet Claude",
       "desc": "Never get blindsided by Claude's usage limits again",
-      "votes": 429,
+      "votes": 432,
       "url": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a128ff6b-cc8e-4abc-98e6-1b8d59df2afd.png?auto=format",
       "topics": [
@@ -217,7 +193,7 @@
     {
       "name": "Browzer",
       "desc": "Put your technical content on autopilot",
-      "votes": 426,
+      "votes": 428,
       "url": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ed0a1474-0106-47fd-911c-c1cac2fb0bb6.png?auto=format",
       "topics": [
@@ -229,13 +205,37 @@
     {
       "name": "Computable GPU Index (CGI)",
       "desc": "The first open-source price index for GPU compute",
-      "votes": 423,
+      "votes": 424,
       "url": "https://www.producthunt.com/products/computable-gpu-index-cgi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0470d8d1-4015-48d9-8a73-75f6647b8836.gif?auto=format",
       "topics": [
         "Open Source",
         "Fintech",
         "Money"
+      ]
+    },
+    {
+      "name": "Taku AI",
+      "desc": "Borrow the best AI setups and make them yours.",
+      "votes": 422,
+      "url": "https://www.producthunt.com/products/taku-ai/launches/taku-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/b9270f28-26bd-404d-be41-06c76c26438f.vnd.microsoft.icon?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "No-Code"
+      ]
+    },
+    {
+      "name": "Omniwork",
+      "desc": "The Creative Agent OS, create better with desktop AI agents",
+      "votes": 420,
+      "url": "https://www.producthunt.com/products/omniwork-2/launches/omniwork-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/ca9f8039-1afd-45fb-8410-e43e4f63d929.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Social media marketing"
       ]
     }
   ]
