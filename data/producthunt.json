@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "items": [
     {
       "name": "Clipto MCP",
@@ -40,7 +40,7 @@
     {
       "name": "Grok Bot",
       "desc": "AI teammates that you can give real work to",
-      "votes": 550,
+      "votes": 549,
       "url": "https://www.producthunt.com/products/grok/launches/grok-bot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Meridian",
       "desc": "Don't let your work go unnoticed. Get promoted!",
-      "votes": 536,
+      "votes": 535,
       "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Kilo Code for JetBrains",
       "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 516,
+      "votes": 519,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Monid",
       "desc": "OpenRouter for agent tools",
-      "votes": 477,
+      "votes": 478,
       "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
       "topics": [
@@ -123,7 +123,7 @@
     {
       "name": "GPT-6 Astra",
       "desc": "OpenAI's most capable model for end-to-end work",
-      "votes": 454,
+      "votes": 459,
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
       "topics": [
@@ -135,7 +135,7 @@
     {
       "name": "Kane CLI",
       "desc": "Natural language browser & mobile app tests from terminal",
-      "votes": 446,
+      "votes": 447,
       "url": "https://www.producthunt.com/products/lambdatest/launches/kane-cli-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be6747a8-c252-4bd1-9c60-a7986d164f71.gif?auto=format",
       "topics": [
@@ -169,7 +169,7 @@
     {
       "name": "akta.pro",
       "desc": "Private company data and signals API for the agent economy",
-      "votes": 432,
+      "votes": 434,
       "url": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d096a90c-a4f0-414d-992a-d1803381c3f8.x-icon?auto=format",
       "topics": [
@@ -205,13 +205,25 @@
     {
       "name": "Computable GPU Index (CGI)",
       "desc": "The first open-source price index for GPU compute",
-      "votes": 424,
+      "votes": 425,
       "url": "https://www.producthunt.com/products/computable-gpu-index-cgi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0470d8d1-4015-48d9-8a73-75f6647b8836.gif?auto=format",
       "topics": [
         "Open Source",
         "Fintech",
         "Money"
+      ]
+    },
+    {
+      "name": "AI Toolbox 3.0",
+      "desc": "Search, organize and export every AI chat in one place",
+      "votes": 423,
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
+      "topics": [
+        "Chrome Extensions",
+        "Productivity",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -224,18 +236,6 @@
         "Productivity",
         "Artificial Intelligence",
         "No-Code"
-      ]
-    },
-    {
-      "name": "Omniwork",
-      "desc": "The Creative Agent OS, create better with desktop AI agents",
-      "votes": 420,
-      "url": "https://www.producthunt.com/products/omniwork-2/launches/omniwork-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/ca9f8039-1afd-45fb-8410-e43e4f63d929.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Social media marketing"
       ]
     }
   ]
