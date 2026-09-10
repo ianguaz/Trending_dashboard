@@ -4,106 +4,130 @@
     {
       "name": "ayghri/i-have-adhd",
       "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": "33967",
-      "today": "4,624 stars today",
+      "stars": "36672",
+      "today": "4,650 stars today",
       "language": "Python",
       "url": "https://github.com/ayghri/i-have-adhd"
     },
     {
-      "name": "Tencent/teamai-cli",
-      "desc": "Make Every Team AI Native",
-      "stars": "2868",
-      "today": "563 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Tencent/teamai-cli"
+      "name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "22304",
+      "today": "1,588 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
     },
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "283911",
-      "today": "690 stars today",
+      "stars": "284399",
+      "today": "688 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
-      "name": "pascalorg/editor",
-      "desc": "Create and share 3D architectural projects.",
-      "stars": "22821",
-      "today": "171 stars today",
+      "name": "alsk1992/CloddsBot",
+      "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "stars": "1337",
+      "today": "299 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/pascalorg/editor"
+      "url": "https://github.com/alsk1992/CloddsBot"
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "desc": "A library of agent skills for CAD, CAE and CAM",
-      "stars": "14964",
-      "today": "97 stars today",
-      "language": "Python",
-      "url": "https://github.com/earthtojake/text-to-cad"
+      "name": "Tencent/teamai-cli",
+      "desc": "Make Every Team AI Native",
+      "stars": "3512",
+      "today": "556 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/Tencent/teamai-cli"
     },
     {
-      "name": "cathrynlavery/diagram-design",
-      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": "36380",
-      "today": "2,286 stars today",
-      "language": "HTML",
-      "url": "https://github.com/cathrynlavery/diagram-design"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": "103801",
-      "today": "367 stars today",
-      "language": "Python",
-      "url": "https://github.com/TauricResearch/TradingAgents"
+      "name": "AlexsJones/llmfit",
+      "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": "35517",
+      "today": "247 stars today",
+      "language": "Rust",
+      "url": "https://github.com/AlexsJones/llmfit"
     },
     {
       "name": "liquidslr/system-design-notes",
       "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "stars": "17861",
-      "today": "910 stars today",
+      "stars": "18436",
+      "today": "1,397 stars today",
       "language": "",
       "url": "https://github.com/liquidslr/system-design-notes"
     },
     {
-      "name": "openai/plugins",
-      "desc": "OpenAI Plugins",
-      "stars": "6131",
-      "today": "505 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/openai/plugins"
+      "name": "cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "37292",
+      "today": "2,249 stars today",
+      "language": "HTML",
+      "url": "https://github.com/cathrynlavery/diagram-design"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": "29937",
-      "today": "612 stars today",
+      "desc": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "stars": "30608",
+      "today": "705 stars today",
       "language": "JavaScript",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "53565",
-      "today": "382 stars today",
-      "language": "Python",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      "name": "armory3d/armorpaint",
+      "desc": "Graphics Creation Tools",
+      "stars": "4255",
+      "today": "73 stars today",
+      "language": "C",
+      "url": "https://github.com/armory3d/armorpaint"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "stars": "63836",
+      "today": "591 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": "27295",
+      "today": "157 stars today",
+      "language": "C",
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": "34945",
+      "today": "806 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "stars": "17832",
+      "today": "94 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/nashsu/llm_wiki"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "desc": "The open agent skills tool - npx skills",
+      "stars": "30898",
+      "today": "125 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/vercel-labs/skills"
     },
     {
       "name": "vastsa/PI-Desktop",
       "desc": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": "1583",
-      "today": "393 stars today",
+      "stars": "2072",
+      "today": "417 stars today",
       "language": "TypeScript",
       "url": "https://github.com/vastsa/PI-Desktop"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "255009",
-      "today": "1,151 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
     }
   ]
 }
