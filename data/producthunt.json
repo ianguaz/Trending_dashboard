@@ -4,7 +4,7 @@
     {
       "name": "Clipto MCP",
       "desc": "Let agents source clips from terabytes of your local video",
-      "votes": 653,
+      "votes": 654,
       "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png?auto=format",
       "topics": [
@@ -26,50 +26,26 @@
       ]
     },
     {
-      "name": "Dograh",
-      "desc": "The open source VAPI alternative",
-      "votes": 597,
-      "url": "https://www.producthunt.com/products/dograh/launches/dograh-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/eab1a163-fbfe-4b8b-9356-f94e45feca98.png?auto=format",
-      "topics": [
-        "Open Source",
-        "Developer Tools",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Grok Bot",
-      "desc": "AI teammates that you can give real work to",
-      "votes": 552,
-      "url": "https://www.producthunt.com/products/grok/launches/grok-bot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/072140a8-0a6b-4d48-9aaf-62def8c0697d.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Task Management",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Meridian",
-      "desc": "Don't let your work go unnoticed. Get promoted!",
-      "votes": 536,
-      "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Open Source",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "Kilo Code for JetBrains",
       "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 534,
+      "votes": 535,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
       "topics": [
         "Open Source",
         "Software Engineering",
+        "Developer Tools"
+      ]
+    },
+    {
+      "name": "Meridian",
+      "desc": "Don't let your work go unnoticed. Get promoted!",
+      "votes": 535,
+      "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Open Source",
         "Developer Tools"
       ]
     },
@@ -100,7 +76,7 @@
     {
       "name": "Mastra Factory",
       "desc": "From issue to production, run by agents.",
-      "votes": 499,
+      "votes": 506,
       "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
       "topics": [
@@ -112,7 +88,7 @@
     {
       "name": "Monid",
       "desc": "OpenRouter for agent tools",
-      "votes": 495,
+      "votes": 496,
       "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
       "topics": [
@@ -124,7 +100,7 @@
     {
       "name": "GPT-6 Astra",
       "desc": "OpenAI's most capable model for end-to-end work",
-      "votes": 493,
+      "votes": 494,
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
       "topics": [
@@ -154,6 +130,18 @@
       "topics": [
         "Developer Tools",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Anysite.io",
+      "desc": "Build and enrich B2B lists by chatting to your agent",
+      "votes": 450,
+      "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Developer Tools"
       ]
     },
     {
@@ -205,25 +193,13 @@
     {
       "name": "Computable GPU Index (CGI)",
       "desc": "The first open-source price index for GPU compute",
-      "votes": 438,
+      "votes": 439,
       "url": "https://www.producthunt.com/products/computable-gpu-index-cgi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0470d8d1-4015-48d9-8a73-75f6647b8836.gif?auto=format",
       "topics": [
         "Open Source",
         "Fintech",
         "Money"
-      ]
-    },
-    {
-      "name": "AI Toolbox 3.0",
-      "desc": "Search, organize and export every AI chat in one place",
-      "votes": 438,
-      "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
-      "topics": [
-        "Chrome Extensions",
-        "Productivity",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -235,6 +211,30 @@
       "topics": [
         "Chrome Extensions",
         "Productivity",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "AI Toolbox 3.0",
+      "desc": "Search, organize and export every AI chat in one place",
+      "votes": 435,
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
+      "topics": [
+        "Chrome Extensions",
+        "Productivity",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "akta.pro",
+      "desc": "Private company data and signals API for the agent economy",
+      "votes": 434,
+      "url": "https://www.producthunt.com/products/akta-pro/launches/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d096a90c-a4f0-414d-992a-d1803381c3f8.x-icon?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
         "Artificial Intelligence"
       ]
     }
