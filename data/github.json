@@ -1,42 +1,42 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "items": [
     {
       "name": "bilawalsidhu/gods-eye-view",
       "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": "28077",
-      "today": "3,680 stars today",
+      "stars": "29182",
+      "today": "2,265 stars today",
       "language": "JavaScript",
       "url": "https://github.com/bilawalsidhu/gods-eye-view"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "stars": "1562",
-      "today": "152 stars today",
+      "stars": "1698",
+      "today": "505 stars today",
       "language": "TypeScript",
       "url": "https://github.com/melgarafael/DeskcommCRM"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "desc": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "stars": "64997",
-      "today": "216 stars today",
+      "stars": "65244",
+      "today": "357 stars today",
       "language": "JavaScript",
       "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
       "name": "nab138/iloader",
       "desc": "User friendly sideloader",
-      "stars": "2994",
-      "today": "50 stars today",
+      "stars": "3042",
+      "today": "209 stars today",
       "language": "TypeScript",
       "url": "https://github.com/nab138/iloader"
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
       "desc": "",
-      "stars": "33162",
+      "stars": "33187",
       "today": "52 stars today",
       "language": "Batchfile",
       "url": "https://github.com/Flowseal/zapret-discord-youtube"
@@ -44,39 +44,39 @@
     {
       "name": "jihe520/MathModelAgent",
       "desc": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "stars": "4993",
-      "today": "129 stars today",
+      "stars": "5089",
+      "today": "264 stars today",
       "language": "Python",
       "url": "https://github.com/jihe520/MathModelAgent"
     },
     {
       "name": "Sonarr/Sonarr",
       "desc": "Smart PVR for newsgroup and bittorrent users.",
-      "stars": "15832",
-      "today": "191 stars today",
+      "stars": "15880",
+      "today": "228 stars today",
       "language": "C#",
       "url": "https://github.com/Sonarr/Sonarr"
     },
     {
       "name": "alsk1992/CloddsBot",
       "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "stars": "2312",
-      "today": "626 stars today",
+      "stars": "2408",
+      "today": "377 stars today",
       "language": "TypeScript",
       "url": "https://github.com/alsk1992/CloddsBot"
     },
     {
       "name": "yuliskov/SmartTube",
       "desc": "Browse media content with your own rules on Android TV",
-      "stars": "33075",
-      "today": "247 stars today",
+      "stars": "33147",
+      "today": "160 stars today",
       "language": "Java",
       "url": "https://github.com/yuliskov/SmartTube"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "stars": "137343",
+      "stars": "137516",
       "today": "237 stars today",
       "language": "Python",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
@@ -84,23 +84,23 @@
     {
       "name": "p1neappleXpress/OpenFlux",
       "desc": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "stars": "1284",
-      "today": "198 stars today",
+      "stars": "1351",
+      "today": "355 stars today",
       "language": "Go",
       "url": "https://github.com/p1neappleXpress/OpenFlux"
     },
     {
       "name": "armory3d/armorpaint",
       "desc": "Graphics Creation Tools",
-      "stars": "4826",
-      "today": "350 stars today",
+      "stars": "4875",
+      "today": "237 stars today",
       "language": "C",
       "url": "https://github.com/armory3d/armorpaint"
     },
     {
       "name": "SnailSploit/Claude-Red",
       "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "stars": "3343",
+      "stars": "3493",
       "today": "99 stars today",
       "language": "Python",
       "url": "https://github.com/SnailSploit/Claude-Red"
@@ -108,7 +108,7 @@
     {
       "name": "multimodal-art-projection/YuE",
       "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "stars": "7018",
+      "stars": "7183",
       "today": "193 stars today",
       "language": "Python",
       "url": "https://github.com/multimodal-art-projection/YuE"
@@ -116,16 +116,16 @@
     {
       "name": "max-sixty/worktrunk",
       "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "stars": "7017",
-      "today": "44 stars today",
+      "stars": "7136",
+      "today": "137 stars today",
       "language": "Rust",
       "url": "https://github.com/max-sixty/worktrunk"
     },
     {
       "name": "vxcontrol/pentagi",
       "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": "23077",
-      "today": "250 stars today",
+      "stars": "23278",
+      "today": "193 stars today",
       "language": "Go",
       "url": "https://github.com/vxcontrol/pentagi"
     }
