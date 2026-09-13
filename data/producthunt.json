@@ -26,26 +26,26 @@
       ]
     },
     {
-      "name": "Meridian",
-      "desc": "Don't let your work go unnoticed. Get promoted!",
-      "votes": 537,
-      "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Open Source",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "Kilo Code for JetBrains",
       "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 536,
+      "votes": 537,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
       "topics": [
         "Open Source",
         "Software Engineering",
+        "Developer Tools"
+      ]
+    },
+    {
+      "name": "Meridian",
+      "desc": "Don't let your work go unnoticed. Get promoted!",
+      "votes": 536,
+      "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Open Source",
         "Developer Tools"
       ]
     },
@@ -62,21 +62,9 @@
       ]
     },
     {
-      "name": "Switch",
-      "desc": "Bring any AI agent into Slack, Teams & Discord",
-      "votes": 519,
-      "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
-      "topics": [
-        "Open Source",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Mastra Factory",
       "desc": "From issue to production, run by agents.",
-      "votes": 517,
+      "votes": 527,
       "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
       "topics": [
@@ -86,9 +74,21 @@
       ]
     },
     {
+      "name": "Switch",
+      "desc": "Bring any AI agent into Slack, Teams & Discord",
+      "votes": 522,
+      "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Monid",
       "desc": "OpenRouter for agent tools",
-      "votes": 497,
+      "votes": 498,
       "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
       "topics": [
@@ -112,7 +112,7 @@
     {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 470,
+      "votes": 471,
       "url": "https://www.producthunt.com/products/paymentkit/launches/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "Anysite.io",
       "desc": "Build and enrich B2B lists by chatting to your agent",
-      "votes": 457,
+      "votes": 466,
       "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
       "topics": [
@@ -142,30 +142,6 @@
       "topics": [
         "Developer Tools",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Kane CLI",
-      "desc": "Natural language browser & mobile app tests from terminal",
-      "votes": 447,
-      "url": "https://www.producthunt.com/products/lambdatest/launches/kane-cli-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/be6747a8-c252-4bd1-9c60-a7986d164f71.gif?auto=format",
-      "topics": [
-        "SaaS",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Ito",
-      "desc": "AI code review that runs your code",
-      "votes": 444,
-      "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code/launches/ito-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/477fa9cf-bd31-4c46-8944-3888ffac3925.svg?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence",
-        "GitHub"
       ]
     },
     {
@@ -215,6 +191,18 @@
       ]
     },
     {
+      "name": "akta.pro",
+      "desc": "Private company data and signals API for the agent economy",
+      "votes": 435,
+      "url": "https://www.producthunt.com/products/akta-pro/launches/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d096a90c-a4f0-414d-992a-d1803381c3f8.x-icon?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Widgo",
       "desc": "AI Sales rep for your website visitors",
       "votes": 435,
@@ -227,15 +215,27 @@
       ]
     },
     {
-      "name": "akta.pro",
-      "desc": "Private company data and signals API for the agent economy",
+      "name": "AI Toolbox 3.0",
+      "desc": "Search, organize and export every AI chat in one place",
       "votes": 434,
-      "url": "https://www.producthunt.com/products/akta-pro/launches/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/d096a90c-a4f0-414d-992a-d1803381c3f8.x-icon?auto=format",
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
       "topics": [
-        "API",
-        "Developer Tools",
+        "Chrome Extensions",
+        "Productivity",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Taku AI",
+      "desc": "Borrow the best AI setups and make them yours.",
+      "votes": 424,
+      "url": "https://www.producthunt.com/products/taku-ai/launches/taku-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/b9270f28-26bd-404d-be41-06c76c26438f.vnd.microsoft.icon?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "No-Code"
       ]
     }
   ]
