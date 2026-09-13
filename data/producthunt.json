@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "items": [
     {
       "name": "Clipto MCP",
@@ -28,7 +28,7 @@
     {
       "name": "Kilo Code for JetBrains",
       "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 537,
+      "votes": 538,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
       "topics": [
@@ -50,6 +50,18 @@
       ]
     },
     {
+      "name": "Mastra Factory",
+      "desc": "From issue to production, run by agents.",
+      "votes": 528,
+      "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "x1",
       "desc": "Lovable for iPhone apps go from idea to App Store",
       "votes": 528,
@@ -62,21 +74,9 @@
       ]
     },
     {
-      "name": "Mastra Factory",
-      "desc": "From issue to production, run by agents.",
-      "votes": 527,
-      "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
-      "topics": [
-        "Open Source",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Switch",
       "desc": "Bring any AI agent into Slack, Teams & Discord",
-      "votes": 522,
+      "votes": 521,
       "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
       "topics": [
@@ -86,21 +86,9 @@
       ]
     },
     {
-      "name": "Monid",
-      "desc": "OpenRouter for agent tools",
-      "votes": 498,
-      "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
-      "topics": [
-        "API",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "GPT-6 Astra",
       "desc": "OpenAI's most capable model for end-to-end work",
-      "votes": 494,
+      "votes": 505,
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
       "topics": [
@@ -110,9 +98,21 @@
       ]
     },
     {
+      "name": "Monid",
+      "desc": "OpenRouter for agent tools",
+      "votes": 503,
+      "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 471,
+      "votes": 472,
       "url": "https://www.producthunt.com/products/paymentkit/launches/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "Anysite.io",
       "desc": "Build and enrich B2B lists by chatting to your agent",
-      "votes": 466,
+      "votes": 467,
       "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
       "topics": [
@@ -147,11 +147,23 @@
     {
       "name": "Skydive",
       "desc": "Build cloud agents that work across your tools",
-      "votes": 441,
+      "votes": 442,
       "url": "https://www.producthunt.com/products/skydive/launches/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c20d7d46-fdf8-4764-9105-ef07d8e034ef.png?auto=format",
       "topics": [
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Computable GPU Index (CGI)",
+      "desc": "The first open-source price index for GPU compute",
+      "votes": 440,
+      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/0470d8d1-4015-48d9-8a73-75f6647b8836.gif?auto=format",
+      "topics": [
+        "Open Source",
+        "Fintech",
+        "Money"
       ]
     },
     {
@@ -164,18 +176,6 @@
         "Marketing",
         "Developer Tools",
         "GitHub"
-      ]
-    },
-    {
-      "name": "Computable GPU Index (CGI)",
-      "desc": "The first open-source price index for GPU compute",
-      "votes": 439,
-      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/0470d8d1-4015-48d9-8a73-75f6647b8836.gif?auto=format",
-      "topics": [
-        "Open Source",
-        "Fintech",
-        "Money"
       ]
     },
     {
