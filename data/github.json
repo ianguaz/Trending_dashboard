@@ -4,154 +4,162 @@
     {
       "name": "JustVugg/colibri",
       "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "stars": "29390",
-      "today": "960 stars today",
+      "stars": "31322",
+      "today": "2,233 stars today",
       "language": "C",
       "url": "https://github.com/JustVugg/colibri"
     },
     {
-      "name": "ever-co/ever-gauzy",
-      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "stars": "4849",
-      "today": "58 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/ever-co/ever-gauzy"
-    },
-    {
-      "name": "bilawalsidhu/gods-eye-view",
-      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "stars": "31464",
-      "today": "2,898 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view"
-    },
-    {
-      "name": "tech-leads-club/agent-skills",
-      "desc": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "stars": "5540",
-      "today": "215 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/tech-leads-club/agent-skills"
-    },
-    {
-      "name": "melgarafael/DeskcommCRM",
-      "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "stars": "2102",
-      "today": "444 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/melgarafael/DeskcommCRM"
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": "58269",
-      "today": "383 stars today",
-      "language": "Python",
-      "url": "https://github.com/calesthio/OpenMontage"
-    },
-    {
-      "name": "asgeirtj/system_prompts_leaks",
-      "desc": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "stars": "65881",
-      "today": "727 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks"
-    },
-    {
-      "name": "vxcontrol/pentagi",
-      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": "23835",
-      "today": "613 stars today",
-      "language": "Go",
-      "url": "https://github.com/vxcontrol/pentagi"
-    },
-    {
-      "name": "multimodal-art-projection/YuE",
-      "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "stars": "7640",
-      "today": "500 stars today",
-      "language": "Python",
-      "url": "https://github.com/multimodal-art-projection/YuE"
-    },
-    {
-      "name": "yuliskov/SmartTube",
-      "desc": "Browse media content with your own rules on Android TV",
-      "stars": "33387",
-      "today": "238 stars today",
-      "language": "Java",
-      "url": "https://github.com/yuliskov/SmartTube"
-    },
-    {
-      "name": "alphaXiv/OpenResearch",
-      "desc": "Run parallel research agents with any model",
-      "stars": "1942",
-      "today": "304 stars today",
-      "language": "Rust",
-      "url": "https://github.com/alphaXiv/OpenResearch"
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": "26206",
-      "today": "2,546 stars today",
-      "language": "Python",
-      "url": "https://github.com/debpalash/VoiceStudio"
-    },
-    {
-      "name": "SnailSploit/Claude-Red",
-      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "stars": "3998",
-      "today": "507 stars today",
-      "language": "Python",
-      "url": "https://github.com/SnailSploit/Claude-Red"
-    },
-    {
       "name": "alibaba/open-code-review",
       "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": "23177",
-      "today": "438 stars today",
+      "stars": "24809",
+      "today": "1,796 stars today",
       "language": "Go",
       "url": "https://github.com/alibaba/open-code-review"
     },
     {
-      "name": "jihe520/MathModelAgent",
-      "desc": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "stars": "5317",
-      "today": "268 stars today",
+      "name": "multimodal-art-projection/YuE",
+      "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": "8141",
+      "today": "578 stars today",
       "language": "Python",
-      "url": "https://github.com/jihe520/MathModelAgent"
+      "url": "https://github.com/multimodal-art-projection/YuE"
     },
     {
-      "name": "tonhowtf/omniget",
-      "desc": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "stars": "11416",
-      "today": "547 stars today",
+      "name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "28474",
+      "today": "2,774 stars today",
+      "language": "Python",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars": "72919",
+      "today": "524 stars today",
+      "language": "Python",
+      "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "80902",
+      "today": "640 stars today",
+      "language": "Python",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "stars": "66533",
+      "today": "770 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "name": "rlaope/oh-my-hermes",
+      "desc": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "stars": "1870",
+      "today": "52 stars today",
+      "language": "Python",
+      "url": "https://github.com/rlaope/oh-my-hermes"
+    },
+    {
+      "name": "localsend/localsend",
+      "desc": "An open-source cross-platform alternative to AirDrop",
+      "stars": "91064",
+      "today": "213 stars today",
+      "language": "Dart",
+      "url": "https://github.com/localsend/localsend"
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "stars": "67442",
+      "today": "110 stars today",
       "language": "Rust",
-      "url": "https://github.com/tonhowtf/omniget"
+      "url": "https://github.com/dani-garcia/vaultwarden"
     },
     {
-      "name": "jiji262/douyin-downloader",
-      "desc": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
-      "stars": "11305",
-      "today": "473 stars today",
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "105774",
+      "today": "756 stars today",
       "language": "Python",
-      "url": "https://github.com/jiji262/douyin-downloader"
+      "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
-      "name": "Swordfish90/cool-retro-term",
-      "desc": "A good looking terminal emulator which mimics the old cathode display...",
-      "stars": "26177",
-      "today": "98 stars today",
-      "language": "QML",
-      "url": "https://github.com/Swordfish90/cool-retro-term"
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": "93684",
+      "today": "370 stars today",
+      "language": "Rust",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "desc": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "stars": "5929",
+      "today": "506 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": "37246",
+      "today": "204 stars today",
+      "language": "Python",
+      "url": "https://github.com/OpenBMB/VoxCPM"
     },
     {
       "name": "huggingface/transformers",
       "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "stars": "165406",
-      "today": "102 stars today",
+      "stars": "165837",
+      "today": "528 stars today",
       "language": "Python",
       "url": "https://github.com/huggingface/transformers"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars": "5739",
+      "today": "1,095 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "stars": "36774",
+      "today": "26 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars": "8196",
+      "today": "279 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/reconurge/flowsint"
+    },
+    {
+      "name": "peetzweg/opendisplay",
+      "desc": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "stars": "3398",
+      "today": "314 stars today",
+      "language": "Swift",
+      "url": "https://github.com/peetzweg/opendisplay"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": "4513",
+      "today": "606 stars today",
+      "language": "Python",
+      "url": "https://github.com/SnailSploit/Claude-Red"
     }
   ]
 }
