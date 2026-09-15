@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "items": [
     {
       "name": "Clipto MCP",
@@ -16,7 +16,7 @@
     {
       "name": "Astute",
       "desc": "Automate your B2B brand going viral, with new media creators",
-      "votes": 601,
+      "votes": 602,
       "url": "https://www.producthunt.com/products/astute-2/launches/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "GPT-6 Astra",
       "desc": "OpenAI's most capable model for end-to-end work",
-      "votes": 511,
+      "votes": 510,
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 477,
+      "votes": 488,
       "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -136,7 +136,7 @@
     {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 472,
+      "votes": 471,
       "url": "https://www.producthunt.com/products/paymentkit/launches/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
@@ -148,7 +148,7 @@
     {
       "name": "Clara AI SDR",
       "desc": "Turn website visitors into qualified pipeline",
-      "votes": 458,
+      "votes": 459,
       "url": "https://www.producthunt.com/products/clara-ai-sdr/launches/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format",
       "topics": [
