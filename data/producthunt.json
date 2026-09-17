@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "items": [
     {
       "name": "Clipto MCP",
@@ -16,7 +16,7 @@
     {
       "name": "Astute",
       "desc": "Automate your B2B brand going viral, with new media creators",
-      "votes": 605,
+      "votes": 606,
       "url": "https://www.producthunt.com/products/astute-2/launches/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format",
       "topics": [
@@ -26,21 +26,9 @@
       ]
     },
     {
-      "name": "Mastra Factory",
-      "desc": "From issue to production, run by agents.",
-      "votes": 553,
-      "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
-      "topics": [
-        "Open Source",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 552,
+      "votes": 557,
       "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
@@ -50,9 +38,21 @@
       ]
     },
     {
+      "name": "Mastra Factory",
+      "desc": "From issue to production, run by agents.",
+      "votes": 554,
+      "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Kilo Code for JetBrains",
       "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 539,
+      "votes": 537,
       "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Switch",
       "desc": "Bring any AI agent into Slack, Teams & Discord",
-      "votes": 534,
+      "votes": 537,
       "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "GPT-6 Astra",
       "desc": "OpenAI's most capable model for end-to-end work",
-      "votes": 512,
+      "votes": 514,
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "Voiskey",
       "desc": "AI voice typing that sounds right in every app",
-      "votes": 501,
+      "votes": 502,
       "url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
       "topics": [
@@ -136,7 +136,7 @@
     {
       "name": "Anysite.io",
       "desc": "Build and enrich B2B lists by chatting to your agent",
-      "votes": 499,
+      "votes": 500,
       "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
       "topics": [
@@ -148,7 +148,7 @@
     {
       "name": "Kilo Code for iOS and Android",
       "desc": "Start coding agents, control sessions, review PRs. Anywhere.",
-      "votes": 485,
+      "votes": 487,
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/96f3101a-40e9-430c-9e1b-5a2b9ab9b510.gif?auto=format",
       "topics": [
@@ -160,7 +160,7 @@
     {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 471,
+      "votes": 472,
       "url": "https://www.producthunt.com/products/paymentkit/launches/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
@@ -181,15 +181,15 @@
       ]
     },
     {
-      "name": "Widgo",
-      "desc": "AI Sales rep for your website visitors",
-      "votes": 447,
-      "url": "https://www.producthunt.com/products/widgo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/0d929cd8-9482-43e8-b0d9-abf661d0a57b.png?auto=format",
+      "name": "CREEM 2.0",
+      "desc": "Build with AI. Sell and Grow with CREEM.",
+      "votes": 452,
+      "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
-        "Sales",
-        "SaaS",
-        "Tech"
+        "Fintech",
+        "Payments",
+        "Marketing"
       ]
     },
     {
@@ -205,15 +205,15 @@
       ]
     },
     {
-      "name": "Browzer",
-      "desc": "Put your technical content on autopilot",
-      "votes": 441,
-      "url": "https://www.producthunt.com/products/browzer/launches/browzer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/ed0a1474-0106-47fd-911c-c1cac2fb0bb6.png?auto=format",
+      "name": "Widgo",
+      "desc": "AI Sales rep for your website visitors",
+      "votes": 445,
+      "url": "https://www.producthunt.com/products/widgo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/0d929cd8-9482-43e8-b0d9-abf661d0a57b.png?auto=format",
       "topics": [
-        "Marketing",
-        "Developer Tools",
-        "GitHub"
+        "Sales",
+        "SaaS",
+        "Tech"
       ]
     },
     {
@@ -229,13 +229,15 @@
       ]
     },
     {
-      "name": "Skydive",
-      "desc": "Build cloud agents that work across your tools",
-      "votes": 439,
-      "url": "https://www.producthunt.com/products/skydive/launches/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c20d7d46-fdf8-4764-9105-ef07d8e034ef.png?auto=format",
+      "name": "Browzer",
+      "desc": "Put your technical content on autopilot",
+      "votes": 440,
+      "url": "https://www.producthunt.com/products/browzer/launches/browzer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/ed0a1474-0106-47fd-911c-c1cac2fb0bb6.png?auto=format",
       "topics": [
-        "Artificial Intelligence"
+        "Marketing",
+        "Developer Tools",
+        "GitHub"
       ]
     }
   ]
