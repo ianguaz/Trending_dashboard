@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "items": [
     {
       "name": "CREEM 2.0",
@@ -14,25 +14,25 @@
       ]
     },
     {
-      "name": "Mastra Factory",
-      "desc": "From issue to production, run by agents.",
-      "votes": 565,
-      "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
+      "name": "tiun.",
+      "desc": "Auth, billing, and payments for AI builders",
+      "votes": 567,
+      "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
-        "Open Source",
+        "Payments",
         "Developer Tools",
         "Artificial Intelligence"
       ]
     },
     {
-      "name": "tiun.",
-      "desc": "Auth, billing, and payments for AI builders",
-      "votes": 562,
-      "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
+      "name": "Mastra Factory",
+      "desc": "From issue to production, run by agents.",
+      "votes": 564,
+      "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
       "topics": [
-        "Payments",
+        "Open Source",
         "Developer Tools",
         "Artificial Intelligence"
       ]
@@ -64,7 +64,7 @@
     {
       "name": "x1",
       "desc": "Lovable for iPhone apps go from idea to App Store",
-      "votes": 532,
+      "votes": 531,
       "url": "https://www.producthunt.com/products/x1-2/launches/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format",
       "topics": [
@@ -74,9 +74,21 @@
       ]
     },
     {
+      "name": "Ami AI",
+      "desc": "Lovable for getting customers",
+      "votes": 519,
+      "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Voiskey",
       "desc": "AI voice typing that sounds right in every app",
-      "votes": 521,
+      "votes": 519,
       "url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
       "topics": [
@@ -100,25 +112,13 @@
     {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 518,
+      "votes": 517,
       "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
         "Sales",
         "Marketing",
         "Marketing automation"
-      ]
-    },
-    {
-      "name": "Ami AI",
-      "desc": "Lovable for getting customers",
-      "votes": 507,
-      "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -136,7 +136,7 @@
     {
       "name": "Anysite.io",
       "desc": "Build and enrich B2B lists by chatting to your agent",
-      "votes": 500,
+      "votes": 501,
       "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
       "topics": [
@@ -158,9 +158,21 @@
       ]
     },
     {
+      "name": "AINA",
+      "desc": "Find your job search blind spots with an AI coach",
+      "votes": 471,
+      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Career"
+      ]
+    },
+    {
       "name": "PaymentKit",
       "desc": "Billing that survives a processor shutdown",
-      "votes": 472,
+      "votes": 471,
       "url": "https://www.producthunt.com/products/paymentkit/launches/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
       "topics": [
@@ -170,15 +182,15 @@
       ]
     },
     {
-      "name": "AINA",
-      "desc": "Find your job search blind spots with an AI coach",
-      "votes": 456,
-      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
+      "name": "ProductBridge",
+      "desc": "AI-native customer support and feedback agent",
+      "votes": 451,
+      "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
       "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Career"
+        "Customer Success",
+        "Customer Communication",
+        "OpenAI Day"
       ]
     },
     {
@@ -196,7 +208,7 @@
     {
       "name": "AI Toolbox 3.0",
       "desc": "Search, organize and export every AI chat in one place",
-      "votes": 447,
+      "votes": 446,
       "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
       "topics": [
@@ -225,18 +237,6 @@
       "thumbnail": "https://ph-files.imgix.net/c20d7d46-fdf8-4764-9105-ef07d8e034ef.png?auto=format",
       "topics": [
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Browzer",
-      "desc": "Put your technical content on autopilot",
-      "votes": 439,
-      "url": "https://www.producthunt.com/products/browzer/launches/browzer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/ed0a1474-0106-47fd-911c-c1cac2fb0bb6.png?auto=format",
-      "topics": [
-        "Marketing",
-        "Developer Tools",
-        "GitHub"
       ]
     }
   ]
