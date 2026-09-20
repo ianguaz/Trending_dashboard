@@ -1,28 +1,28 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "items": [
-    {
-      "name": "CREEM 2.0",
-      "desc": "Sell and grow your AI built products",
-      "votes": 575,
-      "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
-      "topics": [
-        "Fintech",
-        "Payments",
-        "Marketing"
-      ]
-    },
     {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 572,
+      "votes": 578,
       "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
         "Payments",
         "Developer Tools",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "CREEM 2.0",
+      "desc": "Sell and grow your AI built products",
+      "votes": 577,
+      "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
+      "topics": [
+        "Fintech",
+        "Payments",
+        "Marketing"
       ]
     },
     {
@@ -50,6 +50,18 @@
       ]
     },
     {
+      "name": "Ami AI",
+      "desc": "Lovable for getting customers",
+      "votes": 537,
+      "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Kilo Code for JetBrains",
       "desc": "Fully native, open-source coding agent built for JetBrains",
       "votes": 537,
@@ -62,21 +74,9 @@
       ]
     },
     {
-      "name": "Ami AI",
-      "desc": "Lovable for getting customers",
-      "votes": 532,
-      "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "x1",
       "desc": "Lovable for iPhone apps go from idea to App Store",
-      "votes": 531,
+      "votes": 533,
       "url": "https://www.producthunt.com/products/x1-2/launches/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 520,
+      "votes": 523,
       "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
