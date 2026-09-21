@@ -2,108 +2,100 @@
   "date": "2026-09-21",
   "items": [
     {
-      "name": "affaan-m/ECC",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "263528",
-      "today": "837 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
       "name": "BuilderIO/agent-native",
       "desc": "A framework for building agentic apps",
-      "stars": "5101",
-      "today": "89 stars today",
+      "stars": "5667",
+      "today": "607 stars today",
       "language": "TypeScript",
       "url": "https://github.com/BuilderIO/agent-native"
     },
     {
-      "name": "cloudflare/security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": "17784",
-      "today": "2,375 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/cloudflare/security-audit-skill"
-    },
-    {
       "name": "trycua/cua",
       "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": "25037",
-      "today": "1,012 stars today",
+      "stars": "25536",
+      "today": "609 stars today",
       "language": "HTML",
       "url": "https://github.com/trycua/cua"
     },
     {
-      "name": "anthropics/financial-services",
-      "desc": "",
-      "stars": "35285",
-      "today": "236 stars today",
-      "language": "Python",
-      "url": "https://github.com/anthropics/financial-services"
-    },
-    {
-      "name": "paperless-ngx/paperless-ngx",
-      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "stars": "45464",
-      "today": "32 stars today",
-      "language": "Python",
-      "url": "https://github.com/paperless-ngx/paperless-ngx"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": "147019",
-      "today": "415 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/anthropics/claude-code"
-    },
-    {
-      "name": "mihail911/modern-software-dev-assignments",
-      "desc": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "stars": "4497",
-      "today": "174 stars today",
-      "language": "Python",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments"
-    },
-    {
-      "name": "higgsfield-ai/higgsfield",
-      "desc": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "stars": "5266",
-      "today": "461 stars today",
-      "language": "Jupyter Notebook",
-      "url": "https://github.com/higgsfield-ai/higgsfield"
-    },
-    {
       "name": "Open-Dev-Society/OpenStock",
       "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": "16645",
-      "today": "752 stars today",
+      "stars": "17380",
+      "today": "843 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Open-Dev-Society/OpenStock"
     },
     {
+      "name": "akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": "7482",
+      "today": "217 stars today",
+      "language": "Rust",
+      "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
       "name": "coder/coder",
       "desc": "Secure environments for developers and their agents",
-      "stars": "15953",
-      "today": "382 stars today",
+      "stars": "16300",
+      "today": "461 stars today",
       "language": "Go",
       "url": "https://github.com/coder/coder"
     },
     {
-      "name": "vercel-labs/json-render",
-      "desc": "The Generative UI framework",
-      "stars": "17162",
-      "today": "332 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/vercel-labs/json-render"
+      "name": "anthropics/financial-services",
+      "desc": "",
+      "stars": "35665",
+      "today": "425 stars today",
+      "language": "Python",
+      "url": "https://github.com/anthropics/financial-services"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "97568",
-      "today": "729 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/addyosmani/agent-skills"
+      "name": "cloudflare/quiche",
+      "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "stars": "12209",
+      "today": "69 stars today",
+      "language": "Rust",
+      "url": "https://github.com/cloudflare/quiche"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": "13417",
+      "today": "177 stars today",
+      "language": "Python",
+      "url": "https://github.com/mvt-project/mvt"
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "desc": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "stars": "8062",
+      "today": "395 stars today",
+      "language": "Python",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "desc": "科技爱好者周刊，每周五发布",
+      "stars": "103830",
+      "today": "621 stars today",
+      "language": "",
+      "url": "https://github.com/ruanyf/weekly"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "stars": "37651",
+      "today": "360 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "desc": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "stars": "3620",
+      "today": "79 stars today",
+      "language": "Rust",
+      "url": "https://github.com/yynxxxxx/Codex-X"
     }
   ]
 }
