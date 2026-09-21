@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "items": [
     {
       "name": "BuilderIO/agent-native",
       "desc": "A framework for building agentic apps",
-      "stars": "5667",
+      "stars": "5801",
       "today": "607 stars today",
       "language": "TypeScript",
       "url": "https://github.com/BuilderIO/agent-native"
@@ -12,7 +12,7 @@
     {
       "name": "trycua/cua",
       "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": "25536",
+      "stars": "25638",
       "today": "609 stars today",
       "language": "HTML",
       "url": "https://github.com/trycua/cua"
@@ -20,7 +20,7 @@
     {
       "name": "Open-Dev-Society/OpenStock",
       "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "stars": "17380",
+      "stars": "17581",
       "today": "843 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Open-Dev-Society/OpenStock"
@@ -28,7 +28,7 @@
     {
       "name": "akitaonrails/ai-memory",
       "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": "7482",
+      "stars": "7603",
       "today": "217 stars today",
       "language": "Rust",
       "url": "https://github.com/akitaonrails/ai-memory"
@@ -36,7 +36,7 @@
     {
       "name": "coder/coder",
       "desc": "Secure environments for developers and their agents",
-      "stars": "16300",
+      "stars": "16375",
       "today": "461 stars today",
       "language": "Go",
       "url": "https://github.com/coder/coder"
@@ -44,7 +44,7 @@
     {
       "name": "anthropics/financial-services",
       "desc": "",
-      "stars": "35665",
+      "stars": "35756",
       "today": "425 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/financial-services"
@@ -52,7 +52,7 @@
     {
       "name": "cloudflare/quiche",
       "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "stars": "12209",
+      "stars": "12303",
       "today": "69 stars today",
       "language": "Rust",
       "url": "https://github.com/cloudflare/quiche"
@@ -60,7 +60,7 @@
     {
       "name": "mvt-project/mvt",
       "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "stars": "13417",
+      "stars": "13520",
       "today": "177 stars today",
       "language": "Python",
       "url": "https://github.com/mvt-project/mvt"
@@ -68,23 +68,23 @@
     {
       "name": "zhouxiaoka/autoclip",
       "desc": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-      "stars": "8062",
-      "today": "395 stars today",
+      "stars": "8162",
+      "today": "266 stars today",
       "language": "Python",
       "url": "https://github.com/zhouxiaoka/autoclip"
     },
     {
       "name": "ruanyf/weekly",
       "desc": "科技爱好者周刊，每周五发布",
-      "stars": "103830",
-      "today": "621 stars today",
+      "stars": "103885",
+      "today": "221 stars today",
       "language": "",
       "url": "https://github.com/ruanyf/weekly"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
       "desc": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "stars": "37651",
+      "stars": "37783",
       "today": "360 stars today",
       "language": "TypeScript",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad"
@@ -92,7 +92,7 @@
     {
       "name": "yynxxxxx/Codex-X",
       "desc": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "stars": "3620",
+      "stars": "3649",
       "today": "79 stars today",
       "language": "Rust",
       "url": "https://github.com/yynxxxxx/Codex-X"
