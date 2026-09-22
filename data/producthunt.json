@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "items": [
     {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 599,
+      "votes": 601,
       "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "CREEM 2.0",
       "desc": "Sell and grow your AI built products",
-      "votes": 591,
+      "votes": 594,
       "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Ami AI",
       "desc": "Lovable for getting customers",
-      "votes": 577,
+      "votes": 586,
       "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
       "topics": [
@@ -52,25 +52,13 @@
     {
       "name": "Switch",
       "desc": "Bring any AI agent into Slack, Teams & Discord",
-      "votes": 545,
+      "votes": 544,
       "url": "https://www.producthunt.com/products/switch-11/launches/switch-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
       "topics": [
         "Open Source",
         "Developer Tools",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Voiskey",
-      "desc": "AI voice typing that sounds right in every app",
-      "votes": 533,
-      "url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Audio"
       ]
     },
     {
@@ -88,7 +76,7 @@
     {
       "name": "x1",
       "desc": "Lovable for iPhone apps go from idea to App Store",
-      "votes": 532,
+      "votes": 533,
       "url": "https://www.producthunt.com/products/x1-2/launches/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format",
       "topics": [
@@ -98,9 +86,21 @@
       ]
     },
     {
+      "name": "Voiskey",
+      "desc": "AI voice typing that sounds right in every app",
+      "votes": 533,
+      "url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Audio"
+      ]
+    },
+    {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 529,
+      "votes": 530,
       "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -117,6 +117,18 @@
       "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
       "topics": [
         "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Jev",
+      "desc": "Fast, structured AI decisions for software automation",
+      "votes": 506,
+      "url": "https://www.producthunt.com/products/jev-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
+      "topics": [
+        "API",
         "Developer Tools",
         "Artificial Intelligence"
       ]
@@ -158,39 +170,27 @@
       ]
     },
     {
-      "name": "AINA",
-      "desc": "Find your job search blind spots with an AI coach",
-      "votes": 489,
-      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Career"
-      ]
-    },
-    {
-      "name": "Jev",
-      "desc": "Fast, structured AI decisions for software automation",
-      "votes": 488,
-      "url": "https://www.producthunt.com/products/jev-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
-      "topics": [
-        "API",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
-      "votes": 481,
+      "votes": 492,
       "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
       "topics": [
         "iOS",
         "Artificial Intelligence",
         "Development"
+      ]
+    },
+    {
+      "name": "AINA",
+      "desc": "Find your job search blind spots with an AI coach",
+      "votes": 491,
+      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Career"
       ]
     },
     {
@@ -208,7 +208,7 @@
     {
       "name": "ProductBridge",
       "desc": "AI-native customer support and feedback agent",
-      "votes": 466,
+      "votes": 467,
       "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
       "topics": [
