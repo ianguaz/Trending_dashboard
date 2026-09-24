@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "items": [
     {
       "name": "Ami AI",
       "desc": "Lovable for getting customers",
-      "votes": 618,
+      "votes": 625,
       "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 606,
+      "votes": 610,
       "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "CREEM 2.0",
       "desc": "Sell and grow your AI built products",
-      "votes": 605,
+      "votes": 606,
       "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Mastra Factory",
       "desc": "From issue to production, run by agents.",
-      "votes": 573,
+      "votes": 574,
       "url": "https://www.producthunt.com/products/mastra/launches/mastra-factory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
       "topics": [
@@ -62,21 +62,9 @@
       ]
     },
     {
-      "name": "Clueso MCP",
-      "desc": "Create and edit videos by chatting",
-      "votes": 537,
-      "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "Animation",
-        "Video"
-      ]
-    },
-    {
       "name": "Voiskey",
       "desc": "AI voice typing that sounds right in every app",
-      "votes": 536,
+      "votes": 539,
       "url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
       "topics": [
@@ -86,9 +74,21 @@
       ]
     },
     {
+      "name": "Clueso MCP",
+      "desc": "Create and edit videos by chatting",
+      "votes": 538,
+      "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "Animation",
+        "Video"
+      ]
+    },
+    {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 534,
+      "votes": 535,
       "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -100,8 +100,8 @@
     {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 533,
-      "url": "https://www.producthunt.com/products/jev-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 535,
+      "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
         "API",
@@ -110,27 +110,27 @@
       ]
     },
     {
-      "name": "Kilo Code for JetBrains",
-      "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 533,
-      "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
-      "topics": [
-        "Open Source",
-        "Software Engineering",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "x1",
       "desc": "Lovable for iPhone apps go from idea to App Store",
-      "votes": 532,
+      "votes": 533,
       "url": "https://www.producthunt.com/products/x1-2/launches/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format",
       "topics": [
         "iOS",
         "No-Code",
         "Vibe coding"
+      ]
+    },
+    {
+      "name": "Kilo Code for JetBrains",
+      "desc": "Fully native, open-source coding agent built for JetBrains",
+      "votes": 532,
+      "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
+      "topics": [
+        "Open Source",
+        "Software Engineering",
+        "Developer Tools"
       ]
     },
     {
@@ -148,7 +148,7 @@
     {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
-      "votes": 505,
+      "votes": 504,
       "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
       "topics": [
@@ -172,7 +172,7 @@
     {
       "name": "Monid",
       "desc": "OpenRouter for agent tools",
-      "votes": 502,
+      "votes": 501,
       "url": "https://www.producthunt.com/products/monid/launches/monid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
       "topics": [
@@ -196,7 +196,7 @@
     {
       "name": "AINA",
       "desc": "Find your job search blind spots with an AI coach",
-      "votes": 495,
+      "votes": 497,
       "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
       "topics": [
@@ -208,7 +208,7 @@
     {
       "name": "ProductBridge",
       "desc": "AI-native customer support and feedback agent",
-      "votes": 471,
+      "votes": 474,
       "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
       "topics": [
@@ -220,7 +220,7 @@
     {
       "name": "Solid",
       "desc": "Agents with their own computers, accounts, and budgets.",
-      "votes": 449,
+      "votes": 456,
       "url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6ce26f07-1a8a-405d-b13e-5ef988443499.svg?auto=format",
       "topics": [
@@ -232,7 +232,7 @@
     {
       "name": "Widgo",
       "desc": "AI Sales rep for your website visitors",
-      "votes": 449,
+      "votes": 450,
       "url": "https://www.producthunt.com/products/widgo/launches/widgo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0d929cd8-9482-43e8-b0d9-abf661d0a57b.png?auto=format",
       "topics": [
