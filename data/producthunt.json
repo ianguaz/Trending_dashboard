@@ -4,7 +4,7 @@
     {
       "name": "Ami AI",
       "desc": "Lovable for getting customers",
-      "votes": 614,
+      "votes": 618,
       "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
       "topics": [
@@ -14,21 +14,9 @@
       ]
     },
     {
-      "name": "CREEM 2.0",
-      "desc": "Sell and grow your AI built products",
-      "votes": 603,
-      "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
-      "topics": [
-        "Fintech",
-        "Payments",
-        "Marketing"
-      ]
-    },
-    {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 603,
+      "votes": 606,
       "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
@@ -38,9 +26,21 @@
       ]
     },
     {
+      "name": "CREEM 2.0",
+      "desc": "Sell and grow your AI built products",
+      "votes": 605,
+      "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
+      "topics": [
+        "Fintech",
+        "Payments",
+        "Marketing"
+      ]
+    },
+    {
       "name": "Mastra Factory",
       "desc": "From issue to production, run by agents.",
-      "votes": 572,
+      "votes": 573,
       "url": "https://www.producthunt.com/products/mastra/launches/mastra-factory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Switch",
       "desc": "Bring any AI agent into Slack, Teams & Discord",
-      "votes": 544,
+      "votes": 545,
       "url": "https://www.producthunt.com/products/switch-11/launches/switch-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
       "topics": [
@@ -62,9 +62,21 @@
       ]
     },
     {
+      "name": "Clueso MCP",
+      "desc": "Create and edit videos by chatting",
+      "votes": 537,
+      "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "Animation",
+        "Video"
+      ]
+    },
+    {
       "name": "Voiskey",
       "desc": "AI voice typing that sounds right in every app",
-      "votes": 535,
+      "votes": 536,
       "url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
       "topics": [
@@ -76,7 +88,7 @@
     {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 535,
+      "votes": 534,
       "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -134,39 +146,15 @@
       ]
     },
     {
-      "name": "Clueso MCP",
-      "desc": "Create and edit videos by chatting",
-      "votes": 524,
-      "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "Animation",
-        "Video"
-      ]
-    },
-    {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
-      "votes": 504,
+      "votes": 505,
       "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
       "topics": [
         "iOS",
         "Artificial Intelligence",
         "Development"
-      ]
-    },
-    {
-      "name": "Monid",
-      "desc": "OpenRouter for agent tools",
-      "votes": 502,
-      "url": "https://www.producthunt.com/products/monid/launches/monid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
-      "topics": [
-        "API",
-        "Developer Tools",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -179,6 +167,18 @@
         "Sales",
         "Marketing",
         "Developer Tools"
+      ]
+    },
+    {
+      "name": "Monid",
+      "desc": "OpenRouter for agent tools",
+      "votes": 502,
+      "url": "https://www.producthunt.com/products/monid/launches/monid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/0c2727aa-84c0-4edb-a0ef-670f31d2e58a.jpeg?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -206,27 +206,27 @@
       ]
     },
     {
-      "name": "PaymentKit",
-      "desc": "Billing that survives a processor shutdown",
-      "votes": 471,
-      "url": "https://www.producthunt.com/products/paymentkit/launches/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/a2d8eca7-1611-49e8-9806-26ffea9ec546.png?auto=format",
-      "topics": [
-        "Fintech",
-        "SaaS",
-        "E-Commerce"
-      ]
-    },
-    {
       "name": "ProductBridge",
       "desc": "AI-native customer support and feedback agent",
-      "votes": 470,
+      "votes": 471,
       "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
       "topics": [
         "Customer Success",
         "Customer Communication",
         "OpenAI Day"
+      ]
+    },
+    {
+      "name": "Solid",
+      "desc": "Agents with their own computers, accounts, and budgets.",
+      "votes": 449,
+      "url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/6ce26f07-1a8a-405d-b13e-5ef988443499.svg?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Development"
       ]
     },
     {
