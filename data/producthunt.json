@@ -4,7 +4,7 @@
     {
       "name": "Ami AI",
       "desc": "Lovable for getting customers",
-      "votes": 632,
+      "votes": 634,
       "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "CREEM 2.0",
       "desc": "Sell and grow your AI built products",
-      "votes": 608,
+      "votes": 609,
       "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 540,
+      "votes": 543,
       "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Voiskey",
       "desc": "AI voice typing that sounds right in every app",
-      "votes": 539,
+      "votes": 540,
       "url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 536,
+      "votes": 538,
       "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 536,
+      "votes": 538,
       "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -119,18 +119,6 @@
         "Open Source",
         "Software Engineering",
         "Developer Tools"
-      ]
-    },
-    {
-      "name": "x1",
-      "desc": "Lovable for iPhone apps go from idea to App Store",
-      "votes": 533,
-      "url": "https://www.producthunt.com/products/x1-2/launches/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format",
-      "topics": [
-        "iOS",
-        "No-Code",
-        "Vibe coding"
       ]
     },
     {
@@ -182,6 +170,18 @@
       ]
     },
     {
+      "name": "AINA",
+      "desc": "Find your job search blind spots with an AI coach",
+      "votes": 499,
+      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Career"
+      ]
+    },
+    {
       "name": "Kilo Code for iOS and Android",
       "desc": "Start coding agents, control sessions, review PRs. Anywhere.",
       "votes": 498,
@@ -191,18 +191,6 @@
         "Android",
         "iOS",
         "Developer Tools"
-      ]
-    },
-    {
-      "name": "AINA",
-      "desc": "Find your job search blind spots with an AI coach",
-      "votes": 497,
-      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Career"
       ]
     },
     {
@@ -239,6 +227,18 @@
         "Sales",
         "SaaS",
         "Tech"
+      ]
+    },
+    {
+      "name": "Computable GPU Index (CGI)",
+      "desc": "The first open-source price index for GPU compute",
+      "votes": 443,
+      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi/launches/computable-gpu-index-cgi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/0470d8d1-4015-48d9-8a73-75f6647b8836.gif?auto=format",
+      "topics": [
+        "Open Source",
+        "Fintech",
+        "Money"
       ]
     }
   ]
