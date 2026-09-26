@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "items": [
     {
       "name": "Ami AI",
       "desc": "Lovable for getting customers",
-      "votes": 634,
+      "votes": 635,
       "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 610,
+      "votes": 613,
       "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "CREEM 2.0",
       "desc": "Sell and grow your AI built products",
-      "votes": 609,
+      "votes": 610,
       "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 543,
+      "votes": 544,
       "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -86,15 +86,15 @@
       ]
     },
     {
-      "name": "Jev",
-      "desc": "Fast, structured AI decisions for software automation",
-      "votes": 538,
-      "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
+      "name": "Kilo Code for JetBrains",
+      "desc": "Fully native, open-source coding agent built for JetBrains",
+      "votes": 539,
+      "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
       "topics": [
-        "API",
-        "Developer Tools",
-        "Artificial Intelligence"
+        "Open Source",
+        "Software Engineering",
+        "Developer Tools"
       ]
     },
     {
@@ -110,15 +110,15 @@
       ]
     },
     {
-      "name": "Kilo Code for JetBrains",
-      "desc": "Fully native, open-source coding agent built for JetBrains",
-      "votes": 534,
-      "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/985b8fc3-25d0-4a9d-a2de-c4e85d8aeb13.gif?auto=format",
+      "name": "Jev",
+      "desc": "Fast, structured AI decisions for software automation",
+      "votes": 538,
+      "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
-        "Open Source",
-        "Software Engineering",
-        "Developer Tools"
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -134,6 +134,18 @@
       ]
     },
     {
+      "name": "Anysite.io",
+      "desc": "Build and enrich B2B lists by chatting to your agent",
+      "votes": 503,
+      "url": "https://www.producthunt.com/products/anysite/launches/anysite-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
       "votes": 503,
@@ -146,14 +158,14 @@
       ]
     },
     {
-      "name": "Anysite.io",
-      "desc": "Build and enrich B2B lists by chatting to your agent",
-      "votes": 502,
-      "url": "https://www.producthunt.com/products/anysite/launches/anysite-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
+      "name": "Kilo Code for iOS and Android",
+      "desc": "Start coding agents, control sessions, review PRs. Anywhere.",
+      "votes": 500,
+      "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/96f3101a-40e9-430c-9e1b-5a2b9ab9b510.gif?auto=format",
       "topics": [
-        "Sales",
-        "Marketing",
+        "Android",
+        "iOS",
         "Developer Tools"
       ]
     },
@@ -172,7 +184,7 @@
     {
       "name": "AINA",
       "desc": "Find your job search blind spots with an AI coach",
-      "votes": 499,
+      "votes": 498,
       "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
       "topics": [
@@ -182,21 +194,9 @@
       ]
     },
     {
-      "name": "Kilo Code for iOS and Android",
-      "desc": "Start coding agents, control sessions, review PRs. Anywhere.",
-      "votes": 498,
-      "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/96f3101a-40e9-430c-9e1b-5a2b9ab9b510.gif?auto=format",
-      "topics": [
-        "Android",
-        "iOS",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "ProductBridge",
       "desc": "AI-native customer support and feedback agent",
-      "votes": 473,
+      "votes": 475,
       "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
       "topics": [
@@ -230,15 +230,15 @@
       ]
     },
     {
-      "name": "Computable GPU Index (CGI)",
-      "desc": "The first open-source price index for GPU compute",
+      "name": "AI Toolbox 3.0",
+      "desc": "Search, organize and export every AI chat in one place",
       "votes": 443,
-      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi/launches/computable-gpu-index-cgi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/0470d8d1-4015-48d9-8a73-75f6647b8836.gif?auto=format",
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox/launches/ai-toolbox-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5a8d95b3-1e0a-47ee-82cf-b4e688666232.png?auto=format",
       "topics": [
-        "Open Source",
-        "Fintech",
-        "Money"
+        "Chrome Extensions",
+        "Productivity",
+        "Artificial Intelligence"
       ]
     }
   ]

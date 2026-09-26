@@ -1,42 +1,42 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "items": [
     {
       "name": "paperclipai/paperclip",
       "desc": "The open-source app everyone uses to manage agents at work",
-      "stars": "86007",
-      "today": "2,109 stars today",
+      "stars": "86803",
+      "today": "2,589 stars today",
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip"
     },
     {
       "name": "vectorize-io/hindsight",
       "desc": "Hindsight: Agent Memory That Learns",
-      "stars": "30703",
-      "today": "1,653 stars today",
+      "stars": "31729",
+      "today": "2,152 stars today",
       "language": "Python",
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
       "name": "NVIDIA/Model-Optimizer",
       "desc": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "stars": "4602",
-      "today": "359 stars today",
+      "stars": "4684",
+      "today": "354 stars today",
       "language": "Python",
       "url": "https://github.com/NVIDIA/Model-Optimizer"
     },
     {
       "name": "dream-num/univer",
       "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": "18959",
-      "today": "1,050 stars today",
+      "stars": "19113",
+      "today": "845 stars today",
       "language": "TypeScript",
       "url": "https://github.com/dream-num/univer"
     },
     {
       "name": "tensorflow/tensorflow",
       "desc": "An Open Source Machine Learning Framework for Everyone",
-      "stars": "200346",
+      "stars": "200403",
       "today": "31 stars today",
       "language": "C++",
       "url": "https://github.com/tensorflow/tensorflow"
@@ -44,31 +44,31 @@
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "57914",
-      "today": "1,177 stars today",
+      "stars": "58223",
+      "today": "828 stars today",
       "language": "Python",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "name": "openbao/openbao",
       "desc": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "stars": "7886",
-      "today": "49 stars today",
+      "stars": "7951",
+      "today": "360 stars today",
       "language": "Go",
       "url": "https://github.com/openbao/openbao"
     },
     {
       "name": "block/buzz",
       "desc": "A hive mind communication platform",
-      "stars": "34698",
-      "today": "175 stars today",
+      "stars": "34785",
+      "today": "367 stars today",
       "language": "Rust",
       "url": "https://github.com/block/buzz"
     },
     {
       "name": "microsoft/vscode",
       "desc": "Visual Studio Code",
-      "stars": "192967",
+      "stars": "193036",
       "today": "78 stars today",
       "language": "TypeScript",
       "url": "https://github.com/microsoft/vscode"
@@ -76,7 +76,7 @@
     {
       "name": "zhaoxuya520/reverse-skill",
       "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": "37732",
+      "stars": "37900",
       "today": "409 stars today",
       "language": "PowerShell",
       "url": "https://github.com/zhaoxuya520/reverse-skill"
@@ -84,7 +84,7 @@
     {
       "name": "llvm/llvm-project",
       "desc": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "stars": "40688",
+      "stars": "40721",
       "today": "29 stars today",
       "language": "LLVM",
       "url": "https://github.com/llvm/llvm-project"
@@ -92,7 +92,7 @@
     {
       "name": "anthropics/claude-code-action",
       "desc": "",
-      "stars": "8974",
+      "stars": "9043",
       "today": "15 stars today",
       "language": "TypeScript",
       "url": "https://github.com/anthropics/claude-code-action"
@@ -100,7 +100,7 @@
     {
       "name": "actions/runner-images",
       "desc": "GitHub Actions runner images",
-      "stars": "13218",
+      "stars": "13258",
       "today": "13 stars today",
       "language": "PowerShell",
       "url": "https://github.com/actions/runner-images"
@@ -108,7 +108,7 @@
     {
       "name": "mobile-next/mobile-mcp",
       "desc": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "stars": "7074",
+      "stars": "7242",
       "today": "143 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mobile-next/mobile-mcp"
@@ -116,7 +116,7 @@
     {
       "name": "vercel/next.js",
       "desc": "The React Framework",
-      "stars": "142467",
+      "stars": "142566",
       "today": "31 stars today",
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
