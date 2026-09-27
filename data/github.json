@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "items": [
     {
       "name": "paperclipai/paperclip",
       "desc": "The open-source app everyone uses to manage agents at work",
-      "stars": "88608",
+      "stars": "89364",
       "today": "2,527 stars today",
       "language": "TypeScript",
       "url": "https://github.com/paperclipai/paperclip"
@@ -12,7 +12,7 @@
     {
       "name": "vectorize-io/hindsight",
       "desc": "Hindsight: Agent Memory That Learns",
-      "stars": "35444",
+      "stars": "36918",
       "today": "4,463 stars today",
       "language": "Python",
       "url": "https://github.com/vectorize-io/hindsight"
@@ -20,7 +20,7 @@
     {
       "name": "debpalash/VoiceStudio",
       "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": "38785",
+      "stars": "39598",
       "today": "3,060 stars today",
       "language": "Python",
       "url": "https://github.com/debpalash/VoiceStudio"
@@ -28,7 +28,7 @@
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "58788",
+      "stars": "59095",
       "today": "848 stars today",
       "language": "Python",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
@@ -36,7 +36,7 @@
     {
       "name": "InfinityLoop1308/PipePipe",
       "desc": "An open-source Android app to let you browse YouTube and other services freely.",
-      "stars": "6400",
+      "stars": "6509",
       "today": "139 stars today",
       "language": "Shell",
       "url": "https://github.com/InfinityLoop1308/PipePipe"
@@ -44,15 +44,15 @@
     {
       "name": "vercel-labs/scriptc",
       "desc": "TypeScript-to-Native Compiler",
-      "stars": "5228",
-      "today": "76 stars today",
+      "stars": "5327",
+      "today": "186 stars today",
       "language": "TypeScript",
       "url": "https://github.com/vercel-labs/scriptc"
     },
     {
       "name": "mvschwarz/openrig",
       "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": "641",
+      "stars": "833",
       "today": "114 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mvschwarz/openrig"
@@ -60,7 +60,7 @@
     {
       "name": "dream-num/univer",
       "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": "19887",
+      "stars": "20063",
       "today": "920 stars today",
       "language": "TypeScript",
       "url": "https://github.com/dream-num/univer"
@@ -68,8 +68,8 @@
     {
       "name": "willfaust/Madeira",
       "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "stars": "695",
-      "today": "171 stars today",
+      "stars": "768",
+      "today": "117 stars today",
       "language": "C",
       "url": "https://github.com/willfaust/Madeira"
     }

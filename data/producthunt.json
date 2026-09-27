@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "items": [
     {
       "name": "Ami AI",
       "desc": "Lovable for getting customers",
-      "votes": 638,
+      "votes": 640,
       "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "CREEM 2.0",
       "desc": "Sell and grow your AI built products",
-      "votes": 611,
+      "votes": 613,
       "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Mastra Factory",
       "desc": "From issue to production, run by agents.",
-      "votes": 574,
+      "votes": 575,
       "url": "https://www.producthunt.com/products/mastra/launches/mastra-factory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 546,
+      "votes": 548,
       "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -86,27 +86,27 @@
       ]
     },
     {
-      "name": "Naoma AI Demo Agent V2",
-      "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 539,
-      "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing",
-        "Marketing automation"
-      ]
-    },
-    {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 539,
+      "votes": 541,
       "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
         "API",
         "Developer Tools",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Naoma AI Demo Agent V2",
+      "desc": "Turns website traffic into booked, qualified meetings",
+      "votes": 540,
+      "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Marketing automation"
       ]
     },
     {
@@ -134,6 +134,18 @@
       ]
     },
     {
+      "name": "Anysite.io",
+      "desc": "Build and enrich B2B lists by chatting to your agent",
+      "votes": 505,
+      "url": "https://www.producthunt.com/products/anysite/launches/anysite-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
       "votes": 504,
@@ -146,15 +158,15 @@
       ]
     },
     {
-      "name": "Anysite.io",
-      "desc": "Build and enrich B2B lists by chatting to your agent",
-      "votes": 502,
-      "url": "https://www.producthunt.com/products/anysite/launches/anysite-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
+      "name": "AINA",
+      "desc": "Find your job search blind spots with an AI coach",
+      "votes": 500,
+      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
       "topics": [
-        "Sales",
-        "Marketing",
-        "Developer Tools"
+        "Productivity",
+        "Artificial Intelligence",
+        "Career"
       ]
     },
     {
@@ -167,18 +179,6 @@
         "Android",
         "iOS",
         "Developer Tools"
-      ]
-    },
-    {
-      "name": "AINA",
-      "desc": "Find your job search blind spots with an AI coach",
-      "votes": 500,
-      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Career"
       ]
     },
     {
@@ -208,7 +208,7 @@
     {
       "name": "Solid",
       "desc": "Agents with their own computers, accounts, and budgets.",
-      "votes": 462,
+      "votes": 463,
       "url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6ce26f07-1a8a-405d-b13e-5ef988443499.svg?auto=format",
       "topics": [
@@ -220,7 +220,7 @@
     {
       "name": "Widgo",
       "desc": "AI Sales rep for your website visitors",
-      "votes": 450,
+      "votes": 451,
       "url": "https://www.producthunt.com/products/widgo/launches/widgo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/0d929cd8-9482-43e8-b0d9-abf661d0a57b.png?auto=format",
       "topics": [
