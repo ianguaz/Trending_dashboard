@@ -4,66 +4,114 @@
     {
       "name": "debpalash/VoiceStudio",
       "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": "42770",
-      "today": "3,274 stars today",
+      "stars": "46794",
+      "today": "4,712 stars today",
       "language": "Python",
       "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
-      "name": "paperclipai/paperclip",
-      "desc": "The open-source app everyone uses to manage agents at work",
-      "stars": "92105",
-      "today": "3,185 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/paperclipai/paperclip"
+      "name": "NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": "10119",
+      "today": "978 stars today",
+      "language": "Rust",
+      "url": "https://github.com/NVIDIA/OpenShell"
     },
     {
       "name": "vectorize-io/hindsight",
       "desc": "Hindsight: Agent Memory That Learns",
-      "stars": "40399",
-      "today": "4,413 stars today",
+      "stars": "42207",
+      "today": "2,541 stars today",
       "language": "Python",
       "url": "https://github.com/vectorize-io/hindsight"
     },
     {
-      "name": "NawfalMotii79/PLFM_RADAR",
-      "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "stars": "25663",
-      "today": "145 stars today",
-      "language": "PLSQL",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+      "name": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "stars": "94050",
+      "today": "2,412 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/paperclipai/paperclip"
     },
     {
-      "name": "cs341-illinois/coursebook",
-      "desc": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "stars": "2350",
-      "today": "265 stars today",
-      "language": "TeX",
-      "url": "https://github.com/cs341-illinois/coursebook"
-    },
-    {
-      "name": "byoungd/up",
-      "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": "64529",
-      "today": "310 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/byoungd/up"
+      "name": "t8y2/dbx",
+      "desc": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "stars": "21727",
+      "today": "460 stars today",
+      "language": "Rust",
+      "url": "https://github.com/t8y2/dbx"
     },
     {
       "name": "mvschwarz/openrig",
       "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": "1503",
-      "today": "781 stars today",
+      "stars": "2152",
+      "today": "733 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mvschwarz/openrig"
     },
     {
+      "name": "oblien/openship",
+      "desc": "Self-hosted deployment platform",
+      "stars": "13621",
+      "today": "436 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/oblien/openship"
+    },
+    {
+      "name": "averygan/reclip",
+      "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars": "9881",
+      "today": "114 stars today",
+      "language": "HTML",
+      "url": "https://github.com/averygan/reclip"
+    },
+    {
+      "name": "cs341-illinois/coursebook",
+      "desc": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "stars": "2887",
+      "today": "569 stars today",
+      "language": "TeX",
+      "url": "https://github.com/cs341-illinois/coursebook"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars": "60938",
+      "today": "1,287 stars today",
+      "language": "Python",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": "36876",
+      "today": "822 stars today",
+      "language": "Python",
+      "url": "https://github.com/VectifyAI/PageIndex"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars": "1035",
+      "today": "229 stars today",
+      "language": "C",
+      "url": "https://github.com/willfaust/Madeira"
+    },
+    {
       "name": "dream-num/univer",
       "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": "21067",
-      "today": "1,105 stars today",
+      "stars": "21661",
+      "today": "692 stars today",
       "language": "TypeScript",
       "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "name": "rakyll/hey",
+      "desc": "HTTP load generator, ApacheBench (ab) replacement",
+      "stars": "20404",
+      "today": "31 stars today",
+      "language": "Go",
+      "url": "https://github.com/rakyll/hey"
     }
   ]
 }
