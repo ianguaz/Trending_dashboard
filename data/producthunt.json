@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "items": [
     {
       "name": "Ami AI",
@@ -16,7 +16,7 @@
     {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 617,
+      "votes": 620,
       "url": "https://www.producthunt.com/products/tiun-2/launches/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
@@ -38,6 +38,18 @@
       ]
     },
     {
+      "name": "Clueso MCP",
+      "desc": "Create and edit videos by chatting",
+      "votes": 576,
+      "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "Animation",
+        "Video"
+      ]
+    },
+    {
       "name": "Mastra Factory",
       "desc": "From issue to production, run by agents.",
       "votes": 575,
@@ -50,21 +62,9 @@
       ]
     },
     {
-      "name": "Clueso MCP",
-      "desc": "Create and edit videos by chatting",
-      "votes": 573,
-      "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "Animation",
-        "Video"
-      ]
-    },
-    {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 561,
+      "votes": 564,
       "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
@@ -134,18 +134,6 @@
       ]
     },
     {
-      "name": "AINA",
-      "desc": "Find your job search blind spots with an AI coach",
-      "votes": 506,
-      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Career"
-      ]
-    },
-    {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
       "votes": 506,
@@ -155,6 +143,18 @@
         "iOS",
         "Artificial Intelligence",
         "Development"
+      ]
+    },
+    {
+      "name": "AINA",
+      "desc": "Find your job search blind spots with an AI coach",
+      "votes": 506,
+      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Career"
       ]
     },
     {
@@ -208,13 +208,25 @@
     {
       "name": "Solid",
       "desc": "Agents with their own computers, accounts, and budgets.",
-      "votes": 469,
+      "votes": 470,
       "url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6ce26f07-1a8a-405d-b13e-5ef988443499.svg?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Development"
+      ]
+    },
+    {
+      "name": "MCP Connectors by Databox",
+      "desc": "Give your AI Analyst context to explain performance and act",
+      "votes": 456,
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
+      "topics": [
+        "Analytics",
+        "SaaS",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -227,18 +239,6 @@
         "Sales",
         "SaaS",
         "Tech"
-      ]
-    },
-    {
-      "name": "MCP Connectors by Databox",
-      "desc": "Give your AI Analyst context to explain performance and act",
-      "votes": 450,
-      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
-      "topics": [
-        "Analytics",
-        "SaaS",
-        "Artificial Intelligence"
       ]
     }
   ]
