@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "items": [
     {
       "name": "NVIDIA/OpenShell",
       "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": "11576",
+      "stars": "12327",
       "today": "1,280 stars today",
       "language": "Rust",
       "url": "https://github.com/NVIDIA/OpenShell"
@@ -12,7 +12,7 @@
     {
       "name": "debpalash/VoiceStudio",
       "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": "49871",
+      "stars": "50235",
       "today": "3,481 stars today",
       "language": "Python",
       "url": "https://github.com/debpalash/VoiceStudio"
@@ -20,7 +20,7 @@
     {
       "name": "mvschwarz/openrig",
       "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": "2759",
+      "stars": "2931",
       "today": "622 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mvschwarz/openrig"
@@ -28,7 +28,7 @@
     {
       "name": "mksglu/context-mode",
       "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": "24338",
+      "stars": "24429",
       "today": "88 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mksglu/context-mode"
@@ -36,23 +36,23 @@
     {
       "name": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "148727",
-      "today": "675 stars today",
+      "stars": "149036",
+      "today": "865 stars today",
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": "127311",
-      "today": "338 stars today",
+      "stars": "127469",
+      "today": "464 stars today",
       "language": "Python",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "name": "openclaw/openclaw",
       "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": "390859",
+      "stars": "390947",
       "today": "136 stars today",
       "language": "TypeScript",
       "url": "https://github.com/openclaw/openclaw"
@@ -60,7 +60,7 @@
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": "75988",
+      "stars": "76083",
       "today": "118 stars today",
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
@@ -68,15 +68,15 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "272668",
-      "today": "736 stars today",
+      "stars": "272891",
+      "today": "908 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "heygen-com/hyperframes",
       "desc": "Write HTML. Render video. Built for agents.",
-      "stars": "54473",
+      "stars": "54642",
       "today": "352 stars today",
       "language": "TypeScript",
       "url": "https://github.com/heygen-com/hyperframes"
@@ -84,7 +84,7 @@
     {
       "name": "firebase/firebase-ios-sdk",
       "desc": "Firebase SDK for Apple App Development",
-      "stars": "6718",
+      "stars": "6744",
       "today": "4 stars today",
       "language": "C++",
       "url": "https://github.com/firebase/firebase-ios-sdk"
@@ -92,7 +92,7 @@
     {
       "name": "modelcontextprotocol/servers",
       "desc": "Model Context Protocol Servers",
-      "stars": "90726",
+      "stars": "90780",
       "today": "48 stars today",
       "language": "TypeScript",
       "url": "https://github.com/modelcontextprotocol/servers"
@@ -100,23 +100,23 @@
     {
       "name": "byoungd/up",
       "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": "66197",
-      "today": "1,102 stars today",
+      "stars": "66342",
+      "today": "714 stars today",
       "language": "JavaScript",
       "url": "https://github.com/byoungd/up"
     },
     {
       "name": "colbymchenry/codegraph",
       "desc": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "stars": "72477",
-      "today": "116 stars today",
+      "stars": "72551",
+      "today": "159 stars today",
       "language": "C",
       "url": "https://github.com/colbymchenry/codegraph"
     },
     {
       "name": "t8y2/dbx",
       "desc": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "stars": "22877",
+      "stars": "23081",
       "today": "1,133 stars today",
       "language": "Rust",
       "url": "https://github.com/t8y2/dbx"
@@ -124,7 +124,7 @@
     {
       "name": "NawfalMotii79/PLFM_RADAR",
       "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "stars": "26324",
+      "stars": "26396",
       "today": "466 stars today",
       "language": "PLSQL",
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
@@ -132,7 +132,7 @@
     {
       "name": "VectifyAI/PageIndex",
       "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stars": "37899",
+      "stars": "38063",
       "today": "1,095 stars today",
       "language": "Python",
       "url": "https://github.com/VectifyAI/PageIndex"
