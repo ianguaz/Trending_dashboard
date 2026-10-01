@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "items": [
     {
       "name": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "149979",
+      "stars": "150321",
       "today": "1,179 stars today",
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
@@ -12,7 +12,7 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "273547",
+      "stars": "273771",
       "today": "888 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
@@ -20,7 +20,7 @@
     {
       "name": "NVIDIA/OpenShell",
       "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": "13778",
+      "stars": "13937",
       "today": "2,503 stars today",
       "language": "Rust",
       "url": "https://github.com/NVIDIA/OpenShell"
@@ -28,7 +28,7 @@
     {
       "name": "firebase/firebase-ios-sdk",
       "desc": "Firebase SDK for Apple App Development",
-      "stars": "6827",
+      "stars": "6845",
       "today": "112 stars today",
       "language": "C++",
       "url": "https://github.com/firebase/firebase-ios-sdk"
@@ -36,7 +36,7 @@
     {
       "name": "mvschwarz/openrig",
       "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "stars": "3442",
+      "stars": "3617",
       "today": "640 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mvschwarz/openrig"
@@ -44,7 +44,7 @@
     {
       "name": "cursor/plugins",
       "desc": "Cursor plugin specification and official plugins",
-      "stars": "9267",
+      "stars": "9300",
       "today": "157 stars today",
       "language": "TypeScript",
       "url": "https://github.com/cursor/plugins"
@@ -52,7 +52,7 @@
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "293758",
+      "stars": "293892",
       "today": "476 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
@@ -60,7 +60,7 @@
     {
       "name": "mksglu/context-mode",
       "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": "24688",
+      "stars": "24741",
       "today": "357 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mksglu/context-mode"
@@ -68,7 +68,7 @@
     {
       "name": "heygen-com/hyperframes",
       "desc": "Write HTML. Render video. Built for agents.",
-      "stars": "55117",
+      "stars": "55261",
       "today": "624 stars today",
       "language": "TypeScript",
       "url": "https://github.com/heygen-com/hyperframes"
@@ -76,7 +76,7 @@
     {
       "name": "earendil-works/pi",
       "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": "110992",
+      "stars": "111116",
       "today": "294 stars today",
       "language": "TypeScript",
       "url": "https://github.com/earendil-works/pi"
@@ -84,7 +84,7 @@
     {
       "name": "tile-ai/tilelang",
       "desc": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "stars": "8009",
+      "stars": "8065",
       "today": "157 stars today",
       "language": "Python",
       "url": "https://github.com/tile-ai/tilelang"
@@ -92,7 +92,7 @@
     {
       "name": "pablostanley/yoinks",
       "desc": "yoink any video from your terminal. no shady ads.",
-      "stars": "2707",
+      "stars": "2847",
       "today": "356 stars today",
       "language": "TypeScript",
       "url": "https://github.com/pablostanley/yoinks"
@@ -100,23 +100,23 @@
     {
       "name": "HunxByts/GhostTrack",
       "desc": "Useful tool to track location or mobile number",
-      "stars": "16226",
-      "today": "635 stars today",
+      "stars": "16336",
+      "today": "369 stars today",
       "language": "Python",
       "url": "https://github.com/HunxByts/GhostTrack"
     },
     {
       "name": "pbakaus/impeccable",
       "desc": "The design language that makes your AI harness better at design.",
-      "stars": "73392",
-      "today": "463 stars today",
+      "stars": "73571",
+      "today": "602 stars today",
       "language": "JavaScript",
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
       "name": "Friedrich-M/UniMate",
       "desc": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-      "stars": "984",
+      "stars": "1036",
       "today": "225 stars today",
       "language": "Python",
       "url": "https://github.com/Friedrich-M/UniMate"
