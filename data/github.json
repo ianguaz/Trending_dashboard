@@ -2,124 +2,140 @@
   "date": "2026-10-02",
   "items": [
     {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "88003",
+      "today": "683 stars today",
+      "language": "Python",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": "108905",
+      "today": "193 stars today",
+      "language": "Go",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": "294263",
+      "today": "561 stars today",
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
       "name": "DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "150321",
-      "today": "1,179 stars today",
+      "stars": "151260",
+      "today": "1,429 stars today",
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
+      "name": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars": "74031",
+      "today": "717 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "273771",
-      "today": "888 stars today",
+      "stars": "274441",
+      "today": "955 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "NVIDIA/OpenShell",
       "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": "13937",
-      "today": "2,503 stars today",
+      "stars": "14267",
+      "today": "584 stars today",
       "language": "Rust",
       "url": "https://github.com/NVIDIA/OpenShell"
     },
     {
-      "name": "firebase/firebase-ios-sdk",
-      "desc": "Firebase SDK for Apple App Development",
-      "stars": "6845",
-      "today": "112 stars today",
-      "language": "C++",
-      "url": "https://github.com/firebase/firebase-ios-sdk"
-    },
-    {
-      "name": "mvschwarz/openrig",
-      "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "stars": "3617",
-      "today": "640 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/mvschwarz/openrig"
-    },
-    {
-      "name": "cursor/plugins",
-      "desc": "Cursor plugin specification and official plugins",
-      "stars": "9300",
-      "today": "157 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/cursor/plugins"
-    },
-    {
-      "name": "obra/superpowers",
-      "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "293892",
-      "today": "476 stars today",
-      "language": "Shell",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "mksglu/context-mode",
-      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": "24741",
-      "today": "357 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/mksglu/context-mode"
+      "name": "coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "52269",
+      "today": "139 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/coreyhaines31/marketingskills"
     },
     {
       "name": "heygen-com/hyperframes",
       "desc": "Write HTML. Render video. Built for agents.",
-      "stars": "55261",
-      "today": "624 stars today",
+      "stars": "55672",
+      "today": "584 stars today",
       "language": "TypeScript",
       "url": "https://github.com/heygen-com/hyperframes"
     },
     {
-      "name": "earendil-works/pi",
-      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": "111116",
-      "today": "294 stars today",
+      "name": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "24941",
+      "today": "276 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/earendil-works/pi"
+      "url": "https://github.com/mksglu/context-mode"
     },
     {
-      "name": "tile-ai/tilelang",
-      "desc": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "stars": "8065",
-      "today": "157 stars today",
+      "name": "google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "stars": "20633",
+      "today": "78 stars today",
       "language": "Python",
-      "url": "https://github.com/tile-ai/tilelang"
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "name": "getsentry/sentry",
+      "desc": "Developer-first error tracking and performance monitoring",
+      "stars": "44938",
+      "today": "12 stars today",
+      "language": "Python",
+      "url": "https://github.com/getsentry/sentry"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": "72856",
+      "today": "241 stars today",
+      "language": "C",
+      "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+      "name": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "stars": "9411",
+      "today": "168 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "stars": "4068",
+      "today": "691 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/mvschwarz/openrig"
+    },
+    {
+      "name": "Effect-TS/effect",
+      "desc": "Build production-ready applications in TypeScript",
+      "stars": "16419",
+      "today": "76 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/Effect-TS/effect"
     },
     {
       "name": "pablostanley/yoinks",
       "desc": "yoink any video from your terminal. no shady ads.",
-      "stars": "2847",
-      "today": "356 stars today",
+      "stars": "3268",
+      "today": "629 stars today",
       "language": "TypeScript",
       "url": "https://github.com/pablostanley/yoinks"
-    },
-    {
-      "name": "HunxByts/GhostTrack",
-      "desc": "Useful tool to track location or mobile number",
-      "stars": "16336",
-      "today": "369 stars today",
-      "language": "Python",
-      "url": "https://github.com/HunxByts/GhostTrack"
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "desc": "The design language that makes your AI harness better at design.",
-      "stars": "73571",
-      "today": "602 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/pbakaus/impeccable"
-    },
-    {
-      "name": "Friedrich-M/UniMate",
-      "desc": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
-      "stars": "1036",
-      "today": "225 stars today",
-      "language": "Python",
-      "url": "https://github.com/Friedrich-M/UniMate"
     }
   ]
 }
