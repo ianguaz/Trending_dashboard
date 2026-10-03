@@ -4,7 +4,7 @@
     {
       "name": "Ami AI",
       "desc": "Lovable for getting customers",
-      "votes": 663,
+      "votes": 664,
       "url": "https://www.producthunt.com/products/ami-ai/launches/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 593,
+      "votes": 596,
       "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 592,
+      "votes": 593,
       "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
@@ -124,7 +124,7 @@
     {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
-      "votes": 511,
+      "votes": 512,
       "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
       "topics": [
@@ -170,6 +170,18 @@
       ]
     },
     {
+      "name": "Gauth Unlimited Digital Canvas ",
+      "desc": "An AI tutor on an infinite whiteboard, not a chat thread",
+      "votes": 482,
+      "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/970ab368-95d3-436f-9476-9f21341e59da.jpeg?auto=format",
+      "topics": [
+        "Education",
+        "Artificial Intelligence",
+        "Online Learning"
+      ]
+    },
+    {
       "name": "ProductBridge",
       "desc": "AI-native customer support and feedback agent",
       "votes": 480,
@@ -206,6 +218,18 @@
       ]
     },
     {
+      "name": "Monospace from Directus",
+      "desc": "The governed API layer for every app, person, and agent",
+      "votes": 458,
+      "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Data"
+      ]
+    },
+    {
       "name": "Widgo",
       "desc": "AI Sales rep for your website visitors",
       "votes": 453,
@@ -215,30 +239,6 @@
         "Sales",
         "SaaS",
         "Tech"
-      ]
-    },
-    {
-      "name": "Floot MCP",
-      "desc": "Build and ship web and mobile apps inside Claude or ChatGPT",
-      "votes": 452,
-      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence",
-        "No-Code"
-      ]
-    },
-    {
-      "name": "Monospace from Directus",
-      "desc": "The governed API layer for every app, person, and agent",
-      "votes": 445,
-      "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
-      "topics": [
-        "API",
-        "Developer Tools",
-        "Data"
       ]
     }
   ]
