@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "items": [
     {
       "name": "Ami AI",
@@ -28,7 +28,7 @@
     {
       "name": "CREEM 2.0",
       "desc": "Sell and grow your AI built products",
-      "votes": 617,
+      "votes": 618,
       "url": "https://www.producthunt.com/products/creem/launches/creem-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 599,
+      "votes": 598,
       "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 596,
+      "votes": 595,
       "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Mastra Factory",
       "desc": "From issue to production, run by agents.",
-      "votes": 576,
+      "votes": 573,
       "url": "https://www.producthunt.com/products/mastra/launches/mastra-factory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
       "topics": [
@@ -124,25 +124,13 @@
     {
       "name": "Anysite.io",
       "desc": "Build and enrich B2B lists by chatting to your agent",
-      "votes": 503,
+      "votes": 504,
       "url": "https://www.producthunt.com/products/anysite/launches/anysite-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4de75412-db6e-4ff3-99b1-8444bbda491c.png?auto=format",
       "topics": [
         "Sales",
         "Marketing",
         "Developer Tools"
-      ]
-    },
-    {
-      "name": "ProductBridge",
-      "desc": "AI-native customer support and feedback agent",
-      "votes": 480,
-      "url": "https://www.producthunt.com/products/productbridge/launches/productbridge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
-      "topics": [
-        "Customer Success",
-        "Customer Communication",
-        "OpenAI Day"
       ]
     },
     {
@@ -158,15 +146,15 @@
       ]
     },
     {
-      "name": "Monospace from Directus",
-      "desc": "The governed API layer for every app, person, and agent",
-      "votes": 473,
-      "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
+      "name": "ProductBridge",
+      "desc": "AI-native customer support and feedback agent",
+      "votes": 480,
+      "url": "https://www.producthunt.com/products/productbridge/launches/productbridge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
       "topics": [
-        "API",
-        "Developer Tools",
-        "Data"
+        "Customer Success",
+        "Customer Communication",
+        "OpenAI Day"
       ]
     },
     {
@@ -179,6 +167,18 @@
         "Android",
         "iOS",
         "Developer Tools"
+      ]
+    },
+    {
+      "name": "Monospace from Directus",
+      "desc": "The governed API layer for every app, person, and agent",
+      "votes": 468,
+      "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Data"
       ]
     },
     {
@@ -232,7 +232,7 @@
     {
       "name": "iFixAi",
       "desc": "Independent auditing of AI agents to uncover misalignment",
-      "votes": 447,
+      "votes": 448,
       "url": "https://www.producthunt.com/products/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/63c7402c-5f53-42d8-a4de-429c1b3c6260.png?auto=format",
       "topics": [
