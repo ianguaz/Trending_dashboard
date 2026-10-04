@@ -2,156 +2,124 @@
   "date": "2026-10-04",
   "items": [
     {
-      "name": "DietrichGebert/ponytail",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "153032",
-      "today": "1,289 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
+      "name": "tester-army/e2e",
+      "desc": "Next generation e2e testing framework for web and mobile apps.",
+      "stars": "2493",
+      "today": "344 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/tester-army/e2e"
     },
     {
       "name": "pbakaus/impeccable",
       "desc": "The design language that makes your AI harness better at design.",
-      "stars": "75064",
-      "today": "705 stars today",
+      "stars": "75874",
+      "today": "1,170 stars today",
       "language": "JavaScript",
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
-      "name": "affaan-m/ECC",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "272067",
-      "today": "954 stars today",
+      "name": "coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "52810",
+      "today": "345 stars today",
       "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
+      "url": "https://github.com/coreyhaines31/marketingskills"
     },
     {
-      "name": "Effect-TS/effect",
-      "desc": "Build production-ready applications in TypeScript",
-      "stars": "16762",
-      "today": "302 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/Effect-TS/effect"
+      "name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "154290",
+      "today": "1,894 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "stars": "109448",
-      "today": "505 stars today",
-      "language": "Go",
-      "url": "https://github.com/JuliusBrussee/caveman"
+      "name": "earthtojake/text-to-cad",
+      "desc": "Give your agent CAD superpowers.",
+      "stars": "16682",
+      "today": "75 stars today",
+      "language": "Python",
+      "url": "https://github.com/earthtojake/text-to-cad"
     },
     {
       "name": "Panniantong/Agent-Reach",
       "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": "89630",
-      "today": "1,683 stars today",
+      "stars": "90399",
+      "today": "979 stars today",
       "language": "Python",
       "url": "https://github.com/Panniantong/Agent-Reach"
     },
     {
-      "name": "pingdotgg/t3code",
-      "desc": "",
-      "stars": "24564",
-      "today": "251 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/pingdotgg/t3code"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": "95455",
-      "today": "218 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/thedotmack/claude-mem"
-    },
-    {
-      "name": "cloudflare/cloudflare-os",
-      "desc": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "stars": "10510",
-      "today": "84 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/cloudflare/cloudflare-os"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "100783",
-      "today": "305 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "name": "obra/superpowers",
-      "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "294832",
-      "today": "578 stars today",
-      "language": "Shell",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "mattpocock/skills",
-      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "275250",
-      "today": "750 stars today",
-      "language": "Shell",
-      "url": "https://github.com/mattpocock/skills"
-    },
-    {
-      "name": "mksglu/context-mode",
-      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": "25212",
-      "today": "256 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/mksglu/context-mode"
-    },
-    {
-      "name": "earendil-works/pi",
-      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "stars": "112084",
-      "today": "408 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/earendil-works/pi"
-    },
-    {
       "name": "getsentry/sentry",
       "desc": "Developer-first error tracking and performance monitoring",
-      "stars": "45173",
-      "today": "211 stars today",
+      "stars": "45281",
+      "today": "152 stars today",
       "language": "Python",
       "url": "https://github.com/getsentry/sentry"
     },
     {
-      "name": "anthropics/claude-code",
-      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "stars": "149151",
-      "today": "127 stars today",
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": "62877",
+      "today": "292 stars today",
+      "language": "Python",
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "desc": "",
+      "stars": "24947",
+      "today": "492 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/anthropics/claude-code"
+      "url": "https://github.com/pingdotgg/t3code"
     },
     {
-      "name": "jamwithai/production-agentic-rag-course",
-      "desc": "",
-      "stars": "9362",
-      "today": "192 stars today",
-      "language": "Python",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course"
+      "name": "caddyserver/caddy",
+      "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "stars": "76316",
+      "today": "31 stars today",
+      "language": "Go",
+      "url": "https://github.com/caddyserver/caddy"
     },
     {
-      "name": "meituan-longcat/LongCat-Video",
-      "desc": "",
-      "stars": "8690",
-      "today": "43 stars today",
-      "language": "Python",
-      "url": "https://github.com/meituan-longcat/LongCat-Video"
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars": "101011",
+      "today": "336 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": "95888",
+      "today": "627 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "name": "garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": "135020",
+      "today": "121 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/garrytan/gstack"
     },
     {
       "name": "OpenCut-app/OpenCut",
       "desc": "The open-source CapCut alternative",
-      "stars": "91517",
-      "today": "234 stars today",
+      "stars": "91875",
+      "today": "512 stars today",
       "language": "TypeScript",
       "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+      "name": "antirez/ds4",
+      "desc": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "stars": "23295",
+      "today": "211 stars today",
+      "language": "C",
+      "url": "https://github.com/antirez/ds4"
     }
   ]
 }

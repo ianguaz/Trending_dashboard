@@ -16,7 +16,7 @@
     {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 628,
+      "votes": 627,
       "url": "https://www.producthunt.com/products/tiun-2/launches/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 598,
+      "votes": 599,
       "url": "https://www.producthunt.com/products/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 594,
+      "votes": 596,
       "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Mastra Factory",
       "desc": "From issue to production, run by agents.",
-      "votes": 578,
+      "votes": 576,
       "url": "https://www.producthunt.com/products/mastra/launches/mastra-factory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c9e766dc-8051-45d9-a3b9-69949ac62716.jpeg?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Voiskey",
       "desc": "AI voice typing that sounds right in every app",
-      "votes": 559,
+      "votes": 558,
       "url": "https://www.producthunt.com/products/voiskey/launches/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 542,
+      "votes": 541,
       "url": "https://www.producthunt.com/products/naoma/launches/naoma-ai-demo-agent-v2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "Switch",
       "desc": "Bring any AI agent into Slack, Teams & Discord",
-      "votes": 536,
+      "votes": 517,
       "url": "https://www.producthunt.com/products/switch-11/launches/switch-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/01af9350-0e27-4e2e-90d0-3bf6bca3e340.png?auto=format",
       "topics": [
@@ -110,21 +110,9 @@
       ]
     },
     {
-      "name": "GPT-6 Astra",
-      "desc": "OpenAI's most capable model for end-to-end work",
-      "votes": 528,
-      "url": "https://www.producthunt.com/products/openai/launches/gpt-6-astra-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e732bb0f-6a16-4812-9ecd-44b143254587.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "AINA",
       "desc": "Find your job search blind spots with an AI coach",
-      "votes": 509,
+      "votes": 507,
       "url": "https://www.producthunt.com/products/aina/launches/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
       "topics": [
@@ -146,30 +134,6 @@
       ]
     },
     {
-      "name": "Superset Mobile",
-      "desc": "Your coding agents, now in your pocket",
-      "votes": 502,
-      "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
-      "topics": [
-        "iOS",
-        "Artificial Intelligence",
-        "Development"
-      ]
-    },
-    {
-      "name": "Kilo Code for iOS and Android",
-      "desc": "Start coding agents, control sessions, review PRs. Anywhere.",
-      "votes": 487,
-      "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-ios-and-android?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/96f3101a-40e9-430c-9e1b-5a2b9ab9b510.gif?auto=format",
-      "topics": [
-        "Android",
-        "iOS",
-        "Developer Tools"
-      ]
-    },
-    {
       "name": "ProductBridge",
       "desc": "AI-native customer support and feedback agent",
       "votes": 480,
@@ -182,9 +146,21 @@
       ]
     },
     {
+      "name": "Superset Mobile",
+      "desc": "Your coding agents, now in your pocket",
+      "votes": 480,
+      "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
+      "topics": [
+        "iOS",
+        "Artificial Intelligence",
+        "Development"
+      ]
+    },
+    {
       "name": "Monospace from Directus",
       "desc": "The governed API layer for every app, person, and agent",
-      "votes": 476,
+      "votes": 473,
       "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
       "topics": [
@@ -194,39 +170,27 @@
       ]
     },
     {
+      "name": "Kilo Code for iOS and Android",
+      "desc": "Start coding agents, control sessions, review PRs. Anywhere.",
+      "votes": 471,
+      "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-ios-and-android?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/96f3101a-40e9-430c-9e1b-5a2b9ab9b510.gif?auto=format",
+      "topics": [
+        "Android",
+        "iOS",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "Solid",
       "desc": "Agents with their own computers, accounts, and budgets.",
-      "votes": 472,
+      "votes": 459,
       "url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6ce26f07-1a8a-405d-b13e-5ef988443499.svg?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Development"
-      ]
-    },
-    {
-      "name": "Gauth Unlimited Digital Canvas ",
-      "desc": "An AI tutor on an infinite whiteboard, not a chat thread",
-      "votes": 469,
-      "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/970ab368-95d3-436f-9476-9f21341e59da.jpeg?auto=format",
-      "topics": [
-        "Education",
-        "Artificial Intelligence",
-        "Online Learning"
-      ]
-    },
-    {
-      "name": "MCP Connectors by Databox",
-      "desc": "Give your AI Analyst context to explain performance and act",
-      "votes": 459,
-      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
-      "topics": [
-        "Analytics",
-        "SaaS",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -239,6 +203,42 @@
         "Sales",
         "SaaS",
         "Tech"
+      ]
+    },
+    {
+      "name": "Floot MCP",
+      "desc": "Build and ship web and mobile apps inside Claude or ChatGPT",
+      "votes": 452,
+      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "No-Code"
+      ]
+    },
+    {
+      "name": "MCP Connectors by Databox",
+      "desc": "Give your AI Analyst context to explain performance and act",
+      "votes": 452,
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
+      "topics": [
+        "Analytics",
+        "SaaS",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "iFixAi",
+      "desc": "Independent auditing of AI agents to uncover misalignment",
+      "votes": 447,
+      "url": "https://www.producthunt.com/products/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/63c7402c-5f53-42d8-a4de-429c1b3c6260.png?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     }
   ]
