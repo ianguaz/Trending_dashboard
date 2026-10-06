@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "items": [
     {
       "name": "tester-army/e2e",
       "desc": "Next generation e2e testing framework for web and mobile apps.",
-      "stars": "5749",
+      "stars": "6121",
       "today": "1,720 stars today",
       "language": "TypeScript",
       "url": "https://github.com/tester-army/e2e"
@@ -12,15 +12,15 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "277662",
-      "today": "1,028 stars today",
+      "stars": "277997",
+      "today": "972 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
     },
     {
       "name": "earthtojake/text-to-cad",
       "desc": "Give your agent CAD superpowers.",
-      "stars": "17767",
+      "stars": "17894",
       "today": "620 stars today",
       "language": "Python",
       "url": "https://github.com/earthtojake/text-to-cad"
@@ -28,7 +28,7 @@
     {
       "name": "boykopovar/AnyPS5",
       "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": "5564",
+      "stars": "6205",
       "today": "943 stars today",
       "language": "C++",
       "url": "https://github.com/boykopovar/AnyPS5"
@@ -36,15 +36,15 @@
     {
       "name": "pbakaus/impeccable",
       "desc": "The design language that makes your AI harness better at design.",
-      "stars": "77439",
-      "today": "947 stars today",
+      "stars": "77603",
+      "today": "609 stars today",
       "language": "JavaScript",
       "url": "https://github.com/pbakaus/impeccable"
     },
     {
       "name": "thedotmack/claude-mem",
       "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": "96942",
+      "stars": "97082",
       "today": "536 stars today",
       "language": "TypeScript",
       "url": "https://github.com/thedotmack/claude-mem"
@@ -52,7 +52,7 @@
     {
       "name": "ayghri/i-have-adhd",
       "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": "54187",
+      "stars": "54317",
       "today": "318 stars today",
       "language": "Python",
       "url": "https://github.com/ayghri/i-have-adhd"
@@ -60,7 +60,7 @@
     {
       "name": "morluto/rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": "7378",
+      "stars": "8619",
       "today": "2,963 stars today",
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
@@ -68,7 +68,7 @@
     {
       "name": "deepseek-ai/DeepGEMM",
       "desc": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "stars": "8586",
+      "stars": "8656",
       "today": "363 stars today",
       "language": "Cuda",
       "url": "https://github.com/deepseek-ai/DeepGEMM"
@@ -76,7 +76,7 @@
     {
       "name": "msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": "157603",
+      "stars": "157737",
       "today": "621 stars today",
       "language": "Shell",
       "url": "https://github.com/msitarzewski/agency-agents"
@@ -84,7 +84,7 @@
     {
       "name": "DuarteSantos8/openGym",
       "desc": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "stars": "5094",
+      "stars": "5520",
       "today": "1,419 stars today",
       "language": "JavaScript",
       "url": "https://github.com/DuarteSantos8/openGym"
@@ -92,7 +92,7 @@
     {
       "name": "cathrynlavery/diagram-design",
       "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": "43722",
+      "stars": "43942",
       "today": "227 stars today",
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design"
