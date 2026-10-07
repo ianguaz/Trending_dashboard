@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "items": [
     {
       "name": "Ami AI",
       "desc": "Lovable for getting customers",
-      "votes": 675,
+      "votes": 676,
       "url": "https://www.producthunt.com/products/ami-ai/launches/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "tiun.",
       "desc": "Auth, billing, and payments for AI builders",
-      "votes": 633,
+      "votes": 635,
       "url": "https://www.producthunt.com/products/tiun-2/launches/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/86831409-94db-4f42-a2a6-651c9c669161.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "CREEM 2.0",
       "desc": "Sell and grow your AI built products",
-      "votes": 622,
+      "votes": 623,
       "url": "https://www.producthunt.com/products/creem/launches/creem-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 602,
+      "votes": 603,
       "url": "https://www.producthunt.com/products/jev/launches/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 598,
+      "votes": 600,
       "url": "https://www.producthunt.com/products/clueso/launches/clueso-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Voiskey",
       "desc": "AI voice typing that sounds right in every app",
-      "votes": 559,
+      "votes": 563,
       "url": "https://www.producthunt.com/products/voiskey/launches/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
       "topics": [
@@ -158,6 +158,18 @@
       ]
     },
     {
+      "name": "Kilo Code for iOS and Android",
+      "desc": "Start coding agents, control sessions, review PRs. Anywhere.",
+      "votes": 475,
+      "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-ios-and-android?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/96f3101a-40e9-430c-9e1b-5a2b9ab9b510.gif?auto=format",
+      "topics": [
+        "Android",
+        "iOS",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "Monospace from Directus",
       "desc": "The governed API layer for every app, person, and agent",
       "votes": 474,
@@ -167,18 +179,6 @@
         "API",
         "Developer Tools",
         "Data"
-      ]
-    },
-    {
-      "name": "Kilo Code for iOS and Android",
-      "desc": "Start coding agents, control sessions, review PRs. Anywhere.",
-      "votes": 474,
-      "url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-for-ios-and-android?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/96f3101a-40e9-430c-9e1b-5a2b9ab9b510.gif?auto=format",
-      "topics": [
-        "Android",
-        "iOS",
-        "Developer Tools"
       ]
     },
     {
@@ -196,7 +196,7 @@
     {
       "name": "Pexo",
       "desc": "Produce pitch perfect launch videos with precise control",
-      "votes": 463,
+      "votes": 464,
       "url": "https://www.producthunt.com/products/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
       "topics": [
@@ -220,7 +220,7 @@
     {
       "name": "MCP Connectors by Databox",
       "desc": "Give your AI Analyst context to explain performance and act",
-      "votes": 460,
+      "votes": 461,
       "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/98b326f4-055d-4d4b-9943-a627e902fedc.png?auto=format",
       "topics": [
@@ -232,7 +232,7 @@
     {
       "name": "Floot MCP",
       "desc": "Build and ship web and mobile apps inside Claude or ChatGPT",
-      "votes": 454,
+      "votes": 455,
       "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format",
       "topics": [
