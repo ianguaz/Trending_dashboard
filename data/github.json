@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "items": [
     {
       "name": "boykopovar/AnyPS5",
       "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": "13756",
+      "stars": "14972",
       "today": "4,640 stars today",
       "language": "C++",
       "url": "https://github.com/boykopovar/AnyPS5"
@@ -12,7 +12,7 @@
     {
       "name": "cathrynlavery/diagram-design",
       "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": "45802",
+      "stars": "46149",
       "today": "1,163 stars today",
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design"
@@ -20,7 +20,7 @@
     {
       "name": "morluto/rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": "20290",
+      "stars": "23988",
       "today": "7,744 stars today",
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
@@ -28,7 +28,7 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "280801",
+      "stars": "280924",
       "today": "1,770 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
@@ -36,7 +36,7 @@
     {
       "name": "thedotmack/claude-mem",
       "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "stars": "98174",
+      "stars": "98346",
       "today": "662 stars today",
       "language": "TypeScript",
       "url": "https://github.com/thedotmack/claude-mem"
@@ -44,7 +44,7 @@
     {
       "name": "EpicGames/raddebugger",
       "desc": "A native, user-mode, multi-process, graphical debugger.",
-      "stars": "8011",
+      "stars": "8081",
       "today": "283 stars today",
       "language": "C",
       "url": "https://github.com/EpicGames/raddebugger"
@@ -52,23 +52,23 @@
     {
       "name": "anthropics/knowledge-work-plugins",
       "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": "27330",
-      "today": "766 stars today",
+      "stars": "27453",
+      "today": "309 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/knowledge-work-plugins"
     },
     {
       "name": "storytold/artcraft",
       "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": "6542",
-      "today": "1,465 stars today",
+      "stars": "7453",
+      "today": "2,510 stars today",
       "language": "Rust",
       "url": "https://github.com/storytold/artcraft"
     },
     {
       "name": "liquidslr/system-design-notes",
       "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "stars": "24318",
+      "stars": "24517",
       "today": "398 stars today",
       "language": "",
       "url": "https://github.com/liquidslr/system-design-notes"
