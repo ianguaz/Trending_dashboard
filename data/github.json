@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "items": [
     {
       "name": "morluto/rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": "37609",
+      "stars": "42382",
       "today": "15,335 stars today",
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
@@ -12,7 +12,7 @@
     {
       "name": "boykopovar/AnyPS5",
       "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "stars": "19782",
+      "stars": "21412",
       "today": "5,925 stars today",
       "language": "C++",
       "url": "https://github.com/boykopovar/AnyPS5"
@@ -20,7 +20,7 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "282165",
+      "stars": "282449",
       "today": "1,696 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
@@ -28,7 +28,7 @@
     {
       "name": "cathrynlavery/diagram-design",
       "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": "47484",
+      "stars": "47721",
       "today": "1,744 stars today",
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design"
@@ -36,7 +36,7 @@
     {
       "name": "alibaba/open-code-review",
       "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": "44905",
+      "stars": "45087",
       "today": "323 stars today",
       "language": "Go",
       "url": "https://github.com/alibaba/open-code-review"
@@ -44,7 +44,7 @@
     {
       "name": "anthropics/knowledge-work-plugins",
       "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": "28037",
+      "stars": "28164",
       "today": "714 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/knowledge-work-plugins"
@@ -52,7 +52,7 @@
     {
       "name": "BerriAI/litellm",
       "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "stars": "60498",
+      "stars": "60587",
       "today": "95 stars today",
       "language": "Python",
       "url": "https://github.com/BerriAI/litellm"
@@ -60,15 +60,15 @@
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "103718",
-      "today": "751 stars today",
+      "stars": "103877",
+      "today": "523 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "storytold/artcraft",
       "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "stars": "10214",
+      "stars": "11009",
       "today": "3,723 stars today",
       "language": "Rust",
       "url": "https://github.com/storytold/artcraft"
@@ -76,7 +76,7 @@
     {
       "name": "Robbyant/lingbot-map",
       "desc": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-      "stars": "17577",
+      "stars": "17644",
       "today": "109 stars today",
       "language": "Python",
       "url": "https://github.com/Robbyant/lingbot-map"
@@ -84,7 +84,7 @@
     {
       "name": "twostraws/SwiftUI-Agent-Skill",
       "desc": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stars": "5272",
+      "stars": "5365",
       "today": "88 stars today",
       "language": "",
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
