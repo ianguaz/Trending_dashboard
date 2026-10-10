@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "items": [
     {
       "name": "Ami AI",
@@ -76,7 +76,7 @@
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 556,
+      "votes": 555,
       "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 542,
+      "votes": 543,
       "url": "https://www.producthunt.com/products/naoma/launches/naoma-ai-demo-agent-v2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
@@ -110,18 +110,6 @@
       ]
     },
     {
-      "name": "GenPage 3.0",
-      "desc": "Build, personalize, and optimize landing pages with AI",
-      "votes": 512,
-      "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing",
-        "Website Builder"
-      ]
-    },
-    {
       "name": "AINA",
       "desc": "Find your job search blind spots with an AI coach",
       "votes": 510,
@@ -131,6 +119,18 @@
         "Productivity",
         "Artificial Intelligence",
         "Career"
+      ]
+    },
+    {
+      "name": "GenPage 3.0",
+      "desc": "Build, personalize, and optimize landing pages with AI",
+      "votes": 510,
+      "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Website Builder"
       ]
     },
     {
@@ -146,6 +146,17 @@
       ]
     },
     {
+      "name": "Rill Browser",
+      "desc": "The browser where Claude Code and Codex work beside you",
+      "votes": 500,
+      "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "ProductBridge",
       "desc": "AI-native customer support and feedback agent",
       "votes": 483,
@@ -158,29 +169,6 @@
       ]
     },
     {
-      "name": "Monospace from Directus",
-      "desc": "The governed API layer for every app, person, and agent",
-      "votes": 476,
-      "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
-      "topics": [
-        "API",
-        "Developer Tools",
-        "Data"
-      ]
-    },
-    {
-      "name": "Rill Browser",
-      "desc": "The browser where Claude Code and Codex work beside you",
-      "votes": 475,
-      "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
       "votes": 475,
@@ -190,6 +178,30 @@
         "iOS",
         "Artificial Intelligence",
         "Development"
+      ]
+    },
+    {
+      "name": "Monospace from Directus",
+      "desc": "The governed API layer for every app, person, and agent",
+      "votes": 475,
+      "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Data"
+      ]
+    },
+    {
+      "name": "Velozity",
+      "desc": "The Multiplayer AI Office where your team and agents work",
+      "votes": 472,
+      "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Meetings",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -214,18 +226,6 @@
         "Marketing",
         "Artificial Intelligence",
         "Video"
-      ]
-    },
-    {
-      "name": "Velozity",
-      "desc": "The Multiplayer AI Office where your team and agents work",
-      "votes": 470,
-      "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Meetings",
-        "Artificial Intelligence"
       ]
     },
     {
