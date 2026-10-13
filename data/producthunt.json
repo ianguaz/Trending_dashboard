@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "items": [
     {
       "name": "Ami AI",
@@ -28,7 +28,7 @@
     {
       "name": "CREEM 2.0",
       "desc": "Sell and grow your AI built products",
-      "votes": 612,
+      "votes": 613,
       "url": "https://www.producthunt.com/products/creem/launches/creem-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a587f47-8a8d-4737-a953-0a2fd60ecfe5.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 596,
+      "votes": 597,
       "url": "https://www.producthunt.com/products/clueso/launches/clueso-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 593,
+      "votes": 594,
       "url": "https://www.producthunt.com/products/jev/launches/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
@@ -62,21 +62,9 @@
       ]
     },
     {
-      "name": "Voiskey",
-      "desc": "AI voice typing that sounds right in every app",
-      "votes": 560,
-      "url": "https://www.producthunt.com/products/voiskey/launches/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Audio"
-      ]
-    },
-    {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 558,
+      "votes": 556,
       "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -86,27 +74,27 @@
       ]
     },
     {
+      "name": "Voiskey",
+      "desc": "AI voice typing that sounds right in every app",
+      "votes": 552,
+      "url": "https://www.producthunt.com/products/voiskey/launches/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/fa69e222-a6f8-4001-931c-0bbd32849eb4.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Audio"
+      ]
+    },
+    {
       "name": "Naoma AI Demo Agent V2",
       "desc": "Turns website traffic into booked, qualified meetings",
-      "votes": 534,
+      "votes": 535,
       "url": "https://www.producthunt.com/products/naoma/launches/naoma-ai-demo-agent-v2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/9cf65627-cdeb-4434-90df-da1064018ee0.png?auto=format",
       "topics": [
         "Sales",
         "Marketing",
         "Marketing automation"
-      ]
-    },
-    {
-      "name": "AINA",
-      "desc": "Find your job search blind spots with an AI coach",
-      "votes": 511,
-      "url": "https://www.producthunt.com/products/aina/launches/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Career"
       ]
     },
     {
@@ -123,7 +111,7 @@
     {
       "name": "IrisGo for Solopreneurs",
       "desc": "AI workflow automation: show it once, let it run",
-      "votes": 505,
+      "votes": 506,
       "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
       "topics": [
@@ -133,9 +121,21 @@
       ]
     },
     {
+      "name": "AINA",
+      "desc": "Find your job search blind spots with an AI coach",
+      "votes": 503,
+      "url": "https://www.producthunt.com/products/aina/launches/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Career"
+      ]
+    },
+    {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 491,
+      "votes": 495,
       "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -147,7 +147,7 @@
     {
       "name": "ProductBridge",
       "desc": "AI-native customer support and feedback agent",
-      "votes": 483,
+      "votes": 481,
       "url": "https://www.producthunt.com/products/productbridge/launches/productbridge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
       "topics": [
@@ -159,13 +159,25 @@
     {
       "name": "GenPage 3.0",
       "desc": "Build, personalize, and optimize landing pages with AI",
-      "votes": 462,
+      "votes": 463,
       "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
       "topics": [
         "Sales",
         "Marketing",
         "Website Builder"
+      ]
+    },
+    {
+      "name": "Velozity",
+      "desc": "The Multiplayer AI Office where your team and agents work",
+      "votes": 449,
+      "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Meetings",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -178,18 +190,6 @@
         "Marketing",
         "Artificial Intelligence",
         "Video"
-      ]
-    },
-    {
-      "name": "Velozity",
-      "desc": "The Multiplayer AI Office where your team and agents work",
-      "votes": 448,
-      "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Meetings",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -219,7 +219,7 @@
     {
       "name": "Solid",
       "desc": "Agents with their own computers, accounts, and budgets.",
-      "votes": 437,
+      "votes": 439,
       "url": "https://www.producthunt.com/products/solid-3/launches/solid-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6ce26f07-1a8a-405d-b13e-5ef988443499.svg?auto=format",
       "topics": [
@@ -231,7 +231,7 @@
     {
       "name": "Floot MCP",
       "desc": "Build and ship web and mobile apps inside Claude or ChatGPT",
-      "votes": 432,
+      "votes": 433,
       "url": "https://www.producthunt.com/products/floot/launches/floot-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format",
       "topics": [
