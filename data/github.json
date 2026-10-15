@@ -4,98 +4,98 @@
     {
       "name": "morluto/rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": "237668",
-      "today": "41,187 stars today",
+      "stars": "259418",
+      "today": "32,282 stars today",
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
     },
     {
-      "name": "debpalash/VoiceStudio",
-      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": "65838",
-      "today": "3,547 stars today",
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "38375",
+      "today": "181 stars today",
       "language": "Python",
-      "url": "https://github.com/debpalash/VoiceStudio"
-    },
-    {
-      "name": "mksglu/context-mode",
-      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": "28974",
-      "today": "946 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/mksglu/context-mode"
-    },
-    {
-      "name": "nvm-sh/nvm",
-      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "stars": "95422",
-      "today": "70 stars today",
-      "language": "Shell",
-      "url": "https://github.com/nvm-sh/nvm"
+      "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": "49185",
-      "today": "146 stars today",
+      "stars": "50010",
+      "today": "1,091 stars today",
       "language": "Python",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "name": "HKUDS/CLI-Anything",
-      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": "52372",
-      "today": "94 stars today",
-      "language": "Python",
-      "url": "https://github.com/HKUDS/CLI-Anything"
-    },
-    {
-      "name": "ifixai-ai/iFixAi",
-      "desc": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "stars": "27172",
-      "today": "2,143 stars today",
-      "language": "Python",
-      "url": "https://github.com/ifixai-ai/iFixAi"
-    },
-    {
-      "name": "vxcontrol/pentagi",
-      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": "29201",
-      "today": "1,070 stars today",
+      "name": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": "112122",
+      "today": "398 stars today",
       "language": "Go",
-      "url": "https://github.com/vxcontrol/pentagi"
+      "url": "https://github.com/JuliusBrussee/caveman"
     },
     {
-      "name": "rust-lang/rust",
-      "desc": "Empowering everyone to build reliable and efficient software.",
-      "stars": "119915",
-      "today": "205 stars today",
-      "language": "Rust",
-      "url": "https://github.com/rust-lang/rust"
+      "name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "67983",
+      "today": "3,027 stars today",
+      "language": "Python",
+      "url": "https://github.com/debpalash/VoiceStudio"
     },
     {
-      "name": "xtool-org/xtool",
-      "desc": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-      "stars": "10551",
-      "today": "1,510 stars today",
-      "language": "Swift",
-      "url": "https://github.com/xtool-org/xtool"
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "stars": "299505",
+      "today": "534 stars today",
+      "language": "Shell",
+      "url": "https://github.com/obra/superpowers"
     },
     {
-      "name": "ntdevlabs/tiny11builder",
-      "desc": "WinUI app for building smaller, customized Windows 11 images.",
-      "stars": "20156",
-      "today": "194 stars today",
-      "language": "C#",
-      "url": "https://github.com/ntdevlabs/tiny11builder"
+      "name": "ruvnet/ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "74805",
+      "today": "146 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "29594",
+      "today": "902 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/mksglu/context-mode"
     },
     {
       "name": "NationalSecurityAgency/ghidra",
       "desc": "Ghidra is a software reverse engineering (SRE) framework",
-      "stars": "87262",
-      "today": "1,002 stars today",
+      "stars": "88203",
+      "today": "1,366 stars today",
       "language": "Java",
       "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "279907",
+      "today": "1,015 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": "2310",
+      "today": "25 stars today",
+      "language": "Python",
+      "url": "https://github.com/lightseekorg/tokenspeed"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "desc": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": "4838",
+      "today": "725 stars today",
+      "language": "Rust",
+      "url": "https://github.com/xerj-org/xerj"
     }
   ]
 }
