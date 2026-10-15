@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "items": [
     {
       "name": "morluto/rea",
       "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": "259418",
+      "stars": "266461",
       "today": "32,282 stars today",
       "language": "TypeScript",
       "url": "https://github.com/morluto/rea"
@@ -12,15 +12,15 @@
     {
       "name": "anthropics/claude-plugins-official",
       "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": "38375",
-      "today": "181 stars today",
+      "stars": "38851",
+      "today": "525 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "stars": "50010",
+      "stars": "50299",
       "today": "1,091 stars today",
       "language": "Python",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
@@ -28,15 +28,15 @@
     {
       "name": "JuliusBrussee/caveman",
       "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "stars": "112122",
-      "today": "398 stars today",
+      "stars": "112389",
+      "today": "530 stars today",
       "language": "Go",
       "url": "https://github.com/JuliusBrussee/caveman"
     },
     {
       "name": "debpalash/VoiceStudio",
       "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": "67983",
+      "stars": "68665",
       "today": "3,027 stars today",
       "language": "Python",
       "url": "https://github.com/debpalash/VoiceStudio"
@@ -44,23 +44,23 @@
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "299505",
-      "today": "534 stars today",
+      "stars": "299740",
+      "today": "688 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
     },
     {
       "name": "ruvnet/ruflo",
       "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "stars": "74805",
-      "today": "146 stars today",
+      "stars": "74993",
+      "today": "224 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ruvnet/ruflo"
     },
     {
       "name": "mksglu/context-mode",
       "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": "29594",
+      "stars": "29720",
       "today": "902 stars today",
       "language": "TypeScript",
       "url": "https://github.com/mksglu/context-mode"
@@ -68,7 +68,7 @@
     {
       "name": "NationalSecurityAgency/ghidra",
       "desc": "Ghidra is a software reverse engineering (SRE) framework",
-      "stars": "88203",
+      "stars": "88539",
       "today": "1,366 stars today",
       "language": "Java",
       "url": "https://github.com/NationalSecurityAgency/ghidra"
@@ -76,7 +76,7 @@
     {
       "name": "affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "279907",
+      "stars": "280188",
       "today": "1,015 stars today",
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
@@ -84,7 +84,7 @@
     {
       "name": "lightseekorg/tokenspeed",
       "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "stars": "2310",
+      "stars": "2421",
       "today": "25 stars today",
       "language": "Python",
       "url": "https://github.com/lightseekorg/tokenspeed"
@@ -92,7 +92,7 @@
     {
       "name": "xerj-org/xerj",
       "desc": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-      "stars": "4838",
+      "stars": "5468",
       "today": "725 stars today",
       "language": "Rust",
       "url": "https://github.com/xerj-org/xerj"
