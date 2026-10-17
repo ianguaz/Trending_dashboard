@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "items": [
     {
       "name": "Ami AI",
@@ -16,7 +16,7 @@
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 637,
+      "votes": 636,
       "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -75,7 +75,7 @@
     {
       "name": "IrisGo for Solopreneurs",
       "desc": "AI workflow automation: show it once, let it run",
-      "votes": 513,
+      "votes": 516,
       "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 510,
+      "votes": 509,
       "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -99,7 +99,7 @@
     {
       "name": "AINA",
       "desc": "Find your job search blind spots with an AI coach",
-      "votes": 503,
+      "votes": 504,
       "url": "https://www.producthunt.com/products/aina/launches/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
       "topics": [
@@ -195,7 +195,7 @@
     {
       "name": "Floot MCP",
       "desc": "Build and ship web and mobile apps inside Claude or ChatGPT",
-      "votes": 434,
+      "votes": 431,
       "url": "https://www.producthunt.com/products/floot/launches/floot-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format",
       "topics": [
@@ -207,7 +207,7 @@
     {
       "name": "Arcjet",
       "desc": "Secure the AI agents you're building at runtime",
-      "votes": 427,
+      "votes": 428,
       "url": "https://www.producthunt.com/products/arcjet/launches/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/18099e8c-fbb3-4c51-bad5-06a5cd993715.jpeg?auto=format",
       "topics": [
