@@ -2,21 +2,9 @@
   "date": "2026-10-18",
   "items": [
     {
-      "name": "Ami AI",
-      "desc": "Lovable for getting customers",
-      "votes": 686,
-      "url": "https://www.producthunt.com/products/ami-ai/launches/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/75f0625c-cbfa-4751-b269-42252ecb1f75.png?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 636,
+      "votes": 638,
       "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -28,7 +16,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 604,
+      "votes": 608,
       "url": "https://www.producthunt.com/products/clueso/launches/clueso-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -40,7 +28,7 @@
     {
       "name": "Jev",
       "desc": "Fast, structured AI decisions for software automation",
-      "votes": 596,
+      "votes": 597,
       "url": "https://www.producthunt.com/products/jev/launches/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
       "topics": [
@@ -52,7 +40,7 @@
     {
       "name": "Pancake",
       "desc": "The Vercel for GTM",
-      "votes": 585,
+      "votes": 581,
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -64,7 +52,7 @@
     {
       "name": "Rill Browser",
       "desc": "The browser where Claude Code and Codex work beside you",
-      "votes": 519,
+      "votes": 518,
       "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
       "topics": [
@@ -75,7 +63,7 @@
     {
       "name": "IrisGo for Solopreneurs",
       "desc": "AI workflow automation: show it once, let it run",
-      "votes": 516,
+      "votes": 515,
       "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
       "topics": [
@@ -87,7 +75,7 @@
     {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 509,
+      "votes": 510,
       "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -97,33 +85,9 @@
       ]
     },
     {
-      "name": "AINA",
-      "desc": "Find your job search blind spots with an AI coach",
-      "votes": 504,
-      "url": "https://www.producthunt.com/products/aina/launches/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/863751ef-7a8b-4ecd-8cfd-2ed270599073.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Career"
-      ]
-    },
-    {
-      "name": "ProductBridge",
-      "desc": "AI-native customer support and feedback agent",
-      "votes": 483,
-      "url": "https://www.producthunt.com/products/productbridge/launches/productbridge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/1620d474-4ebf-4bf4-8fd1-3f4774643bb3.png?auto=format",
-      "topics": [
-        "Customer Success",
-        "Customer Communication",
-        "OpenAI Day"
-      ]
-    },
-    {
       "name": "GenPage 3.0",
       "desc": "Build, personalize, and optimize landing pages with AI",
-      "votes": 464,
+      "votes": 463,
       "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
       "topics": [
@@ -147,7 +111,7 @@
     {
       "name": "Pexo",
       "desc": "Produce pitch perfect launch videos with precise control",
-      "votes": 450,
+      "votes": 451,
       "url": "https://www.producthunt.com/products/pexo-2/launches/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
       "topics": [
@@ -171,7 +135,7 @@
     {
       "name": "Monospace from Directus",
       "desc": "The governed API layer for every app, person, and agent",
-      "votes": 445,
+      "votes": 443,
       "url": "https://www.producthunt.com/products/directus/launches/monospace-from-directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
       "topics": [
@@ -183,7 +147,7 @@
     {
       "name": "Solid",
       "desc": "Agents with their own computers, accounts, and budgets.",
-      "votes": 438,
+      "votes": 437,
       "url": "https://www.producthunt.com/products/solid-3/launches/solid-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6ce26f07-1a8a-405d-b13e-5ef988443499.svg?auto=format",
       "topics": [
@@ -219,7 +183,7 @@
     {
       "name": "Superset Mobile",
       "desc": "Your coding agents, now in your pocket",
-      "votes": 426,
+      "votes": 425,
       "url": "https://www.producthunt.com/products/superset-5/launches/superset-mobile-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/21626531-ca76-4508-9f25-3cd43e443e8f.png?auto=format",
       "topics": [
@@ -229,15 +193,51 @@
       ]
     },
     {
+      "name": "Jockey by TwelveLabs",
+      "desc": "Your entire video library: organized, searchable, understood",
+      "votes": 418,
+      "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Video"
+      ]
+    },
+    {
       "name": "Gauth Unlimited Digital Canvas ",
       "desc": "An AI tutor on an infinite whiteboard, not a chat thread",
-      "votes": 418,
+      "votes": 414,
       "url": "https://www.producthunt.com/products/gauth-ai-course/launches/gauth-unlimited-digital-canvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/970ab368-95d3-436f-9476-9f21341e59da.jpeg?auto=format",
       "topics": [
         "Education",
         "Artificial Intelligence",
         "Online Learning"
+      ]
+    },
+    {
+      "name": "OpenSEO",
+      "desc": "The open source Semrush alternative",
+      "votes": 411,
+      "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/2c78fe4a-262c-48b2-a376-365b77bf6eeb.png?auto=format",
+      "topics": [
+        "Open Source",
+        "Marketing",
+        "SEO"
+      ]
+    },
+    {
+      "name": "iFixAi",
+      "desc": "Independent auditing of AI agents to uncover misalignment",
+      "votes": 400,
+      "url": "https://www.producthunt.com/products/ifixai/launches/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/63c7402c-5f53-42d8-a4de-429c1b3c6260.png?auto=format",
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     }
   ]
