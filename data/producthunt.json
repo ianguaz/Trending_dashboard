@@ -4,7 +4,7 @@
     {
       "name": "Clueso MCP",
       "desc": "Create and edit videos by chatting",
-      "votes": 604,
+      "votes": 605,
       "url": "https://www.producthunt.com/products/clueso/launches/clueso-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
       "topics": [
@@ -14,21 +14,9 @@
       ]
     },
     {
-      "name": "Jev",
-      "desc": "Fast, structured AI decisions for software automation",
-      "votes": 590,
-      "url": "https://www.producthunt.com/products/jev/launches/jev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/07153df1-cbfd-4b82-80c4-3a072a49f782.png?auto=format",
-      "topics": [
-        "API",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 575,
+      "votes": 592,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -40,7 +28,7 @@
     {
       "name": "Pancake",
       "desc": "The Vercel for GTM",
-      "votes": 565,
+      "votes": 573,
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -52,7 +40,7 @@
     {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 488,
+      "votes": 489,
       "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -62,10 +50,22 @@
       ]
     },
     {
+      "name": "/dev/null",
+      "desc": "a social network for devs",
+      "votes": 468,
+      "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
+      "topics": [
+        "Open Source",
+        "Social Network",
+        "Software Engineering"
+      ]
+    },
+    {
       "name": "IrisGo for Solopreneurs",
       "desc": "AI workflow automation: show it once, let it run",
-      "votes": 464,
-      "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 463,
+      "url": "https://www.producthunt.com/products/irisgo-public-beta/launches/irisgo-for-solopreneurs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
       "topics": [
         "Task Management",
@@ -76,7 +76,7 @@
     {
       "name": "Rill Browser",
       "desc": "The browser where Claude Code and Codex work beside you",
-      "votes": 438,
+      "votes": 433,
       "url": "https://www.producthunt.com/products/rill-3/launches/rill-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
       "name": "Velozity",
       "desc": "The Multiplayer AI Office where your team and agents work",
       "votes": 430,
-      "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "url": "https://www.producthunt.com/products/velozity-2/launches/velozity-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
       "topics": [
         "Productivity",
@@ -159,25 +159,13 @@
     {
       "name": "OpenSEO",
       "desc": "The open source Semrush alternative",
-      "votes": 407,
+      "votes": 408,
       "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2c78fe4a-262c-48b2-a376-365b77bf6eeb.png?auto=format",
       "topics": [
         "Open Source",
         "Marketing",
         "SEO"
-      ]
-    },
-    {
-      "name": "Arcjet",
-      "desc": "Secure the AI agents you're building at runtime",
-      "votes": 405,
-      "url": "https://www.producthunt.com/products/arcjet/launches/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/18099e8c-fbb3-4c51-bad5-06a5cd993715.jpeg?auto=format",
-      "topics": [
-        "Developer Tools",
-        "SDK",
-        "Security"
       ]
     },
     {
@@ -189,17 +177,6 @@
       "topics": [
         "Customer Success",
         "Customer Communication",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Sai",
-      "desc": "The autonomous computer fleet at your command",
-      "votes": 384,
-      "url": "https://www.producthunt.com/products/simular/launches/sai-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/72c4a8af-717b-4d86-9495-6ff1101c6db1.png?auto=format",
-      "topics": [
-        "Productivity",
         "Artificial Intelligence"
       ]
     },
@@ -216,9 +193,21 @@
       ]
     },
     {
+      "name": "Beam.win",
+      "desc": "Run AI agents on one Mac and use its windows on another",
+      "votes": 371,
+      "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Inbox Zero",
       "desc": "Open-source Superhuman alternative",
-      "votes": 366,
+      "votes": 370,
       "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
       "topics": [
@@ -230,13 +219,25 @@
     {
       "name": "GenPage 3.0",
       "desc": "Build, personalize, and optimize landing pages with AI",
-      "votes": 366,
-      "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 364,
+      "url": "https://www.producthunt.com/products/genpage/launches/genpage-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
       "topics": [
         "Sales",
         "Marketing",
         "Website Builder"
+      ]
+    },
+    {
+      "name": "Claude Opus 5.5",
+      "desc": "Anthropic's first model in their new Claude 5.5 family",
+      "votes": 363,
+      "url": "https://www.producthunt.com/products/claude-fable-5-1/launches/claude-opus-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/8c1c1deb-2da7-42fc-9bca-d45c505dd4ed.png?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "Development"
       ]
     }
   ]
