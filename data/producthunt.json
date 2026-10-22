@@ -2,21 +2,9 @@
   "date": "2026-10-22",
   "items": [
     {
-      "name": "Clueso MCP",
-      "desc": "Create and edit videos by chatting",
-      "votes": 605,
-      "url": "https://www.producthunt.com/products/clueso/launches/clueso-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/5fb08d1c-01a1-43a5-a993-958aec64788b.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "Animation",
-        "Video"
-      ]
-    },
-    {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 601,
+      "votes": 624,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -28,7 +16,7 @@
     {
       "name": "Pancake",
       "desc": "The Vercel for GTM",
-      "votes": 574,
+      "votes": 576,
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -40,7 +28,7 @@
     {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 489,
+      "votes": 491,
       "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -52,7 +40,7 @@
     {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 481,
+      "votes": 486,
       "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -76,7 +64,7 @@
     {
       "name": "Rill Browser",
       "desc": "The browser where Claude Code and Codex work beside you",
-      "votes": 433,
+      "votes": 434,
       "url": "https://www.producthunt.com/products/rill-3/launches/rill-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
       "topics": [
@@ -87,7 +75,7 @@
     {
       "name": "Velozity",
       "desc": "The Multiplayer AI Office where your team and agents work",
-      "votes": 430,
+      "votes": 432,
       "url": "https://www.producthunt.com/products/velozity-2/launches/velozity-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
       "topics": [
@@ -111,7 +99,7 @@
     {
       "name": "Pexo",
       "desc": "Produce pitch perfect launch videos with precise control",
-      "votes": 426,
+      "votes": 427,
       "url": "https://www.producthunt.com/products/pexo-2/launches/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
       "topics": [
@@ -123,7 +111,7 @@
     {
       "name": "Floot MCP",
       "desc": "Build and ship web and mobile apps inside Claude or ChatGPT",
-      "votes": 423,
+      "votes": 422,
       "url": "https://www.producthunt.com/products/floot/launches/floot-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format",
       "topics": [
@@ -159,8 +147,8 @@
     {
       "name": "OpenSEO",
       "desc": "The open source Semrush alternative",
-      "votes": 408,
-      "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 409,
+      "url": "https://www.producthunt.com/products/openseo/launches/openseo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2c78fe4a-262c-48b2-a376-365b77bf6eeb.png?auto=format",
       "topics": [
         "Open Source",
@@ -171,7 +159,7 @@
     {
       "name": "Ferndesk",
       "desc": "The help center that never goes out of date",
-      "votes": 387,
+      "votes": 386,
       "url": "https://www.producthunt.com/products/ferndesk/launches/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/13c7c481-4fdb-42f7-a4f4-2c1fec085409.gif?auto=format",
       "topics": [
@@ -183,7 +171,7 @@
     {
       "name": "iFixAi",
       "desc": "Independent auditing of AI agents to uncover misalignment",
-      "votes": 383,
+      "votes": 382,
       "url": "https://www.producthunt.com/products/ifixai/launches/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/63c7402c-5f53-42d8-a4de-429c1b3c6260.png?auto=format",
       "topics": [
@@ -195,7 +183,7 @@
     {
       "name": "Beam.win",
       "desc": "Run AI agents on one Mac and use its windows on another",
-      "votes": 371,
+      "votes": 376,
       "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
       "topics": [
@@ -207,13 +195,25 @@
     {
       "name": "Inbox Zero",
       "desc": "Open-source Superhuman alternative",
-      "votes": 369,
+      "votes": 375,
       "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
       "topics": [
         "Email",
         "Open Source",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Claude Opus 5.5",
+      "desc": "Anthropic's first model in their new Claude 5.5 family",
+      "votes": 364,
+      "url": "https://www.producthunt.com/products/claude-fable-5-1/launches/claude-opus-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/8c1c1deb-2da7-42fc-9bca-d45c505dd4ed.png?auto=format",
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "Development"
       ]
     },
     {
@@ -229,15 +229,15 @@
       ]
     },
     {
-      "name": "Claude Opus 5.5",
-      "desc": "Anthropic's first model in their new Claude 5.5 family",
-      "votes": 364,
-      "url": "https://www.producthunt.com/products/claude-fable-5-1/launches/claude-opus-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/8c1c1deb-2da7-42fc-9bca-d45c505dd4ed.png?auto=format",
+      "name": "GPT-6 Sol & Luna",
+      "desc": "Frontier AI intelligence, now at half the price",
+      "votes": 358,
+      "url": "https://www.producthunt.com/products/openai/launches/gpt-6-sol-luna?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format",
       "topics": [
+        "API",
         "Developer Tools",
-        "Artificial Intelligence",
-        "Development"
+        "Artificial Intelligence"
       ]
     }
   ]
