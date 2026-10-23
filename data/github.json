@@ -2,76 +2,68 @@
   "date": "2026-10-23",
   "items": [
     {
+      "name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "40903",
+      "today": "2,706 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
       "name": "php/php-src",
       "desc": "The PHP Interpreter",
-      "stars": "41051",
-      "today": "423 stars today",
+      "stars": "41458",
+      "today": "722 stars today",
       "language": "C",
       "url": "https://github.com/php/php-src"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": "31484",
-      "today": "303 stars today",
+      "stars": "31954",
+      "today": "643 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/knowledge-work-plugins"
     },
     {
-      "name": "DietrichGebert/ponytail",
-      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": "173178",
-      "today": "1,949 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
+      "name": "NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": "18308",
+      "today": "211 stars today",
+      "language": "Rust",
+      "url": "https://github.com/NVIDIA/OpenShell"
     },
     {
-      "name": "cloudflare/security-audit-skill",
-      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": "39082",
-      "today": "2,979 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/cloudflare/security-audit-skill"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "stars": "132759",
-      "today": "1,407 stars today",
-      "language": "Python",
-      "url": "https://github.com/Graphify-Labs/graphify"
-    },
-    {
-      "name": "supabase/supabase",
-      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "stars": "113410",
-      "today": "683 stars today",
+      "name": "Renhuai123/ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": "6605",
+      "today": "547 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/supabase/supabase"
+      "url": "https://github.com/Renhuai123/ziwei-doushu"
     },
     {
-      "name": "fastapi/fastapi",
-      "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "stars": "103625",
-      "today": "96 stars today",
+      "name": "SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": "8062",
+      "today": "209 stars today",
       "language": "Python",
-      "url": "https://github.com/fastapi/fastapi"
+      "url": "https://github.com/SnailSploit/Claude-Red"
     },
     {
-      "name": "luongnv89/claude-howto",
-      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": "42987",
-      "today": "370 stars today",
+      "name": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": "40024",
+      "today": "144 stars today",
       "language": "Python",
-      "url": "https://github.com/luongnv89/claude-howto"
+      "url": "https://github.com/OpenBMB/VoxCPM"
     },
     {
-      "name": "Meloong-Git/PCL",
-      "desc": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "stars": "8649",
-      "today": "115 stars today",
-      "language": "Visual Basic .NET",
-      "url": "https://github.com/Meloong-Git/PCL"
+      "name": "nodejs/node",
+      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars": "122616",
+      "today": "76 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/nodejs/node"
     }
   ]
 }
