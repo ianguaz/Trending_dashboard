@@ -4,66 +4,82 @@
     {
       "name": "cloudflare/security-audit-skill",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": "41753",
-      "today": "2,706 stars today",
+      "stars": "43042",
+      "today": "2,271 stars today",
       "language": "JavaScript",
       "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
-      "name": "php/php-src",
-      "desc": "The PHP Interpreter",
-      "stars": "41526",
-      "today": "722 stars today",
-      "language": "C",
-      "url": "https://github.com/php/php-src"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": "32117",
-      "today": "643 stars today",
-      "language": "Python",
-      "url": "https://github.com/anthropics/knowledge-work-plugins"
-    },
-    {
       "name": "NVIDIA/OpenShell",
       "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": "18644",
-      "today": "1,240 stars today",
+      "stars": "19135",
+      "today": "893 stars today",
       "language": "Rust",
       "url": "https://github.com/NVIDIA/OpenShell"
     },
     {
-      "name": "Renhuai123/ziwei-doushu",
-      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "stars": "6813",
-      "today": "547 stars today",
+      "name": "aws/agent-toolkit-for-aws",
+      "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars": "2970",
+      "today": "11 stars today",
+      "language": "Python",
+      "url": "https://github.com/aws/agent-toolkit-for-aws"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": "31519",
+      "today": "567 stars today",
+      "language": "CSS",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": "44165",
+      "today": "1,053 stars today",
+      "language": "Python",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars": "85871",
+      "today": "541 stars today",
+      "language": "Rust",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "stars": "10637",
+      "today": "421 stars today",
+      "language": "Rust",
+      "url": "https://github.com/pollen-robotics/microduck"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": "107605",
+      "today": "38 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/Renhuai123/ziwei-doushu"
+      "url": "https://github.com/google-gemini/gemini-cli"
     },
     {
-      "name": "SnailSploit/Claude-Red",
-      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "stars": "8317",
-      "today": "209 stars today",
+      "name": "jbiaojerry/ebook-treasure-chest",
+      "desc": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "stars": "22289",
+      "today": "220 stars today",
       "language": "Python",
-      "url": "https://github.com/SnailSploit/Claude-Red"
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest"
     },
     {
-      "name": "OpenBMB/VoxCPM",
-      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": "40169",
-      "today": "144 stars today",
-      "language": "Python",
-      "url": "https://github.com/OpenBMB/VoxCPM"
-    },
-    {
-      "name": "nodejs/node",
-      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "stars": "122766",
-      "today": "93 stars today",
-      "language": "JavaScript",
-      "url": "https://github.com/nodejs/node"
+      "name": "makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": "3765",
+      "today": "471 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/makecindy/cindy"
     }
   ]
 }

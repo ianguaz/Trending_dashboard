@@ -4,7 +4,7 @@
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 633,
+      "votes": 635,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Pancake",
       "desc": "The Vercel for GTM",
-      "votes": 583,
+      "votes": 580,
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -41,7 +41,7 @@
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
       "votes": 486,
-      "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "url": "https://www.producthunt.com/products/reso/launches/reso-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
         "SEO",
@@ -75,7 +75,7 @@
     {
       "name": "Velozity",
       "desc": "The Multiplayer AI Office where your team and agents work",
-      "votes": 432,
+      "votes": 433,
       "url": "https://www.producthunt.com/products/velozity-2/launches/velozity-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
       "topics": [
@@ -121,18 +121,6 @@
       ]
     },
     {
-      "name": "Floot MCP",
-      "desc": "Build and ship web and mobile apps inside Claude or ChatGPT",
-      "votes": 417,
-      "url": "https://www.producthunt.com/products/floot/launches/floot-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence",
-        "No-Code"
-      ]
-    },
-    {
       "name": "OpenSEO",
       "desc": "The open source Semrush alternative",
       "votes": 412,
@@ -145,9 +133,21 @@
       ]
     },
     {
+      "name": "Product Hunt Visual Launch Editor",
+      "desc": "See your launch as you build it",
+      "votes": 404,
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+      "topics": [
+        "Product Hunt",
+        "Maker Tools",
+        "Community"
+      ]
+    },
+    {
       "name": "Ferndesk",
       "desc": "The help center that never goes out of date",
-      "votes": 387,
+      "votes": 386,
       "url": "https://www.producthunt.com/products/ferndesk/launches/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/13c7c481-4fdb-42f7-a4f4-2c1fec085409.gif?auto=format",
       "topics": [
@@ -193,6 +193,18 @@
       ]
     },
     {
+      "name": "Talanoa",
+      "desc": "Email that feels like chat",
+      "votes": 360,
+      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
+      "topics": [
+        "Email",
+        "Productivity",
+        "Task Management"
+      ]
+    },
+    {
       "name": "GenPage 3.0",
       "desc": "Build, personalize, and optimize landing pages with AI",
       "votes": 360,
@@ -226,18 +238,6 @@
         "API",
         "Developer Tools",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Talanoa",
-      "desc": "Email that feels like chat",
-      "votes": 358,
-      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
-      "topics": [
-        "Email",
-        "Productivity",
-        "Task Management"
       ]
     }
   ]
