@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "items": [
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 635,
+      "votes": 642,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 486,
+      "votes": 488,
       "url": "https://www.producthunt.com/products/reso/launches/reso-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Rill Browser",
       "desc": "The browser where Claude Code and Codex work beside you",
-      "votes": 434,
+      "votes": 433,
       "url": "https://www.producthunt.com/products/rill-3/launches/rill-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
       "topics": [
@@ -111,7 +111,7 @@
     {
       "name": "Monospace from Directus",
       "desc": "The governed API layer for every app, person, and agent",
-      "votes": 420,
+      "votes": 421,
       "url": "https://www.producthunt.com/products/directus/launches/monospace-from-directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
       "topics": [
@@ -135,7 +135,7 @@
     {
       "name": "Product Hunt Visual Launch Editor",
       "desc": "See your launch as you build it",
-      "votes": 404,
+      "votes": 410,
       "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -171,7 +171,7 @@
     {
       "name": "Inbox Zero",
       "desc": "Open-source Superhuman alternative",
-      "votes": 379,
+      "votes": 380,
       "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
       "topics": [
@@ -183,7 +183,7 @@
     {
       "name": "Beam.win",
       "desc": "Run AI agents on one Mac and use its windows on another",
-      "votes": 378,
+      "votes": 377,
       "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
       "topics": [
@@ -195,7 +195,7 @@
     {
       "name": "Talanoa",
       "desc": "Email that feels like chat",
-      "votes": 360,
+      "votes": 361,
       "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
       "topics": [
@@ -217,18 +217,6 @@
       ]
     },
     {
-      "name": "Jockey by TwelveLabs",
-      "desc": "Your entire video library: organized, searchable, understood",
-      "votes": 359,
-      "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Video"
-      ]
-    },
-    {
       "name": "GPT-6 Sol & Luna",
       "desc": "Frontier AI intelligence, now at half the price",
       "votes": 359,
@@ -238,6 +226,18 @@
         "API",
         "Developer Tools",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Jockey by TwelveLabs",
+      "desc": "Your entire video library: organized, searchable, understood",
+      "votes": 359,
+      "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Video"
       ]
     }
   ]
