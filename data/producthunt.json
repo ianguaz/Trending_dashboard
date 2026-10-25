@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "items": [
     {
       "name": "Spira Maxima",
@@ -16,7 +16,7 @@
     {
       "name": "Pancake",
       "desc": "The Vercel for GTM",
-      "votes": 584,
+      "votes": 587,
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -97,6 +97,18 @@
       ]
     },
     {
+      "name": "Product Hunt Visual Launch Editor",
+      "desc": "See your launch as you build it",
+      "votes": 427,
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+      "topics": [
+        "Product Hunt",
+        "Maker Tools",
+        "Community"
+      ]
+    },
+    {
       "name": "MCP Connectors by Databox",
       "desc": "Give your AI Analyst context to explain performance and act",
       "votes": 423,
@@ -106,18 +118,6 @@
         "Analytics",
         "SaaS",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Product Hunt Visual Launch Editor",
-      "desc": "See your launch as you build it",
-      "votes": 421,
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
-      "topics": [
-        "Product Hunt",
-        "Maker Tools",
-        "Community"
       ]
     },
     {
@@ -195,25 +195,13 @@
     {
       "name": "Talanoa",
       "desc": "Email that feels like chat",
-      "votes": 362,
+      "votes": 363,
       "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
       "topics": [
         "Email",
         "Productivity",
         "Task Management"
-      ]
-    },
-    {
-      "name": "GenPage 3.0",
-      "desc": "Build, personalize, and optimize landing pages with AI",
-      "votes": 360,
-      "url": "https://www.producthunt.com/products/genpage/launches/genpage-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing",
-        "Website Builder"
       ]
     },
     {
@@ -231,13 +219,25 @@
     {
       "name": "Jockey by TwelveLabs",
       "desc": "Your entire video library: organized, searchable, understood",
-      "votes": 359,
+      "votes": 360,
       "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Video"
+      ]
+    },
+    {
+      "name": "GenPage 3.0",
+      "desc": "Build, personalize, and optimize landing pages with AI",
+      "votes": 360,
+      "url": "https://www.producthunt.com/products/genpage/launches/genpage-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Website Builder"
       ]
     }
   ]
