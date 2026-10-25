@@ -4,7 +4,7 @@
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 642,
+      "votes": 643,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Pancake",
       "desc": "The Vercel for GTM",
-      "votes": 580,
+      "votes": 584,
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 492,
+      "votes": 493,
       "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 488,
+      "votes": 490,
       "url": "https://www.producthunt.com/products/reso/launches/reso-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -109,6 +109,18 @@
       ]
     },
     {
+      "name": "Product Hunt Visual Launch Editor",
+      "desc": "See your launch as you build it",
+      "votes": 421,
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+      "topics": [
+        "Product Hunt",
+        "Maker Tools",
+        "Community"
+      ]
+    },
+    {
       "name": "Monospace from Directus",
       "desc": "The governed API layer for every app, person, and agent",
       "votes": 421,
@@ -130,18 +142,6 @@
         "Open Source",
         "Marketing",
         "SEO"
-      ]
-    },
-    {
-      "name": "Product Hunt Visual Launch Editor",
-      "desc": "See your launch as you build it",
-      "votes": 410,
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
-      "topics": [
-        "Product Hunt",
-        "Maker Tools",
-        "Community"
       ]
     },
     {
@@ -171,7 +171,7 @@
     {
       "name": "Inbox Zero",
       "desc": "Open-source Superhuman alternative",
-      "votes": 380,
+      "votes": 379,
       "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
       "topics": [
@@ -195,7 +195,7 @@
     {
       "name": "Talanoa",
       "desc": "Email that feels like chat",
-      "votes": 361,
+      "votes": 362,
       "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
       "topics": [
@@ -219,7 +219,7 @@
     {
       "name": "GPT-6 Sol & Luna",
       "desc": "Frontier AI intelligence, now at half the price",
-      "votes": 359,
+      "votes": 360,
       "url": "https://www.producthunt.com/products/openai/launches/gpt-6-sol-luna?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format",
       "topics": [
