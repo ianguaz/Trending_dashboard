@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "items": [
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 649,
+      "votes": 650,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 498,
+      "votes": 502,
       "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -62,6 +62,18 @@
       ]
     },
     {
+      "name": "Product Hunt Visual Launch Editor",
+      "desc": "See your launch as you build it",
+      "votes": 435,
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+      "topics": [
+        "Product Hunt",
+        "Maker Tools",
+        "Community"
+      ]
+    },
+    {
       "name": "Rill Browser",
       "desc": "The browser where Claude Code and Codex work beside you",
       "votes": 434,
@@ -70,18 +82,6 @@
       "topics": [
         "Developer Tools",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Product Hunt Visual Launch Editor",
-      "desc": "See your launch as you build it",
-      "votes": 432,
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
-      "topics": [
-        "Product Hunt",
-        "Maker Tools",
-        "Community"
       ]
     },
     {
@@ -169,6 +169,18 @@
       ]
     },
     {
+      "name": "Talanoa",
+      "desc": "Email that feels like chat",
+      "votes": 380,
+      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
+      "topics": [
+        "Email",
+        "Productivity",
+        "Task Management"
+      ]
+    },
+    {
       "name": "Inbox Zero",
       "desc": "Open-source Superhuman alternative",
       "votes": 380,
@@ -183,25 +195,13 @@
     {
       "name": "Beam.win",
       "desc": "Run AI agents on one Mac and use its windows on another",
-      "votes": 376,
+      "votes": 379,
       "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
       "topics": [
         "Productivity",
         "Developer Tools",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Talanoa",
-      "desc": "Email that feels like chat",
-      "votes": 374,
-      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
-      "topics": [
-        "Email",
-        "Productivity",
-        "Task Management"
       ]
     },
     {
@@ -217,18 +217,6 @@
       ]
     },
     {
-      "name": "GenPage 3.0",
-      "desc": "Build, personalize, and optimize landing pages with AI",
-      "votes": 360,
-      "url": "https://www.producthunt.com/products/genpage/launches/genpage-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing",
-        "Website Builder"
-      ]
-    },
-    {
       "name": "GPT-6 Sol & Luna",
       "desc": "Frontier AI intelligence, now at half the price",
       "votes": 360,
@@ -238,6 +226,18 @@
         "API",
         "Developer Tools",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "GenPage 3.0",
+      "desc": "Build, personalize, and optimize landing pages with AI",
+      "votes": 360,
+      "url": "https://www.producthunt.com/products/genpage/launches/genpage-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Website Builder"
       ]
     }
   ]
