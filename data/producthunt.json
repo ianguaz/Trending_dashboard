@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "items": [
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 661,
+      "votes": 667,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 506,
+      "votes": 507,
       "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -99,25 +99,13 @@
     {
       "name": "Pexo",
       "desc": "Produce pitch perfect launch videos with precise control",
-      "votes": 429,
+      "votes": 428,
       "url": "https://www.producthunt.com/products/pexo-2/launches/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
       "topics": [
         "Marketing",
         "Artificial Intelligence",
         "Video"
-      ]
-    },
-    {
-      "name": "MCP Connectors by Databox",
-      "desc": "Give your AI Analyst context to explain performance and act",
-      "votes": 422,
-      "url": "https://www.producthunt.com/products/databox/launches/mcp-connectors-by-databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c1874969-e8a2-4537-a44a-633e4f433722.png?auto=format",
-      "topics": [
-        "Analytics",
-        "SaaS",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -133,6 +121,18 @@
       ]
     },
     {
+      "name": "MCP Connectors by Databox",
+      "desc": "Give your AI Analyst context to explain performance and act",
+      "votes": 422,
+      "url": "https://www.producthunt.com/products/databox/launches/mcp-connectors-by-databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c1874969-e8a2-4537-a44a-633e4f433722.png?auto=format",
+      "topics": [
+        "Analytics",
+        "SaaS",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "OpenSEO",
       "desc": "The open source Semrush alternative",
       "votes": 414,
@@ -145,6 +145,18 @@
       ]
     },
     {
+      "name": "Talanoa",
+      "desc": "Email that feels like chat",
+      "votes": 392,
+      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
+      "topics": [
+        "Email",
+        "Productivity",
+        "Task Management"
+      ]
+    },
+    {
       "name": "Ferndesk",
       "desc": "The help center that never goes out of date",
       "votes": 386,
@@ -154,18 +166,6 @@
         "Customer Success",
         "Customer Communication",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Talanoa",
-      "desc": "Email that feels like chat",
-      "votes": 386,
-      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
-      "topics": [
-        "Email",
-        "Productivity",
-        "Task Management"
       ]
     },
     {
@@ -219,7 +219,7 @@
     {
       "name": "GenPage 3.0",
       "desc": "Build, personalize, and optimize landing pages with AI",
-      "votes": 360,
+      "votes": 361,
       "url": "https://www.producthunt.com/products/genpage/launches/genpage-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
       "topics": [
@@ -229,15 +229,15 @@
       ]
     },
     {
-      "name": "Claude Duet",
-      "desc": "Proactive agent that understands what needs your attention",
-      "votes": 360,
-      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
+      "name": "DeepCell",
+      "desc": "Your deadline survival kit for office work",
+      "votes": 361,
+      "url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
       "topics": [
-        "Messaging",
+        "Productivity",
         "Artificial Intelligence",
-        "Bots"
+        "Business"
       ]
     }
   ]
