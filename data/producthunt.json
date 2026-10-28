@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
     {
       "name": "Spira Maxima",
@@ -28,7 +28,7 @@
     {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 511,
+      "votes": 514,
       "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 493,
+      "votes": 494,
       "url": "https://www.producthunt.com/products/reso/launches/reso-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -135,7 +135,7 @@
     {
       "name": "Talanoa",
       "desc": "Email that feels like chat",
-      "votes": 394,
+      "votes": 393,
       "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
       "topics": [
@@ -169,6 +169,18 @@
       ]
     },
     {
+      "name": "Beam.win",
+      "desc": "Run AI agents on one Mac and use its windows on another",
+      "votes": 382,
+      "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "iFixAi",
       "desc": "Independent auditing of AI agents to uncover misalignment",
       "votes": 382,
@@ -181,15 +193,15 @@
       ]
     },
     {
-      "name": "Beam.win",
-      "desc": "Run AI agents on one Mac and use its windows on another",
-      "votes": 382,
-      "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "name": "TheySaid 4.0",
+      "desc": "See how users will react, right where you build.",
+      "votes": 367,
+      "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
       "topics": [
-        "Productivity",
-        "Developer Tools",
-        "Artificial Intelligence"
+        "User Experience",
+        "Artificial Intelligence",
+        "UX Design"
       ]
     },
     {
@@ -207,7 +219,7 @@
     {
       "name": "Claude Duet",
       "desc": "Proactive agent that understands what needs your attention",
-      "votes": 363,
+      "votes": 364,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
       "topics": [
@@ -219,25 +231,13 @@
     {
       "name": "DeepCell",
       "desc": "Your deadline survival kit for office work",
-      "votes": 362,
+      "votes": 363,
       "url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Business"
-      ]
-    },
-    {
-      "name": "TheySaid 4.0",
-      "desc": "See how users will react, right where you build.",
-      "votes": 361,
-      "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
-      "topics": [
-        "User Experience",
-        "Artificial Intelligence",
-        "UX Design"
       ]
     }
   ]
