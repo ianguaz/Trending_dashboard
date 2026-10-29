@@ -4,7 +4,7 @@
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 670,
+      "votes": 668,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "Pancake",
       "desc": "The Vercel for GTM",
-      "votes": 592,
+      "votes": 594,
       "url": "https://www.producthunt.com/products/pancake-6/launches/pancake-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 514,
+      "votes": 513,
       "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "ReSO AI",
       "desc": "Get discovered & recommended when customers ask AI",
-      "votes": 494,
+      "votes": 492,
       "url": "https://www.producthunt.com/products/reso/launches/reso-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/33f42573-56e1-48c0-af57-9a5f9a969a06.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "IrisGo for Solopreneurs",
       "desc": "AI workflow automation: show it once, let it run",
-      "votes": 467,
+      "votes": 469,
       "url": "https://www.producthunt.com/products/irisgo-public-beta/launches/irisgo-for-solopreneurs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Rill Browser",
       "desc": "The browser where Claude Code and Codex work beside you",
-      "votes": 435,
+      "votes": 432,
       "url": "https://www.producthunt.com/products/rill-3/launches/rill-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
       "topics": [
@@ -87,7 +87,7 @@
     {
       "name": "Velozity",
       "desc": "The Multiplayer AI Office where your team and agents work",
-      "votes": 433,
+      "votes": 431,
       "url": "https://www.producthunt.com/products/velozity-2/launches/velozity-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/5f7cf20e-42f5-4451-a8f5-821a0a965f6d.png?auto=format",
       "topics": [
@@ -99,7 +99,7 @@
     {
       "name": "Pexo",
       "desc": "Produce pitch perfect launch videos with precise control",
-      "votes": 431,
+      "votes": 430,
       "url": "https://www.producthunt.com/products/pexo-2/launches/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/be1e7e1e-e624-4a66-be49-f4372a72945b.png?auto=format",
       "topics": [
@@ -111,7 +111,7 @@
     {
       "name": "Monospace from Directus",
       "desc": "The governed API layer for every app, person, and agent",
-      "votes": 423,
+      "votes": 422,
       "url": "https://www.producthunt.com/products/directus/launches/monospace-from-directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f2d08a6b-b088-4b28-affa-1c10df46549b.png?auto=format",
       "topics": [
@@ -135,8 +135,8 @@
     {
       "name": "Talanoa",
       "desc": "Email that feels like chat",
-      "votes": 393,
-      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 398,
+      "url": "https://www.producthunt.com/products/talanoa-2/launches/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
       "topics": [
         "Email",
@@ -157,6 +157,18 @@
       ]
     },
     {
+      "name": "Beam.win",
+      "desc": "Run AI agents on one Mac and use its windows on another",
+      "votes": 383,
+      "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Inbox Zero",
       "desc": "Open-source Superhuman alternative",
       "votes": 382,
@@ -169,33 +181,9 @@
       ]
     },
     {
-      "name": "Beam.win",
-      "desc": "Run AI agents on one Mac and use its windows on another",
-      "votes": 382,
-      "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "iFixAi",
-      "desc": "Independent auditing of AI agents to uncover misalignment",
-      "votes": 382,
-      "url": "https://www.producthunt.com/products/ifixai/launches/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/63c7402c-5f53-42d8-a4de-429c1b3c6260.png?auto=format",
-      "topics": [
-        "API",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
-      "votes": 367,
+      "votes": 371,
       "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
       "topics": [
@@ -205,21 +193,9 @@
       ]
     },
     {
-      "name": "Jockey by TwelveLabs",
-      "desc": "Your entire video library: organized, searchable, understood",
-      "votes": 366,
-      "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Video"
-      ]
-    },
-    {
       "name": "Claude Duet",
       "desc": "Proactive agent that understands what needs your attention",
-      "votes": 364,
+      "votes": 369,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
       "topics": [
@@ -231,13 +207,37 @@
     {
       "name": "DeepCell",
       "desc": "Your deadline survival kit for office work",
-      "votes": 363,
+      "votes": 367,
       "url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Business"
+      ]
+    },
+    {
+      "name": "Jockey by TwelveLabs",
+      "desc": "Your entire video library: organized, searchable, understood",
+      "votes": 365,
+      "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4ad9e370-d353-4eca-a339-a783eaf4d5af.gif?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Video"
+      ]
+    },
+    {
+      "name": "GenPage 3.0",
+      "desc": "Build, personalize, and optimize landing pages with AI",
+      "votes": 361,
+      "url": "https://www.producthunt.com/products/genpage/launches/genpage-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/7a95ba63-8c5b-4af0-beea-b3f7ee1f6456.png?auto=format",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Website Builder"
       ]
     }
   ]
