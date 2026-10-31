@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "items": [
     {
       "name": "Spira Maxima",
       "desc": "Video model that turns script into viral social media videos",
-      "votes": 671,
+      "votes": 670,
       "url": "https://www.producthunt.com/products/spira-ai/launches/spira-maxima?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "IrisGo for Solopreneurs",
       "desc": "AI workflow automation: show it once, let it run",
-      "votes": 469,
+      "votes": 468,
       "url": "https://www.producthunt.com/products/irisgo-public-beta/launches/irisgo-for-solopreneurs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ed445b54-b3a5-4cd8-8c36-7dcc2ceb3a44.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Product Hunt Visual Launch Editor",
       "desc": "See your launch as you build it",
-      "votes": 458,
+      "votes": 459,
       "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Empacer",
       "desc": " The voice-first assistant for small business owners",
-      "votes": 443,
+      "votes": 444,
       "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -147,7 +147,7 @@
     {
       "name": "Beam.win",
       "desc": "Run AI agents on one Mac and use its windows on another",
-      "votes": 386,
+      "votes": 388,
       "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
       "topics": [
@@ -205,6 +205,18 @@
       ]
     },
     {
+      "name": "Vaani Developer Platform",
+      "desc": "The only voice AI harness that you'll ever need",
+      "votes": 370,
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "Tech",
+        "Audio"
+      ]
+    },
+    {
       "name": "Jockey by TwelveLabs",
       "desc": "Your entire video library: organized, searchable, understood",
       "votes": 367,
@@ -214,18 +226,6 @@
         "Productivity",
         "Artificial Intelligence",
         "Video"
-      ]
-    },
-    {
-      "name": "Vaani Developer Platform",
-      "desc": "The only voice AI harness that you'll ever need",
-      "votes": 365,
-      "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "Tech",
-        "Audio"
       ]
     },
     {
