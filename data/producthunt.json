@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "items": [
     {
       "name": "Spira Maxima",
@@ -76,7 +76,7 @@
     {
       "name": "Empacer",
       "desc": " The voice-first assistant for small business owners",
-      "votes": 449,
+      "votes": 452,
       "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -157,6 +157,18 @@
       ]
     },
     {
+      "name": "Vaani Developer Platform",
+      "desc": "The only voice AI harness that you'll ever need",
+      "votes": 380,
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "Tech",
+        "Audio"
+      ]
+    },
+    {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
       "votes": 378,
@@ -169,21 +181,9 @@
       ]
     },
     {
-      "name": "Vaani Developer Platform",
-      "desc": "The only voice AI harness that you'll ever need",
-      "votes": 378,
-      "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "Tech",
-        "Audio"
-      ]
-    },
-    {
       "name": "Claude Duet",
       "desc": "Proactive agent that understands what needs your attention",
-      "votes": 377,
+      "votes": 376,
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
       "topics": [
