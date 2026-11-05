@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
       "name": "Pancake",
@@ -40,7 +40,7 @@
     {
       "name": "Empacer",
       "desc": " The voice-first assistant for small and medium businesses",
-      "votes": 469,
+      "votes": 470,
       "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -76,13 +76,25 @@
     {
       "name": "Screen Studio 4.0",
       "desc": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
-      "votes": 455,
+      "votes": 463,
       "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c77fb016-3dbe-4723-96df-de1790db78be.png?auto=format",
       "topics": [
         "Productivity",
         "Marketing",
         "Video"
+      ]
+    },
+    {
+      "name": "Wanaka Studio",
+      "desc": "Make and publish 3D games with the first AI game engine",
+      "votes": 452,
+      "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "Games",
+        "No-Code"
       ]
     },
     {
@@ -98,15 +110,14 @@
       ]
     },
     {
-      "name": "Wanaka Studio",
-      "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 438,
-      "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
+      "name": "Rill Browser",
+      "desc": "The browser where Claude Code and Codex work beside you",
+      "votes": 435,
+      "url": "https://www.producthunt.com/products/rill-3/launches/rill-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
       "topics": [
-        "Artificial Intelligence",
-        "Games",
-        "No-Code"
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -122,20 +133,9 @@
       ]
     },
     {
-      "name": "Rill Browser",
-      "desc": "The browser where Claude Code and Codex work beside you",
-      "votes": 434,
-      "url": "https://www.producthunt.com/products/rill-3/launches/rill-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Scalekit",
       "desc": "MCP gateway for production agents that acts on your behalf",
-      "votes": 419,
+      "votes": 421,
       "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
       "topics": [
@@ -206,7 +206,7 @@
     {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
-      "votes": 388,
+      "votes": 387,
       "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
       "topics": [
@@ -228,15 +228,15 @@
       ]
     },
     {
-      "name": "DeepCell",
-      "desc": "Your deadline survival kit for office work",
+      "name": "Teamily AI",
+      "desc": "Your personal agent, agent teams & people in one messenger",
       "votes": 373,
-      "url": "https://www.producthunt.com/products/deepcell/launches/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
+      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
-        "Business"
+        "Social Networking"
       ]
     }
   ]
