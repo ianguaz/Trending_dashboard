@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "items": [
     {
       "name": "Pancake",
@@ -40,7 +40,7 @@
     {
       "name": "beacon.sh",
       "desc": "Open-source self-improving memory for AI coding agents",
-      "votes": 472,
+      "votes": 473,
       "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
       "topics": [
@@ -74,9 +74,21 @@
       ]
     },
     {
+      "name": "Wanaka Studio",
+      "desc": "Make and publish 3D games with the first AI game engine",
+      "votes": 468,
+      "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
+      "topics": [
+        "Artificial Intelligence",
+        "Games",
+        "No-Code"
+      ]
+    },
+    {
       "name": "Product Hunt Visual Launch Editor",
       "desc": "See your launch as you build it",
-      "votes": 465,
+      "votes": 464,
       "url": "https://www.producthunt.com/products/producthunt/launches/product-hunt-visual-launch-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -88,25 +100,13 @@
     {
       "name": "Screen Studio 4.0",
       "desc": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
-      "votes": 464,
+      "votes": 459,
       "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c77fb016-3dbe-4723-96df-de1790db78be.png?auto=format",
       "topics": [
         "Productivity",
         "Marketing",
         "Video"
-      ]
-    },
-    {
-      "name": "Wanaka Studio",
-      "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 462,
-      "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
-      "topics": [
-        "Artificial Intelligence",
-        "Games",
-        "No-Code"
       ]
     },
     {
@@ -135,7 +135,7 @@
     {
       "name": "OpenSEO",
       "desc": "The open source Semrush alternative",
-      "votes": 418,
+      "votes": 417,
       "url": "https://www.producthunt.com/products/openseo/launches/openseo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2c78fe4a-262c-48b2-a376-365b77bf6eeb.png?auto=format",
       "topics": [
@@ -181,18 +181,6 @@
       ]
     },
     {
-      "name": "Inbox Zero",
-      "desc": "Open-source Superhuman alternative",
-      "votes": 389,
-      "url": "https://www.producthunt.com/products/inbox-zero-2/launches/inbox-zero-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
-      "topics": [
-        "Email",
-        "Open Source",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
       "votes": 389,
@@ -202,6 +190,18 @@
         "User Experience",
         "Artificial Intelligence",
         "UX Design"
+      ]
+    },
+    {
+      "name": "Inbox Zero",
+      "desc": "Open-source Superhuman alternative",
+      "votes": 389,
+      "url": "https://www.producthunt.com/products/inbox-zero-2/launches/inbox-zero-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
+      "topics": [
+        "Email",
+        "Open Source",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -217,27 +217,27 @@
       ]
     },
     {
+      "name": "Glasshand",
+      "desc": "Give your agent a real iPhone and Mac",
+      "votes": 375,
+      "url": "https://www.producthunt.com/products/glasshand?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4ba278c5-6784-4b41-b572-91f3ce348422.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Apple"
+      ]
+    },
+    {
       "name": "Teamily AI",
       "desc": "Your personal agent, agent teams & people in one messenger",
-      "votes": 376,
+      "votes": 375,
       "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Social Networking"
-      ]
-    },
-    {
-      "name": "DeepCell",
-      "desc": "Your deadline survival kit for office work",
-      "votes": 373,
-      "url": "https://www.producthunt.com/products/deepcell/launches/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Business"
       ]
     }
   ]
