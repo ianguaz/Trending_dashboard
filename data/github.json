@@ -2,124 +2,148 @@
   "date": "2026-11-06",
   "items": [
     {
+      "name": "zed-industries/zed",
+      "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars": "93204",
+      "today": "292 stars today",
+      "language": "Rust",
+      "url": "https://github.com/zed-industries/zed"
+    },
+    {
       "name": "NVIDIA/auto-ontology",
       "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "stars": "7172",
-      "today": "2,707 stars today",
+      "stars": "8538",
+      "today": "2,005 stars today",
       "language": "Python",
       "url": "https://github.com/NVIDIA/auto-ontology"
     },
     {
-      "name": "mattpocock/skills",
-      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "315065",
-      "today": "2,053 stars today",
-      "language": "Shell",
-      "url": "https://github.com/mattpocock/skills"
+      "name": "rails/rails",
+      "desc": "Ruby on Rails",
+      "stars": "58926",
+      "today": "44 stars today",
+      "language": "Ruby",
+      "url": "https://github.com/rails/rails"
     },
     {
-      "name": "garrytan/gstack",
-      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": "139897",
-      "today": "608 stars today",
-      "language": "TypeScript",
-      "url": "https://github.com/garrytan/gstack"
-    },
-    {
-      "name": "Usagi-org/ai-goofish-monitor",
-      "desc": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "stars": "17486",
-      "today": "242 stars today",
-      "language": "Python",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
-    },
-    {
-      "name": "D4Vinci/Scrapling",
-      "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "stars": "97858",
-      "today": "1,661 stars today",
-      "language": "Python",
-      "url": "https://github.com/D4Vinci/Scrapling"
-    },
-    {
-      "name": "vercel-labs/agent-desktop",
-      "desc": "Computer use CLI for AI agents",
-      "stars": "16722",
-      "today": "2,173 stars today",
-      "language": "Rust",
-      "url": "https://github.com/vercel-labs/agent-desktop"
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "stars": "11463",
-      "today": "546 stars today",
-      "language": "Rust",
-      "url": "https://github.com/max-sixty/worktrunk"
-    },
-    {
-      "name": "lz4/lz4",
-      "desc": "Extremely Fast Compression algorithm",
-      "stars": "12344",
-      "today": "16 stars today",
+      "name": "mpv-player/mpv",
+      "desc": "🎥 Command line media player",
+      "stars": "37797",
+      "today": "36 stars today",
       "language": "C",
-      "url": "https://github.com/lz4/lz4"
+      "url": "https://github.com/mpv-player/mpv"
+    },
+    {
+      "name": "rust-lang/rust",
+      "desc": "Empowering everyone to build reliable and efficient software.",
+      "stars": "121258",
+      "today": "186 stars today",
+      "language": "Rust",
+      "url": "https://github.com/rust-lang/rust"
+    },
+    {
+      "name": "react/react",
+      "desc": "The library for web and native user interfaces.",
+      "stars": "252116",
+      "today": "244 stars today",
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "angular/angular",
+      "desc": "Deliver web apps with confidence 🚀",
+      "stars": "101195",
+      "today": "128 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/angular/angular"
+    },
+    {
+      "name": "symfony/symfony",
+      "desc": "The Symfony PHP framework",
+      "stars": "31291",
+      "today": "89 stars today",
+      "language": "PHP",
+      "url": "https://github.com/symfony/symfony"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "desc": "The Prometheus monitoring system and time series database.",
+      "stars": "67028",
+      "today": "140 stars today",
+      "language": "Go",
+      "url": "https://github.com/prometheus/prometheus"
     },
     {
       "name": "google/skills",
       "desc": "Agent Skills for Google products and technologies",
-      "stars": "22316",
-      "today": "199 stars today",
+      "stars": "22681",
+      "today": "532 stars today",
       "language": "Python",
       "url": "https://github.com/google/skills"
     },
     {
-      "name": "vercel-labs/agent-browser",
-      "desc": "Browser automation CLI for AI agents",
-      "stars": "45819",
-      "today": "181 stars today",
+      "name": "microsoft/vscode",
+      "desc": "Visual Studio Code",
+      "stars": "194875",
+      "today": "295 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/microsoft/vscode"
+    },
+    {
+      "name": "lz4/lz4",
+      "desc": "Extremely Fast Compression algorithm",
+      "stars": "12576",
+      "today": "313 stars today",
+      "language": "C",
+      "url": "https://github.com/lz4/lz4"
+    },
+    {
+      "name": "nushell/nushell",
+      "desc": "A new type of shell",
+      "stars": "40838",
+      "today": "88 stars today",
       "language": "Rust",
-      "url": "https://github.com/vercel-labs/agent-browser"
+      "url": "https://github.com/nushell/nushell"
     },
     {
-      "name": "scenario-labs/skills",
-      "desc": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "stars": "2989",
-      "today": "674 stars today",
-      "language": "Python",
-      "url": "https://github.com/scenario-labs/skills"
+      "name": "etcd-io/etcd",
+      "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "stars": "52522",
+      "today": "123 stars today",
+      "language": "Go",
+      "url": "https://github.com/etcd-io/etcd"
     },
     {
-      "name": "ConardLi/garden-skills",
-      "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": "14089",
-      "today": "241 stars today",
+      "name": "openssl/openssl",
+      "desc": "General purpose TLS and crypto library",
+      "stars": "31225",
+      "today": "24 stars today",
+      "language": "C",
+      "url": "https://github.com/openssl/openssl"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "316300",
+      "today": "2,058 stars today",
+      "language": "Shell",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "63145",
+      "today": "2,524 stars today",
       "language": "JavaScript",
-      "url": "https://github.com/ConardLi/garden-skills"
+      "url": "https://github.com/cloudflare/security-audit-skill"
     },
     {
-      "name": "microsoft/VibeVoice",
-      "desc": "Open-Source Frontier Voice AI",
-      "stars": "55807",
-      "today": "214 stars today",
-      "language": "Python",
-      "url": "https://github.com/microsoft/VibeVoice"
-    },
-    {
-      "name": "floci-io/floci",
-      "desc": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "stars": "30342",
-      "today": "784 stars today",
-      "language": "Java",
-      "url": "https://github.com/floci-io/floci"
-    },
-    {
-      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "desc": "",
-      "stars": "7223",
-      "today": "977 stars today",
-      "language": "C#",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+      "name": "astral-sh/ruff",
+      "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+      "stars": "50539",
+      "today": "107 stars today",
+      "language": "Rust",
+      "url": "https://github.com/astral-sh/ruff"
     }
   ]
 }

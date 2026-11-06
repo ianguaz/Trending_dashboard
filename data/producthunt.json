@@ -4,7 +4,7 @@
     {
       "name": "Pancake",
       "desc": "The Vercel for GTM",
-      "votes": 600,
+      "votes": 601,
       "url": "https://www.producthunt.com/products/pancake-6/launches/pancake-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
       "topics": [
@@ -38,9 +38,21 @@
       ]
     },
     {
+      "name": "beacon.sh",
+      "desc": "Open-source self-improving memory for AI coding agents",
+      "votes": 472,
+      "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "GitHub"
+      ]
+    },
+    {
       "name": "Empacer",
       "desc": " The voice-first assistant for small and medium businesses",
-      "votes": 470,
+      "votes": 471,
       "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -64,8 +76,8 @@
     {
       "name": "Product Hunt Visual Launch Editor",
       "desc": "See your launch as you build it",
-      "votes": 463,
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 465,
+      "url": "https://www.producthunt.com/products/producthunt/launches/product-hunt-visual-launch-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
         "Product Hunt",
@@ -76,7 +88,7 @@
     {
       "name": "Screen Studio 4.0",
       "desc": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
-      "votes": 463,
+      "votes": 464,
       "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c77fb016-3dbe-4723-96df-de1790db78be.png?auto=format",
       "topics": [
@@ -88,36 +100,13 @@
     {
       "name": "Wanaka Studio",
       "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 452,
+      "votes": 462,
       "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
       "topics": [
         "Artificial Intelligence",
         "Games",
         "No-Code"
-      ]
-    },
-    {
-      "name": "beacon.sh",
-      "desc": "Open-source self-improving memory for AI coding agents",
-      "votes": 451,
-      "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
-      "topics": [
-        "Open Source",
-        "Developer Tools",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Rill Browser",
-      "desc": "The browser where Claude Code and Codex work beside you",
-      "votes": 435,
-      "url": "https://www.producthunt.com/products/rill-3/launches/rill-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/25e6eab0-3c1c-4a4f-a18a-74d5e6e8b38c.png?auto=format",
-      "topics": [
-        "Developer Tools",
-        "Artificial Intelligence"
       ]
     },
     {
@@ -135,7 +124,7 @@
     {
       "name": "Scalekit",
       "desc": "MCP gateway for production agents that acts on your behalf",
-      "votes": 421,
+      "votes": 422,
       "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
       "topics": [
@@ -168,27 +157,27 @@
       ]
     },
     {
-      "name": "Beam.win",
-      "desc": "Run AI agents on one Mac and use its windows on another",
-      "votes": 392,
-      "url": "https://www.producthunt.com/products/beam-win/launches/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Vaani Developer Platform",
       "desc": "The only voice AI harness that you'll ever need",
-      "votes": 390,
+      "votes": 393,
       "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
       "topics": [
         "Artificial Intelligence",
         "Tech",
         "Audio"
+      ]
+    },
+    {
+      "name": "Beam.win",
+      "desc": "Run AI agents on one Mac and use its windows on another",
+      "votes": 393,
+      "url": "https://www.producthunt.com/products/beam-win/launches/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -206,7 +195,7 @@
     {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
-      "votes": 387,
+      "votes": 389,
       "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
       "topics": [
@@ -230,13 +219,25 @@
     {
       "name": "Teamily AI",
       "desc": "Your personal agent, agent teams & people in one messenger",
-      "votes": 373,
+      "votes": 376,
       "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
       "topics": [
         "Productivity",
         "Artificial Intelligence",
         "Social Networking"
+      ]
+    },
+    {
+      "name": "DeepCell",
+      "desc": "Your deadline survival kit for office work",
+      "votes": 373,
+      "url": "https://www.producthunt.com/products/deepcell/launches/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Business"
       ]
     }
   ]
