@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "items": [
     {
       "name": "vercel-labs/agent-browser",
       "desc": "Browser automation CLI for AI agents",
-      "stars": "46501",
+      "stars": "46693",
       "today": "180 stars today",
       "language": "Rust",
       "url": "https://github.com/vercel-labs/agent-browser"
@@ -12,7 +12,7 @@
     {
       "name": "cloudflare/security-audit-skill",
       "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stars": "65009",
+      "stars": "65426",
       "today": "2,088 stars today",
       "language": "JavaScript",
       "url": "https://github.com/cloudflare/security-audit-skill"
@@ -20,7 +20,7 @@
     {
       "name": "google/skills",
       "desc": "Agent Skills for Google products and technologies",
-      "stars": "23117",
+      "stars": "23272",
       "today": "449 stars today",
       "language": "Python",
       "url": "https://github.com/google/skills"
@@ -28,7 +28,7 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "317293",
+      "stars": "317537",
       "today": "1,111 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
@@ -36,7 +36,7 @@
     {
       "name": "anthropics/skills",
       "desc": "Public repository for Agent Skills",
-      "stars": "188423",
+      "stars": "188620",
       "today": "386 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
@@ -44,15 +44,15 @@
     {
       "name": "meta/astryx",
       "desc": "An open source design system that's fully customizable and agent ready",
-      "stars": "14189",
-      "today": "198 stars today",
+      "stars": "14348",
+      "today": "185 stars today",
       "language": "TypeScript",
       "url": "https://github.com/meta/astryx"
     },
     {
       "name": "prometheus/prometheus",
       "desc": "The Prometheus monitoring system and time series database.",
-      "stars": "67327",
+      "stars": "67390",
       "today": "325 stars today",
       "language": "Go",
       "url": "https://github.com/prometheus/prometheus"
@@ -60,15 +60,15 @@
     {
       "name": "sherlock-project/sherlock",
       "desc": "Hunt down social media accounts by username across social networks",
-      "stars": "99682",
-      "today": "1,761 stars today",
+      "stars": "100184",
+      "today": "1,819 stars today",
       "language": "Python",
       "url": "https://github.com/sherlock-project/sherlock"
     },
     {
       "name": "milind-soni/OpenMausBot",
       "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "stars": "16416",
+      "stars": "16792",
       "today": "1,986 stars today",
       "language": "TypeScript",
       "url": "https://github.com/milind-soni/OpenMausBot"
@@ -76,7 +76,7 @@
     {
       "name": "astral-sh/ruff",
       "desc": "An extremely fast Python linter and code formatter, written in Rust.",
-      "stars": "50841",
+      "stars": "50923",
       "today": "350 stars today",
       "language": "Rust",
       "url": "https://github.com/astral-sh/ruff"
@@ -84,15 +84,15 @@
     {
       "name": "tailwindlabs/tailwindcss",
       "desc": "A utility-first CSS framework for rapid UI development.",
-      "stars": "98254",
-      "today": "152 stars today",
+      "stars": "98378",
+      "today": "181 stars today",
       "language": "TypeScript",
       "url": "https://github.com/tailwindlabs/tailwindcss"
     },
     {
       "name": "mbillow/localthings",
       "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "stars": "964",
+      "stars": "1013",
       "today": "184 stars today",
       "language": "Python",
       "url": "https://github.com/mbillow/localthings"
@@ -100,7 +100,7 @@
     {
       "name": "zed-industries/zed",
       "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "stars": "94089",
+      "stars": "94205",
       "today": "1,119 stars today",
       "language": "Rust",
       "url": "https://github.com/zed-industries/zed"
@@ -108,7 +108,7 @@
     {
       "name": "ranxianglei/billion-context",
       "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "stars": "4453",
+      "stars": "4548",
       "today": "185 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ranxianglei/billion-context"
@@ -116,7 +116,7 @@
     {
       "name": "dsx-ai-factory/nvke",
       "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "stars": "384",
+      "stars": "490",
       "today": "125 stars today",
       "language": "Go",
       "url": "https://github.com/dsx-ai-factory/nvke"
