@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "items": [
     {
       "name": "meta/astryx",
       "desc": "An open source design system that's fully customizable and agent ready",
-      "stars": "22018",
+      "stars": "22555",
       "today": "3,111 stars today",
       "language": "TypeScript",
       "url": "https://github.com/meta/astryx"
@@ -12,7 +12,7 @@
     {
       "name": "anthropics/skills",
       "desc": "Public repository for Agent Skills",
-      "stars": "191952",
+      "stars": "192212",
       "today": "1,676 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
@@ -20,7 +20,7 @@
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "114909",
+      "stars": "115080",
       "today": "465 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
@@ -28,7 +28,7 @@
     {
       "name": "anthropics/claude-quickstarts",
       "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": "20328",
+      "stars": "20443",
       "today": "530 stars today",
       "language": "Python",
       "url": "https://github.com/anthropics/claude-quickstarts"
@@ -36,7 +36,7 @@
     {
       "name": "google-deepmind/mujoco",
       "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "stars": "17216",
+      "stars": "17307",
       "today": "453 stars today",
       "language": "C++",
       "url": "https://github.com/google-deepmind/mujoco"
@@ -44,7 +44,7 @@
     {
       "name": "we-promise/sure",
       "desc": "The personal finance app for everyone (by everyone)",
-      "stars": "11592",
+      "stars": "11836",
       "today": "184 stars today",
       "language": "Ruby",
       "url": "https://github.com/we-promise/sure"
@@ -52,7 +52,7 @@
     {
       "name": "homeassistant-ai/ha-mcp",
       "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "stars": "6426",
+      "stars": "6569",
       "today": "792 stars today",
       "language": "Python",
       "url": "https://github.com/homeassistant-ai/ha-mcp"
@@ -60,7 +60,7 @@
     {
       "name": "vercel-labs/agent-browser",
       "desc": "Browser automation CLI for AI agents",
-      "stars": "49003",
+      "stars": "49137",
       "today": "775 stars today",
       "language": "Rust",
       "url": "https://github.com/vercel-labs/agent-browser"
@@ -68,7 +68,7 @@
     {
       "name": "sherlock-project/sherlock",
       "desc": "Hunt down social media accounts by username across social networks",
-      "stars": "108509",
+      "stars": "108821",
       "today": "2,387 stars today",
       "language": "Python",
       "url": "https://github.com/sherlock-project/sherlock"
@@ -76,7 +76,7 @@
     {
       "name": "tokio-rs/topcoat",
       "desc": "A batteries-included framework for building web apps",
-      "stars": "6651",
+      "stars": "6748",
       "today": "192 stars today",
       "language": "Rust",
       "url": "https://github.com/tokio-rs/topcoat"
@@ -84,7 +84,7 @@
     {
       "name": "ranxianglei/billion-context",
       "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "stars": "6080",
+      "stars": "6250",
       "today": "374 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ranxianglei/billion-context"
@@ -92,7 +92,7 @@
     {
       "name": "mattpocock/skills",
       "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "320536",
+      "stars": "320807",
       "today": "1,223 stars today",
       "language": "Shell",
       "url": "https://github.com/mattpocock/skills"
