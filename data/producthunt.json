@@ -28,7 +28,7 @@
     {
       "name": "beacon.sh",
       "desc": "Open-source self-improving memory for AI coding agents",
-      "votes": 504,
+      "votes": 506,
       "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Wanaka Studio",
       "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 490,
+      "votes": 492,
       "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Empacer",
       "desc": " The voice-first assistant for small and medium businesses",
-      "votes": 482,
+      "votes": 484,
       "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -62,9 +62,21 @@
       ]
     },
     {
+      "name": "Alsona",
+      "desc": "AI agents that turn buying signals into booked sales calls",
+      "votes": 475,
+      "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
+      "topics": [
+        "Sales",
+        "SaaS",
+        "Artificial Intelligence"
+      ]
+    },
+    {
       "name": "Screen Studio 4.0",
       "desc": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
-      "votes": 472,
+      "votes": 473,
       "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c77fb016-3dbe-4723-96df-de1790db78be.png?auto=format",
       "topics": [
@@ -88,7 +100,7 @@
     {
       "name": "Product Hunt MCP",
       "desc": "The community you trust in the assistant you use",
-      "votes": 437,
+      "votes": 439,
       "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/4c5f80d7-e0ac-4e64-8960-164b95981148/72d50bc68623fd59e0ad381b8b3ccea25c438c79e354767eb52eb8371473bc25.jpeg?auto=format",
       "topics": [
@@ -100,7 +112,7 @@
     {
       "name": "Scalekit",
       "desc": "MCP gateway for production agents that acts on your behalf",
-      "votes": 429,
+      "votes": 430,
       "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
       "topics": [
@@ -111,7 +123,7 @@
     {
       "name": "Talanoa",
       "desc": "Email that feels like chat",
-      "votes": 411,
+      "votes": 412,
       "url": "https://www.producthunt.com/products/talanoa-2/launches/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/93560827-b239-46fc-964b-b3e4414dc2bb.png?auto=format",
       "topics": [
@@ -135,7 +147,7 @@
     {
       "name": "Tobira Site Agent",
       "desc": "Turn your website into an AI agent that sells to AI agents",
-      "votes": 396,
+      "votes": 399,
       "url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfffedd6-2cb9-41bc-bee6-ad9f9b44c486.gif?auto=format",
       "topics": [
@@ -145,27 +157,27 @@
       ]
     },
     {
-      "name": "Beam.win",
-      "desc": "Run AI agents on one Mac and use its windows on another",
-      "votes": 396,
-      "url": "https://www.producthunt.com/products/beam-win/launches/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Developer Tools",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Vaani Developer Platform",
       "desc": "The only voice AI harness that you'll ever need",
-      "votes": 395,
+      "votes": 396,
       "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
       "topics": [
         "Artificial Intelligence",
         "Tech",
         "Audio"
+      ]
+    },
+    {
+      "name": "Beam.win",
+      "desc": "Run AI agents on one Mac and use its windows on another",
+      "votes": 395,
+      "url": "https://www.producthunt.com/products/beam-win/launches/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -207,7 +219,7 @@
     {
       "name": "Claude Duet",
       "desc": "Proactive agent that understands what needs your attention",
-      "votes": 385,
+      "votes": 387,
       "url": "https://www.producthunt.com/products/claude/launches/claude-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
       "topics": [
@@ -217,21 +229,9 @@
       ]
     },
     {
-      "name": "DeepCell",
-      "desc": "Your deadline survival kit for office work",
-      "votes": 375,
-      "url": "https://www.producthunt.com/products/deepcell/launches/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Business"
-      ]
-    },
-    {
       "name": "Dageno AI 2.0",
       "desc": "See why AI recommends your competitors instead of you",
-      "votes": 375,
+      "votes": 378,
       "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/ad3802d6-94f8-4ddc-b7c7-e7377f816cf2.png?auto=format",
       "topics": [

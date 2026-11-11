@@ -4,98 +4,82 @@
     {
       "name": "meta/astryx",
       "desc": "An open source design system that's fully customizable and agent ready",
-      "stars": "22555",
-      "today": "3,111 stars today",
+      "stars": "24449",
+      "today": "2,842 stars today",
       "language": "TypeScript",
       "url": "https://github.com/meta/astryx"
     },
     {
-      "name": "anthropics/skills",
-      "desc": "Public repository for Agent Skills",
-      "stars": "192212",
-      "today": "1,676 stars today",
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": "69945",
+      "today": "429 stars today",
       "language": "Python",
-      "url": "https://github.com/anthropics/skills"
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "desc": "",
+      "stars": "1526",
+      "today": "133 stars today",
+      "language": "TypeScript",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "name": "shadcn/improve",
+      "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "stars": "10565",
+      "today": "333 stars today",
+      "language": "",
+      "url": "https://github.com/shadcn/improve"
     },
     {
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": "115080",
-      "today": "465 stars today",
+      "stars": "115674",
+      "today": "788 stars today",
       "language": "JavaScript",
       "url": "https://github.com/addyosmani/agent-skills"
     },
     {
-      "name": "anthropics/claude-quickstarts",
-      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "stars": "20443",
-      "today": "530 stars today",
-      "language": "Python",
-      "url": "https://github.com/anthropics/claude-quickstarts"
-    },
-    {
-      "name": "google-deepmind/mujoco",
-      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "stars": "17307",
-      "today": "453 stars today",
-      "language": "C++",
-      "url": "https://github.com/google-deepmind/mujoco"
+      "name": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "stars": "49682",
+      "today": "712 stars today",
+      "language": "Rust",
+      "url": "https://github.com/vercel-labs/agent-browser"
     },
     {
       "name": "we-promise/sure",
       "desc": "The personal finance app for everyone (by everyone)",
-      "stars": "11836",
-      "today": "184 stars today",
+      "stars": "12645",
+      "today": "1,079 stars today",
       "language": "Ruby",
       "url": "https://github.com/we-promise/sure"
     },
     {
       "name": "homeassistant-ai/ha-mcp",
       "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "stars": "6569",
-      "today": "792 stars today",
+      "stars": "7076",
+      "today": "640 stars today",
       "language": "Python",
       "url": "https://github.com/homeassistant-ai/ha-mcp"
     },
     {
-      "name": "vercel-labs/agent-browser",
-      "desc": "Browser automation CLI for AI agents",
-      "stars": "49137",
-      "today": "775 stars today",
-      "language": "Rust",
-      "url": "https://github.com/vercel-labs/agent-browser"
-    },
-    {
-      "name": "sherlock-project/sherlock",
-      "desc": "Hunt down social media accounts by username across social networks",
-      "stars": "108821",
-      "today": "2,387 stars today",
-      "language": "Python",
-      "url": "https://github.com/sherlock-project/sherlock"
-    },
-    {
-      "name": "tokio-rs/topcoat",
-      "desc": "A batteries-included framework for building web apps",
-      "stars": "6748",
-      "today": "192 stars today",
-      "language": "Rust",
-      "url": "https://github.com/tokio-rs/topcoat"
-    },
-    {
-      "name": "ranxianglei/billion-context",
-      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "stars": "6250",
-      "today": "374 stars today",
+      "name": "openai/codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": "11500",
+      "today": "20 stars today",
       "language": "TypeScript",
-      "url": "https://github.com/ranxianglei/billion-context"
+      "url": "https://github.com/openai/codex-security"
     },
     {
-      "name": "mattpocock/skills",
-      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": "320807",
-      "today": "1,223 stars today",
-      "language": "Shell",
-      "url": "https://github.com/mattpocock/skills"
+      "name": "TheAlgorithms/Java",
+      "desc": "All Algorithms implemented in Java",
+      "stars": "66914",
+      "today": "39 stars today",
+      "language": "Java",
+      "url": "https://github.com/TheAlgorithms/Java"
     }
   ]
 }
