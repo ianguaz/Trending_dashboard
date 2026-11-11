@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
       "name": "Pancake",
@@ -16,7 +16,7 @@
     {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 533,
+      "votes": 534,
       "url": "https://www.producthunt.com/products/dev-null/launches/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Wanaka Studio",
       "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 492,
+      "votes": 493,
       "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Empacer",
       "desc": " The voice-first assistant for small and medium businesses",
-      "votes": 484,
+      "votes": 486,
       "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "Alsona",
       "desc": "AI agents that turn buying signals into booked sales calls",
-      "votes": 475,
+      "votes": 485,
       "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
       "topics": [
@@ -112,7 +112,7 @@
     {
       "name": "Scalekit",
       "desc": "MCP gateway for production agents that acts on your behalf",
-      "votes": 430,
+      "votes": 429,
       "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
       "topics": [
@@ -147,7 +147,7 @@
     {
       "name": "Tobira Site Agent",
       "desc": "Turn your website into an AI agent that sells to AI agents",
-      "votes": 399,
+      "votes": 400,
       "url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfffedd6-2cb9-41bc-bee6-ad9f9b44c486.gif?auto=format",
       "topics": [
@@ -195,25 +195,13 @@
     {
       "name": "Inbox Zero",
       "desc": "Open-source Superhuman alternative",
-      "votes": 391,
+      "votes": 390,
       "url": "https://www.producthunt.com/products/inbox-zero-2/launches/inbox-zero-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
       "topics": [
         "Email",
         "Open Source",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Teamily AI",
-      "desc": "Your personal agent, agent teams & people in one messenger",
-      "votes": 387,
-      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
-      "topics": [
-        "Productivity",
-        "Artificial Intelligence",
-        "Social Networking"
       ]
     },
     {
@@ -226,6 +214,18 @@
         "Messaging",
         "Artificial Intelligence",
         "Bots"
+      ]
+    },
+    {
+      "name": "Teamily AI",
+      "desc": "Your personal agent, agent teams & people in one messenger",
+      "votes": 387,
+      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/74a5d73a-76f1-40de-aa9c-900ab49843c5.png?auto=format",
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "Social Networking"
       ]
     },
     {
