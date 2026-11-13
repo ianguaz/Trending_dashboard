@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "items": [
     {
       "name": "alibaba/open-code-review",
       "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": "50318",
+      "stars": "50534",
       "today": "206 stars today",
       "language": "Go",
       "url": "https://github.com/alibaba/open-code-review"
@@ -12,7 +12,7 @@
     {
       "name": "GoogleChrome/modern-web-guidance-src",
       "desc": "Keep your coding agent up to date with the latest web best practices",
-      "stars": "4405",
+      "stars": "4700",
       "today": "1,875 stars today",
       "language": "TypeScript",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
@@ -20,7 +20,7 @@
     {
       "name": "openai/codex-security",
       "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "stars": "12919",
+      "stars": "13073",
       "today": "754 stars today",
       "language": "TypeScript",
       "url": "https://github.com/openai/codex-security"
@@ -28,7 +28,7 @@
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": "71373",
+      "stars": "71520",
       "today": "272 stars today",
       "language": "Python",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
@@ -36,7 +36,7 @@
     {
       "name": "we-promise/sure",
       "desc": "The personal finance app for everyone (by everyone)",
-      "stars": "14477",
+      "stars": "14665",
       "today": "944 stars today",
       "language": "Ruby",
       "url": "https://github.com/we-promise/sure"
@@ -44,7 +44,7 @@
     {
       "name": "backnotprop/plannotator",
       "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "stars": "10326",
+      "stars": "10400",
       "today": "100 stars today",
       "language": "TypeScript",
       "url": "https://github.com/backnotprop/plannotator"
@@ -52,7 +52,7 @@
     {
       "name": "louislam/uptime-kuma",
       "desc": "A fancy self-hosted monitoring tool",
-      "stars": "93700",
+      "stars": "93808",
       "today": "61 stars today",
       "language": "JavaScript",
       "url": "https://github.com/louislam/uptime-kuma"
@@ -60,7 +60,7 @@
     {
       "name": "block/buzz",
       "desc": "A hive mind communication platform",
-      "stars": "37206",
+      "stars": "37276",
       "today": "95 stars today",
       "language": "Rust",
       "url": "https://github.com/block/buzz"
@@ -68,7 +68,7 @@
     {
       "name": "tradermonty/claude-trading-skills",
       "desc": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "stars": "3969",
+      "stars": "4110",
       "today": "60 stars today",
       "language": "Python",
       "url": "https://github.com/tradermonty/claude-trading-skills"
@@ -76,15 +76,15 @@
     {
       "name": "tailscale/tailcat",
       "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "stars": "9287",
-      "today": "173 stars today",
+      "stars": "9402",
+      "today": "324 stars today",
       "language": "Go",
       "url": "https://github.com/tailscale/tailcat"
     },
     {
       "name": "Likely7/Veyra-NRVideo",
       "desc": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
-      "stars": "1488",
+      "stars": "1583",
       "today": "245 stars today",
       "language": "C++",
       "url": "https://github.com/Likely7/Veyra-NRVideo"
@@ -92,7 +92,7 @@
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "desc": "Chrome DevTools for coding agents",
-      "stars": "55295",
+      "stars": "55414",
       "today": "145 stars today",
       "language": "TypeScript",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
