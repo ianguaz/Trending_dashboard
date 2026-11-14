@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 536,
+      "votes": 538,
       "url": "https://www.producthunt.com/products/dev-null/launches/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "beacon.sh",
       "desc": "Open-source self-improving memory for AI coding agents",
-      "votes": 514,
+      "votes": 516,
       "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Alsona",
       "desc": "AI agents that turn buying signals into booked sales calls",
-      "votes": 507,
+      "votes": 510,
       "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
       "topics": [
@@ -40,7 +40,7 @@
     {
       "name": "Wanaka Studio",
       "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 494,
+      "votes": 495,
       "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Empacer",
       "desc": " The voice-first assistant for small and medium businesses",
-      "votes": 486,
+      "votes": 487,
       "url": "https://www.producthunt.com/products/empacer/launches/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -100,7 +100,7 @@
     {
       "name": "Scalekit",
       "desc": "MCP gateway for production agents that acts on your behalf",
-      "votes": 434,
+      "votes": 437,
       "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
       "topics": [
@@ -147,7 +147,7 @@
     {
       "name": "Tobira Site Agent",
       "desc": "Turn your website into an AI agent that sells to AI agents",
-      "votes": 400,
+      "votes": 401,
       "url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfffedd6-2cb9-41bc-bee6-ad9f9b44c486.gif?auto=format",
       "topics": [
@@ -205,6 +205,18 @@
       ]
     },
     {
+      "name": "Templify AI",
+      "desc": "Powerful content editor for people who aren’t editors",
+      "votes": 388,
+      "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/f7f2b7ba-fb0c-470e-a340-ceb4a7cb593e.png?auto=format",
+      "topics": [
+        "Social Media",
+        "Photography",
+        "Photo & Video"
+      ]
+    },
+    {
       "name": "Claude Duet",
       "desc": "Proactive agent that understands what needs your attention",
       "votes": 388,
@@ -226,18 +238,6 @@
         "Productivity",
         "Artificial Intelligence",
         "Social Networking"
-      ]
-    },
-    {
-      "name": "Dageno AI 2.0",
-      "desc": "See why AI recommends your competitors instead of you",
-      "votes": 381,
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/ad3802d6-94f8-4ddc-b7c7-e7377f816cf2.png?auto=format",
-      "topics": [
-        "Marketing",
-        "SEO",
-        "Search"
       ]
     }
   ]
