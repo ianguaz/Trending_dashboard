@@ -2,21 +2,9 @@
   "date": "2026-11-14",
   "items": [
     {
-      "name": "Pancake",
-      "desc": "The Vercel for GTM",
-      "votes": 609,
-      "url": "https://www.producthunt.com/products/pancake-6/launches/pancake-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format",
-      "topics": [
-        "Sales",
-        "Marketing",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "/dev/null",
       "desc": "a social network for devs",
-      "votes": 535,
+      "votes": 536,
       "url": "https://www.producthunt.com/products/dev-null/launches/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format",
       "topics": [
@@ -28,7 +16,7 @@
     {
       "name": "beacon.sh",
       "desc": "Open-source self-improving memory for AI coding agents",
-      "votes": 513,
+      "votes": 514,
       "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
       "topics": [
@@ -40,7 +28,7 @@
     {
       "name": "Alsona",
       "desc": "AI agents that turn buying signals into booked sales calls",
-      "votes": 504,
+      "votes": 507,
       "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
       "topics": [
@@ -52,7 +40,7 @@
     {
       "name": "Wanaka Studio",
       "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 495,
+      "votes": 494,
       "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
       "topics": [
@@ -64,7 +52,7 @@
     {
       "name": "Empacer",
       "desc": " The voice-first assistant for small and medium businesses",
-      "votes": 487,
+      "votes": 486,
       "url": "https://www.producthunt.com/products/empacer/launches/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -76,7 +64,7 @@
     {
       "name": "Screen Studio 4.0",
       "desc": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
-      "votes": 475,
+      "votes": 474,
       "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c77fb016-3dbe-4723-96df-de1790db78be.png?auto=format",
       "topics": [
@@ -88,7 +76,7 @@
     {
       "name": "Product Hunt Visual Launch Editor",
       "desc": "See your launch as you build it",
-      "votes": 465,
+      "votes": 466,
       "url": "https://www.producthunt.com/products/producthunt/launches/product-hunt-visual-launch-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -112,7 +100,7 @@
     {
       "name": "Scalekit",
       "desc": "MCP gateway for production agents that acts on your behalf",
-      "votes": 435,
+      "votes": 434,
       "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
       "topics": [
@@ -135,7 +123,7 @@
     {
       "name": "Plurai Simulation",
       "desc": "A simulated world that makes your agent improve on every run",
-      "votes": 408,
+      "votes": 409,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -147,7 +135,7 @@
     {
       "name": "Glasshand",
       "desc": "Give your agent a real iPhone and Mac",
-      "votes": 403,
+      "votes": 401,
       "url": "https://www.producthunt.com/products/glasshand?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4ba278c5-6784-4b41-b572-91f3ce348422.png?auto=format",
       "topics": [
@@ -195,7 +183,7 @@
     {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
-      "votes": 392,
+      "votes": 393,
       "url": "https://www.producthunt.com/products/theysaid/launches/theysaid-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
       "topics": [
@@ -238,6 +226,18 @@
         "Productivity",
         "Artificial Intelligence",
         "Social Networking"
+      ]
+    },
+    {
+      "name": "Dageno AI 2.0",
+      "desc": "See why AI recommends your competitors instead of you",
+      "votes": 381,
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/ad3802d6-94f8-4ddc-b7c7-e7377f816cf2.png?auto=format",
+      "topics": [
+        "Marketing",
+        "SEO",
+        "Search"
       ]
     }
   ]
