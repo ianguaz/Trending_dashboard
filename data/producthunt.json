@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
     {
       "name": "/dev/null",
@@ -11,6 +11,18 @@
         "Open Source",
         "Social Network",
         "Software Engineering"
+      ]
+    },
+    {
+      "name": "Alsona",
+      "desc": "AI agents that turn buying signals into booked sales calls",
+      "votes": 518,
+      "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
+      "topics": [
+        "Sales",
+        "SaaS",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -26,21 +38,9 @@
       ]
     },
     {
-      "name": "Alsona",
-      "desc": "AI agents that turn buying signals into booked sales calls",
-      "votes": 511,
-      "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
-      "topics": [
-        "Sales",
-        "SaaS",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Wanaka Studio",
       "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 495,
+      "votes": 496,
       "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Product Hunt Visual Launch Editor",
       "desc": "See your launch as you build it",
-      "votes": 466,
+      "votes": 467,
       "url": "https://www.producthunt.com/products/producthunt/launches/product-hunt-visual-launch-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Product Hunt MCP",
       "desc": "The community you trust in the assistant you use",
-      "votes": 443,
+      "votes": 444,
       "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/4c5f80d7-e0ac-4e64-8960-164b95981148/72d50bc68623fd59e0ad381b8b3ccea25c438c79e354767eb52eb8371473bc25.jpeg?auto=format",
       "topics": [
@@ -111,7 +111,7 @@
     {
       "name": "Plurai Simulation",
       "desc": "A simulated world that makes your agent improve on every run",
-      "votes": 416,
+      "votes": 418,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -123,7 +123,7 @@
     {
       "name": "Vaani Developer Platform",
       "desc": "The only voice AI harness that you'll ever need",
-      "votes": 404,
+      "votes": 405,
       "url": "https://www.producthunt.com/products/vaani-developer-platfrom/launches/vaani-developer-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c1bb5c3c-40d1-4135-8473-ee14a1698b62.png?auto=format",
       "topics": [
@@ -157,6 +157,18 @@
       ]
     },
     {
+      "name": "Templify AI",
+      "desc": "Powerful content editor for people who aren’t editors",
+      "votes": 395,
+      "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/4996300d-d205-4910-af18-dc367d1ef079.webp?auto=format",
+      "topics": [
+        "Social Media",
+        "Photography",
+        "Photo & Video"
+      ]
+    },
+    {
       "name": "Beam.win",
       "desc": "Run AI agents on one Mac and use its windows on another",
       "votes": 395,
@@ -165,6 +177,18 @@
       "topics": [
         "Productivity",
         "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Inbox Zero",
+      "desc": "Open-source Superhuman alternative",
+      "votes": 394,
+      "url": "https://www.producthunt.com/products/inbox-zero-2/launches/inbox-zero-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
+      "topics": [
+        "Email",
+        "Open Source",
         "Artificial Intelligence"
       ]
     },
@@ -181,33 +205,9 @@
       ]
     },
     {
-      "name": "Templify AI",
-      "desc": "Powerful content editor for people who aren’t editors",
-      "votes": 393,
-      "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/4996300d-d205-4910-af18-dc367d1ef079.webp?auto=format",
-      "topics": [
-        "Social Media",
-        "Photography",
-        "Photo & Video"
-      ]
-    },
-    {
-      "name": "Inbox Zero",
-      "desc": "Open-source Superhuman alternative",
-      "votes": 390,
-      "url": "https://www.producthunt.com/products/inbox-zero-2/launches/inbox-zero-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/96996a48-1d05-47a6-8ceb-ecb1ec25cf62.png?auto=format",
-      "topics": [
-        "Email",
-        "Open Source",
-        "Artificial Intelligence"
-      ]
-    },
-    {
       "name": "Claude Duet",
       "desc": "Proactive agent that understands what needs your attention",
-      "votes": 388,
+      "votes": 387,
       "url": "https://www.producthunt.com/products/claude/launches/claude-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
       "topics": [
