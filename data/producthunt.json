@@ -4,7 +4,7 @@
     {
       "name": "Alsona",
       "desc": "AI agents that turn buying signals into booked sales calls",
-      "votes": 547,
+      "votes": 549,
       "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
       "topics": [
@@ -16,7 +16,7 @@
     {
       "name": "beacon.sh",
       "desc": "Open-source self-improving memory for AI coding agents",
-      "votes": 523,
+      "votes": 522,
       "url": "https://www.producthunt.com/products/asymptotelabs/launches/beacon-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6d868f52-320c-40d2-b20d-ce28773f8ff5.png?auto=format",
       "topics": [
@@ -28,7 +28,7 @@
     {
       "name": "Wanaka Studio",
       "desc": "Make and publish 3D games with the first AI game engine",
-      "votes": 501,
+      "votes": 500,
       "url": "https://www.producthunt.com/products/wanaka-studio/launches/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e046f162-a71f-463b-a770-e756983a9403.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "RankSpot",
       "desc": "Pay-as-you-go SEO and AI Search execution layer for agents",
-      "votes": 467,
+      "votes": 468,
       "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7debbc6a-20c7-4604-b33a-2da89b48ba2f.png?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Product Hunt MCP",
       "desc": "The community you trust in the assistant you use",
-      "votes": 465,
+      "votes": 466,
       "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/4c5f80d7-e0ac-4e64-8960-164b95981148/72d50bc68623fd59e0ad381b8b3ccea25c438c79e354767eb52eb8371473bc25.jpeg?auto=format",
       "topics": [
@@ -109,21 +109,9 @@
       ]
     },
     {
-      "name": "TheBold",
-      "desc": "Turn execution into meetings with investors",
-      "votes": 435,
-      "url": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/6b79eba9-0b76-4326-8bd8-5465bca28056.png?auto=format",
-      "topics": [
-        "Venture Capital",
-        "Social Networking",
-        "Fundraising"
-      ]
-    },
-    {
       "name": "Creatify Max",
       "desc": "Your ad teammate, from strategy to creation to launch",
-      "votes": 433,
+      "votes": 436,
       "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f9452cac-f193-46bb-847a-91f1fd650628.vnd.microsoft.icon?auto=format",
       "topics": [
@@ -133,9 +121,21 @@
       ]
     },
     {
+      "name": "TheBold",
+      "desc": "Turn execution into meetings with investors",
+      "votes": 436,
+      "url": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/6b79eba9-0b76-4326-8bd8-5465bca28056.png?auto=format",
+      "topics": [
+        "Venture Capital",
+        "Social Networking",
+        "Fundraising"
+      ]
+    },
+    {
       "name": "Plurai Simulation",
       "desc": "A simulated world that makes your agent improve on every run",
-      "votes": 431,
+      "votes": 430,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -157,6 +157,18 @@
       ]
     },
     {
+      "name": "Rakazo",
+      "desc": "The open source Grok Bot alternative you actually own",
+      "votes": 414,
+      "url": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/e55287d1-9b0f-4ac1-999b-f88b64bd0f28.png?auto=format",
+      "topics": [
+        "Android",
+        "Productivity",
+        "Open Source"
+      ]
+    },
+    {
       "name": "Tobira Site Agent",
       "desc": "Turn your website into an AI agent that sells to AI agents",
       "votes": 412,
@@ -166,18 +178,6 @@
         "Sales",
         "Customer Communication",
         "Artificial Intelligence"
-      ]
-    },
-    {
-      "name": "Rakazo",
-      "desc": "The open source Grok Bot alternative you actually own",
-      "votes": 412,
-      "url": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/e55287d1-9b0f-4ac1-999b-f88b64bd0f28.png?auto=format",
-      "topics": [
-        "Android",
-        "Productivity",
-        "Open Source"
       ]
     },
     {
@@ -207,25 +207,13 @@
     {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
-      "votes": 394,
+      "votes": 395,
       "url": "https://www.producthunt.com/products/theysaid/launches/theysaid-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
       "topics": [
         "User Experience",
         "Artificial Intelligence",
         "UX Design"
-      ]
-    },
-    {
-      "name": "Claude Duet",
-      "desc": "Proactive agent that understands what needs your attention",
-      "votes": 391,
-      "url": "https://www.producthunt.com/products/claude/launches/claude-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format",
-      "topics": [
-        "Messaging",
-        "Artificial Intelligence",
-        "Bots"
       ]
     },
     {
@@ -238,6 +226,18 @@
         "Productivity",
         "Artificial Intelligence",
         "Social Networking"
+      ]
+    },
+    {
+      "name": "Dageno AI 2.0",
+      "desc": "See why AI recommends your competitors instead of you",
+      "votes": 388,
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/ad3802d6-94f8-4ddc-b7c7-e7377f816cf2.png?auto=format",
+      "topics": [
+        "Marketing",
+        "SEO",
+        "Search"
       ]
     }
   ]
