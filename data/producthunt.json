@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
       "name": "Alsona",
       "desc": "AI agents that turn buying signals into booked sales calls",
-      "votes": 549,
+      "votes": 550,
       "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
       "topics": [
@@ -74,18 +74,6 @@
       ]
     },
     {
-      "name": "Product Hunt Visual Launch Editor",
-      "desc": "See your launch as you build it",
-      "votes": 466,
-      "url": "https://www.producthunt.com/products/producthunt/launches/product-hunt-visual-launch-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
-      "topics": [
-        "Product Hunt",
-        "Maker Tools",
-        "Community"
-      ]
-    },
-    {
       "name": "Product Hunt MCP",
       "desc": "The community you trust in the assistant you use",
       "votes": 466,
@@ -95,6 +83,18 @@
         "Productivity",
         "Developer Tools",
         "Artificial Intelligence"
+      ]
+    },
+    {
+      "name": "Product Hunt Visual Launch Editor",
+      "desc": "See your launch as you build it",
+      "votes": 466,
+      "url": "https://www.producthunt.com/products/producthunt/launches/product-hunt-visual-launch-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format",
+      "topics": [
+        "Product Hunt",
+        "Maker Tools",
+        "Community"
       ]
     },
     {
@@ -135,7 +135,7 @@
     {
       "name": "Plurai Simulation",
       "desc": "A simulated world that makes your agent improve on every run",
-      "votes": 430,
+      "votes": 431,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -207,7 +207,7 @@
     {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
-      "votes": 395,
+      "votes": 394,
       "url": "https://www.producthunt.com/products/theysaid/launches/theysaid-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
       "topics": [

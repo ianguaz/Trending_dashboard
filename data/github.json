@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
       "name": "elementalsouls/Claude-BugHunter",
       "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "stars": "17143",
+      "stars": "17568",
       "today": "1,721 stars today",
       "language": "Python",
       "url": "https://github.com/elementalsouls/Claude-BugHunter"
@@ -12,7 +12,7 @@
     {
       "name": "obra/superpowers",
       "desc": "An agentic skills framework & software development methodology that works.",
-      "stars": "323934",
+      "stars": "324079",
       "today": "785 stars today",
       "language": "Shell",
       "url": "https://github.com/obra/superpowers"
@@ -20,7 +20,7 @@
     {
       "name": "HKUDS/CLI-Anything",
       "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": "62561",
+      "stars": "62701",
       "today": "687 stars today",
       "language": "Python",
       "url": "https://github.com/HKUDS/CLI-Anything"
@@ -28,7 +28,7 @@
     {
       "name": "jingyaogong/minimind",
       "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "stars": "68490",
+      "stars": "68598",
       "today": "473 stars today",
       "language": "Python",
       "url": "https://github.com/jingyaogong/minimind"
@@ -36,7 +36,7 @@
     {
       "name": "cursor/plugins",
       "desc": "Cursor plugin specification and official plugins",
-      "stars": "18326",
+      "stars": "18405",
       "today": "301 stars today",
       "language": "TypeScript",
       "url": "https://github.com/cursor/plugins"
@@ -44,7 +44,7 @@
     {
       "name": "firecrawl/firecrawl",
       "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "stars": "206726",
+      "stars": "206927",
       "today": "910 stars today",
       "language": "TypeScript",
       "url": "https://github.com/firecrawl/firecrawl"
@@ -52,7 +52,7 @@
     {
       "name": "nginx/nginx",
       "desc": "The official NGINX Open Source repository.",
-      "stars": "32834",
+      "stars": "32867",
       "today": "168 stars today",
       "language": "C",
       "url": "https://github.com/nginx/nginx"
@@ -60,7 +60,7 @@
     {
       "name": "openvinotoolkit/openvino",
       "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "stars": "12042",
+      "stars": "12077",
       "today": "155 stars today",
       "language": "C++",
       "url": "https://github.com/openvinotoolkit/openvino"
@@ -68,7 +68,7 @@
     {
       "name": "cathrynlavery/diagram-design",
       "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": "70137",
+      "stars": "70239",
       "today": "513 stars today",
       "language": "HTML",
       "url": "https://github.com/cathrynlavery/diagram-design"
@@ -76,7 +76,7 @@
     {
       "name": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": "72512",
+      "stars": "72633",
       "today": "673 stars today",
       "language": "Python",
       "url": "https://github.com/mvanhorn/last30days-skill"
@@ -84,7 +84,7 @@
     {
       "name": "google-labs-code/stitch-skills",
       "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "stars": "11794",
+      "stars": "11865",
       "today": "516 stars today",
       "language": "TypeScript",
       "url": "https://github.com/google-labs-code/stitch-skills"
@@ -92,7 +92,7 @@
     {
       "name": "mjmirza/app-store-compliance",
       "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "stars": "3771",
+      "stars": "3906",
       "today": "617 stars today",
       "language": "Shell",
       "url": "https://github.com/mjmirza/app-store-compliance"
@@ -100,7 +100,7 @@
     {
       "name": "Tracer-Cloud/opensre",
       "desc": "The open-source agent for CI/CD reliability.",
-      "stars": "14258",
+      "stars": "14359",
       "today": "395 stars today",
       "language": "Python",
       "url": "https://github.com/Tracer-Cloud/opensre"
@@ -108,7 +108,7 @@
     {
       "name": "toeverything/AFFiNE",
       "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "stars": "76633",
+      "stars": "76764",
       "today": "537 stars today",
       "language": "TypeScript",
       "url": "https://github.com/toeverything/AFFiNE"
@@ -116,7 +116,7 @@
     {
       "name": "XiaoYouChR/Ghost-Downloader-3",
       "desc": "The only downloader you need. 下载器的集大成者。",
-      "stars": "14910",
+      "stars": "15050",
       "today": "690 stars today",
       "language": "Python",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
@@ -124,7 +124,7 @@
     {
       "name": "zhouxiaoka/autoclip",
       "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "stars": "13268",
+      "stars": "13375",
       "today": "640 stars today",
       "language": "Python",
       "url": "https://github.com/zhouxiaoka/autoclip"
