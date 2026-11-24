@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "items": [
     {
       "name": "Alsona",
       "desc": "AI agents that turn buying signals into booked sales calls",
-      "votes": 554,
-      "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "votes": 555,
+      "url": "https://www.producthunt.com/products/alsona/launches/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c50aa249-8163-486f-84a1-9aaa96b4ec95.png?auto=format",
       "topics": [
         "Sales",
@@ -40,7 +40,7 @@
     {
       "name": "Empacer",
       "desc": " The voice-first assistant for small and medium businesses",
-      "votes": 488,
+      "votes": 490,
       "url": "https://www.producthunt.com/products/empacer/launches/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2fc66d97-4286-42ab-938c-8ef45ec6edb3.png?auto=format",
       "topics": [
@@ -52,7 +52,7 @@
     {
       "name": "Screen Studio 4.0",
       "desc": "Glass Loupe, Camera Cutout, Edit by Transcript, and more",
-      "votes": 475,
+      "votes": 476,
       "url": "https://www.producthunt.com/products/screen-studio/launches/screen-studio-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/c77fb016-3dbe-4723-96df-de1790db78be.png?auto=format",
       "topics": [
@@ -64,7 +64,7 @@
     {
       "name": "RankSpot",
       "desc": "Pay-as-you-go SEO and AI Search execution layer for agents",
-      "votes": 469,
+      "votes": 471,
       "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/7debbc6a-20c7-4604-b33a-2da89b48ba2f.png?auto=format",
       "topics": [
@@ -76,7 +76,7 @@
     {
       "name": "Product Hunt MCP",
       "desc": "The community you trust in the assistant you use",
-      "votes": 467,
+      "votes": 468,
       "url": "https://www.producthunt.com/products/producthunt/launches/product-hunt-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/4c5f80d7-e0ac-4e64-8960-164b95981148/72d50bc68623fd59e0ad381b8b3ccea25c438c79e354767eb52eb8371473bc25.jpeg?auto=format",
       "topics": [
@@ -88,7 +88,7 @@
     {
       "name": "Scalekit",
       "desc": "MCP gateway for production agents that acts on your behalf",
-      "votes": 445,
+      "votes": 446,
       "url": "https://www.producthunt.com/products/scalekit/launches/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/a147b63d-f8dd-4b84-9883-81e2a138d0f7.png?auto=format",
       "topics": [
@@ -99,7 +99,7 @@
     {
       "name": "TheBold",
       "desc": "Turn execution into meetings with investors",
-      "votes": 437,
+      "votes": 439,
       "url": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/6b79eba9-0b76-4326-8bd8-5465bca28056.png?auto=format",
       "topics": [
@@ -111,7 +111,7 @@
     {
       "name": "Creatify Max",
       "desc": "Your ad teammate, from strategy to creation to launch",
-      "votes": 436,
+      "votes": 437,
       "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/f9452cac-f193-46bb-847a-91f1fd650628.vnd.microsoft.icon?auto=format",
       "topics": [
@@ -123,7 +123,7 @@
     {
       "name": "Plurai Simulation",
       "desc": "A simulated world that makes your agent improve on every run",
-      "votes": 432,
+      "votes": 433,
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png?auto=format",
       "topics": [
@@ -135,7 +135,7 @@
     {
       "name": "Rakazo",
       "desc": "The open source Grok Bot alternative you actually own",
-      "votes": 417,
+      "votes": 419,
       "url": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/e55287d1-9b0f-4ac1-999b-f88b64bd0f28.png?auto=format",
       "topics": [
@@ -147,7 +147,7 @@
     {
       "name": "Templify AI",
       "desc": "Powerful content editor for people who aren’t editors",
-      "votes": 417,
+      "votes": 418,
       "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/4996300d-d205-4910-af18-dc367d1ef079.webp?auto=format",
       "topics": [
@@ -159,7 +159,7 @@
     {
       "name": "Tobira Site Agent",
       "desc": "Turn your website into an AI agent that sells to AI agents",
-      "votes": 412,
+      "votes": 416,
       "url": "https://www.producthunt.com/products/tobira-ai/launches/tobira-site-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/cfffedd6-2cb9-41bc-bee6-ad9f9b44c486.gif?auto=format",
       "topics": [
@@ -193,9 +193,20 @@
       ]
     },
     {
+      "name": "Letter Visitors",
+      "desc": "See website visitors on your website itself",
+      "votes": 403,
+      "url": "https://www.producthunt.com/products/visitors?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
+      "thumbnail": "https://ph-files.imgix.net/launch-image-uploads/22ce08b5-2542-43b5-bfeb-c1f777286e02/e94d096ce934bfef672b2468f913403532378e63bbc47ba26cf1b0c8213fe657.gif?auto=format",
+      "topics": [
+        "Marketing",
+        "Developer Tools"
+      ]
+    },
+    {
       "name": "TheySaid 4.0",
       "desc": "See how users will react, right where you build.",
-      "votes": 394,
+      "votes": 395,
       "url": "https://www.producthunt.com/products/theysaid/launches/theysaid-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format",
       "topics": [
@@ -217,21 +228,9 @@
       ]
     },
     {
-      "name": "Dageno AI 2.0",
-      "desc": "See why AI recommends your competitors instead of you",
-      "votes": 388,
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno/launches/dageno-ai-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
-      "thumbnail": "https://ph-files.imgix.net/ad3802d6-94f8-4ddc-b7c7-e7377f816cf2.png?auto=format",
-      "topics": [
-        "Marketing",
-        "SEO",
-        "Search"
-      ]
-    },
-    {
       "name": "S.Space",
       "desc": "Your team and everyone's AI agents, in one workspace",
-      "votes": 387,
+      "votes": 389,
       "url": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Ian+%28ID%3A+278035%29",
       "thumbnail": "https://ph-files.imgix.net/2862be57-c51b-45fc-8618-6e62c9ca35cb.jpeg?auto=format",
       "topics": [
